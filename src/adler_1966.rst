@@ -6,11 +6,13 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 =============================================================
 
 :Author: Mortimer Adler
+:Publisher: Simon and Schuster
+:Address: 630, Fifth Avenue, New York, New York 10020
 :Date: 1966 (Original work published 1940)
 :Read: December 2013
+:Pages: 397
 :Abstract:
     This book is about how to read a book. Reading as a `complex skill`_.
-
 
 .. sectnum::
 .. contents::

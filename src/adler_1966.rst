@@ -12,18 +12,29 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 :Read: December 2013
 :Pages: 397
 :Abstract:
-    This book is about how to read a book. Reading as a `complex skill`_.
+    This book is divide into three parts.
+    
+    The `second part <The rules_>`_ begins with a discussion on reading as a
+    `complex skill`_, consisting of many simpler acts which must be mastered
+    before one can focus on simply reading. 
 
 .. sectnum::
+   :depth: 2
+
 .. contents::
+   :depth: 3
 
-##########################
+#######################
 The activity of reading
-##########################
+#######################
 
-************************
+.. contents::
+   :local:
+   :depth: 1
+
+*********************
 To the average reader
-************************
+*********************
 
 .. 3
 
@@ -60,39 +71,47 @@ Knowing how to read well was like any other art or skill.
 The reading of "reading"
 ***************************
 
-`16`
+.. 16
 
 **********************
 Reading is learning
 **********************
 
-`33`
+.. 33
 
 **************************
 Teachers, dead or alive
 **************************
 
-`48`
+.. 48
 
 ******************************
 "The defeat of the schools"
 ******************************
 
-`65`
+.. 65
 
 ***************
 On self-help
 ***************
 
-:page: `101`
+.. 101
 
-############
+#########
 The rules
-############
+#########
+
+.. contents::
+   :local:
+   :depth: 1
 
 *******************************
 From many rules to one habit
 *******************************
+
+Reading is either intrinsic_ or extrinsic_. Intrinsic reading consists of
+understanding_ and criticism_. Understanding_ consists of analysis and
+synthesis.
 
 .. 119
 
@@ -138,6 +157,8 @@ Learning plateau
 
 .. 123
 
+.. _understanding:
+
 Understanding
     To grasp what is being offered as knowledge
 
@@ -145,6 +166,8 @@ Understanding
 
     1. First, as a whole, having unity and a structure of parts
     2. Second, in terms of its elements, its units of language and thought
+
+.. _criticism:
 
 Criticism
     To judge whether what is being offered is really acceptable as knowledge
@@ -239,50 +262,208 @@ Here the reader judges the author, and decides whether he agrees or disagrees.
 
 .. 127
 
-    Not only must you read a book three ways (and at the beginning that may
-    mean three times), but you must also be able to read two or more books in
-    relation to one another in order to read any one of them well. 
+Rule 0: |rule 0|
+================
 
+If authors are agreeing or disagreeing, one cannot be assured one understands
+one of them unless they recognize such agreements and disagreements.
+
+This applies especially to the great books-- many of the great books are
+difficult to read because they are related and have been written in a certain
+order, such that reading earlier books may help understanding later books.
+
+*see* `chapter 14`_
+
+Intrinsic and Extrinsic Reading
+-------------------------------
+
+.. 129
+
+.. _intrinsic:
 .. _intrinsic_reading:
 
 Intrinsic reading
-    Reading a book in itself, quite apart from all other books.
+    Reading a book in itself, apart from all other books.
 
+.. _extrinsic:
 .. _extrinsic_reading:
 
 Extrinsic reading
     Reading a book in the light of other books.
 
-Other books may be only reference books, secondary books or other great books.
+    Other books may be only reference books, secondary books or other great books.
 
-The rules of intrinsic reading apply not only to reading a book but to take a course of lectures.
+    We may also necessarily use relevant experience as an extrinsic aid.
 
-A person who could read a whole book well could get more out of a course of lectures than most people do, in or out of college. Two two situations are largely the same, through following a series of lectures may call for a greater exercise of memory or note taking.
+Rules of extrinsic reading:
 
-    Not only are many of the great books related, but they have actually been written in a certain order which should not be ignored... Reading related books in relation to one another and in an order which renders the later ones more intelligble is a basic rule of extrinsic reading.
+1.  Read related books in relation to each other and in an order which renders
+    the later ones more intelligible
 
-    Lecture may be all right for those who are expert in receiving communication, but they are hard on the untrained.
-    Many people think that taking a course of lectures is a short cut to getting what they are not able to read in books. But it is not a shortcut to the same goal. In fact, they might as well be going int he opposite direction.
+.. 129
 
-----
+Rules of intrinsic reading:
+
+
+.. 129
+
+The rules of intrinsic reading also apply to lectures
+------------------------------------------------------
+
+The rules of intrinsic reading apply equally to reading a book and to taking
+a course of lectures.
+
+Lectures require more expertise from users to be profitable:
+
+-   Lectures require a greater exercise of memory or note taking than books
+-   Books may be reexamined
+
 
 .. 130
 
-These rules only apply to help read a whole book; they would be misused if applied mainly to excepts or small parts out of context.
+The rules only apply to reading a `whole` book, not to excerpts
+---------------------------------------------------------------
+
+The primary aim of these rules is to help you read a whole book; they would be
+misused if applied mainly to excepts or small parts out of context.
+
+One should not read small pieces spaced over time:
 
 - Excerpts are far too short for a sustained effort of reading.
-- The order in which excerpts are read make it impossible to grasp and real whole concept in itself or to understand one thing in relation to another.
+- The order in which excerpts are read make it impossible to grasp and real
+  whole concept in itself or to understand one thing in relation to another.
+
+
+.. 132
+
+The rules only apply to liberal arts, not fine arts
+---------------------------------------------------
+
+We distinguish between two large classes of books which different according to
+intention of the author as well as the satisfaction they afford readers:
+
+1.  Fine art
+        Art in which the artist aims to please or delight by making beautiful
+        things to be beheld
+
+        Roughly, poetry.
+
+        *focus* beauty, narrative writing
+
+2.  Liberal art
+        Art in which the artist aims to instruct by speaking the truth
+
+        Roughly, science.
+
+        *focus* truth, expository writing
+
+The problem of learning how to appreciate fine art is at least as difficult
+as the problem of learning how to appreciate liberal art. It is also radically
+different.
+
+.. 133
+
+Both kinds of reading have great works and non-great works.
+
+In both kinds of reading, only books which are better than we are require skill
+and activity in reading.
+
+.. 134
+
+Both kinds of reading are necessary for decent literacy.
+
+The best reader is one who possess both sorts of skill.
+
+The two arts of reading penetrate and support each other. We seldom do one
+sort of reading without having to do a little of the other at the same time.
+Books do not come as neat and pure packages of science or poetry.
+
+.. 134
+
+The greatest books most frequently combine these two basic dimensions of
+literature.
+
+*examples* Platonic dialogues, Dante's `The Divine Comedy`
+
+.. 135
+
+Books which treat of the appreciation or criticism of poetry are themselves
+scientific books:
+
+- Aristotle, `Poetics`
+- T.S. Eliot
+- I.A. Richards, `The Principles of Criticism`
+- I.A. Richards, `Practical Criticism`
+- Edgar Allan Poe, `Critical Essays` (especially `The Poetic Principle`)
+- Fr. Thomas Gilby, `The Poetic Experience`
+- William Empson, `Seven Types of Ambiguity`
+- Gordon Gerould, `How to Read Fiction`
+
+After reading this book we can read those and learn how to read the other way.
+
+.. 136
+
+In general, you will find the greatest help from those books which formulate
+the rules and exemplify them in practice by discussing literature
+appreciatively and critically.
+
+- Mark Van Doren, `Shakespeare`
+- Scott Buchanan, `Poetry and Mathematics`
+
 
 ----
 
-`132`
+.. 137
+
+One should satisfy one's purpose by going to a book written with a similar
+intention.
+
+The same book can be read in different ways and according to different
+purposes. The author may have had more than one intention, although Adler
+thinks one is always like to be primary and dictate the obvious character of
+the book.
+
+Whatever you do in the way of reading, you must know what you are doing
+and obey the rules for doing that sort of things. There is no error in reading
+a poem as if it were philosophy so long as you know which you are doing at
+a given time and how to do it well.
+
+.. 138
+
+There are two errors which must be avoided.
+
+1.  Purism
+        The error of supposing that a given book can be read in only one way.
+
+    It is an error because books are not pure in character, and that in turn
+    is due to the fact that the human mind, which writes or reads them, is
+    rooted in the senses and imagination and moves or is moved by emotion
+    and sentiment.
+
+2.  Obscurantism
+        The error of supposing that all books can be read in only one way.
+
+    There are two extremes:
+
+    1.  Of estheticism, which regards all books as if they were poetry
+    2.  Of intellectualism, which treats all books as if they were instructive
+
+
+.. 140
 
 **************************
 Catching on from the title
 **************************
 
-`140`
+Authors sometimes have mixed motives and they are subject to the failing of
+wanting to do too many things at once. If they are confused in their
+intentions, the reader cannot be blamed for not knowing how to follow them.
+We put these books aside. There are enough books which are perfectly clear
+in their intention and which, therefore, deserve a discriminating reading from
+us.
 
+
+.. 141
 .. _rule 1.1:
 
 Rule 1.1: |rule 1.1|
@@ -290,17 +471,262 @@ Rule 1.1: |rule 1.1|
 
 You must know what kind of (expository) book you are reading, and you should
 know this as early in the process as possible, preferably before you begin to
-read. (142)
+read.
+
+Everything is clear here except the last clause.
 
 Classify the book according to kind and subject matter (185)
+
+For the most part, people know the kind of book they are reading before they
+start. They picked it out to read because it was of that kind. This is
+certainly true of the main distinction in types of books.
+
+While a liberal books deal in knowledge, they are also different and to read
+them well we must read them in a manner appropriate to their differences.
+
+.. 143
+
+A book always has a front matter and an introduction.
+
+Front matter
+    The front matter consists of:
+
+    - the title
+    - the subtitle
+    - table of contents
+    - preface
+
+----
+
+.. 143
+
+The number of readers who pay no attention to the signals is larger than you
+might suspect, unless you happen to be one of those who are honest enough to
+admit it.
+
+Few students are unable to answer what sort of book a book they just read was.
+Sometimes they apologize by saying that they haven't finished reading it yet,
+and therefore do not know.
+
+One reason why front matter is ignored by readers is that they do not think it
+is important to classify the book they are reading.
+
+Obviously, the author thinks it is important for the reader to know the kind
+of books he is being given. That is why he goes to the trouble of making it
+plain in the preface, and usually tries to make his title more or less
+descriptive.
+
+.. 144
+
+Authors also construct an analytical table of contents to advise the reader in
+advance of the details of their treatment.
+
+If the reader never asks this question, he is going to get more perplexed and
+he may be unable to ask or answer a lot of other questions about the book.
+
+.. 145
+
+The clearest titles in the world, the most explicit front matter, will not
+helper you classify a book, even if you pay attention to these signs, unless
+you have the broad lines of classification already in mind.
+
+.. 146
+
+Titles sometimes make the grouping of books easy, but it is not always the
+case.
+
+To group books as being of the same kind is not enough, however. To follow
+the first rule of reading you must know what the kind is.
+
+The entire front matter will not tell you what kind unless you have some
+categories you can apply to classify books intelligently.
+
+This rule needs to be made a little more intelligible for you if you are to
+follow it intelligently. This can be done only by a brief discussion of the
+main kinds of expository books.
+
+.. 147
+
+We need a scheme of classification which groups books with an eye to the
+problems of reading, and not for the purpose of selling them or putting them
+on shelves.
+
+----
+
+Theoretical Books & Practical Books
+-----------------------------------
+
+.. _theoretical:
+
+Theoretical Book
+    A theoretical book concerns something to be seen or understood.
+
+    Some books and some teachers are interested only in the knowledge itself which
+    they have to communicate. This does not mean they deny its utility or, they
+    insist knowledge is good `only` for its own sake. They simply limit themselves
+    to one kind of teaching, and leave the other kind to other men.
+
+    Theoretical books focus on `knowledge`-- knowing `that`.
+
+.. _practical:
+
+Practical Book
+    A practical book has to do with what works in some way, at once or in the
+    long run.
+
+    Some books and teachers have an interest beyond knowledge for its own sake. They are
+    concerned with the problems of human life with knowledge can be used to solve.
+    They communicate knowledge, too, but always with an emphasis upon its
+    application.
+
+    Practical books focus on `action`-- knowing `how` to do something which
+    you think you `should`.
+
+    .. 149
+
+    Every practical book is somewhat oratorical.
+
+    .. 148
+
+    To make theoretical knowledge practical we must convert it into rules of
+    operation.
+
+    .. 149
+
+    **Identification**
+
+    By title:
+
+    - "the art of"
+    - "how to"
+    - containing names of fields which are practical
+
+    Any "guidebook" is a practical book.
+
+    Any book which tells you either what you `should` do or `how` to do
+    it is practical.
+
+    .. 149
+
+    Includes:
+    
+    - expositions of arts to be learned
+    - manuals of practice in any field, such as engineering or medicine or
+      cooking
+    - treatises which are conventionally classified as morals, such as book on
+      economic, ethical or political problems
+    - an oration -- a political speech or a moral exhortation
+    - anyone who writes practically about anything not only tries to advise
+      you but also tries to get you to follow his advice
+
+     By content:
+
+     - Frequent occurrence of such words as "should", "ought", "good", "bad",
+       "ends", "means", "better", "worse", "right", "wrong"
+
+
+.. 148
+
+Are we not dealing with books which convey knowledge? How can action come in?
+
+Intelligent action depends on knowledge.
+
+.. 148
+
+Knowledge can be used in many ways, not only for controlling nature and
+inventing useful machines but also for directing human conduct and regulating
+man's operations in various fields of skill. What I have in mind here is
+exemplified between pure and applied and science, or as it is sometimes
+inaccurately phrased, science and technology.
+
+:150
+
+Make your first effort to diagnose book from its title and the rest of the
+front matter.
+
+Note titles may be misleading. Books on practical subjects may be entirely
+theoretical.
+
+Some authors do not know the difference between theory and practice.
+
+Some books will be partly theoretical and partly practical.
+
+
+If that is insufficient, you will have to depend on signs to be found in the
+main body of the text.
+
+History, Science & Philosophy
+=============================
+
+.. 153
+
+See: Maritain's `Degrees of Knowledge`
+
+.. 152
+
+Here we distinguish (not define) between history, science, and philosophy.
+
+.. _history:
+
+History
+    History is knowledge of particular events or things which not only existed
+    in the past, but underwent a series of changes in the course of time.
+
+    The historian narrates these happenings and often colors his narrative
+    with some comment on, or insight into, the significance of the events.
+
+    *Identification*
+
+    Usually "history" is in the title or the front matter informs us that
+    this is a book about the past.
+
+.. _science:
+
+Science
+    Science treat of matters that can happen at any time or place.
+
+    Scientists seek laws or generalizations.
+
+    Scientists seek to find out how things happen for the most part or in
+    ever case.
+
+.. _philosophy:
+
+Philosophy
+    ?
+
+Science & Philosophy
+--------------------
+
+Distinguishing between science and philosophy can be difficult for a few
+reasons:
+
+-   The titles of science and philosophy are the name of the subject
+    matter that they deal with.
+-   Science and philosophy often claim the same subject.
+-   Science and philosophy seek general truths.
+
+Roughly, if a theoretic book refers to things which lie outside the scope
+of your normal, routine, daily experience, it is a scientific work. If not,
+it is philosophical.
+
+A philosopher refers to the reader to his own normal and common experience
+for the verification or support of anything he has to say. Science requires
+special experience.
+
+The distinction I have suggested is popularly recognized when we say that
+science is experimental or depends upon elaborate observational researches,
+whereas philosophy is really armchair thinking.
+
+
+.. 160
 
 *******************
 Seeing the skeleton
 *******************
 
-:page: 160
-
 `Talk on how fear of analysis destroying literature is unfounded.`
+
 
 .. _rule 1.2:
 
@@ -471,6 +897,8 @@ Rule 3.2.3: |rule 3.2.3|
 Rule 3.2.4: |rule 3.2.4|
 ------------------------
 
+.. _chapter 14:
+
 ************************
 And still more rules
 ************************
@@ -480,6 +908,10 @@ And still more rules
 ################################
 The rest of the reader's life
 ################################
+
+.. contents::
+   :local:
+   :depth: 1
 
 ******************
 The Other Half
@@ -590,6 +1022,12 @@ This is extremely interesting, because it means that along with speech acts, the
 Furthermore, it means that all those people who wish to be good writers and speakers are likely mistaken in their pursuit; it seems to me to make far more sense to pursue being a good reader and a good listener.
 
 .. The full list of rules is on 265 at the opening of Chapter 14
+
+.. (127)
+
+.. |rule 0| replace:: You must be able to read multiple related books in
+                      relation to one another in order to read any one of them
+                      well.
 
 .. |reading 1| replace:: The analysis of a book's structure
 

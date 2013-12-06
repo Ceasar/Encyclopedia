@@ -1068,9 +1068,9 @@ The goal of reading determines how you read. The goal of reading a romance novel
 .. |rule 3.2.4| replace:: Show wherein the author's analysis or account is
                           incomplete
 
-#####
-Index
-#####
+########
+Glossary
+########
 
 .. 119
 

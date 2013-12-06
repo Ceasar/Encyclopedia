@@ -1023,21 +1023,6 @@ These are thought of as levels because you can't move to a higher level without 
 The goal of reading determines how you read. The goal of reading a romance novel is different from reading the newspaper which is different from reading Plato.
 
 
-
-----
-
-French `explication de texte`
-
-Book report
-
-----
-
-> Reading is a complex activity, just as writing is. It consists of a large number of separate acts, all of which must be performed in a good reading. Hence, the mean who can perform more of these various acts is better able to read.
-
-This is extremely interesting, because it means that along with speech acts, there are listening acts.
-
-Furthermore, it means that all those people who wish to be good writers and speakers are likely mistaken in their pursuit; it seems to me to make far more sense to pursue being a good reader and a good listener.
-
 .. The full list of rules is on 265 at the opening of Chapter 14
 
 .. (127)

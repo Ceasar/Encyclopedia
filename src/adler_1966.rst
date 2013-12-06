@@ -132,6 +132,10 @@ From many rules to one habit
 Three ways of reading
 =====================
 
+.. contents::
+   :local:
+   :depth: 1
+
 .. 124
 
 A good book deserves three readings.
@@ -225,7 +229,13 @@ Here the reader judges the author, and decides whether he agrees or disagrees.
 
 .. At this point we have seen rules 1.1, 
 
-----
+Intrinsic reading & Extrinsic reading
+=====================================
+
+We distinguish between:
+
+#. `intrinsic reading`_
+#. `extrinsic reading`_
 
 .. 127
 
@@ -235,48 +245,31 @@ Rule 0:
 If authors are agreeing or disagreeing, one cannot be assured one understands
 one of them unless they recognize such agreements and disagreements.
 
-This applies especially to the great books-- many of the great books are
+This applies especially to the `great books`_-- many of them are
 difficult to read because they are related and have been written in a certain
 order, such that reading earlier books may help understanding later books.
 
 *see* `chapter 14`_
 
-Intrinsic reading & Extrinsic reading
-=====================================
-
-.. 129
-
-.. _intrinsic:
-.. _intrinsic_reading:
-
-Intrinsic reading
-    Reading a book in itself, apart from all other books.
-
-.. _extrinsic:
-.. _extrinsic_reading:
-
-Extrinsic reading
-    Reading a book in the light of other books.
-
-    Other books may be only reference books, secondary books or other great books.
-
-    We may also necessarily use relevant experience as an extrinsic aid.
-
-Rules of extrinsic reading:
+Rules of `extrinsic reading`_:
 
 1.  Read related books in relation to each other and in an order which renders
     the later ones more intelligible
 
 
-Criteria for rules of Intrinsic Reading
+Criteria for rules of intrinsic reading
 =======================================
+
+1. The rules of intrinsic reading also apply to lectures
+2. The rules only apply to reading a `whole` book, not to excerpts
+3. The rules only apply to liberal arts, not fine arts
 
 .. 129
 
 The rules of intrinsic reading also apply to lectures
 ------------------------------------------------------
 
-The rules of intrinsic reading apply equally to reading a book and to taking
+The rules of `intrinsic reading`_ apply equally to reading a book and to taking
 a course of lectures.
 
 Lectures require more expertise from users to be profitable:
@@ -299,121 +292,45 @@ One should not read small pieces spaced over time:
 - The order in which excerpts are read make it impossible to grasp and real
   whole concept in itself or to understand one thing in relation to another.
 
+.. TODO: This is extremely hazy and should be revised.
+
 
 .. 132
 
-The rules only apply to liberal arts, not fine arts
----------------------------------------------------
+Fine arts & Liberal arts
+========================
 
-We distinguish between two large classes of books which different according to
-intention of the author as well as the satisfaction they afford readers:
+We distinguish between two large classes of books: `fine art`_ and
+`liberal art`_ which differ on:
 
-Fine art
-    Art in which the artist aims to please or delight by making beautiful
-    things to be beheld
+1. Intention of the author
+2. The satisfaction its afford readers
 
-    Roughly, poetry.
-
-    *focus* beauty, narrative writing
-
-Liberal art
-    Art in which the artist aims to instruct by speaking the truth
-
-    Roughly, science.
-
-    *focus* truth, expository writing
-
-The problem of learning how to appreciate fine art is at least as difficult
-as the problem of learning how to appreciate liberal art. It is also radically
-different.
-
-.. 133
-
-Both kinds of reading have great works and non-great works.
-
-In both kinds of reading, only books which are better than we are require skill
-and activity in reading.
-
-.. 134
-
-Both kinds of reading are necessary for decent literacy.
-
-The best reader is one who possess both sorts of skill.
-
-The two arts of reading penetrate and support each other. We seldom do one
-sort of reading without having to do a little of the other at the same time.
-Books do not come as neat and pure packages of science or poetry.
-
-.. 134
-
-The greatest books most frequently combine these two basic dimensions of
-literature.
-
-*examples* Platonic dialogues, Dante's `The Divine Comedy`
+`Fine arts`_ and `liberal arts`_ require different `complex skills`_ to
+appreciate, and both are necessary for decent literacy. Few books fit neatly
+into either category, and many `great books`_ are intentionally not so. [#]_
 
 .. 135
 
-Books which treat of the appreciation or criticism of poetry are themselves
-scientific books:
-
-- Aristotle, `Poetics`
-- T.S. Eliot
-- I.A. Richards, `The Principles of Criticism`
-- I.A. Richards, `Practical Criticism`
-- Edgar Allan Poe, `Critical Essays` (especially `The Poetic Principle`)
-- Fr. Thomas Gilby, `The Poetic Experience`
-- William Empson, `Seven Types of Ambiguity`
-- Gordon Gerould, `How to Read Fiction`
-
-After reading this book we can read those and learn how to read the other way.
-
-.. 136
-
-In general, you will find the greatest help from those books which formulate
-the rules and exemplify them in practice by discussing literature
-appreciatively and critically.
-
-- Mark Van Doren, `Shakespeare`
-- Scott Buchanan, `Poetry and Mathematics`
-
-
-----
+Books which treat of the appreciation or criticism of `fine art`_ are themselves
+`liberal arts`_. [#]_ After reading this book you can read those and learn how
+to read the other way. In general, you will find the greatest help from those
+books which formulate the rules and exemplify them in practice. [#]_
 
 .. 137
 
+Read books with a purpose
+=========================
+
 One should satisfy one's purpose by going to a book written with a similar
-intention.
-
-The same book can be read in different ways and according to different
-purposes. The author may have had more than one intention, although Adler
-thinks one is always like to be primary and dictate the obvious character of
-the book.
-
-Whatever you do in the way of reading, you must know what you are doing
-and obey the rules for doing that sort of things. There is no error in reading
-a poem as if it were philosophy so long as you know which you are doing at
-a given time and how to do it well.
-
-.. 138
-
-There are two errors which must be avoided.
-
-1.  Purism
-        The error of supposing that a given book can be read in only one way.
-
-    It is an error because books are not pure in character, and that in turn
-    is due to the fact that the human mind, which writes or reads them, is
-    rooted in the senses and imagination and moves or is moved by emotion
-    and sentiment.
-
-2.  Obscurantism
-        The error of supposing that all books can be read in only one way.
-
-    There are two extremes:
-
-    1.  Of estheticism, which regards all books as if they were poetry
-    2.  Of intellectualism, which treats all books as if they were instructive
-
+intention, but know the same book can be read in different ways and according
+to different purposes (do not make the mistakes of `purism`_ or `obscurantism`_).
+The author may have had more than one intention, although one is likely to be
+primary and dictate the obvious character of the book. Whatever you do in the
+way of reading, you must know what you are doing and obey the rules for doing
+that sort of things. There is no error in reading a poem as if it were
+philosophy so long as you know which you are doing at a given time and how to
+do it well. 
 
 .. 140
 
@@ -646,7 +563,7 @@ History, Science & Philosophy
 
 .. 152
 
-Here we distinguish (not define) between history, science, and philosophy. [1]_
+Here we distinguish (not define) between history, science, and philosophy. [#]_
 
 .. _history:
 
@@ -671,6 +588,10 @@ Science
 
     Scientists seek to find out how things happen for the most part or in
     ever case.
+
+    The rules of extrinsic reading are more complicated in the case of scientific
+    books. You may actually have have to witness an experiment unless you can use
+    your imagination to construct something as you have never observed.
 
 .. _philosophy:
 
@@ -707,23 +628,6 @@ experience.
 
 The difference in method always reveals itself in philosophical and scientific
 books, and that is how you can tell which sorts of book you are reading.
-
-Extrinsic Reading
-=================
-
-Scientific books
------------------
-
-The rules of extrinsic reading are more complicated in the case of scientific
-books. You may actually have have to witness an experiment unless you can use
-your imagination to construct something as you have never observed.
-
-Philosophy
-----------
-
-Use common experience.
-
-
 
 .. 158
 
@@ -775,7 +679,8 @@ reason: you have not grasped a complex unity if all you know about it is how it 
 
 A good book, like a good house, is an orderly arrangement of parts.
 
-Great books are the most readable partly because they have the most intelligible structure, despite greater complexity.
+`Great books`_ are the most readable partly because they have the most
+intelligible structure, despite greater complexity.
 
 .. _rule 1.4:
 
@@ -1072,9 +977,27 @@ The goal of reading determines how you read. The goal of reading a romance novel
 Glossary
 ########
 
+.. _criticism:
+
+Criticism
+    To judge whether what is being offered is really acceptable as knowledge
+
+.. 132
+.. _fine art:
+.. _fine arts:
+
+Fine art
+    Art in which the artist aims to please or delight by making beautiful
+    things to be beheld
+
+    Roughly, poetry.
+
+    *focus* beauty, narrative writing
+
 .. 119
 
 .. _complex skill:
+.. _complex skills:
 
 Complex skill
     A skill which depends on many other simpler skills in order to be performed
@@ -1085,6 +1008,32 @@ Complex skill
     and unconsciously when we are expert.
 
     *example* tennis, driving a car, reading
+
+.. 129
+.. _extrinsic:
+.. _extrinsic reading:
+
+Extrinsic reading
+    Reading a book in the light of other books.
+
+    Other books may be only reference books, secondary books or other great books.
+
+    We may also necessarily use relevant experience as an extrinsic aid.
+
+.. _great book:
+.. _great books:
+.. _great work:
+.. _great works:
+
+Great work
+    pass
+
+.. 129
+.. _intrinsic:
+.. _intrinsic reading:
+
+Intrinsic reading
+    Reading a book in itself, apart from all other books.
 
 .. _learning_curve:
 
@@ -1114,6 +1063,37 @@ Learning plateau
     combination. (One cannot think about beating one's opponent in tennis
     until one can reliably return a ball.)
 
+.. 132
+.. _liberal art:
+.. _liberal arts:
+
+Liberal art
+    Art in which the artist aims to instruct by speaking the truth
+
+    Roughly, science.
+
+    *focus* truth, expository writing
+
+.. _obscurantism:
+
+Obscurantism
+    The error of supposing that all books can be read in only one way.
+
+    There are two extremes:
+
+    1.  Of estheticism, which regards all books as if they were poetry
+    2.  Of intellectualism, which treats all books as if they were instructive
+
+.. _purism:
+
+Purism
+    The error of supposing that a given book can be read in only one way.
+
+    It is an error because books are not pure in character, and that in turn
+    is due to the fact that the human mind, which writes or reads them, is
+    rooted in the senses and imagination and moves or is moved by emotion
+    and sentiment.
+
 .. 123
 .. _understanding:
 
@@ -1125,15 +1105,33 @@ Understanding
     1. First, as a whole, having unity and a structure of parts
     2. Second, in terms of its elements, its units of language and thought
 
-.. _criticism:
-
-Criticism
-    To judge whether what is being offered is really acceptable as knowledge
-
 #########
 Footnotes
 #########
 
 .. 153
 
-.. [1] See Maritain's `Degrees of Knowledge` for a more complete distinction.
+.. [#] See:
+
+       - The Platonic dialogues
+       - Dante's `The Divine Comedy`
+
+.. [#] See:
+
+       - Aristotle, `Poetics`
+       - T.S. Eliot
+       - I.A. Richards, `The Principles of Criticism`
+       - I.A. Richards, `Practical Criticism`
+       - Edgar Allan Poe, `Critical Essays` (especially `The Poetic Principle`)
+       - Fr. Thomas Gilby, `The Poetic Experience`
+       - William Empson, `Seven Types of Ambiguity`
+       - Gordon Gerould, `How to Read Fiction`
+
+.. [#] See:
+
+       - Mark Van Doren, `Shakespeare`
+       - Scott Buchanan, `Poetry and Mathematics`
+
+.. [#] See:
+
+       - Maritain's `Degrees of Knowledge`

@@ -188,6 +188,7 @@ Experiment 2
     process that does not require long-term listening and is enhanced by social
     interactions.
 
+
 General Discussion
 ==================
 
@@ -198,6 +199,37 @@ specific vocabulary items can be learned through exposure to television
 programs, the more complex aspects of language, such as phonetics and grammar,
 are not acquired from TV exposure.
 
+The authors suggest that the results of `experiment 2`_ can be explained due
+to social cues being critical. A live human being generates social cues that
+attract infant attention and motivate learning.
+
+This would be similar to zebra finches, which are known to require visual
+interaction with the tutor bird to learn. Additionally, if young zebra finches
+are blindfolded and cannot see the tutor but can interact through pecking and
+grooming, learning occurs. Moreover, young birds operantly conditioned to
+present conspecific song to themselves by pressing a key learn the song they
+hear, suggesting that active participation and the attention it requires may
+be important. Attention and motivation are likely to be key elements in
+communicative learning, not only in birds and other animals, but in humans as
+well.
+
+In the human case, the presence of a live person provides not only general
+social cues but also information that is referential in nature, e.g. gaze.
+
+It may also be that infants speech learning may occur preferentially for
+signals that derive from live humans rather from other sources. The combination
+would maximize the possibility that infant learning focuses on the appropriate
+signal: speech, rather than other noises.
+
+Further questions:
+
+- Are there limits on infant's abilities to learn the phonetic cues of
+  different languages? In the current experiment, infants readily acquired
+  phonetic information from a language they have never heard before, suggesting
+  that at least at this age, infants can learn from exposure to two distinct
+  languages.
+- Does short term exposure during a sensitive period for learning have lasting
+  effects? In the current experiment, it does so for a close to 2-week delay.
 
 
 Appendix

@@ -12,11 +12,7 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 :Read: December 2013
 :Pages: 397
 :Abstract:
-    This book is divide into three parts.
-    
-    The `second part <The rules_>`_ begins with a discussion on reading as a
-    `complex skill`_, consisting of many simpler acts which must be mastered
-    before one can focus on simply reading. 
+    ?
 
 .. sectnum::
    :depth: 2
@@ -24,9 +20,12 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 .. contents::
    :depth: 3
 
+
 #######################
 The activity of reading
 #######################
+
+:Abstract:
 
 .. contents::
    :local:
@@ -35,6 +34,12 @@ The activity of reading
 *********************
 To the average reader
 *********************
+
+:Abstract:
+
+.. contents::
+   :local:
+   :depth: 1
 
 .. 3
 
@@ -101,86 +106,44 @@ On self-help
 The rules
 #########
 
+:Abstract:
+
 .. contents::
    :local:
    :depth: 1
 
-*******************************
+****************************
 From many rules to one habit
-*******************************
+****************************
 
-Reading is either intrinsic_ or extrinsic_. Intrinsic reading consists of
-understanding_ and criticism_. Understanding_ consists of analysis and
-synthesis.
+:Abstract: 
+    Reading is a `complex skill`_.
 
-.. 119
-
-.. _complex skill:
-
-Complex skill
-    A skill which depends on many other simpler skills in order to be performed
-    effectively.
-
-    During the acquisition of a complex skill, each of its component skills
-    must be done separately and consciously, but they can be done together
-    and unconsciously when we are expert.
-
-    *example* tennis, driving a car, reading
-
-.. _learning_curve:
-
-Learning curve
-    A graphical representation of a person's skill versus their experience,
-    which is typically curved due to improvement in skill becoming harder as
-    experience increases.
-
-.. _learning_plateau:
-
-Learning plateau
-    A span of time in which a learner's skill remains constant despite
-    additional experienced.
+    Reading is either intrinsic_ or extrinsic_.
     
-    Learning plateaus are not found in all learning curves, but only in those
-    which record progress in gaining a `complex skill`_. The more complex the
-    skill, the more frequently learning plateaus appear.
+    Intrinsic reading consists of understanding_ and criticism_.
 
-    Learning goes on during learning plateaus, but it does not manifest as
-    an improvement in skill.
-    
-    One explanation is that during a learning plateau the learner combines
-    simple acts into a complex one, and only when he has mastered the complex
-    act does his skill visibly improve. Thus, in order to perform a complex act
-    (like reading or playing tennis) one needs to master each of its component 
-    acts (such that they become automatic), and then master them in
-    combination. (One cannot think about beating one's opponent in tennis
-    until one can reliably return a ball.)
+    Understanding_ consists of analysis and synthesis.
 
-.. 123
+.. contents::
+   :local:
+   :depth: 1
 
-.. _understanding:
-
-Understanding
-    To grasp what is being offered as knowledge
-
-    To understand some thing, one must approach it:
-
-    1. First, as a whole, having unity and a structure of parts
-    2. Second, in terms of its elements, its units of language and thought
-
-.. _criticism:
-
-Criticism
-    To judge whether what is being offered is really acceptable as knowledge
+Three ways of reading
+=====================
 
 .. 124
 
-Reading is a `complex skill`_.
-
 A good book deserves three readings.
 
-1. Analytic
-2. Synthetic
-3. Critical
+1.  Understanding_
+
+    1. Analytic Reading
+    2. Synthetic Reading
+
+2.  Critical
+
+    3. Critical Reading
 
 These three readings are not three in time, but three in manner: three ways of
 reading a book.
@@ -188,6 +151,9 @@ reading a book.
 The first two readings are reading for understanding. As a reader becomes
 expert, these may be performed simultaneously. The third is distinct, as a
 reader must understand an author before criticizing him.
+
+The first two readings and the third must be done somewhat separately;
+understanding the author must always precede criticizing or judging him.
 
 .. 126
 
@@ -211,7 +177,7 @@ reader must understand an author before criticizing him.
 .. _reading_analytic:
 
 Reading 1: |reading 1|
-======================
+----------------------
 
 Here the reader proceeds from the whole to its parts.
 
@@ -231,9 +197,10 @@ determine the general tenor his treatment and its major divisions.
 .. _reading 2:
 .. _reading interpretative:
 .. _reading synthetic:
+.. |reading 2| replace:: The interpretation of a book's contents
 
 Reading 2: |reading 2|
-======================
+----------------------
 
 Here the reader proceeds from the parts to the whole.
 
@@ -252,7 +219,7 @@ Rules for the second reading:
 .. _reading_evaluative:
 
 Reading 3: |reading 3|
-======================
+----------------------
 
 Here the reader judges the author, and decides whether he agrees or disagrees.
 
@@ -262,8 +229,8 @@ Here the reader judges the author, and decides whether he agrees or disagrees.
 
 .. 127
 
-Rule 0: |rule 0|
-================
+Rule 0:
+    |rule 0|
 
 If authors are agreeing or disagreeing, one cannot be assured one understands
 one of them unless they recognize such agreements and disagreements.
@@ -274,8 +241,8 @@ order, such that reading earlier books may help understanding later books.
 
 *see* `chapter 14`_
 
-Intrinsic and Extrinsic Reading
--------------------------------
+Intrinsic reading & Extrinsic reading
+=====================================
 
 .. 129
 
@@ -300,10 +267,9 @@ Rules of extrinsic reading:
 1.  Read related books in relation to each other and in an order which renders
     the later ones more intelligible
 
-.. 129
 
-Rules of intrinsic reading:
-
+Criteria for rules of Intrinsic Reading
+=======================================
 
 .. 129
 
@@ -342,20 +308,20 @@ The rules only apply to liberal arts, not fine arts
 We distinguish between two large classes of books which different according to
 intention of the author as well as the satisfaction they afford readers:
 
-1.  Fine art
-        Art in which the artist aims to please or delight by making beautiful
-        things to be beheld
+Fine art
+    Art in which the artist aims to please or delight by making beautiful
+    things to be beheld
 
-        Roughly, poetry.
+    Roughly, poetry.
 
-        *focus* beauty, narrative writing
+    *focus* beauty, narrative writing
 
-2.  Liberal art
-        Art in which the artist aims to instruct by speaking the truth
+Liberal art
+    Art in which the artist aims to instruct by speaking the truth
 
-        Roughly, science.
+    Roughly, science.
 
-        *focus* truth, expository writing
+    *focus* truth, expository writing
 
 The problem of learning how to appreciate fine art is at least as difficult
 as the problem of learning how to appreciate liberal art. It is also radically
@@ -455,6 +421,15 @@ There are two errors which must be avoided.
 Catching on from the title
 **************************
 
+:Abstract:
+    It is important to know what kind of book you are reading because different
+    kinds of book require different kinds of reading.
+
+.. contents::
+   :local:
+   :depth: 1
+
+
 Authors sometimes have mixed motives and they are subject to the failing of
 wanting to do too many things at once. If they are confused in their
 intentions, the reader cannot be blamed for not knowing how to follow them.
@@ -465,6 +440,7 @@ us.
 
 .. 141
 .. _rule 1.1:
+.. |rule 1.1| replace:: Classify the book according to kind and subject matter
 
 Rule 1.1: |rule 1.1|
 ====================
@@ -486,6 +462,9 @@ them well we must read them in a manner appropriate to their differences.
 
 .. 143
 
+Front matter
+============
+
 A book always has a front matter and an introduction.
 
 Front matter
@@ -495,8 +474,6 @@ Front matter
     - the subtitle
     - table of contents
     - preface
-
-----
 
 .. 143
 
@@ -551,10 +528,8 @@ We need a scheme of classification which groups books with an eye to the
 problems of reading, and not for the purpose of selling them or putting them
 on shelves.
 
-----
-
 Theoretical Books & Practical Books
------------------------------------
+===================================
 
 .. _theoretical:
 
@@ -586,85 +561,92 @@ Practical Book
 
     Every practical book is somewhat oratorical.
 
+    .. 149
+
+Identification
+--------------
+
+By title:
+
+- "the art of"
+- "how to"
+- containing names of fields which are practical
+
+Any "guidebook" is a practical book.
+
+Any book which tells you either what you `should` do or `how` to do
+it is practical.
+
+.. 149
+
+Includes:
+
+- expositions of arts to be learned
+- manuals of practice in any field, such as engineering or medicine or
+  cooking
+- treatises which are conventionally classified as morals, such as book on
+  economic, ethical or political problems
+- an oration -- a political speech or a moral exhortation
+- anyone who writes practically about anything not only tries to advise
+  you but also tries to get you to follow his advice
+
+ By content:
+
+ - Frequent occurrence of such words as "should", "ought", "good", "bad",
+   "ends", "means", "better", "worse", "right", "wrong"
+
+
+.. note::
+
+    .. 148
+
+    Are we not dealing with books which convey knowledge? How can action come in?
+
+    Intelligent action depends on knowledge.
+
+    .. 148
+
+    Knowledge can be used in many ways, not only for controlling nature and
+    inventing useful machines but also for directing human conduct and regulating
+    man's operations in various fields of skill. What I have in mind here is
+    exemplified between pure and applied and science, or as it is sometimes
+    inaccurately phrased, science and technology.
+
     .. 148
 
     To make theoretical knowledge practical we must convert it into rules of
     operation.
 
-    .. 149
+.. 150
 
-    **Identification**
+.. tip::
 
-    By title:
+    Make your first effort to diagnose a book from its title and the rest of
+    the front matter.
 
-    - "the art of"
-    - "how to"
-    - containing names of fields which are practical
+    If that is insufficient, you will have to depend on signs to be found in
+    the main body of the text.
 
-    Any "guidebook" is a practical book.
+.. warning::
 
-    Any book which tells you either what you `should` do or `how` to do
-    it is practical.
+   Titles may be misleading-- books on practical subjects may be entirely
+   theoretical.
 
-    .. 149
+.. warning::
 
-    Includes:
-    
-    - expositions of arts to be learned
-    - manuals of practice in any field, such as engineering or medicine or
-      cooking
-    - treatises which are conventionally classified as morals, such as book on
-      economic, ethical or political problems
-    - an oration -- a political speech or a moral exhortation
-    - anyone who writes practically about anything not only tries to advise
-      you but also tries to get you to follow his advice
+    Some authors do not know the difference between theory and practice.
 
-     By content:
+.. warning::
 
-     - Frequent occurrence of such words as "should", "ought", "good", "bad",
-       "ends", "means", "better", "worse", "right", "wrong"
+    Some books will be partly theoretical and partly practical.
 
-
-.. 148
-
-Are we not dealing with books which convey knowledge? How can action come in?
-
-Intelligent action depends on knowledge.
-
-.. 148
-
-Knowledge can be used in many ways, not only for controlling nature and
-inventing useful machines but also for directing human conduct and regulating
-man's operations in various fields of skill. What I have in mind here is
-exemplified between pure and applied and science, or as it is sometimes
-inaccurately phrased, science and technology.
-
-:150
-
-Make your first effort to diagnose book from its title and the rest of the
-front matter.
-
-Note titles may be misleading. Books on practical subjects may be entirely
-theoretical.
-
-Some authors do not know the difference between theory and practice.
-
-Some books will be partly theoretical and partly practical.
-
-
-If that is insufficient, you will have to depend on signs to be found in the
-main body of the text.
 
 History, Science & Philosophy
 =============================
 
-.. 153
-
-See: Maritain's `Degrees of Knowledge`
-
 .. 152
 
-Here we distinguish (not define) between history, science, and philosophy.
+Here we distinguish (not define) between history, science, and philosophy. [1]_
 
 .. _history:
 
@@ -717,6 +699,43 @@ special experience.
 The distinction I have suggested is popularly recognized when we say that
 science is experimental or depends upon elaborate observational researches,
 whereas philosophy is really armchair thinking.
+
+Both philosophers and scientists must observe and think, but they think about
+different sorts of observation; the scientist must make his observations
+under special conditions, while the philosopher may think about his ordinary
+experience.
+
+The difference in method always reveals itself in philosophical and scientific
+books, and that is how you can tell which sorts of book you are reading.
+
+Extrinsic Reading
+=================
+
+Scientific books
+-----------------
+
+The rules of extrinsic reading are more complicated in the case of scientific
+books. You may actually have have to witness an experiment unless you can use
+your imagination to construct something as you have never observed.
+
+Philosophy
+----------
+
+Use common experience.
+
+
+
+.. 158
+
+Different kinds of books require different kinds of learnings
+=============================================================
+
+As books differ in the kinds of knowledge they have to communicate, they
+proceed to instruct us differently. If we are to follow them, we must learn
+to read each kind in an appropriate manner.
+
+Scientists and philosophers do not think in exactly the same way. Their styles
+in arguing are different.
 
 
 .. 160
@@ -779,8 +798,6 @@ Communication
     
 Communication succeeds only when it results in a common something, as an item
 of knowledge which two men have in common.
-
-The first two readings and the third must be done somewhat separately; understanding the author must always precede criticizing or judging him.
 
 .. _rule 2.1:
 
@@ -1031,17 +1048,14 @@ Furthermore, it means that all those people who wish to be good writers and spea
 
 .. |reading 1| replace:: The analysis of a book's structure
 
-.. These descriptions are from (124) and (185).
+.. The descriptions for the rules of the first reading are from (124) and (185)
 
-.. |rule 1.1| replace:: Classify the book according to kind and subject matter
 .. |rule 1.2| replace:: State what the whole book is about with the utmost 
                         brevity
 .. |rule 1.3| replace:: Enumerate its major parts in their order and relation,
                         and analyze these parts as you have analyzed the whole
 .. |rule 1.4| replace:: Define the problem or problems the author is trying to
                         solve
-
-.. |reading 2| replace:: The interpretation of a book's contents
 
 .. These descriptions are interpreted from (217) and (235).
 
@@ -1068,3 +1082,73 @@ Furthermore, it means that all those people who wish to be good writers and spea
 .. |rule 3.2.3| replace:: Show wherein the author is illogical
 .. |rule 3.2.4| replace:: Show wherein the author's analysis or account is
                           incomplete
+
+#####
+Index
+#####
+
+.. 119
+
+.. _complex skill:
+
+Complex skill
+    A skill which depends on many other simpler skills in order to be performed
+    effectively.
+
+    During the acquisition of a complex skill, each of its component skills
+    must be done separately and consciously, but they can be done together
+    and unconsciously when we are expert.
+
+    *example* tennis, driving a car, reading
+
+.. _learning_curve:
+
+Learning curve
+    A graphical representation of a person's skill versus their experience,
+    which is typically curved due to improvement in skill becoming harder as
+    experience increases.
+
+.. _learning_plateau:
+
+Learning plateau
+    A span of time in which a learner's skill remains constant despite
+    additional experienced.
+    
+    Learning plateaus are not found in all learning curves, but only in those
+    which record progress in gaining a `complex skill`_. The more complex the
+    skill, the more frequently learning plateaus appear.
+
+    Learning goes on during learning plateaus, but it does not manifest as
+    an improvement in skill.
+    
+    One explanation is that during a learning plateau the learner combines
+    simple acts into a complex one, and only when he has mastered the complex
+    act does his skill visibly improve. Thus, in order to perform a complex act
+    (like reading or playing tennis) one needs to master each of its component 
+    acts (such that they become automatic), and then master them in
+    combination. (One cannot think about beating one's opponent in tennis
+    until one can reliably return a ball.)
+
+.. 123
+.. _understanding:
+
+Understanding
+    To grasp what is being offered as knowledge
+
+    To understand some thing, one must approach it:
+
+    1. First, as a whole, having unity and a structure of parts
+    2. Second, in terms of its elements, its units of language and thought
+
+.. _criticism:
+
+Criticism
+    To judge whether what is being offered is really acceptable as knowledge
+
+#########
+Footnotes
+#########
+
+.. 153
+
+.. [1] See Maritain's `Degrees of Knowledge` for a more complete distinction.

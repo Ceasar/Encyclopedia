@@ -307,8 +307,8 @@ We distinguish between two large classes of books: `fine art`_ and
 2. The satisfaction its afford readers
 
 `Fine arts`_ and `liberal arts`_ require different `complex skills`_ to
-appreciate, and both are necessary for decent literacy. Few books fit neatly
-into either category, and many `great books`_ are intentionally not so. [#]_
+appreciate. Both skills are necessary for decent literacy since few books fit
+neatly into either class, and many `great books`_ intentionally do not. [#]_
 
 .. 135
 
@@ -339,21 +339,17 @@ Catching on from the title
 **************************
 
 :Abstract:
-    It is important to know what kind of book you are reading because different
-    kinds of book require different kinds of reading.
+    It is important to know what kind of book one is reading before reading it
+    because different kinds of books cannot be read in the same way. The
+    primary kinds of `expository books`_ are `theoretical books`_ and
+    `practical books`_. One may further classify `theoretical books`_  as
+    `history`_, `science`_, or `philosophy`_. One can usually classify a book
+    before reading it by reading it `front matter`_. One can identify specific
+    kinds of books with specific rules.
 
 .. contents::
    :local:
    :depth: 1
-
-
-Authors sometimes have mixed motives and they are subject to the failing of
-wanting to do too many things at once. If they are confused in their
-intentions, the reader cannot be blamed for not knowing how to follow them.
-We put these books aside. There are enough books which are perfectly clear
-in their intention and which, therefore, deserve a discriminating reading from
-us.
-
 
 .. 141
 .. _rule 1.1:
@@ -362,284 +358,62 @@ us.
 Rule 1.1: |rule 1.1|
 ====================
 
-You must know what kind of (expository) book you are reading, and you should
+*You must know what kind of (`expository`_) book you are reading, and you should
 know this as early in the process as possible, preferably before you begin to
-read.
-
-Everything is clear here except the last clause.
-
-Classify the book according to kind and subject matter (185)
-
-For the most part, people know the kind of book they are reading before they
-start. They picked it out to read because it was of that kind. This is
-certainly true of the main distinction in types of books.
-
-While a liberal books deal in knowledge, they are also different and to read
-them well we must read them in a manner appropriate to their differences.
-
-.. 143
-
-Front matter
-============
-
-A book always has a front matter and an introduction.
-
-Front matter
-    The front matter consists of:
-
-    - the title
-    - the subtitle
-    - table of contents
-    - preface
-
-.. 143
-
-The number of readers who pay no attention to the signals is larger than you
-might suspect, unless you happen to be one of those who are honest enough to
-admit it.
-
-Few students are unable to answer what sort of book a book they just read was.
-Sometimes they apologize by saying that they haven't finished reading it yet,
-and therefore do not know.
-
-One reason why front matter is ignored by readers is that they do not think it
-is important to classify the book they are reading.
-
-Obviously, the author thinks it is important for the reader to know the kind
-of books he is being given. That is why he goes to the trouble of making it
-plain in the preface, and usually tries to make his title more or less
-descriptive.
-
-.. 144
-
-Authors also construct an analytical table of contents to advise the reader in
-advance of the details of their treatment.
-
-If the reader never asks this question, he is going to get more perplexed and
-he may be unable to ask or answer a lot of other questions about the book.
-
-.. 145
-
-The clearest titles in the world, the most explicit front matter, will not
-helper you classify a book, even if you pay attention to these signs, unless
-you have the broad lines of classification already in mind.
-
-.. 146
-
-Titles sometimes make the grouping of books easy, but it is not always the
-case.
-
-To group books as being of the same kind is not enough, however. To follow
-the first rule of reading you must know what the kind is.
-
-The entire front matter will not tell you what kind unless you have some
-categories you can apply to classify books intelligently.
-
-This rule needs to be made a little more intelligible for you if you are to
-follow it intelligently. This can be done only by a brief discussion of the
-main kinds of expository books.
-
-.. 147
-
-We need a scheme of classification which groups books with an eye to the
-problems of reading, and not for the purpose of selling them or putting them
-on shelves.
-
-Theoretical Books & Practical Books
-===================================
-
-.. _theoretical:
-
-Theoretical Book
-    A theoretical book concerns something to be seen or understood.
-
-    Some books and some teachers are interested only in the knowledge itself which
-    they have to communicate. This does not mean they deny its utility or, they
-    insist knowledge is good `only` for its own sake. They simply limit themselves
-    to one kind of teaching, and leave the other kind to other men.
-
-    Theoretical books focus on `knowledge`-- knowing `that`.
-
-.. _practical:
-
-Practical Book
-    A practical book has to do with what works in some way, at once or in the
-    long run.
-
-    Some books and teachers have an interest beyond knowledge for its own sake. They are
-    concerned with the problems of human life with knowledge can be used to solve.
-    They communicate knowledge, too, but always with an emphasis upon its
-    application.
-
-    Practical books focus on `action`-- knowing `how` to do something which
-    you think you `should`.
-
-    .. 149
-
-    Every practical book is somewhat oratorical.
-
-    .. 149
-
-Identification
---------------
-
-By title:
-
-- "the art of"
-- "how to"
-- containing names of fields which are practical
-
-Any "guidebook" is a practical book.
-
-Any book which tells you either what you `should` do or `how` to do
-it is practical.
-
-.. 149
-
-Includes:
-
-- expositions of arts to be learned
-- manuals of practice in any field, such as engineering or medicine or
-  cooking
-- treatises which are conventionally classified as morals, such as book on
-  economic, ethical or political problems
-- an oration -- a political speech or a moral exhortation
-- anyone who writes practically about anything not only tries to advise
-  you but also tries to get you to follow his advice
-
- By content:
-
- - Frequent occurrence of such words as "should", "ought", "good", "bad",
-   "ends", "means", "better", "worse", "right", "wrong"
-
-
-.. note::
-
-    .. 148
-
-    Are we not dealing with books which convey knowledge? How can action come in?
-
-    Intelligent action depends on knowledge.
-
-    .. 148
-
-    Knowledge can be used in many ways, not only for controlling nature and
-    inventing useful machines but also for directing human conduct and regulating
-    man's operations in various fields of skill. What I have in mind here is
-    exemplified between pure and applied and science, or as it is sometimes
-    inaccurately phrased, science and technology.
-
-    .. 148
-
-    To make theoretical knowledge practical we must convert it into rules of
-    operation.
-
-.. 150
-
-.. tip::
-
-    Make your first effort to diagnose a book from its title and the rest of
-    the front matter.
-
-    If that is insufficient, you will have to depend on signs to be found in
-    the main body of the text.
-
-.. warning::
-
-   Titles may be misleading-- books on practical subjects may be entirely
-   theoretical.
-
-.. warning::
-
-    Some authors do not know the difference between theory and practice.
-
-.. warning::
-
-    Some books will be partly theoretical and partly practical.
-
-
-History, Science & Philosophy
-=============================
-
-.. 152
-
-Here we distinguish (not define) between history, science, and philosophy. [#]_
-
-.. _history:
-
-History
-    History is knowledge of particular events or things which not only existed
-    in the past, but underwent a series of changes in the course of time.
-
-    The historian narrates these happenings and often colors his narrative
-    with some comment on, or insight into, the significance of the events.
-
-    *Identification*
-
-    Usually "history" is in the title or the front matter informs us that
-    this is a book about the past.
-
-.. _science:
-
-Science
-    Science treat of matters that can happen at any time or place.
-
-    Scientists seek laws or generalizations.
-
-    Scientists seek to find out how things happen for the most part or in
-    ever case.
-
-    The rules of extrinsic reading are more complicated in the case of scientific
-    books. You may actually have have to witness an experiment unless you can use
-    your imagination to construct something as you have never observed.
-
-.. _philosophy:
-
-Philosophy
-    ?
-
-Science & Philosophy
---------------------
-
-Distinguishing between science and philosophy can be difficult for a few
-reasons:
-
--   The titles of science and philosophy are the name of the subject
-    matter that they deal with.
--   Science and philosophy often claim the same subject.
--   Science and philosophy seek general truths.
-
-Roughly, if a theoretic book refers to things which lie outside the scope
-of your normal, routine, daily experience, it is a scientific work. If not,
-it is philosophical.
-
-A philosopher refers to the reader to his own normal and common experience
-for the verification or support of anything he has to say. Science requires
-special experience.
-
-The distinction I have suggested is popularly recognized when we say that
-science is experimental or depends upon elaborate observational researches,
-whereas philosophy is really armchair thinking.
-
-Both philosophers and scientists must observe and think, but they think about
-different sorts of observation; the scientist must make his observations
-under special conditions, while the philosopher may think about his ordinary
-experience.
-
-The difference in method always reveals itself in philosophical and scientific
-books, and that is how you can tell which sorts of book you are reading.
+read*
 
 .. 158
 
-Different kinds of books require different kinds of learnings
-=============================================================
+This is because different `kinds of books`_ exist, which each have different
+kinds of knowledge to communicate and different problems to solve, which
+require different methods to solve and different methods of writing to explain,
+which require different kinds of reading to follow. If a reader does not know
+the kind of book he is reading, he will become perplexed and he may be unable
+to ask or answer a large number of questions about the book.
 
-As books differ in the kinds of knowledge they have to communicate, they
-proceed to instruct us differently. If we are to follow them, we must learn
-to read each kind in an appropriate manner.
+.. 147
 
-Scientists and philosophers do not think in exactly the same way. Their styles
-in arguing are different.
+Kinds of books
+==============
+
+A good reader must not only be able to classify books as the same kind, he
+also needs to know what kinds there are. Many schemes of classification
+exist, but we need one which groups books with an eye to the problems of
+reading, and not for the purpose of selling them or putting them on shelves.
+We primarily classify `expository books`_ as `theoretical`_ or `practical`_
+and may further classify `theoretical books`_  as `history`_, `science`_, or 
+`philosophy`_. [#]_
+
+
+How to classify books
+=====================
+
+One often can classify a book by studying its `front matter`_. This is
+preferable to classifying a book by reading it, since it is useful to know what
+kinds of book one is reading before reading. Be aware that front matter may be
+misleading, and that some books cannot be neatly classified, often because
+unskilled authors are unaware of distinctions.
+
+.. 149
+
+Practical books can be identified by noticing "the art of", "how to", or the
+names of practical fields (such as  economics, ethics, and politics) in the
+title, identifying it as a manual, guidebook, oration, political speech, or
+moral treatise, identifying persuasive writing, noticing it tells you either
+what you `should` do or `how` to do it, and noticing frequent occurrence of
+such words as "should", "ought", "good", "bad", "ends", "means", "better",
+"worse", "right", and "wrong".
+
+`History`_ books can usually be identified by spotting "history" in the title
+or being informed by the front matter that a book is about the past. `Science`_
+and `philosophy`_ books are harder to identify because they are easy to mistake
+for each other since both have titles that are the name of the subject matter
+that they deal with, both seek general truths, and both claim frequently claim
+the same subjects. Roughly though, if a `theoretical book`_ refers to things
+which lie outside the scope of your normal, routine, daily experience, it is
+scientific, otherwise it is philosophical, since science requires special
+observation for support which requires elaborate experiments, but philosophy
+needs only common observations ("armchair thinking").
 
 
 .. 160
@@ -982,17 +756,6 @@ Glossary
 Criticism
     To judge whether what is being offered is really acceptable as knowledge
 
-.. 132
-.. _fine art:
-.. _fine arts:
-
-Fine art
-    Art in which the artist aims to please or delight by making beautiful
-    things to be beheld
-
-    Roughly, poetry.
-
-    *focus* beauty, narrative writing
 
 .. 119
 
@@ -1020,6 +783,29 @@ Extrinsic reading
 
     We may also necessarily use relevant experience as an extrinsic aid.
 
+.. 132
+.. _fine art:
+.. _fine arts:
+
+Fine art
+    Art in which the artist aims to please or delight by making beautiful
+    things to be beheld
+
+    Roughly, poetry.
+
+    *focus* beauty, narrative writing
+
+.. 143
+.. _front matter:
+
+Front matter
+    The front matter consists of:
+
+    - the title
+    - the subtitle
+    - table of contents
+    - preface
+
 .. _great book:
 .. _great books:
 .. _great work:
@@ -1027,6 +813,15 @@ Extrinsic reading
 
 Great work
     pass
+
+.. _history:
+
+History
+    History is knowledge of particular events or things which not only existed
+    in the past, but underwent a series of changes in the course of time.
+
+    The historian narrates these happenings and often colors his narrative
+    with some comment on, or insight into, the significance of the events.
 
 .. 129
 .. _intrinsic:
@@ -1063,6 +858,14 @@ Learning plateau
     combination. (One cannot think about beating one's opponent in tennis
     until one can reliably return a ball.)
 
+.. 142
+.. _expository:
+.. _expository book:
+.. _expository books:
+
+Expository book
+    A book which conveys knowledge primarily.
+
 .. 132
 .. _liberal art:
 .. _liberal arts:
@@ -1084,6 +887,19 @@ Obscurantism
     1.  Of estheticism, which regards all books as if they were poetry
     2.  Of intellectualism, which treats all books as if they were instructive
 
+.. _philosophy:
+
+Philosophy
+    ?
+
+.. _practical:
+.. _practical book:
+.. _practical books:
+
+Practical Book
+    A book concerned with `action`, `applied science`, or `knowing how` to do
+    something which you think you `should`.
+
 .. _purism:
 
 Purism
@@ -1093,6 +909,28 @@ Purism
     is due to the fact that the human mind, which writes or reads them, is
     rooted in the senses and imagination and moves or is moved by emotion
     and sentiment.
+
+.. _science:
+
+Science
+    Science treat of matters that can happen at any time or place.
+
+    Scientists seek laws or generalizations.
+
+    Scientists seek to find out how things happen for the most part or in
+    ever case.
+
+    The rules of extrinsic reading are more complicated in the case of scientific
+    books. You may actually have have to witness an experiment unless you can use
+    your imagination to construct something as you have never observed.
+
+
+.. _theoretical:
+.. _theoretical book:
+.. _theoretical books:
+
+Theoretical Book
+    A book concerned with `knowledge`, `pure science`, or `knowing that`.
 
 .. 123
 .. _understanding:

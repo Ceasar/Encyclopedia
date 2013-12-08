@@ -570,40 +570,11 @@ Rule 1.4: |rule 1.4|
 This rule repeats in another form `rule 1.2`_ and `rule 1.3`_: A reader should
 be able to formulate the main problems (or question) and their subordinate
 problems as precisely as he can and be able to put them in an intelligible
-order.
-
-This rule is most pertinent to the `great books`_, since they are `original
-communications`_ and the author started out with problems and ended by writing
-what the solutions were.
-
-Kinds of questions
-------------------
-
-If you know the kinds of questions anyone can ask about anything, you will
-become adept in detecting an author's problems. They can be briefly and
-non-exhaustively formulated:
-
--   Theoretical questions
-
-    - Does something exist?
-    - What kind of thing is it?
-    - What caused it to exist, or under what conditions can it exist, or why does it
-      exist?
-    - What purpose does it serve?
-    - What are the consequences of its existence?
-    - What are its characteristic properties, its typical traits?
-    - What are its relations to other things of a similar sort, or of a different
-      sort?
-    - How does it behave?
-
--   Practical questions
-
-    - What ends should be sought?
-    - What means should be chosen to a given end?
-    - What things must one do to gain a certain objective, and in what order?
-    - Under these conditions, what is the right thing to do, or the better
-      rather than the worse?
-    - Under what conditions would it be better to do this rather than that?
+order. This rule is most pertinent to the `great books`_, since they are
+`original communications`_ and the author started out with problems and ended by
+writing what the solutions were. The reader may improve his ability to detect
+an author's problems by studying the kinds of questions anyone can ask about
+anything. [#]_
 
 .. 185
 
@@ -1142,3 +1113,28 @@ Footnotes
        Aristotle are longer than the originals. They include, of course, more
        than a structural analysis, for they undertake to interpret the author
        sentence by sentence.
+
+.. [#] The kinds of questions anyone can ask about anything can be briefly and
+       non-exhaustively formulated.
+
+       Theoretical questions:
+
+       - Does something exist?
+       - What kind of thing is it?
+       - What caused it to exist, or under what conditions can it exist, or why does it
+         exist?
+       - What purpose does it serve?
+       - What are the consequences of its existence?
+       - What are its characteristic properties, its typical traits?
+       - What are its relations to other things of a similar sort, or of a different
+         sort?
+       - How does it behave?
+
+       Practical questions:
+
+       - What ends should be sought?
+       - What means should be chosen to a given end?
+       - What things must one do to gain a certain objective, and in what order?
+       - Under these conditions, what is the right thing to do, or the better
+         rather than the worse?
+       - Under what conditions would it be better to do this rather than that?

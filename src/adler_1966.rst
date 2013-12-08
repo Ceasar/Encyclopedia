@@ -517,17 +517,10 @@ Seeing the skeleton
 
 :Pages: 160-185 (25)
 :Abstract:
-    Unknown.
-
-`Talk on how fear of analysis destroying literature is unfounded.`
-
-It easier to grasp a complex and unified structure in two parts rather than in
-one. The second rule directs you to grasp its `unity`_, and the third toward the
-complexity of a book. Also, the major parts of a book may be seen at the moment
-when you grasp its `unity`_, but these parts are usually themselves complex and
-have an interior structure you must see. Hence the third rule involves more than
-just an enumeration of the parts: it means treating the parts as if they were
-subordinates wholes, each with a `unity`_ and complexity of its own.
+    To grasp a complex entity like a book, one must grasp its `unity`_ and its
+    `complexity`_. One should do this by writing a concise statement of the
+    unity, a blueprint of its structure, and noting the problems the author is
+    trying to solve.
 
 .. _rule 1.2:
 
@@ -554,13 +547,17 @@ various ways, including ways different than the writer.
 Rule 1.3: |rule 1.3|
 ====================
 
-To grasp a complex entity like a book, one must grasp its `unity`_, it parts,
-and how its parts are organized into a whole. [#]_ Perfect analysis is
-expensive, even for `great books`_ which have the most intelligible structure,
-and the reader should do so only insofar as he profits. The reader may use the
-writer's chapters headings and sectional divisions as an aid, but he must make
-his own blueprint since writers try to conceal the structure artistically and
-often fail to keep it intact.
+Though the major parts of a book may be seen at the moment when you grasp its
+`unity`_, these parts are usually themselves complex and have an interior
+structure you must see. Hence the third rule involves more than just an
+enumeration of the parts: it means treating the parts as if they were
+subordinates wholes, each with a `unity`_ and `complexity`_ of its own.
+
+Complete analysis is expensive, [#]_ even for `great books`_ which have the most
+intelligible structure, and the reader should do so only insofar as he profits.
+The reader may use the writer's chapters headings and sectional divisions as an
+aid, but he must make his own blueprint since writers try to conceal the
+structure artistically and often fail to keep it intact.
 
 .. _rule 1.4:
 
@@ -568,13 +565,12 @@ Rule 1.4: |rule 1.4|
 ====================
 
 This rule repeats in another form `rule 1.2`_ and `rule 1.3`_: A reader should
-be able to formulate the main problems (or question) and their subordinate
-problems as precisely as he can and be able to put them in an intelligible
-order. This rule is most pertinent to the `great books`_, since they are
-`original communications`_ and the author started out with problems and ended by
-writing what the solutions were. The reader may improve his ability to detect
-an author's problems by studying the kinds of questions anyone can ask about
-anything. [#]_
+be able to precisely formulate the main problems (or questions) and their subordinate
+problems and be able to put them in an intelligible order. This rule is most
+pertinent to the `great books`_, since as `original communications`_ the authors
+started out with problems and ended by writing the solutions. The reader may
+improve his ability to detect an author's problems by studying the kinds of
+questions anyone can ask about anything. [#]_
 
 .. 185
 
@@ -892,6 +888,11 @@ Complex skill
     and unconsciously when we are expert.
 
     *example* tennis, driving a car, reading
+
+.. _complexity:
+
+Complexity
+    The parts and organization of parts of a complex entity.
 
 .. 129
 .. _extrinsic:

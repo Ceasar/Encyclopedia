@@ -554,88 +554,13 @@ various ways, including ways different than the writer.
 Rule 1.3: |rule 1.3|
 ====================
 
-Set forth the major parts of the book, and show how these are organized into a
-whole, by being ordered to one another and to the unity of the whole. (163)
-
-reason: you have not grasped a complex unity if all you know about it is how it
-is one.
-
-A good book, like a good house, is an orderly arrangement of parts.
-
-`Great books`_ are the most readable partly because they have the most
-intelligible structure, despite greater complexity.
-
-This is important because books are complex unities, and one has not grasped
-a complex unity if all one knows about it is how it is one. You must also
-know how it is many, not a many which consists of a lot of separate things, but
-an organized many. If the parts were not related, the whole which they composed
-would not be. Strictly speaking, there would be no whole at all but merely a
-collection.
-
-The most readable book is an architectural achievement on the part of the
-author. The best books are those that have the most intelligible structure and,
-I might add, the most apparent. Though they are usually more complex than poorer
-books, their greater complexity is somehow also a great simplicity, because
-their parts better organized, more unified. (164)
-
-That is one of the great books are more readable. Lesser works are really more
-bothersome to read. Yet to read them well you must try to find some plan in
-them. They would be better if the author had himself seen the plan a little more
-clearly, but if they together at all, if they are a complex unity to any degree,
-there must be a plan and you must find it.
-
-ME: This generalizes obviously to code, and generalizes obviously to the task of
-design in general. Note that nobody has written on this yet. It's also
-interesting to me because the points on style seems trivial considered from the
-level of architecture.
-
-You cannot apprehend a whole without somehow seeing its parts. But it is also
-true that unless you can grasp the organization of its parts, you cannot know
-the whole comprehensively.
-
-This rule is completed by recursively analyzing the book. This may sound
-overbearing, but a good reader will operate approximately in this way in
-proportion to how profitable it would be to do (not all books deserve very close
-readings).
-
-A careful and adequate recital of the parts, and their parts, and their parts
-down to the least structural units would take a great many pages to write out.
-For instance, some of the greatest medieval commentaries on the work of
-Aristotle are longer than the originals. They include, of course, more than a
-structural analysis, for they undertake to interpret the author sentence by
-sentence. These commentaries are instances of this rule followed to perfection.
-
-Note that a lesser author may not structure his points clearly or in order.
-There may be overlap. It is the job of the reader to fix that.
-
-.. 180
-
-One does not need to follow the apparent structure of a book as indicated by
-its chapter divisions. It may be of course be better than the blueprint you
-develop, but it may also be worse. In any case, the point is to make your own
-blueprint. The author made his in order to write a good book. You must make
-yours in order to read it well. If he were a perfect writer and you a perfect
-reader, it would naturally follow that the two would be the same. In proportion
-as either of you or both fall away from perfection, all sorts of discrepancies
-will inevitably result.
-
-This does not mean to totally ignore chapter headings and sectional divisions
-made by the author. They are intended to help you, just as titles are prefaces
-are. But you must use them as guides for your own activity, and not rely on them
-passively. There are few authors who execute their plan perfectly, but there is
-often more plan in a great book than meets the eye at first. The surface can be
-deceiving.
-
-.. 181
-
-These two rules of reading look as if they were rules of writing also and of
-course they are. Though there are reciprocal rules in the two cases they are not
-followed in the same way. The reader tries to uncover the skeleton the book
-conceals, but the author starts with and tries to cover it up. The author's aim
-is to conceal the skeleton artistically, or to put flesh on the bare bones. If
-he is a good writer, he not bury a puny skeleton under a mass of fat.
-
-Writers should write books and leave commentaries to readers.
+To grasp a complex entity like a book, one must grasp its `unity`_, it parts,
+and how its parts are organized into a whole. [#]_ Perfect analysis is
+expensive, even for `great books`_ which have the most intelligible structure,
+and the reader should do so only insofar as he profits. The reader may use the
+writer's chapters headings and sectional divisions as an aid, but he must make
+his own blueprint since writers try to conceal the structure artistically and
+often fail to keep it intact.
 
 .. _rule 1.4:
 
@@ -1212,3 +1137,8 @@ Footnotes
 .. [#] See:
 
        - Maritain's `Degrees of Knowledge`
+
+.. [#] For instance, some of the greatest medieval commentaries on the work of
+       Aristotle are longer than the originals. They include, of course, more
+       than a structural analysis, for they undertake to interpret the author
+       sentence by sentence.

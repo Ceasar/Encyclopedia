@@ -25,7 +25,70 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 The activity of reading
 #######################
 
+.. This abstract was taken from page 166
+
 :Abstract:
+    This part is about the nature of reading in general, the various kinds of
+    reading, and the relation of the art of reading ot the art of being taught
+    in school and out. It considers, therefore, the serious consequences of the
+    neglect of reading in contemporary education, suggesting as a solution that
+    books can be substituted for living teachers if individuals can help
+    themselves learn how to read.
+
+.. 175
+
+Adler analyzes this part as such:
+
+    The book is divided into three major parts.
+
+    1. The first treats of the nature and kinds of reading, and the place of
+       reading in education.
+
+       This part is divided into the following sections.
+
+       1. The varieties and degrees of reading ability.
+       2. The major distinctions between reading for amusement and reading for
+          instruction.
+       3. The distinction, in reading for instruction, between information and
+          understanding.
+       4. The relation of this last distinction to one between active and
+          passive reading.
+       5. Defines the sort of reading to be discussed as the reception of
+          communications conveying knowledge.
+       6. Relates reading to learning, by distinguishing between learning by
+          discovery and learning by instruction.
+       7. The relation of books and teachers, distinguishing them as dead and
+          alive, and shows that reading is learning from dead teachers.
+       8. Distinguishes between primary and secondary teachers, living or dead,
+          and defines the great books as original communications, and hence
+          primary teachers.
+
+    2. The second treats of the failure of contemporary education with respect
+       to reading.
+
+       This part is divided into the following sections.
+
+       1. The varieties and degrees of reading ability.
+       2. The relation of reading to such other skills as writing and speaking
+          are discussed with respect to current educational defects.
+       3. The results of scientific educational measurements are reported to
+          show the lack of these skills in the graduates of our schools.
+       4. Other evidences, especially from book publishers, are offered as
+          correlating evidence to these findings.
+       5. An attempt is made to explain why the schools have failed.
+
+    3. The third attempts to show how the contemporary education situation can
+       be remedied.
+
+       1. Any art of skill can be acquired by those who will practice according
+          to the rules.
+       2. It is indicated how the art of reading might be acquired by those who
+          did not learn how in school.
+       3. It is suggested that by learning how to read, people can compensate
+          for the defects of their education.
+       4. It is hoped that if people generally understood what an education
+          should be, through having learned to read and having read, they would
+          take serious steps to reform the failing school system.
 
 .. contents::
    :local:
@@ -47,18 +110,35 @@ This is a book for readers who cannot read.
 
 There are many kinds of reading and degrees of ability to read.
 
-This book is for readers who want to read better or want to read in some other way than they now can.
+This book is for readers who want to read better or want to read in some other
+way than they now can.
 
-This book is for people who cannot read at all (e.g. infants, imbeciles) and masters.
+This book is for people who cannot read at all (e.g. infants, imbeciles) and
+masters. 
 
-    Most of us know that we are are not expert reader. We know this in many ways, but most obviously when we find some things too difficult to read, or have great trouble in reading them; or when someone else has read the same thing we have and shown us how much we missed or misunderstood... Most of us have experienced difficulties in reading, but we do not know why we have trouble or what to do about it.
+    Most of us know that we are are not expert reader. We know this in many
+    ways, but most obviously when we find some things too difficult to read, or
+    have great trouble in reading them; or when someone else has read the same
+    thing we have and shown us how much we missed or misunderstood...  Most of
+    us have experienced difficulties in reading, but we do not know why we have
+    trouble or what to do about it.
 
-    I think this is because most of us do not regard reading as a complicated activity, involving many different steps in each of which we can acquire more and more skill through practice, as in the case of any other art. We may not even think there is an art of reading. We tend to think of reading almost as if it were something as simple and natural to do as looking or walking. There is no art of looking or walking. 
+    I think this is because most of us do not regard reading as a complicated
+    activity, involving many different steps in each of which we can acquire
+    more and more skill through practice, as in the case of any other art. We
+    may not even think there is an art of reading. We tend to think of reading
+    almost as if it were something as simple and natural to do as looking or
+    walking. There is no art of looking or walking. 
 
 
     I told him that this book was like a book on how to play tennis.
 
-    As written about in books, the art of tennis consists of rules for making each of the various strokes, a discussion of how and when to use them, and a description of how to organize these parts into the general strategy of a successful game. The art of reading has to be written about in the same way. There are rules for each of the different steps you must take to complete the reading of a whole book.
+    As written about in books, the art of tennis consists of rules for making
+    each of the various strokes, a discussion of how and when to use them, and a
+    description of how to organize these parts into the general strategy of a
+    successful game. The art of reading has to be written about in the same way.
+    There are rules for each of the different steps you must take to complete
+    the reading of a whole book.
 
 Knowing how to read well was like any other art or skill.
 
@@ -66,11 +146,22 @@ Knowing how to read well was like any other art or skill.
 
 .. 6
 
-    For every illusion that the classroom can nourish, there is a school  of hard knocks to destroy it.
+    For every illusion that the classroom can nourish, there is a school  of
+    hard knocks to destroy it.
 
-    Here I wish only to record this fact about our schools, a fact which concerns us all, because in large part they have made us what we are today—people who cannot read well enough to enjoy reading for profit or profit by reading for enjoyment. (11)
+    Here I wish only to record this fact about our schools, a fact which
+    concerns us all, because in large part they have made us what we are
+    today—people who cannot read well enough to enjoy reading for profit or
+    profit by reading for enjoyment. (11)
 
-    But education does not stop with schooling, nor does the responsibility for the ultimate educational fate of each of us rest entirely on the school system. Everyone can and must decide for himself whether he is satisfied with the education he got, or is now getting if he is still in school. If he is not satisfied, it is up to him to do something about it. With schools as they are, more schooling is hardly the remedy. One way out—perhaps the only one available to most people—is to learn to read better, and then, by reading better, to learn more of what can be learned through reading. (11)
+    But education does not stop with schooling, nor does the responsibility for
+    the ultimate educational fate of each of us rest entirely on the school
+    system. Everyone can and must decide for himself whether he is satisfied
+    with the education he got, or is now getting if he is still in school. If he
+    is not satisfied, it is up to him to do something about it. With schools as
+    they are, more schooling is hardly the remedy. One way out—perhaps the only
+    one available to most people—is to learn to read better, and then, by
+    reading better, to learn more of what can be learned through reading. (11)
 
 ***************************
 The reading of "reading"
@@ -308,7 +399,8 @@ We distinguish between two large classes of books: `fine art`_ and
 
 `Fine arts`_ and `liberal arts`_ require different `complex skills`_ to
 appreciate. Both skills are necessary for decent literacy since few books fit
-neatly into either class, and many `great books`_ intentionally do not. [#]_
+neatly into either class, and many `great books`_, especially works of history,
+intentionally do not. [#]_
 
 .. 135
 
@@ -338,6 +430,7 @@ do it well.
 Catching on from the title
 **************************
 
+:Pages: 140-160 (20)
 :Abstract:
     It is important to know what kind of book one is reading before reading it
     because different kinds of books cannot be read in the same way. The
@@ -374,7 +467,7 @@ to ask or answer a large number of questions about the book.
 .. 147
 
 Kinds of books
-==============
+--------------
 
 A good reader must not only be able to classify books as the same kind, he
 also needs to know what kinds there are. Many schemes of classification
@@ -386,7 +479,7 @@ and may further classify `theoretical books`_  as `history`_, `science`_, or
 
 
 How to classify books
-=====================
+---------------------
 
 One often can classify a book by studying its `front matter`_. This is
 preferable to classifying a book by reading it, since it is useful to know what
@@ -422,25 +515,40 @@ needs only common observations ("armchair thinking").
 Seeing the skeleton
 *******************
 
+:Pages: 160-185 (25)
+:Abstract:
+    Unknown.
+
 `Talk on how fear of analysis destroying literature is unfounded.`
 
+It easier to grasp a complex and unified structure in two parts rather than in
+one. The second rule directs you to grasp its `unity`_, and the third toward the
+complexity of a book. Also, the major parts of a book may be seen at the moment
+when you grasp its `unity`_, but these parts are usually themselves complex and
+have an interior structure you must see. Hence the third rule involves more than
+just an enumeration of the parts: it means treating the parts as if they were
+subordinates wholes, each with a `unity`_ and complexity of its own.
 
 .. _rule 1.2:
 
 Rule 1.2: |rule 1.2|
 ====================
 
-State the unity of the whole book in a single sentence, or at most in several
-sentences (a short paragraph). (162)
+The `unity`_ of a book determines the arrangement of its parts. Thus, the
+writer's task is to have one that is perfect and pervasive and the reader's task
+is to find it. The reader can only find the `unity`_ of a book by reading it
+entirely. This is because fiction books rarely state the `unity`_ to keep the
+reader in suspense (as with fiction few plots exist in the world) and
+`expository`_ books, though they typically state the `unity`_ early to convince
+the reader of reading through, occasionally diverge from it.
 
-You must be able to say what the whole book is about as briefly as possible.
+The only way to test whether one understands the `unity`_ is to state it
+as well as possible. A `unity`_ is stated well insofar as it is concise,
+accurate, comprehensive, and indicative of a book's structure. As quite
+different statements may be equally good or bad, readers may state the unity in
+various ways, including ways different than the writer.
 
-By "about" we don't mean the subject matter (what _kind_ of book it is); we mean its _theme_ or main _point_.
-
-A good story (e.g. Homer) has a single unity of action, a main thread of plots which ties everything together; the rest is episode. Once you know the main plot, you can put the parts into their proper places.
-
-    This book is about the nature of reading in general, the various kinds of reading, and the relation of the art of reading to the art of being taught in school and out. It considers, therefore, the serious consequences of the neglect of reading in the contemporary education, suggesting as a solution that books can be substituted for living teachers if individuals can help themselves learn how to read.
-
+.. 163
 .. _rule 1.3:
 
 Rule 1.3: |rule 1.3|
@@ -449,26 +557,134 @@ Rule 1.3: |rule 1.3|
 Set forth the major parts of the book, and show how these are organized into a
 whole, by being ordered to one another and to the unity of the whole. (163)
 
-reason: you have not grasped a complex unity if all you know about it is how it is one.
+reason: you have not grasped a complex unity if all you know about it is how it
+is one.
 
 A good book, like a good house, is an orderly arrangement of parts.
 
 `Great books`_ are the most readable partly because they have the most
 intelligible structure, despite greater complexity.
 
+This is important because books are complex unities, and one has not grasped
+a complex unity if all one knows about it is how it is one. You must also
+know how it is many, not a many which consists of a lot of separate things, but
+an organized many. If the parts were not related, the whole which they composed
+would not be. Strictly speaking, there would be no whole at all but merely a
+collection.
+
+The most readable book is an architectural achievement on the part of the
+author. The best books are those that have the most intelligible structure and,
+I might add, the most apparent. Though they are usually more complex than poorer
+books, their greater complexity is somehow also a great simplicity, because
+their parts better organized, more unified. (164)
+
+That is one of the great books are more readable. Lesser works are really more
+bothersome to read. Yet to read them well you must try to find some plan in
+them. They would be better if the author had himself seen the plan a little more
+clearly, but if they together at all, if they are a complex unity to any degree,
+there must be a plan and you must find it.
+
+ME: This generalizes obviously to code, and generalizes obviously to the task of
+design in general. Note that nobody has written on this yet. It's also
+interesting to me because the points on style seems trivial considered from the
+level of architecture.
+
+You cannot apprehend a whole without somehow seeing its parts. But it is also
+true that unless you can grasp the organization of its parts, you cannot know
+the whole comprehensively.
+
+This rule is completed by recursively analyzing the book. This may sound
+overbearing, but a good reader will operate approximately in this way in
+proportion to how profitable it would be to do (not all books deserve very close
+readings).
+
+A careful and adequate recital of the parts, and their parts, and their parts
+down to the least structural units would take a great many pages to write out.
+For instance, some of the greatest medieval commentaries on the work of
+Aristotle are longer than the originals. They include, of course, more than a
+structural analysis, for they undertake to interpret the author sentence by
+sentence. These commentaries are instances of this rule followed to perfection.
+
+Note that a lesser author may not structure his points clearly or in order.
+There may be overlap. It is the job of the reader to fix that.
+
+.. 180
+
+One does not need to follow the apparent structure of a book as indicated by
+its chapter divisions. It may be of course be better than the blueprint you
+develop, but it may also be worse. In any case, the point is to make your own
+blueprint. The author made his in order to write a good book. You must make
+yours in order to read it well. If he were a perfect writer and you a perfect
+reader, it would naturally follow that the two would be the same. In proportion
+as either of you or both fall away from perfection, all sorts of discrepancies
+will inevitably result.
+
+This does not mean to totally ignore chapter headings and sectional divisions
+made by the author. They are intended to help you, just as titles are prefaces
+are. But you must use them as guides for your own activity, and not rely on them
+passively. There are few authors who execute their plan perfectly, but there is
+often more plan in a great book than meets the eye at first. The surface can be
+deceiving.
+
+.. 181
+
+These two rules of reading look as if they were rules of writing also and of
+course they are. Though there are reciprocal rules in the two cases they are not
+followed in the same way. The reader tries to uncover the skeleton the book
+conceals, but the author starts with and tries to cover it up. The author's aim
+is to conceal the skeleton artistically, or to put flesh on the bare bones. If
+he is a good writer, he not bury a puny skeleton under a mass of fat.
+
+Writers should write books and leave commentaries to readers.
+
 .. _rule 1.4:
 
 Rule 1.4: |rule 1.4|
 ====================
 
-Find out what the author's problems were (183) or
-Define the problems the author is trying to solve (185)
+This rule repeats in another form `rule 1.2`_ and `rule 1.3`_: A reader should
+be able to formulate the main problems (or question) and their subordinate
+problems as precisely as he can and be able to put them in an intelligible
+order.
+
+This rule is most pertinent to the `great books`_, since they are `original
+communications`_ and the author started out with problems and ended by writing
+what the solutions were.
+
+Kinds of questions
+------------------
+
+If you know the kinds of questions anyone can ask about anything, you will
+become adept in detecting an author's problems. They can be briefly and
+non-exhaustively formulated:
+
+-   Theoretical questions
+
+    - Does something exist?
+    - What kind of thing is it?
+    - What caused it to exist, or under what conditions can it exist, or why does it
+      exist?
+    - What purpose does it serve?
+    - What are the consequences of its existence?
+    - What are its characteristic properties, its typical traits?
+    - What are its relations to other things of a similar sort, or of a different
+      sort?
+    - How does it behave?
+
+-   Practical questions
+
+    - What ends should be sought?
+    - What means should be chosen to a given end?
+    - What things must one do to gain a certain objective, and in what order?
+    - Under these conditions, what is the right thing to do, or the better
+      rather than the worse?
+    - Under what conditions would it be better to do this rather than that?
+
+.. 185
 
 ***************
 Coming to terms
 ***************
-
-`185`
 
 
 Communication
@@ -649,7 +865,8 @@ Mortimery Adler wrote the book on reading in "How to Read a Book". Identified fo
 
 2.  Inspectional
 
-    Inspectional reading allows us to look at the authors blueprint and evaluate the merits of a deeper reading experience
+    Inspectional reading allows us to look at the authors blueprint and evaluate
+    the merits of a deeper reading experience
 
     There are two types of inspectional reading:
 
@@ -662,15 +879,18 @@ Mortimery Adler wrote the book on reading in "How to Read a Book". Identified fo
         3.  Checking the index
         4.  Reading the inside jacket
 
-        This should give you sufficient knowledge to understand the chapters in the book pivotal to the authors argument.
+        This should give you sufficient knowledge to understand the chapters in
+        the book pivotal to the authors argument.
 
-        Skimming helps you reach a decision point: Does this book deserve more of my time and attention?
+        Skimming helps you reach a decision point: Does this book deserve more
+        of my time and attention?
 
     2.  Superficial reading
 
 3.  Analytical
 
-    Analytical reading is a thorough reading; the best you can do given an unlimited time.
+    Analytical reading is a thorough reading; the best you can do given an
+    unlimited time.
 
     Rules to analytic reading:
 
@@ -681,13 +901,17 @@ Mortimery Adler wrote the book on reading in "How to Read a Book". Identified fo
 
     Though these may sound easy, they involve a lot of work.
 
-    When you're done this, you may understand the book but not the broader subject. To do this, you need to use comparative reading to synthesize knowledge from several books on the same subject.
+    When you're done this, you may understand the book but not the broader
+    subject. To do this, you need to use comparative reading to synthesize
+    knowledge from several books on the same subject.
 
 4.  Syntopical
 
-    This is also known as comparative reading and it represents the most demanding and difficult reading of all.
+    This is also known as comparative reading and it represents the most
+    demanding and difficult reading of all.
 
-    Syntopical reading involves reading many books on the same subject and comparing and contrasting ideas.
+    Syntopical reading involves reading many books on the same subject and
+    comparing and contrasting ideas.
 
     There are five steps to syntopical reading:
 
@@ -697,9 +921,11 @@ Mortimery Adler wrote the book on reading in "How to Read a Book". Identified fo
     4. Define the issues
     5. Analyze the discussion
 
-These are thought of as levels because you can't move to a higher level without a firm understanding of the previous one.
+These are thought of as levels because you can't move to a higher level without
+a firm understanding of the previous one.
 
-The goal of reading determines how you read. The goal of reading a romance novel is different from reading the newspaper which is different from reading Plato.
+The goal of reading determines how you read. The goal of reading a romance novel
+is different from reading the newspaper which is different from reading Plato.
 
 
 .. The full list of rules is on 265 at the opening of Chapter 14
@@ -714,8 +940,7 @@ The goal of reading determines how you read. The goal of reading a romance novel
 
 .. The descriptions for the rules of the first reading are from (124) and (185)
 
-.. |rule 1.2| replace:: State what the whole book is about with the utmost 
-                        brevity
+.. |rule 1.2| replace:: Concisely state the unity 
 .. |rule 1.3| replace:: Enumerate its major parts in their order and relation,
                         and analyze these parts as you have analyzed the whole
 .. |rule 1.4| replace:: Define the problem or problems the author is trying to
@@ -779,7 +1004,8 @@ Complex skill
 Extrinsic reading
     Reading a book in the light of other books.
 
-    Other books may be only reference books, secondary books or other great books.
+    Other books may be only reference books, secondary books or other great
+    books.
 
     We may also necessarily use relevant experience as an extrinsic aid.
 
@@ -877,6 +1103,12 @@ Liberal art
 
     *focus* truth, expository writing
 
+.. _original communication:
+.. _original communications:
+
+Original communication
+    TODO: Complete this
+
 .. _obscurantism:
 
 Obscurantism
@@ -942,6 +1174,13 @@ Understanding
 
     1. First, as a whole, having unity and a structure of parts
     2. Second, in terms of its elements, its units of language and thought
+
+.. 162
+
+.. _unity:
+
+Unity
+    The unity of a book is what it is about, its purpose, theme, or main point.
 
 #########
 Footnotes

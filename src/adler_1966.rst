@@ -572,12 +572,11 @@ started out with problems and ended by writing the solutions. The reader may
 improve his ability to detect an author's problems by studying the kinds of
 questions anyone can ask about anything. [#]_
 
-.. 185
-
 ***************
 Coming to terms
 ***************
 
+:Pages: 185-209 (24)
 
 Communication
     An effort on the part of one man to share some with another: his knowledge,
@@ -602,7 +601,7 @@ Note that the rule has two parts.
 What's the proposition and why
 ******************************
 
-`209`
+:Pages: 209-235 (26)
 
 .. _rule 2.2:
 
@@ -648,11 +647,11 @@ that composed the argument.
 Rule 2.4: |rule 2.4|
 ====================
 
-*********************************
+*****************************
 The etiquette of talking back
-*********************************
+*****************************
 
-`235`
+:Pages: 235-251 (16)
 
 Reading a book is a kind of conversation. The reader has the last word, but
 the reader must not be judge before reading fully because the author cannot
@@ -680,11 +679,11 @@ Rule 3.1.2: |rule 3.1.2|
 Rule 3.1.3: |rule 3.1.3|
 ------------------------
 
-*********************************
+*****************************
 The things the reader can say
-*********************************
+*****************************
 
-`251`
+:Pages: 235-266 (15)
 
 Rule 3.2: |rule 3.2|
 ====================

@@ -3,7 +3,7 @@
 .. _reicher 1969:
 
 ================================================================================
-Perceptual recognition as a function of meaningful of stimulus material
+Perceptual recognition as a function of meaningfulness of stimulus material
 ================================================================================
 
 :Authors: Gerald M. Reicher

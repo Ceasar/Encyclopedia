@@ -26,12 +26,12 @@ Introduction
 
 Sperling showed after a very brief visual presentation of letters, |Ss|
 initially have more information available than they can report. This suggests
-that |Ss| have a limited capacity to `process`_ information and that they store
-information in some storage system before processing, which Sperling calls
-|VIS|_. Subjects lose information while it remains in |VIS|_. Presumably, |VIS|_
-does not detect words, so a `scanning device`_ is proposed as well.  Evidence on
-whether the |SCAN|_ processes information in serial or parallel is equivocal.
-[*]_
+that |Ss| have a limited capacity to `process`_ visual information and that
+excess information is kept in (what Sperling calls) |VIS|_ to await processing.
+Subjects lose information while it remains in |VIS|_ and it may be cleared by
+`visual masking`_. Presumably, |VIS|_ does not detect words, so a `scanning
+device`_ is proposed as well.  Evidence on whether the |SCAN|_ processes
+information in serial or parallel is equivocal.  [*]_
 
 Experiment
 ================================================================================
@@ -44,17 +44,15 @@ Experiment
     four-letter non-words.
 
 :Prediction:
-    If we accept the assumption that processing time is the critical variable in
-    the task and is a monotonic function of the time between the onset of the
-    stimulus and the onset of the masking field, we must predict that single
-    words are processed faster than single letters.
+    If the serial model is right and processing time is the critical variable in
+    the task, then single words should be processed faster than single letters.
 
 :Experiment:
     9 |Ss| participated in 2 sessions over two days.
     
-    3 variables were controlled:
+    Two variables were controlled:
 
-    1. `Stimulus duration`_
+    #. `Stimulus duration`_
 
        1. |D_SHORT|_
 
@@ -62,13 +60,7 @@ Experiment
 
        3. |D_LONG|_
 
-    2. `Precue conditions`_
-
-       1. Informed of `response alternatives`_ beforehand
-
-       1. Not informed of `response alternatives`_ beforehand
-
-    3. `Type of material`_
+    #. `Type of material`_
 
        1. One letter
 
@@ -81,10 +73,6 @@ Experiment
        5. One 4-letter non-word
 
        6. Two 4-letter non-words
-    
-    In the first session, half of the |Ss| received the `precue condition`_ and
-    the other half received the `no-precue condition`_. In the second session,
-    the `precue conditions`_ were inverted.
 
     In each session, the |S| was presented with three arrays of `trials`_
     corresponding to the three `stimulus durations`_ in random order.
@@ -99,16 +87,12 @@ Experiment
     The subject was tested on each stimulus item for each array in a series of
     `trials`_.
 
-    A trial consisted of a |E| and an |S| at a `tachistoscope`_.
-
     .. image:: http://www.yorku.ca/yul/gazette/past/archive/2000/022300/current/facial.jpg
     
     Each trial proceeded in four main parts:
 
-    #. If the subject had the `precue condition`_, the |E| informed them of the
-       two `response alternatives`_.
-
-    #. The |S| viewed a fixation point on a blank field.
+    #. The |S| viewed a fixation point on a blank field through a
+       `tachistoscope`_.
 
     #. The |S| viewed a stimulus display for the corresponding `stimulus
        duration`_ after signaling they were ready.
@@ -121,44 +105,100 @@ Experiment
        appeared in that column in the stimulus display.
 
 :Results:
-    - Performance on one word was better than either one letter on one non-word.
+    - Recognition performance with a |D_LONG|_ was better than performance
+      with a |D_SHORT|_.
 
-    - Performance on two words was better than either two letters or two
-      non-words.
+    - Recognition performance on one word was better than either one letter on
+      one non-word.
+
+    - Recognition performance on two words was better than either two letters or
+      two non-words.
     
-    - Performance on one of each type of material was better than performance on
-      two of that same type.
-
-    - |Ss| did better in the |D_LONG|_ than the |D_SHORT|_.
-
-    - |Ss| did worse in the `precue condition`_ than in the `no-precue
-      condition`_.
+    - Recognition performance on one of each type of material was better than
+      performance on two of that same type.
 
 :Conclusion:
-    We reject a system for serial processing of sensory information, as
-    performance on words was better than performance on letters.
+    We reject a serial model of processing of sensory information, since
+    performance on words was better than performance on letters. [*]_ [*]_
 
     The interpretation that coded units or "chunks" might be handled serially
-    remains tenable, as performance on one of each type of material was
+    remains plausible, since performance on one of each type of material was
     better than performance on two of that same type.
 
-:Discussion:
-    One possible explanation for the superiority of performance on words is that
-    letters are forgotten more quickly than words. The attempt to reduce the
-    memory load by giving |Ss| the response alternatives before presentation of
-    the stimulus display was not successful.
+Footnotes
+================================================================================
 
-    A second possibility is suggested by the reports of some |Ss| that a single
-    letter was hard to find in the field of the tachistoscope than four letters.
-    If the process of perception can be broken down into detection and
-    recognition with the completion of the former necessary before proceeding to
-    the latter, the superior performance on words could be explained in terms of
-    their increased detectability due to the greater are take up by words than
-    by letters.
+.. [*] 
+    In the early version of Sperling's 1963 model, the |SCAN|_ operated in a
+    serial manner. [#]_ Estes and Taylor 1966 have also reported data favoring a
+    serial processing model. [#]_
 
-    The data of the present experiment do not suggest any promising explanations
-    of why prior information interfered with performance. Under somewhat
-    different conditions, the opposite result has been found in other studies.
+    Sperling 1967 has more recently argued for a parallel mode of operation of
+    the |SCAN|_. [#]_ Further support for parallel processing is given by data
+    of Exp.  II of Estes and Taylor 1966. [#]_
+
+.. [*]
+    One possible explanation for the superiority of performance on words is
+    suggested by the reports of some |Ss| that a single letter was harder to
+    find in the field of the `tachistoscope`_ than four letters. If the process
+    of perception can be broken down into detection and recognition with the
+    completion of the former necessary before proceeding to the latter, the
+    superior performance on words could be explained in terms of their increased
+    detectability due to the greater area taken up by words.
+
+.. [*]
+    Another possible explanation for this is that letters are forgotten more
+    quickly than words while in |VIS|_. The experimenters attempted to mitigate
+    this possiblity by having the |E| inform half of the subjects of the
+    `response alternatives`_ before the trial, but this was not successful, as
+    informed |Ss| performed worse. It's unclear why informing subjects reduced
+    performance. Under different conditions, the opposite result was found in
+    other studies.
+
+.. [#]
+    This was suggested by an experiment in which a `visual masking field`_,
+    assumed to erase |VIS|_, followed the stimulus display after various
+    intervals. The function relating time between between the stimulus and the
+    masking field to the number of letters correctly reported had a slope of 10
+    msec per letter correctly reported.
+
+.. [#]
+    TODO: Support
+
+.. [#]
+    Although |Ss| performed better on one position of a tachistoscoptic
+    display, all of the items in all positions had some probably of being
+    reported correctly even after the shortest times were allowed for
+    processing. This is unreasonable under a serial processing hypothesis.
+
+    Sperling also notes that |Ss| can report the approximate number of
+    items, and the colors, as well as the particular letters which have been
+    cued.
+
+.. [#]
+    TODO: Support
+
+.. [#]
+    `Response alternatives`_ were directly above or below the position of the
+    `critical letter`_ in the stimulus display depending on whether the
+    `critical letter`_ had been in the top or bottom row of the display.
+
+    .. compound:: For example::
+        
+           ___D
+              K
+
+     would indicate that the critical letter had been in the top row
+     fourth column, and::
+
+            O  
+           _A__
+
+     would indicate that the critical leter had been in the bottom row,
+     second column.
+
+     Note, underscores were used on the alternative card to indicate the
+     relative position of the `critical letters`_ in the stimulus display.
 
 Glossary
 ================================================================================
@@ -298,67 +338,8 @@ Visual information storage
 .. _visual masking field:
 
 Visual masking
-    A reduction in the detectability of a brief visual stimulus (the test
-    stimulus) by the presentation of a second stimulus (the masking stimulus).
-
-Footnotes
-================================================================================
-
-.. [*] 
-
-   - In the early version of Sperling's 1963 model, the |SCAN|_ operated in a
-     serial manner. [#]_ Estes and Taylor 1966 have also reported data favoring
-     a serial processing model. [#]_
-
-   - Sperling 1967 has more recently argued for a parallel mode of operation of
-     the |SCAN|_. [#]_ Further support for parallel processing is given by data
-     of Exp.  II of Estes and Taylor 1966. [#]_
-
-.. [#]
-    This was suggested by an experiment in which a `visual masking field`_,
-    assumed to erase |VIS|_, followed the stimulus display after various
-    intervals. The function relating time between between the stimulus and the
-    masking field to the number of letters correctly reported had a slope of 10
-    msec per letter correctly reported.
-
-.. [#]
-    TODO: Support
-
-.. [#]
-    Although |Ss| performed better on one position of a tachistoscoptic
-    display, all of the items in all positions had some probably of being
-    reported correctly even after the shortest times were allowed for
-    processing. This is unreasonable under a serial processing hypothesis.
-
-    Sperling also notes that |Ss| can report the approximate number of
-    items, and the colors, as well as the particular letters which have been
-    cued.
-
-.. [#]
-    TODO: Support
-
-.. [#]
-    `Response alternatives`_ were directly above or below the position of the
-    `critical letter`_ in the stimulus display depending on whether the
-    `critical letter`_ had been in the top or bottom row of the display.
-
-    .. compound:: For example::
-        
-           ___D
-              K
-
-     would indicate that the critical letter had been in the top row
-     fourth column, and::
-
-            O  
-           _A__
-
-     would indicate that the critical leter had been in the bottom row,
-     second column.
-
-     Note, underscores were used on the alternative card to indicate the
-     relative position of the `critical letters`_ in the stimulus display.
-
+    A reduction in the detectability of a brief visual stimulus by the
+    presentation of a second stimulus (the masking stimulus).
 
 .. |S| replace:: subject
 .. |E| replace:: experimenter

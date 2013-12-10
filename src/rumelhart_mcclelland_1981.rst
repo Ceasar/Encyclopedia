@@ -28,7 +28,7 @@ The authors previously proposed an `interactive model`_, but:
 
 1. It was very general
 
-2. It suffered from a lack of  direct connection to an empirical base, and
+2. It suffered from a lack of direct connection to an empirical base, and
 
 3. It suffered from a lack of specificity of how the brain might actually out
    such complex computations.
@@ -42,32 +42,29 @@ Some important facts about word perception
 
 Key historical findings:
 
-- Word perception is possible in conditions where accurate letter perception is
-  not.
+- |WP|_ is possible in conditions where accurate |LP|_ is not.
 
-- At a given exposure level, word perception is more accurate for common words.
+- At a given exposure level, |WP|_ is more accurate for common |Ws|.
 
-- Letter perception is more accurate in nonwords that look like words than
-  nonwords that do not.
+- |LP|_ is more accurate in |NWs| that look like |Ws| than |NWs| that do not.
 
-These phenomena support the view that letter perception in words and nonwords
-is not independent of context. However, it is possible to interpret them in
-terms of `postperceptual guessing` [#]_ or `postperceptual forgetting processes`
-[#]_. `Reicher 1969`_ eliminated these nonperceptual interpretations and
-conclusively demonstrated that `word context`_ facilitates `letter perception`_.
-[#]_
+These phenomena support the view that |LP|_ in |Ws| and |NWs| is not
+independent of context. However, it is possible to interpret them in terms of
+`postperceptual guessing` [#]_ or `postperceptual forgetting processes` [#]_.
+`Reicher 1969`_ eliminated these nonperceptual interpretations and conclusively
+demonstrated that |WC|_ facilitates |LP|_. [#]_
 
 More recently, researchers eliminated the possibility that recognition of
-familiar visual forms facilitates `word perception`_ over `nonword perception`_,
-suggesting that `word perception`_ relies on the arrangement of letters.
+familiar visual forms facilitates |WP|_ over |NWP|_, suggesting that |WP|_
+relies on the arrangement of |LS|.
 
-This seems to create a paradox: If `word perception`_ relies on the arrangement
-of letters, then it seems to follow that `word perception`_ relies on the
-results of `letter perception`_. But if `word context`_ facilitates `letter
-perception`_ as in `Reicher 1969`_, then it seems to follow that `letter
-perception`_ relies on the results of `word perception`_. The paradox can be
-resolved if we consider that `letter perception`_ may be incomplete when
-interacting with `word knowledge`_.
+This seems to create a paradox: If |WP|_ relies on the arrangement of |LS|, then
+it seems to follow that |WP|_ relies on the results of |LP|_. But if |WC|_
+facilitates |LP|_ as in `Reicher 1969`_, then it seems to follow that |LP|_
+relies on the results of |WP|_. The paradox can be resolved if we consider that
+|LP|_ may be incomplete when interacting with |WK|.
+
+Perhaps what |WK| does is allows us to 
 
 The model
 ================================================================================
@@ -116,18 +113,17 @@ Footnotes
     English.
 
 .. [#]
-    Word perception might be better than nonword perception simply because a
-    large number of unrelated letters might pose a memory load that would limit
-    accuracy of identification, even if all the letters were perceived
-    accurately
+    |WP| might be better than |NWP| simply because a large number of unrelated
+    |Ls| might pose a memory load that would limit accuracy of identification,
+    even if all the |Ls| were perceived accurately
 
 .. [#]
-    Postperceptual guessing can be eliminated because letter perception was more
+    Postperceptual guessing can be eliminated because |LP| was more
     accurate in words despite the fact that both alternatives would have formed
     a word.
 
-    Postperceptual forgetting can be eliminated because letter perception was
-    more accurate in words than with single letters.
+    Postperceptual forgetting can be eliminated because |LP| was more accurate
+    in words than with single |Ls|.
 
 Glossary
 ================================================================================
@@ -163,6 +159,8 @@ Interactive processing
     A form of cooperative processing in which all knowledge at all levels of
     abstraction can come into play in the process of reading and comprehension.
 
+.. |LP| replace:: letter perception
+.. _LP:
 .. _letter perception:
 
 Letter perception
@@ -173,18 +171,34 @@ Letter perception
 Nonword perception
     The process of recognizing words.
 
+.. |WC| replace:: word context:
+.. _WC:
 .. _word context:
 
 Word context
     A context containing a recognized word.
 
+.. |WP| replace:: word perception
+.. _WP:
+.. |NWP| replace:: nonword perception
+.. _NWP:
 .. _word perception:
 
 Word perception
     The process of recognizing words.
 
+.. |WK| replace:: word knowledge
+.. _WK:
 .. _word knowledge:
 
 Word knowledge
     Information about the structure of words, including the arrangement of
     letters and the statistical frequency of letters co-occurring in a word.
+
+
+.. |L| replace:: letter
+.. |Ls| replace:: letters
+.. |W| replace:: word
+.. |Ws| replace:: words
+.. |NW| replace:: nonword
+.. |NWs| replace:: nonwords

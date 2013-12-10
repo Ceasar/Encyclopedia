@@ -12,13 +12,12 @@ Perceptual recognition as a function of meaningful of stimulus material
 
 :Abstract:
     In this study, researchers investigate whether early perceptual recognition
-    occurs in serial or parallel. Up to 1969, evidence for both had been
-    equivocal. The researchers investigated the question by flashing one or two
-    of either letters, words, or non-words before subjects and then asking them
-    to identify which letter was at a particular location between two
-    alternatives. Subjects performed best on single words, which suggests that
-    early perceptual recognition happens in parallel, but higher level
-    processing happens in serial. 
+    occurs in serial or parallel. The researchers investigated the question by
+    flashing one or two of either letters, words, or non-words before subjects
+    and then asking them to identify which letter was at a particular location
+    between two alternatives. Subjects performed best on single words, which
+    suggests that early perceptual recognition happens in parallel, but higher
+    level processing happens in serial. 
 
 .. contents::
 

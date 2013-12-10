@@ -213,9 +213,13 @@ Criticism
   letters because words take up more relative space in the display. This must be
   false though recognition of performance of 1L was better than 1Q.
 
-  Even if the above fact was not significant, we can see that some other
+- Even if the above fact was not significant, we can see that some other
   variable must be affecting the data, otherwise recognition performance of (1W
   and 1Q) and (2W and 2Q) should be identical.
+
+- This is especially interesting, because subjects were more accurate in their
+  responses when the items formed a word *even though either response alternative
+  would have formed a valid word*.
 
 Glossary
 ================================================================================

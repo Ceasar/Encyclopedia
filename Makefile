@@ -1,10 +1,15 @@
+.PHONY: all clean
+
 SRC = src
-SOURCES = $(shell find $(SRC) -type f | sed 's/rst/html/' | sed 's/$(SRC)/build/')
+TARGETS = $(shell find src -print | grep rst$  \
+		  | sed 's/rst/html/' | sed 's/$(SRC)/build/')
 RSTFLAGS =
  
 build/%.html: $(SRC)/%.rst
+	mkdir -p $(shell dirname $@)
 	rst2html.py $(RSTFLAGS) $< $@
  
-.PHONY: all
- 
-all: $(SOURCES)
+all: $(TARGETS)
+	
+clean:
+	rm -r build

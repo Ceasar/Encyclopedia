@@ -1,3 +1,4 @@
+.. include:: glossaries/psycholinguistics.h
 
 .. _reicher 1969:
 
@@ -235,6 +236,7 @@ Critical letter
     The `critical letter`_ came from each of the four possible positions of the
     four letter words equally often.
 
+.. |D_LONG| replace:: long duration
 .. _D_LONG:
 .. _long duration:
 
@@ -242,11 +244,13 @@ Long duration
     The duration at which each subject performed at 90% accuracy (uncorrected
     for chance) in identifying single letters from two response alternatives.
 
+.. |D_MED| replace:: medium duration
 .. _D_MED:
 
 |D_MED|
     The duration lying midway between the |D_SHORT|_ and the |D_LONG|_.
 
+.. |D_SHORT| replace:: short duration
 .. _D_SHORT:
 .. _short duration:
 
@@ -290,15 +294,6 @@ Response alternative
     were the alternatives for the word ``WORD`` with ``D`` being the critical
     letter.
 
-.. _scan:
-.. _scanning device:
-
-Scanning device
-    A mental device that tells whether a particular figure is a letter or some
-    other figure or whether letters make a word or not.
-
-    Selects information from |VIS|_ and passes it on for further processing.
-
 .. _stimulus duration:
 .. _stimulus durations:
 
@@ -313,16 +308,6 @@ Stimulus duration
     
     The actual durations used for each |S| were the |D_SHORT|_, the |D_LONG|_,
     and a |D_MED|_.
-
-.. _tachistoscope:
-.. _tachistoscoptic display:
-
-Tachistoscoptic display
-    A tachistoscope is a device that displays an image for a specific amount of
-    time. It can be used to increase recognition speed, to show something too
-    fast to be consciously recognized, or to test which parts of an image are
-    memorable. Tachistoscopes were used extensively in psychological research
-    before computers became ubiquitous.
 
 .. _word stimuli:
 .. _type of material:
@@ -345,30 +330,6 @@ Type of material
     (3) were made up by using the same `critical letters`_ in the same positions
     as were used in (1).
 
-.. _vis:
-.. _visual information storage:
-
-Visual information storage
-    A mental storage system in which information loss takes place.
-
-    Sperling suggests it is a fast-decaying system for storing sensory
-    information (e.g. information which has not made contract with the central
-    processor or long-term memory).
-    
-    Presumably the |VIS| does not perform the same operations as the |SCAN|_.
-
-.. _visual masking:
-.. _visual masking field:
-
-Visual masking
-    A reduction in the detectability of a brief visual stimulus by the
-    presentation of a second stimulus (the masking stimulus).
-
 .. |S| replace:: subject
-.. |E| replace:: experimenter
 .. |Ss| replace:: subjects
-.. |VIS| replace:: visual information storage
-.. |SCAN| replace:: scanning device
-.. |D_SHORT| replace:: short duration
-.. |D_MED| replace:: medium duration
-.. |D_LONG| replace:: long duration
+.. |E| replace:: experimenter

@@ -194,6 +194,27 @@ Footnotes
      Note, underscores were used on the alternative card to indicate the
      relative position of the `critical letters`_ in the stimulus display.
 
+Criticism
+================================================================================
+
+- The point on the subjects with the precue is confusing, especially in the case
+  of single letters. If subjects were given the alternatives before the trial,
+  then in the case of single letters it seems to me they should have only needed
+  to identify it as one of the two they just heard. Yet the data shows that
+  candidates did *worse* (as they did consistently in every case with the
+  precue). The authors make little attempt to explain why this might be so and
+  unsatisfyingly state they cannot explain it. It does not affect the nature of
+  the results though.
+
+- It is interesting to note that regardless of precue, the order of performance
+  was consistent (though not the degree), namely: 1W, 1L, 1Q, 2W, 2L, 2Q.
+
+- The authors admit the possibility that words are recognized better than single
+  letters because words take up more relative space in the display. This is
+  definitely true, but we can see that some other variable must be affecting the
+  data, otherwise recognition performance of (1W and 1Q) and (2W and 2Q) should
+  be identical.
+
 Glossary
 ================================================================================
 

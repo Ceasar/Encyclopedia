@@ -39,18 +39,8 @@ Experiment
 :Question:
     Does early analysis of visual information occur in serial or parallel?
 
-:Test:
-    Measure recognition performance on one or two letter, four-letter words, and
-    four-letter non-words.
-
-:Prediction:
-    If the serial model is right and processing time is the critical variable in
-    the task, then single words should be processed faster than single letters.
-
-:Experiment:
-    9 |Ss| participated in 2 sessions over two days.
-    
-    Two variables were controlled:
+:Intuition:
+    Control two variables:
 
     #. `Stimulus duration`_
 
@@ -74,18 +64,25 @@ Experiment
 
        6. Two 4-letter non-words
 
-    In each session, the |S| was presented with three arrays of `trials`_
-    corresponding to the three `stimulus durations`_ in random order.
+    Measure recognition performance on the different types of material.
 
-    Each array contained a total of 48 randomly arranged stimulus items, eight
-    from each of the six `types of material`_, with the `critical letter`_
-    appearing once in each of the eight possible positions for each type.
+:Predictions:
+    If the serial model is right and processing time is the critical variable in
+    the task, then:
     
-    .. _trial:
-    .. _trials:
+    - Recognition performance in trials with a |D_LONG| should be better than in
+      trials with a |D_SHORT|.
 
-    The subject was tested on each stimulus item for each array in a series of
-    `trials`_.
+    - Recognition performance on single letters should be better than on single
+      word and on single non-words.
+
+    - Recognition performance on single items of any type should be be better
+      than performance of two items of the same type.
+
+:Experiment:
+    Nine |Ss| participated in a group of trials for each `stimulus
+    duration`_. Each group of trials had multiple stimulus items drawn equally
+    from each `type of material`_.
 
     .. image:: http://www.yorku.ca/yul/gazette/past/archive/2000/022300/current/facial.jpg
     
@@ -105,17 +102,14 @@ Experiment
        appeared in that column in the stimulus display.
 
 :Results:
-    - Recognition performance with a |D_LONG|_ was better than performance
-      with a |D_SHORT|_.
+    - Recognition performance in trials with a |D_LONG| was better than in
+      trials with a |D_SHORT|.
 
-    - Recognition performance on one word was better than either one letter on
-      one non-word.
+    - Recognition performance on single words was better than either single
+      letters or single non-words.
 
-    - Recognition performance on two words was better than either two letters or
-      two non-words.
-    
-    - Recognition performance on one of each type of material was better than
-      performance on two of that same type.
+    - Recognition performance on single items of any type was better than
+      performance of two items of the same type.
 
 :Conclusion:
     We reject a serial model of processing of sensory information, since
@@ -247,8 +241,8 @@ Precue condition
 
     On alternate days, |Ss| were given the two alternative letters verbally
     before each stimulus exposure and repeated them. This verbal information
-    before each `trial`_ was the only difference in treatment for the conditions
-    where |Ss| had information before the `trial`_ (precue) as opposed to the
+    before each trial was the only difference in treatment for the conditions
+    where |Ss| had information before the trial (precue) as opposed to the
     condition where did not have such information (no precue).
 
 .. _process:

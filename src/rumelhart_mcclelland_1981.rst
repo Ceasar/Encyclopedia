@@ -53,20 +53,21 @@ Key historical findings:
 These phenomena support the view that letter perception in words and nonwords
 is not independent of context. However, it is possible to interpret them in
 terms of `postperceptual guessing` [#]_ or `postperceptual forgetting processes`
-[#]_. `Reicher 1969`_ eliminate these nonperceptual interpretations and
-conclusively demonstrated that word context facilitates letter perception. [#]_
+[#]_. `Reicher 1969`_ eliminated these nonperceptual interpretations and
+conclusively demonstrated that `word context`_ facilitates `letter perception`_.
+[#]_
 
-More recently, `McClelland 1976` and `Adams 1979` eliminated the possibility
-that recognition of familiar shapes facilitates word perception over nonword
-perception, suggesting that knowledge of the arrangement of letters rather
-than their exact visual form facilitates word perception.
+More recently, researchers eliminated the possibility that recognition of
+familiar visual forms facilitates `word perception`_ over `nonword perception`_,
+suggesting that `word perception`_ relies on the arrangement of letters.
 
-This seems to create a paradox: If `word perception` relies on the arrangement
-of letters in words, then it seems to follow that `word perception` relies on
-the results of `letter perception`, but `Reicher 1969`_ showed that `word
-context` facilitates `letter perception`. The paradox can be resolved if we
-consider that `letter perception` may be incomplete when interacting with `word
-knowledge`.
+This seems to create a paradox: If `word perception`_ relies on the arrangement
+of letters, then it seems to follow that `word perception`_ relies on the
+results of `letter perception`_. But if `word context`_ facilitates `letter
+perception`_ as in `Reicher 1969`_, then it seems to follow that `letter
+perception`_ relies on the results of `word perception`_. The paradox can be
+resolved if we consider that `letter perception`_ may be incomplete when
+interacting with `word knowledge`_.
 
 The model
 ================================================================================
@@ -161,3 +162,29 @@ Interactive model
 Interactive processing
     A form of cooperative processing in which all knowledge at all levels of
     abstraction can come into play in the process of reading and comprehension.
+
+.. _letter perception:
+
+Letter perception
+    The process of recognizing letters.
+
+.. _nonword perception:
+
+Nonword perception
+    The process of recognizing words.
+
+.. _word context:
+
+Word context
+    A context containing a recognized word.
+
+.. _word perception:
+
+Word perception
+    The process of recognizing words.
+
+.. _word knowledge:
+
+Word knowledge
+    Information about the structure of words, including the arrangement of
+    letters and the statistical frequency of letters co-occurring in a word.

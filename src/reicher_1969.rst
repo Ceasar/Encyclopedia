@@ -26,28 +26,12 @@ Introduction
 
 Sperling showed after a very brief visual presentation of letters, |Ss|
 initially have more information available than they can report. This suggests
-that |Ss| have a limited capacity to handle information so that when they
-are asked to report all of the items in a stimulus display, they lose
-information while they are responding. Sperling called the storage system in
-which this take places `visual information storage`_. Presumably, |VIS|_ cannot
-detect words, so a `scanning device`_ is proposed as well.
-
-Sperling's model is based on an earlier model. Both have a sensory storage
-system to hold information until the central processor is free to handle it, an
-attentional mechanism selecting the information to be processed while holding
-the remainder in the sensory storage system, and a limited capacity processing
-system.
-
-The evidence on whether early analysis of visual information occurs in serial or
-parallel is equivocal.
-
-- In the early version of Sperling's 1963 model, the |SCAN|_ operated in a
-  serial manner. [#]_ Estes and Taylor 1966 have also reported data favoring a
-  serial processing model. [#]_
-
-- Sperling 1967 has more recently argued for a parallel, rather than a serial,
-  mode of operation of the |SCAN|_. [#]_ Further support for parallel processing
-  is given by data of Exp. II of Estes and Taylor 1966. [#]_
+that |Ss| have a limited capacity to `process`_ information and that they store
+information in some storage system before processing, which Sperling calls
+|VIS|_. Subjects lose information while it remains in |VIS|_. Presumably, |VIS|_
+does not detect words, so a `scanning device`_ is proposed as well.  Evidence on
+whether the |SCAN|_ processes information in serial or parallel is equivocal.
+[*]_
 
 Experiment
 ================================================================================
@@ -55,8 +39,9 @@ Experiment
 :Question:
     Does early analysis of visual information occur in serial or parallel?
 
-:Hypothesis:
-    Evidence is equivocal.
+:Test:
+    Measure recognition performance on one or two letter, four-letter words, and
+    four-letter non-words.
 
 :Prediction:
     If we accept the assumption that processing time is the critical variable in
@@ -65,9 +50,6 @@ Experiment
     words are processed faster than single letters.
 
 :Experiment:
-    Measure recognition performance on one or two letter, four-letter words, and
-    four-letter non-words.
-
     9 |Ss| participated in 2 sessions over two days.
     
     3 variables were controlled:
@@ -82,9 +64,9 @@ Experiment
 
     2. `Precue conditions`_
 
-       1. `precue`_
+       1. Informed of `response alternatives`_ beforehand
 
-       2. `no-precue`_
+       1. Not informed of `response alternatives`_ beforehand
 
     3. `Type of material`_
 
@@ -100,58 +82,65 @@ Experiment
 
        6. Two 4-letter non-words
     
-    In the first session, 4 |Ss| received the `precue condition`_ and 5 |Ss|
-    received the `no-precue condition`_. In the second session, the `precue
-    conditions`_ were inverted.
+    In the first session, half of the |Ss| received the `precue condition`_ and
+    the other half received the `no-precue condition`_. In the second session,
+    the `precue conditions`_ were inverted.
 
-    In each session, the |S| was presented with three blocks of `trials`_
-    corresponding to one of the three `stimulus durations`_ (the ordering was
-    chosen at random for each |S| from one of the six possible orderings).
+    In each session, the |S| was presented with three arrays of `trials`_
+    corresponding to the three `stimulus durations`_ in random order.
 
-    Each block contained eight stimulus items from each of the six `types
-    of material`_ with the `critical letter`_ in a different position, for a
-    total of 48 stimulus items.
-
-    The stimulus items were then ordered randomly and the subject ran through
-    each in a `trial`_.
+    Each array contained a total of 48 randomly arranged stimulus items, eight
+    from each of the six `types of material`_, with the `critical letter`_
+    appearing once in each of the eight possible positions for each type.
     
     .. _trial:
     .. _trials:
 
-    A trial consisted of a |S| and an |E| at a `tachistoscope`_ and proceeded in
-    four parts:
+    The subject was tested on each stimulus item for each array in a series of
+    `trials`_.
 
-    1. A fixation point was displayed on a blank field
+    A trial consisted of a |E| and an |S| at a `tachistoscope`_.
 
-    2. The stimulus display was displayed after being initiated by a |S|
-       after a ready signal from the |E|.
+    .. image:: http://www.yorku.ca/yul/gazette/past/archive/2000/022300/current/facial.jpg
+    
+    Each trial proceeded in four main parts:
 
-    3. A `visual masking field`_ was displayed along with the two `response
-       alternatives`_. [#]_
+    #. If the subject had the `precue condition`_, the |E| informed them of the
+       two `response alternatives`_.
 
-    4. The |S| responded with the `response alternative`_ which they thought had
-       appeared in the stimulus display.
+    #. The |S| viewed a fixation point on a blank field.
+
+    #. The |S| viewed a stimulus display for the corresponding `stimulus
+       duration`_ after signaling they were ready.
+
+    #. The |S| viewed a `visual masking field`_, assumed to erase |VIS|_ (which
+       would stop new processing), along with the two `response alternatives`_
+       in a particular column.
+
+    #. The |S| responded with the `response alternative`_ which they thought had
+       appeared in that column in the stimulus display.
 
 :Results:
-    - |Ss| did worse in the `precue condition`_ than in the `no-precue
-      condition`_.
-
-    - |Ss| did better in the |D_LONG| than the |D_SHORT|.
-
     - Performance on one word was better than either one letter on one non-word.
 
     - Performance on two words was better than either two letters or two
       non-words.
     
-    - Performance on one ``X`` cases was better than two ``X`` cases.
+    - Performance on one of each type of material was better than performance on
+      two of that same type.
+
+    - |Ss| did better in the |D_LONG|_ than the |D_SHORT|_.
+
+    - |Ss| did worse in the `precue condition`_ than in the `no-precue
+      condition`_.
 
 :Conclusion:
-    We reject a system for serial processing of sensory information, as |Ss| did
-    better in the one word tests than one letter.
+    We reject a system for serial processing of sensory information, as
+    performance on words was better than performance on letters.
 
-    In that performance on two of each type of material was worse than
-    performance on one of that same type, the interpretation that coded units or
-    "chunks" might be handled serially remains tenable.
+    The interpretation that coded units or "chunks" might be handled serially
+    remains tenable, as performance on one of each type of material was
+    better than performance on two of that same type.
 
 :Discussion:
     One possible explanation for the superiority of performance on words is that
@@ -222,6 +211,7 @@ Precue condition
     where |Ss| had information before the `trial`_ (precue) as opposed to the
     condition where did not have such information (no precue).
 
+.. _process:
 .. _processing:
 
 Processing
@@ -271,8 +261,6 @@ Tachistoscoptic display
     memorable. Tachistoscopes were used extensively in psychological research
     before computers became ubiquitous.
 
-    .. image:: http://www.yorku.ca/yul/gazette/past/archive/2000/022300/current/facial.jpg
-
 .. _word stimuli:
 .. _type of material:
 .. _types of material:
@@ -315,6 +303,16 @@ Visual masking
 
 Footnotes
 ================================================================================
+
+.. [*] 
+
+   - In the early version of Sperling's 1963 model, the |SCAN|_ operated in a
+     serial manner. [#]_ Estes and Taylor 1966 have also reported data favoring
+     a serial processing model. [#]_
+
+   - Sperling 1967 has more recently argued for a parallel mode of operation of
+     the |SCAN|_. [#]_ Further support for parallel processing is given by data
+     of Exp.  II of Estes and Taylor 1966. [#]_
 
 .. [#]
     This was suggested by an experiment in which a `visual masking field`_,

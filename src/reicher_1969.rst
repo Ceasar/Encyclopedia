@@ -210,10 +210,12 @@ Criticism
   was consistent (though not the degree), namely: 1W, 1L, 1Q, 2W, 2L, 2Q.
 
 - The authors admit the possibility that words are recognized better than single
-  letters because words take up more relative space in the display. This is
-  definitely true, but we can see that some other variable must be affecting the
-  data, otherwise recognition performance of (1W and 1Q) and (2W and 2Q) should
-  be identical.
+  letters because words take up more relative space in the display. This must be
+  false though recognition of performance of 1L was better than 1Q.
+
+  Even if the above fact was not significant, we can see that some other
+  variable must be affecting the data, otherwise recognition performance of (1W
+  and 1Q) and (2W and 2Q) should be identical.
 
 Glossary
 ================================================================================

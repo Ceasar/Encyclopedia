@@ -11,6 +11,11 @@ Perceptual recognition as a function of meaningfulness of stimulus material
 :Journal: Journal of Experimental Psychology. Vol. 181, No. 2, 275-280.
 :Pages: 6
 
+:Foreword:
+    Reicher 1969 stimulated a large body of research and his method became the
+    method of choice for studying the role of word contexts in facilitating the
+    perception of letters. 
+
 :Abstract:
     In this study, researchers investigate whether early perceptual recognition
     occurs in serial or parallel. The researchers investigated the question by
@@ -290,9 +295,10 @@ Processing
 
 Response alternative
     The `critical letter`_ as well as its substitute, were the two response
-    alternatives in the forced-choice procedure. For example, ``D`` and ``K``
-    were the alternatives for the word ``WORD`` with ``D`` being the critical
-    letter.
+    alternatives in the `forced-choice`_ procedure.
+    
+    For example, ``D`` and ``K`` were the alternatives for the word ``WORD``
+    with ``D`` being the critical letter.
 
 .. _stimulus duration:
 .. _stimulus durations:
@@ -329,7 +335,3 @@ Type of material
 
     (3) were made up by using the same `critical letters`_ in the same positions
     as were used in (1).
-
-.. |S| replace:: subject
-.. |Ss| replace:: subjects
-.. |E| replace:: experimenter

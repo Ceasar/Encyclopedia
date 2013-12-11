@@ -1,12 +1,28 @@
 
+.. _forced-choice: glossaries/psycholinguistics.html#forced-choice
+
 .. _tachistoscope: glossaries/psycholinguistics.html#tachistoscope
 
-.. |SCAN| replace:: scanning device
 .. _scan: glossaries/psycholinguistics.html#scan
 .. _scanning device: glossaries/psycholinguistics.html#scanning-device
 
-.. |VIS| replace:: visual information storage
 .. _vis: glossaries/psycholinguistics.html#vis
 
 .. _visual masking: glossaries/psycholinguistics.html#visual-masking
-.. _visual masking field: glossaries/psycholinguistics.html#visual-masking-field
+.. _visual masking field: `visual masking`_
+.. _VMASK: `visual masking`_
+
+.. |1L| replace:: single |L|
+.. |1Ls| replace:: single |Ls|
+.. |E| replace:: experimenter
+.. |L| replace:: letter
+.. |Ls| replace:: letters
+.. |S| replace:: subject
+.. |Ss| replace:: subjects
+.. |SCAN| replace:: scanning device
+.. |VIS| replace:: visual information storage
+.. |VMASK| replace:: visual masking
+.. |W| replace:: word
+.. |Ws| replace:: words
+.. |-W| replace:: nonword
+.. |-Ws| replace:: nonwords

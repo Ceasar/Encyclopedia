@@ -1,4 +1,9 @@
 
+.. _forced-choice:
+
+Forced choice procedure 
+    As in the Reicher procedure.
+
 .. _tachistoscope:
 
 Tachistoscope

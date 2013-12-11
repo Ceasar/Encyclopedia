@@ -58,17 +58,17 @@ Experiment
 
     #. `Type of material`_
 
-       1. One letter
+       1. One letter (``1L``)
 
-       2. Two letters
+       2. Two letters (``2L``)
 
-       3. One 4-letter word
+       3. One word (``1W``)
 
-       4. Two 4-letter words
+       4. Two words (``2W``)
 
-       5. One 4-letter non-word
+       5. One quadrigram (``1Q``)
 
-       6. Two 4-letter non-words
+       6. Two quadrigrams (``2Q``)
 
     Measure recognition performance on the different types of material.
 
@@ -102,12 +102,17 @@ Experiment
 
     #. The |S| viewed a `visual masking field`_, assumed to erase |VIS|_ (which
        would stop new processing), along with the two `response alternatives`_
-       in a particular column.
+       in a particular column. [*]_
 
     #. The |S| responded with the `response alternative`_ which they thought had
        appeared in that column in the stimulus display.
 
+:Observations:
+
+    .. image:: ../img/reicher_1969_fig_1.png
+
 :Results:
+
     - Recognition performance in trials with a |D_LONG| was better than in
       trials with a |D_SHORT|.
 
@@ -131,11 +136,33 @@ Footnotes
 .. [*] 
     In the early version of Sperling's 1963 model, the |SCAN|_ operated in a
     serial manner. [#]_ Estes and Taylor 1966 have also reported data favoring a
-    serial processing model. [#]_
+    serial processing model.
 
     Sperling 1967 has more recently argued for a parallel mode of operation of
     the |SCAN|_. [#]_ Further support for parallel processing is given by data
-    of Exp.  II of Estes and Taylor 1966. [#]_
+    of Exp.  II of Estes and Taylor 1966.
+
+.. [*]
+    `Response alternatives`_ were directly above or below the position of the
+    `critical letter`_ in the stimulus display depending on whether the
+    `critical letter`_ had been in the top or bottom row of the display.
+
+    .. compound:: For example::
+        
+           ___D
+              K
+
+     would indicate that the critical letter had been in the top row
+     fourth column, and::
+
+            O  
+           _A__
+
+     would indicate that the critical leter had been in the bottom row,
+     second column.
+
+     Note, underscores were used on the alternative card to indicate the
+     relative position of the `critical letters`_ in the stimulus display.
 
 .. [*]
     One possible explanation for the superiority of performance on words is
@@ -163,59 +190,28 @@ Footnotes
     msec per letter correctly reported.
 
 .. [#]
-    TODO: Support
-
-.. [#]
-    Although |Ss| performed better on one position of a tachistoscoptic
-    display, all of the items in all positions had some probably of being
-    reported correctly even after the shortest times were allowed for
-    processing. This is unreasonable under a serial processing hypothesis.
+    Although |Ss| performed better on one position of a `tachistoscope`_, all of
+    the items in all positions had some probably of being reported correctly
+    even after the shortest times were allowed for processing. This is
+    unreasonable under a serial processing hypothesis.
 
     Sperling also notes that |Ss| can report the approximate number of
     items, and the colors, as well as the particular letters which have been
     cued.
 
-.. [#]
-    TODO: Support
-
-.. [#]
-    `Response alternatives`_ were directly above or below the position of the
-    `critical letter`_ in the stimulus display depending on whether the
-    `critical letter`_ had been in the top or bottom row of the display.
-
-    .. compound:: For example::
-        
-           ___D
-              K
-
-     would indicate that the critical letter had been in the top row
-     fourth column, and::
-
-            O  
-           _A__
-
-     would indicate that the critical leter had been in the bottom row,
-     second column.
-
-     Note, underscores were used on the alternative card to indicate the
-     relative position of the `critical letters`_ in the stimulus display.
-
 Criticism
 ================================================================================
 
-- The point on the subjects with the precue is confusing, especially in the case
-  of single letters. If subjects were given the alternatives before the trial,
-  then in the case of single letters it seems to me they should have only needed
-  to identify it as one of the two they just heard. Yet the data shows that
-  candidates did *worse* (as they did consistently in every case with the
-  precue). The authors make little attempt to explain why this might be so and
-  unsatisfyingly state they cannot explain it. It does not affect the nature of
-  the results though.
+- The point on the subjects with the `precue`_ is confusing, especially in the
+  case of |1Ls|. If subjects were given the alternatives before the trial, then
+  in the case of |1Ls| it seems to me they should have only needed to identify
+  it as one of the two they just heard. Yet the data shows that candidates did
+  *worse* (as they did consistently in every case with the precue). The authors
+  make little attempt to explain why this might be so and unsatisfyingly state
+  they cannot explain it. It does not affect the nature of the results though.
 
 - It is interesting to note that regardless of precue, the order of performance
   was consistent (though not the degree), namely: 1W, 1L, 1Q, 2W, 2L, 2Q.
-  
-  Note: Q stands for quadrigram.
 
 - The authors admit the possibility that words are recognized better than single
   letters because words take up more relative space in the display. This must be
@@ -320,18 +316,25 @@ Stimulus duration
 .. _types of material:
 
 Type of material
-    Four types of stimuli were presented:
+    Six types of stimuli were presented:
 
-    1. Four-letter word
-    2. Four-letter non-word
-    3. One letter
-    4. Two letter
+    1. One letter (``1L``)
 
-    (1) were 216 4-letter words chosen such that each of the words could be
-    changed by one letter to make up a new word.
+    2. Two letters (``2L``)
 
-    (2) were anagrams of (1) with the `critical letter`_ held in the same
-    position.
+    3. One word (``1W``)
 
-    (3) were made up by using the same `critical letters`_ in the same positions
-    as were used in (1).
+    4. Two words (``2W``)
+
+    5. One quadrigram (``1Q``)
+
+    6. Two quadrigrams (``2Q``)
+
+    (3) and (4) were 216 4-letter words chosen such that each of the words could
+    be changed by one letter to make up a new word.
+
+    (5) and (6) were anagrams of (3) and (4) with the `critical letter`_ held in
+    the same position.
+
+    (1) and (2) were made up by using the same `critical letters`_ in the same
+    positions as were used in (3) and (4).

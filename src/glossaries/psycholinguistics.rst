@@ -13,6 +13,8 @@ Tachistoscope
     memorable. Tachistoscopes were used extensively in psychological research
     before computers became ubiquitous.
 
+    .. image:: http://www.yorku.ca/yul/gazette/past/archive/2000/022300/current/facial.jpg
+
 .. |SCAN| replace:: scanning device
 .. _scan:
 .. _scanning device:

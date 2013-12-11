@@ -89,8 +89,6 @@ Experiment
     Nine |Ss| participated in a group of trials for each `stimulus
     duration`_. Each group of trials had multiple stimulus items drawn equally
     from each `type of material`_.
-
-    .. image:: http://www.yorku.ca/yul/gazette/past/archive/2000/022300/current/facial.jpg
     
     Each trial proceeded in four main parts:
 

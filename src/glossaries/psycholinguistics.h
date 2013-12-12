@@ -20,7 +20,8 @@
 .. |S| replace:: subject
 .. |Ss| replace:: subjects
 .. |SCAN| replace:: scanning device
-.. |VIS| replace:: visual information storage
+.. |VI| replace:: visual information
+.. |VIS| replace:: |VI| storage
 .. |VMASK| replace:: visual masking
 .. |W| replace:: word
 .. |Ws| replace:: words

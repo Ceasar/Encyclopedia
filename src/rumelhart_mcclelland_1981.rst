@@ -1,9 +1,8 @@
 
 .. include:: glossaries/psycholinguistics.h
+.. _reicher 1969: ../build/reicher_1969.html 
 
 .. _rumelhart mcclelland 1981:
-.. _reicher 1969: ../build/reicher_1969.html 
-.. _fig 2.3: ../img/rumelhard_mcclelland_1981_fig_2.3.png
 
 ================================================================================
 Interactive Processing through Spreading Activation
@@ -35,9 +34,9 @@ The authors previously proposed an `interactive model`_, but:
 3. It suffered from a lack of specificity of how the brain might actually out
    such complex computations.
    
-Here, the authors attempt to propose a model that addresses these concerns.
+Here, the authors propose a model that addresses these concerns.
 
-Some important facts about word perception
+Some important facts about |WP|
 ================================================================================
 :Pages: 38-43 (6)
 
@@ -52,11 +51,12 @@ The literature provides several important clues to the processes at work in
 
 2. |~Ws| have |Wa| over |-Ws| and |1Ls|. [#]_
 
-3. |WA| is greatly affected by the details of the visual conditions used. [#]_
+3. |WA| is greatly affected by the details of the visual conditions used. (see:
+   the word advantage and its dependence on masking)
 
 These findings seem to be compatible with a model in which partial preattentive
-activations of letters give rise to the activation of words, which in turn
-produce feedback reinforcing the letter activations.
+activations of |Ls| give rise to the activation of |W|, which in turn
+produce feedback reinforcing the |L| activations.
 
 The model
 ================================================================================
@@ -76,49 +76,45 @@ Assumptions:
 2. Communication proceeds through a spreading activation mechanism in which
    activation at one level "spreads" to neighboring levels.
 
-3. Communication can consists of both `excitatory`_ messages and `inhibitory`_
-   messages.
+3. Communication consists of messages that either |+|_ or |-|_.
 
-4. Intralevel `inhibitory`_ relationships represent a kind of relationship in
-   which certain units at the same level compete. [#]_  
+4. Intralevel relationships that |-|_ one another represent a kind of
+   relationship in which certain units at the same level compete. [#]_  
    
-Although we assume that there are many levels that might be important in
-|WP|, we have found that we can account for many of the major phenomena by
-considering only the interactions between "letter-level" and "word-level"
-elements. Thus, we elaborate the model only on these two levels, and assume that
-the other levels merely generate input to these levels.
+Although we assume that there are many levels that might be important in |WP|,
+we have found that we can account for many of the major phenomena by considering
+only the interactions between the |LL| and |WL|. Thus, we describe the
+model only for these two levels, and assume that other levels merely generate
+input to these.
 
 Specific assumptions
 --------------------------------------------------------------------------------
 :Pages: 43-46 (4)
 
 .. image:: ../img/rumelhart_mcclelland_1981_fig_2.2.png
-   :height: 500px
+   :height: 400px
    :align: right
 
 For every relevant unit in the system there is an entity called a "node".
 
-Word nodes are located at the word level and letter nodes are located at the
-letter level.
+|W| nodes are located at the |WL| and |L| nodes are located at the |LL|.
 
-Each node has two-way `excitatory`_ or `inhibitory`_ connections to a number of
-other nodes, both within levels and between adjacent levels.
+Each node has two-way connections to a number of other nodes, both within levels
+and between adjacent levels.
 
-Connections within the word level are mutually `inhibitory`_ since only one word
-can occur any one time. Connections between the word level and letter level may
-be either `inhibitory`_ or `excitatory`_ depending on whether or not the letter
-is a part of the word in the appropriate letter position.
+Connections within the |WL| mutually |-|_ since only one word can occur any one
+time. Connections between the |WL| and |LL| may either |+|_ or |-|_ depending on
+whether the |L| appears in the |W| at the relevant index.
 
 Each node has a momentary level of activation. Every moment, the influences of
-node's `active`_ `neighbors`_ are combined by a simple weighted average to yield
-a net input to the node, which drives its activation.  In the absence of
-`active`_ `neighbors`_, nodes are assumed to decay back to an inactive state.
+a node's `active`_ `neighbors`_ are combined by a simple weighted average to
+yield a net input to the node, which drives its activation.  In the absence of
+`active`_ `neighbors`_, a node's activation decays to an inactive state.
 
-Upon presentation of a stimulus, a set of features inputs are assumed to be made
-available to the system. [#]_ As features are detected, they excite letter-level
-nodes that contain them and inhibits those that do not. The probability of
-detection and the rate at which the feature excites or inhibits the relevant
-letter nodes represent the clarity of the visual display.
+Upon presentation of a stimulus, a set of features inputs are made available to
+the system. [#]_ As features are detected, they |+|_ |LL| nodes that contain
+them and |-|_ those that do not. The probability of detection and the degree to
+which a feature can |+|_ or |-|_ represents the clarity of the visual display.
 
 The operation of the model
 --------------------------------------------------------------------------------
@@ -126,60 +122,44 @@ The operation of the model
 
 Now we consider what happens when an input reaches the system.
 
-Assume that all prior inputs have had an opportunity to decay, that the entire
-system is in its quiescent state, and that each node is at resting level.
+Assume that the entire system is in a quiescent state and that each node is at
+resting level.
+
+.. image:: ../img/rumelhart_mcclelland_1981_fig_2.4.png
+   :height: 200px
+   :align: right
 
 The presentation of a stimulus initiates a chain in which certain features are
-extracted and excitatory and inhibitory pressures begging to act upon the
-letter-level nodes.
+extracted which |+|_ and |-|_ |LL| nodes, causing some to activate. These |L|
+nodes, in turn, |+| |WL| nodes which contain them and |-|_ |WL| nodes which do
+not.
 
-The activation levels of certain of the letter nodes are pushed above their
-resting levels.
+.. image:: ../img/rumelhart_mcclelland_1981_fig_2.5.png
+   :height: 500px
+   :align: right
 
-Others receive predominantly inhibitory inputs and are pushed below their
-resting levels. These letter nodes, in turn, will begin to send activation to
-those word-level nodes of which they are a part and inhibit those word nodes
-with which they are not consistent.
+Meanwhile, |LL| nodes |-|_ each other, with the strongest ones getting the
+upper-hand. As |WL| nodes become active, they in turn |-|_ each another and |+|_
+and |-|_ the |LL| nodes.
 
-In addition, the various letter-level nodes attempt to suppress each other, with
-the strongest ones getting the upper-hand. As word-level nodes become active,
-they in turn compete with one another and send excitation and inhibition back
-down to the letter-level nodes.
-
-If the input features are close to those for one particular set of letter are
-consistent with those forming a particular word, the positive feedback in the
-system will work to converge rapidly on the appropriate letter set and word. If
-not, they will compete will each other; and perhaps no single letter set nor
-single word will get enough activation to dominate the others, and their
-inhibitory relationships might strangle each other. The details of the process
-are greatly affected by the values of various parameters of the model.
+If the input features seem to form a particular |W|, the system will converge
+rapidly on the appropriate |Ls| and |W|. If not, competition will ensue; and
+perhaps no |Ls| nor |W| will dominate the others. The details of the process are
+greatly affected by the values of various parameters of the model.
 
 Simulations
 --------------------------------------------------------------------------------
 :Pages: 46-49
 
-Though the basic idea of the model are simple, its behavior is quite complex and
-cannot be understand without actually "running" it.
+The authors have simulated the model using a computer with several simplifying
+assumptions:
 
-We have been able to do this by simulating the performance on the model using a
-computer. To do we have to make several simplifying assumptions.
+1. The simulation of the model operates in discrete time slices, or ticks.
 
-1. The simulation of the model operates in discrete time slices, or ticks,
-   updating the activations of all the nodes in the system one each cycle, on
-   the basis of the values on the previous cycle. We have endeavored to keep the
-   time slice "thin" enough so that the model's behavior is continuous for all
-   intents and purposes.
+2. The degree to which one node may |+|_ or |-|_ another depends only on the
+   levels at which the nodes are located.
 
-2. The weight of the excitatory and inhibitory effects of one node on another
-   depend only on the levels at which the nodes are located. In other words, the
-   strength of the connections between all letter nodes and all words nodes of
-   which they are part are assumed to be the same, independent of the identity
-   of the words.
-
-3. Simulations have been restricted to four-letter words.
-
-
-EXAMPLE IS GIVEN
+3. We restrict stimuli to four-letter words.
 
 On making responses
 --------------------------------------------------------------------------------
@@ -191,12 +171,11 @@ related to the content of percepts and the sorts of response probability as
 observe in experiments.
 
 The model assumes that the percept corresponds to a temporal integration of the
-pattern of activation over all the nodes.
-
-The integration process is assumed to occur slowly enough that very brief
-activations may come and go without necessarily entering perceptual experience
-or being accessible for purposes of responding; the longer an activation last,
-the more likely it is to be reportable.
+pattern of activation over all the nodes. The integration process is assumed to
+occur slowly enough that very brief activations may come and go without
+necessarily entering perceptual experience or being accessible for purposes of
+responding; the longer an activation last, the more likely it is to be
+reportable.
 
 Applications of the model to the literature
 ================================================================================
@@ -205,30 +184,145 @@ Applications of the model to the literature
 Below we try to illustrate a few of the major features of the model's operation
 in account for of the most important facts.
 
-The word advantage and its dependence on masking
+The word advantage and its dependence on |VMASK|
 --------------------------------------------------------------------------------
 :Pages: 51-51
 
-It is commonly observed that subjects are able to report the letters in a dim,
-degrade, or parafoveal presentation of a word more accurately than letters in
-unpronounceable |-Ws|. However there is very little advantage for letters in
-words compared to nonwords under these conditions in Reicher.
+.. TODO: Come back to this section. It's unclear to me what the point is.
+
+:Preface: I don't really understand why there is a difference. I think it is
+          because there isn't much activation going in the no-mask condition
+          for probabilities to even be formed.
+
+Researchers have found that |WA| of |Ws| over |1Ls| and |-Ws| in
+`forced-choice`_ tasks is greatly affected by visual conditions. A variety of
+different interpretations have been offered for the dependence of the |WA| on
+|VMASK|.
+
+============    =========  =======  ==================
+Display         |VMASK|_?  |WA|     Performance Limit
+============    =========  =======  ==================
+Dim or brief    No         Minimal  Extracted |VI|
+Clear           Yes        Large    Stimulus duration
+============    =========  =======  ==================
+
+.. image:: ../img/rumelhart_mcclelland_1981_fig_2.7.png
+   :align: right
+   :width: 400px
+
+Assume target presentation results in mask conditions in complete feature
+extraction.
+
+- In the no-mask condition, word-level feedback reinforces |Ls| consistent with
+  the |S|'s |WK| and extracted |VI|
+
+- In the mask condition, word-level feedback reinforces |Ls|.
+
+.. These are identical?
+.. It's not clear to me why in the first case, there is no word advantage. In
+   the second, it is clear-- word activation reinforces |Ls|. This would also
+   increase the strenghth of |~Ws|
+
+
+Possibilities:
+
+1. The fact that the stimulus is a word makes it possible to maintain
+   activations of a representation capturing the information in the display
+   longer than would otherwise be the case, thereby increasing the chance
+   that the |S| would have enough time to translate the activated
+   representation into a form suitable for overt report.
+
+   The feedback mechanism we have been describing might have just such an
+   effect; word-level feedback could keep the representations of the |L| active
+   longer in the face of |VMASK| than would otherwise be the case.
 
 Perception of pronounceable nonwords
 --------------------------------------------------------------------------------
 :Pages: 51-54
 
+
+The model explains why |LP| in |~Ws| is greater than |-W| and |1L|. Namely, as
+|~Ws| are similar to |Ws|, |W| nodes will reinforce |Ls| in |~Ws|, which they
+will not do for |-W| nor |1Ls|.
+
+.. TODO: I do not understand how the model explains why expectation has any
+         effect. I think what is being gotten at is that the model might change
+         based on expectations, in one case with strong inhibitory effects
+         (representing the expectation that only words will be presented) and
+         one with weak inhibitory effects (representing the expectation of
+         |~Ws|) (they later call this letter-word inhibition)
+
+Studies now show that |LP| in |~W| is facilitated only if |S| is aware that the
+list of stimuli may contain |~W|. Interestingly, |LP| in |W| does depend on
+expectation in this way.
+
+Assume that the result depends on the ratio of |+| to |-| in the influence of
+activation at the |LL| on activation of the |WL| 
+
 The flexibility of the perceptual system
 --------------------------------------------------------------------------------
 :Pages: 54-54
+
+The model captures the effects of the visual conditions of the stimulus
+presentation and the expectations of the subject for what types of material will
+be shown.
 
 Other effects in the literature
 --------------------------------------------------------------------------------
 :Pages: 54-56
 
+There are a number of other phenomena in the literature that we have been able
+to account for with our model.
+
+- It was recently found that the letter ``S`` is no more easily seen in ``SHIP``
+  than in ``SINK`` even though the context in the first case is consistent with
+  (that is, forms a word with) only 3 possible letters, whereas that context in
+  the latter case is consistent with 12 to 14, depending on what is counted as a
+  word.
+  
+  - Only words were used in the experiment, so we could expect a high value of
+    letter-word inhibition.
+  - Visual conditions were distinct target / patterned mask.
+
+  Under these conditions, only the nodes for the letters actually shown receive
+  net excitation on the basis of the stimulus input, and the only the node for
+  the single word containing all the active letters receives net excitation from
+  the output of the active letters.
+
+  Under these circumstances, the numbers of words similar to the target is
+  irrelevant, because none of the corresponding nodes receive any net
+  excitation. Thus, the model produces no constraints either.
+
+- It was recently found that the word advantage over single letters is greatly
+  reduced when the patterned mask contains letters rather than
+  non-letter-pattered elements. It did not matter whether or not the letter
+  spelled a word.
+
+  In the model, this result comes about only in cases where the input was strong
+  and of very high quality, so that the effect of feedback from the word level
+  is to increase the persistence rather than the height of the activation
+  function. The reason why the presence of letters in the mask reduces the word
+  advantage is that the letters in the mask quickly produce activations of their
+  own which interfere with the readout process.
+
+  (Recall that the probability of correct readout depends on the strength of the
+  correct node, divided by the sums of the strength of the other nodes)
+
+  In essence, the idea is that in the case of words, there is still something
+  left for the mask letters to interfere with, but this is not so (or, rather,
+  is so to a very limited extent) in the case of single letters.
+
+  In order to get the model to behave this way, we found it was necessary to
+  restrict the effect of the mask on active letter representations while making
+  the excitatory effect of the mask letters on the nodes for the letter in the
+  mask quite strong.
+  
+
 Context enhancement effects
 --------------------------------------------------------------------------------
 :Pages: 56-58
+
+.. Not interesting
 
 Summary and conclusion
 ================================================================================
@@ -323,58 +417,9 @@ Footnotes
     to explain |WP| and |~WP| based on |WK|.
 
 .. [#]
-    Researchers have found that |WA| of |Ws| over |-Ws| is greatly affected by
-    visual conditions.
-
-    In particular, two sorts of visual conditions have been widely used:
-
-    1. The target display itself is either very dim or very brief or both, and
-       is followed either by **no mask** or **a simple light mask**. [#]_
-
-    2. The target display is a bright, clear, high-contrast presentation of the
-       word but is followed quickly by **a high-contrast patterned mask**.
-
-    Under (1) it seems reasonable to imagine that performance is limited largely
-    by the quality of the information that can be extracted from the visual
-    display.
-
-    When a free-report measure of performance is used, |WA| are large. When a
-    `forced-choice`_ task is used, |WA| over |-Ws| is small and only slight
-    advantages for |1Ls| compared to letters in words are obtained.
-
-    Under (2), large advantages for |Ws| and |~Ws| compared to |-W| and |1L| are
-    observed.
-
-    A variety of different interpretations have been offered for the dependence
-    of the |WA| on |VMASK|.
-
-    Possibilites:
-
-    1. The fact that the stimulus is a word makes it possible to maintain
-       activations of a representation capturing the information in the display
-       longer than would otherwise be the case, thereby increasing the chance
-       that the |S| would have enough time to translate the activated
-       representation into a form suitable for overt report.
-
-       The feedback mechanism we have been describing might have just such an
-       effect; feedback from activations of |Ws| could keep the representations
-       of the |L| active longer in the face of |VMASK| than would otherwise be
-       the case.
-
-       In no-mask conditions, this feedback:
-       
-       - would tend to reinforce |Ls| consistent with the |S|'s |WK|
-
-       - would tend to reinforce |Ls| consistent with both the |S|'s |WK| and
-         the visual information that he or she has extracted from the display
-
-.. [#]
-    This characterizes most of the early work (pre-1970) on word perception.
-
-.. [#]
-    Thus, for example, since a string of four letters can be interpreted as, at
-    most, one four-letter word, the various possible words mutually inhibit one
-    another and in that way compete as possible interpretations of the string.
+    Thus, for example, since a string of four |Ls| can be interpreted as, at
+    most, one four-letter |W|, various possible |Ws| mutually inhibit each other
+    and in that way compete as possible interpretations of the string.
 
 .. [#]
     For simplicity, inputs consist of letters written in a simple geometric
@@ -382,6 +427,9 @@ Footnotes
 
     .. image:: ../img/rumelhart_mcclelland_1981_fig_2.3.png
        :height: 200px
+
+.. [#]
+    This characterizes most of the early work (pre-1970) on word perception.
 
 Glossary
 ================================================================================
@@ -470,17 +518,18 @@ Word knowledge
     Information about the structure of words, including the arrangement of
     letters and the statistical frequency of letters co-occurring in a word.
 
-.. _excitatory:
-.. _excitatory message:
+.. |+| replace:: excite
+.. _+:
 
-Excitatory message
-    A message which increases the activation level of its recipient.
+|+|
+    To increase the activation level of some entity
 
-.. _inhibitory:
-.. _inhibitory message:
+.. |-| replace:: inhibit
+.. _-:
+.. _- message:
 
-Inhibitory message
-    A message which decreases the activation level of its recipient.
+-
+    To decrease the activation level of some entity
 
 .. _neighbors:
 
@@ -491,3 +540,6 @@ Neighbors
 
 Active node
     A node with a positive degree of activation.
+
+.. |WL| replace:: |W|-level
+.. |LL| replace:: |L|-level

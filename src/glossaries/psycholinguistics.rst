@@ -28,7 +28,7 @@ Scanning device
 .. |VIS| replace:: visual information storage
 .. _vis:
 
-Visual information storage
+Visual information storage (VIS)
     A mental storage system in which information loss takes place.
 
     Sperling suggests it is a fast-decaying system for storing sensory
@@ -43,3 +43,11 @@ Visual information storage
 Visual masking
     A reduction in the detectability of a brief visual stimulus by the
     presentation of a second stimulus (the masking stimulus).
+
+.. |WSE| replace:: word superiority effect
+.. _WSE:
+
+Word superiority effect (WSE)
+    The phenomenon that people have better recognition of letters presented
+    within words as compared to isolated letters and to letters presented within
+    nonword (orthographically illegal, unpronounceable letter array) strings

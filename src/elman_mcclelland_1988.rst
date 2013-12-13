@@ -1,3 +1,4 @@
+.. include:: glossaries/shorthand.rst
 .. include:: glossaries/psycholinguistics.h
 
 ================================================================================
@@ -51,6 +52,10 @@ In this paper we:
    
 #. These findings demonstrate that more effect of |hl| knowledge of |PER| is
    possible than has been thought.
+
+
+How can |ci|_ be used to test the assumption of `TRACE`_ that |hl| do indeed
+feed activation back to |ll|.?
 
 Experiment 1
 ================================================================================
@@ -132,12 +137,6 @@ Footnotes
     The answer will be relevant when we consider how one might test the
     assumption that influences really do feed back down from higher levels
     within the speech processing system.
-
-.. [*]
-    `TRACE`_ assumes that these |ci|_ occur in basic |ms| of |sp|_.  This
-    assumption is generally quite shared.  |ci|_ are ubiquitous, and it has been
-    suggested that one of the essential functions of the |sp|_ |ms| is to |pc|_
-    for |ci|_ and recover the underling phonetic code.
 
 Glossary
 ================================================================================
@@ -236,25 +235,18 @@ Context effects
     |ce|_ operate on decision |m| does not in fact constitute evidence that
     is inconsistent with the `TRACE`_.
 
-.. _pc:
-.. _perceptual compensation:
-
-Perceptual compensation
-    
-.. _cfc:
-
-Compensation for coarticulation
-
 |cfc| in `TRACE`_
+    `TRACE`_ accounts for |ci|_ on phoneme identification by allowing active
+    phoneme units to modulate the connections between the |fl| and |pl| in an
+    adjacent time slices in just such a way as to |pc|_ for their |ci|_.
 
-    #. How does `TRACE`_ account for |ci|_ on phoneme identification? [*]_
+    `TRACE`_ assumes that these |ci|_ occur in basic |ms| of |sp|_.
 
-       `TRACE`_ accounts for |ci|_ by allowing active phoneme units to modulate the
-       connections between the |fl| and |pl| in an adjacent time slices in just
-       such a way as to |pc|_ for their |ci|_.
-
-    #. How can |ci|_ be used to test the assumption of `TRACE`_ that |hl| do indeed
-       feed activation back to |ll|.?
+    .. nonessential:
+   
+    This assumption is generally quite shared.  |ci|_ are ubiquitous, and it has
+    been suggested that one of the essential functions of the |sp|_ |ms| is to
+    |pc|_ for |ci|_ and recover the underling phonetic code.
 
 Triggering |ter| effects via |tra| influences
     In the past, we have studied the behavior of `TRACE`_ by always testing the
@@ -287,16 +279,6 @@ Speech |PER|:
     The process by which the sounds of language are heard, interpreted, and
     understood.
 
-.. _ci:
-
-Coarticulatory influences
-    |ci|_ in speech result from vocal tract dynamics and are a major source of
-    variability in the speech signal. It is well known that listeners |pc|_ for
-    the |ci|_ of one phoneme on the production of its neighbors.  Listeners
-    |pc|_ for these effects by adjusting the boundary between phonetic
-    categories which are distinguished by the frequency distribution of acoustic
-    energy.
-
 .. _modular view:
 .. _autonomous view:
 .. _autonomous model:
@@ -324,24 +306,3 @@ Interactive view:
     - |td| as well as |bu| interactions are possible.
 
 Lexically restore phoneme
-
-.. |PER| replace:: perception
-.. |cfc| replace:: compensation for coarticulation
-.. |ci| replace:: coarticulatory influences
-.. |bu| replace:: bottom-up
-.. |td| replace:: top-down
-.. |ce| replace:: context effects
-.. |sp| replace:: speech |PER|
-.. |pc| replace:: perceptual compensation
-.. |p| replace:: process
-.. |ps| replace:: processes
-.. |rp| replace:: readout |p|
-.. |m| replace:: mechanism
-.. |ms| replace:: mechanisms
-.. |ter| replace:: interlevel
-.. |tra| replace:: intralevel
-.. |pl| replace:: phoneme level
-.. |fl| replace:: feature level
-.. |wl| replace:: word level
-.. |hl| replace:: higher-level
-.. |ll| replace:: lower-level

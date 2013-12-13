@@ -21,13 +21,13 @@ Perceptual recognition as a function of meaningfulness of stimulus material
     perception of letters. 
 
 :Abstract:
-    In this study, researchers investigate whether early perceptual recognition
-    occurs in serial or parallel. The researchers investigated the question by
-    flashing one or two of either letters, words, or non-words before subjects
-    and then asking them to identify which letter was at a particular location
-    between two alternatives. Subjects performed best on single words, which
-    suggests that early perceptual recognition happens in parallel, but higher
-    level processing happens in serial. 
+    In this study, researchers investigate whether early `perceptual
+    recognition` occurs in serial or parallel. The researchers investigated the
+    question by flashing one or two of either letters, words, or non-words
+    before subjects and then asking them to identify which letter was at a
+    particular location between two alternatives. Subjects performed best on
+    single words, which suggests that early perceptual recognition happens in
+    parallel, but higher level processing happens in serial. 
 
 .. contents::
 

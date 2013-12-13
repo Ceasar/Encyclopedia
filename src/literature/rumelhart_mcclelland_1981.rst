@@ -1,6 +1,8 @@
 .. include:: ../shorthand/science.rst
 .. include:: ../shorthand/psycholinguistics.rst
 
+.. _Rumelhart: ../encyclopedia/David_E_Rumelhart.html
+.. _McClelland: ../encyclopedia/James_L_McClelland.html
 .. _forced-choice: ../encyclopedia/Two-alternative_forced_choice.html
 .. _reicher 1969: reicher_1969.html 
 
@@ -10,12 +12,13 @@
 Interactive Processing through Spreading Activation
 ================================================================================
 
-:Authors: David E. Rumelhart; James L. McClleand
+:Authors: David E. Rumelhart; James L. McClelland
 :Date: 1981
 :Book: Interactive Processes in Reading. Chapter 2.
 :Pages: 37-60 (24)
 :Abstract:
-    ?
+    In this paper, `Rumelhart`_ and `McClelland`_ propose an `interactive
+    model`_.
 
 .. contents::
 

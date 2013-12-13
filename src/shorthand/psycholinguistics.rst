@@ -1,8 +1,8 @@
 .. |1L| replace:: single |L|
 .. |1Ls| replace:: single |Ls|
 .. |bu| replace:: bottom-up
-.. |ce| replace:: context effects
 .. |ci| replace:: coarticulatory influences
+.. |ce| replace:: context effects
 .. |cfc| replace:: compensation for coarticulation
 .. |fl| replace:: feature level
 .. |hl| replace:: higher-level
@@ -24,7 +24,8 @@
 .. |tra| replace:: intralevel
 .. |VI| replace:: visual information
 .. |VIS| replace:: |VI| storage
-.. |VMASK| replace:: visual masking
+.. |VMASK| replace:: visual mask
+.. |VMASKing| replace:: visual masking
 .. |W| replace:: word
 .. |wl| replace:: word level
 .. |Ws| replace:: words
@@ -32,10 +33,12 @@
 .. |-Ws| replace:: nonwords
 .. |WSE| replace:: word superiority effect
 
-.. _ci: glossaries/psycholinguistics.html#coarticulatory-influence
-.. _cfc: glossaries/psycholinguistics.html#compensation-for-coarticulation
-.. _pc: glossaries/psycholinguistics.html#perceptual-compensation
-.. _scan: glossaries/psycholinguistics.html#scan
-.. _VIS: encyclopedia/Visual_information_storage.html
-.. _VMASK: encyclopedia/Visual_masking.html
-.. _WSE: encyclopedia/Word_superiority_effect.html
+.. _ce: ../encyclopedia/Context_effects.html
+.. _ci: ../encyclopedia/Coarticulatory_influence.html
+.. _cfc: ../encyclopedia/Compensation_for_coarticulation.html
+.. _pc: ../encyclopedia/Perceptual_compensation.html
+.. _scan: ../encyclopedia/Scanning_device.html
+.. _sp: ../encyclopedia/Speech_perception.html
+.. _VIS: ../encyclopedia/Visual_information_storage.html
+.. _VMASK: ../encyclopedia/Visual_masking.html
+.. _WSE: ../encyclopedia/Word_superiority_effect.html

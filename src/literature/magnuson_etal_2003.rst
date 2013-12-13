@@ -1,5 +1,4 @@
 .. include:: ../shorthand/psycholinguistics.rst
-.. include:: ../glossaries/psycholinguistics.h
 
 .. _Elman and McClelland (1988): elman_mcclelland_1988.html 
 

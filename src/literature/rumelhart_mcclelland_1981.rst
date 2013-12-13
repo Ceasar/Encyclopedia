@@ -1,7 +1,7 @@
 .. include:: ../shorthand/science.rst
 .. include:: ../shorthand/psycholinguistics.rst
-.. include:: ../glossaries/psycholinguistics.h
 
+.. _forced-choice: ../encyclopedia/Two-alternative_forced_choice.html
 .. _reicher 1969: reicher_1969.html 
 
 .. _rumelhart mcclelland 1981:

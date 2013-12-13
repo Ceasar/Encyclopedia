@@ -1,8 +1,8 @@
 .. include:: ../shorthand/science.rst
 .. include:: ../shorthand/psycholinguistics.rst
-.. include:: ../glossaries/psycholinguistics.h
 
 .. _tachistoscope: ../encyclopedia/Tachistoscope.html
+.. _forced-choice: ../encyclopedia/Two-atlernative_forced_choice.html
 
 .. _reicher 1969:
 
@@ -39,9 +39,9 @@ initially have more information available than they can report. This suggests
 that |Ss| have a limited capacity to `process`_ visual information and that
 excess information is kept in (what Sperling calls) |VIS|_ to await processing.
 Subjects lose information while it remains in |VIS|_ and it may be cleared by
-`visual masking`_. Presumably, |VIS|_ does not detect words, so a `scanning
-device`_ is proposed as well.  Evidence on whether the |SCAN|_ processes
-information in serial or parallel is equivocal.  [*]_
+|VMASK|_. Presumably, |VIS|_ does not detect words, so a |SCAN| is proposed as
+well.  Evidence on whether the |SCAN|_ processes information in serial or
+parallel is equivocal.  [*]_
 
 Experiment
 ================================================================================
@@ -102,7 +102,7 @@ Experiment
     #. The |S| viewed a stimulus display for the corresponding `stimulus
        duration`_ after signaling they were ready.
 
-    #. The |S| viewed a `visual masking field`_, assumed to erase |VIS|_ (which
+    #. The |S| viewed a |VMASK|_, assumed to erase |VIS|_ (which
        would stop new processing), along with the two `response alternatives`_
        in a particular column. [*]_
 
@@ -185,11 +185,11 @@ Footnotes
     found in other studies.
 
 .. [#]
-    This was suggested by an |E| in which a `visual masking field`_, assumed to
-    erase |VIS|_, followed the stimulus display after various intervals. The
-    function relating time between between the stimulus and the masking field to
-    the number of letters correctly reported had a slope of 10 msec per letter
-    correctly reported.
+    This was suggested by an |E| in which a |VMASK|_, assumed to erase |VIS|_,
+    followed the stimulus display after various intervals. The function relating
+    time between between the stimulus and the masking field to the number of
+    letters correctly reported had a slope of 10 msec per letter correctly
+    reported.
 
 .. [#]
     Although |Ss| performed better on one position of a `tachistoscope`_, all of

@@ -36,5 +36,6 @@
 .. _cfc: glossaries/psycholinguistics.html#compensation-for-coarticulation
 .. _pc: glossaries/psycholinguistics.html#perceptual-compensation
 .. _scan: glossaries/psycholinguistics.html#scan
-.. _VMASK: glossaries/psycholinguistics.html#visual-masking
+.. _VIS: encyclopedia/Visual_information_storage.html
+.. _VMASK: encyclopedia/Visual_masking.html
 .. _WSE: encyclopedia/Word_superiority_effect.html

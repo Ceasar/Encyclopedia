@@ -45,21 +45,3 @@ Scanning device
     other figure or whether letters make a word or not.
 
     Selects information from |VIS|_ and passes it on for further processing.
-
-.. _vis:
-
-Visual information storage (VIS)
-    A mental storage system in which information loss takes place.
-
-    Sperling suggests it is a fast-decaying system for storing sensory
-    information (e.g. information which has not made contract with the central
-    processor or long-term memory).
-    
-    Presumably the |VIS| does not perform the same operations as the |SCAN|_.
-
-.. _visual masking:
-.. _visual masking field:
-
-Visual masking
-    A reduction in the detectability of a brief visual stimulus by the
-    presentation of a second stimulus (the masking stimulus).

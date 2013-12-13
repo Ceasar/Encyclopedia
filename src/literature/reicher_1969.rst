@@ -1,4 +1,5 @@
-.. include:: glossaries/psycholinguistics.h
+.. include:: ../glossaries/shorthand.rst
+.. include:: ../glossaries/psycholinguistics.h
 
 .. _reicher 1969:
 

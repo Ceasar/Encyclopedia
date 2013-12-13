@@ -1,5 +1,5 @@
-.. include:: glossaries/shorthand.rst
-.. include:: glossaries/psycholinguistics.h
+.. include:: ../glossaries/shorthand.rst
+.. include:: ../glossaries/psycholinguistics.h
 
 ================================================================================
 Cognitive penetration of the |ms| of |PER|

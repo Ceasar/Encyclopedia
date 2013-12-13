@@ -578,24 +578,152 @@ Coming to terms
 
 :Pages: 185-209 (24)
 
-Communication
-    An effort on the part of one man to share some with another: his knowledge,
-    his decisions, his sentiments.
-    
-Communication succeeds only when it results in a common something, as an item
-of knowledge which two men have in common.
+Coming to terms is the first stage of interpretation. Unless the reader comes to
+terms with the author, the communication of knowledge from one to the other does
+not take a place.
 
 .. _rule 2.1:
 
 Rule 2.1: |rule 2.1|
 ====================
 
-Find the most important words and through them come to terms with the author. (187)
+Find the most important words and through them `come to terms`_ with the author.
+(187)
 
-Note that the rule has two parts.
+Note that the rule has two parts. (Each rule for the second reading does)
 
 1. Locate the words which make a difference
-   2. Determine their meanings, as used, with precision
+2. Determine their meanings, as used, with precision
+
+Interpreting a book is a kind of detective work. Finding the important words is
+locating the clues. Coming to terms through them is running down the author's
+thought.
+
+Theses rules have a grammatical and a logical aspect. The grammatical step is
+the one which deals with words. The logical step deal with their meanings, or
+more precisely, with terms. So far as communicated is concerned, both steps are
+indispensable; if language is sued without though, nothing is being
+communicated.
+
+As arts, grammar and logic are concerned with language in relation to though and
+though in relation to language.
+
+    That is why I said earlier that skill in reading and writing is gained
+    through these liberal arts, especially grammar and logic. (where? that is an
+    interesting argument)
+
+.. 188
+
+Language
+========
+
+If language were a pure and perfect medium for thought, these steps would not be
+separate; interpretation would be unnecessary. Given that language is not ideal,
+the only reasonable thing to do is make the best of language as it is, and the
+only way to do that is to use language as skillfully as possible.
+
+Because language is an imperfect medium, it also functions as an obstacle to
+communication. **The rules of interpretative reading are directed to overcoming
+that obstacles.**
+
+We can expect a good writer to do his best to reach us through the barrier
+language inevitably sets up, but we cannot expect him to do it all. In fact, we
+must him halfway. The chance of meeting of minds through language depends on the
+willingness of both reader and writer to work toward each other just as teaching
+will not avail unless there is reciprocal activity of being taught.
+
+The reciprocity here is founded on the fact that the rules of good reading and
+writing are ultimately the same in principle.
+
+How to
+======
+
+How does the reader find the important words in a book?
+
+Eliminate ordinary words
+------------------------
+
+Most of the words an author uses are unimportant and used in an everyday sense
+(one qualification: words at different times and place are not the same). Only
+those words which he uses in a special way are important for him, and for us as
+readers. This is a matter of degree: words may be more or less important.
+
+You cannot locate the important words without making an effort to understand the
+passage in which they occur. This is somewhat paradoxical, as if you understand
+the passage you will of course know which words in it are the most important.
+
+If you are mark the words that trouble you, you may hit the very ones the author
+is using specially. That this is likely to be so follows form the fact that you
+should have no trouble with the words the author uses in an ordinary way. From
+your point of view as a reader, the most important words are those which give
+you trouble.
+
+Positive signs
+--------------
+
+1. Explicit stress an author places upon certain words and not others.
+
+   He may do this in several ways.
+
+   - Typographical devices, as quotation marks or italics.
+   - Explicitly discussing it various senses and the way he is going to use it
+     here and there.
+   - Giving a précising definition.
+   - Quarrels with other writers about it.
+
+Every field of knowledge has its own technical vocabulary, which must be
+discovered by the reader.
+
+If the author has not pointed out the words himself, the reader may locate them
+through having some prior knowledge of the subject matter. If you know what kind
+of book it is, what it is about as a whole, and what its major parts are, you
+are greatly aided in separate the technical vocabulary from the ordinary words.
+
+Unfortunately, there are many field in which a technical vocabulary is not well
+established. Philosophers are notorious for having private vocabularies. They
+often find it necessary to coin new words or to overload an existing word.
+
+----
+
+Remember that spotting the important words is only the beginning of the task. It
+merely locates the places in the text where you have to go to work. There is
+another step is carrying out this first rule of interpretative reading.
+
+Let us suppose that you have the marked the words that trouble you. What next?
+
+Two major possibilities:
+
+1. The author is using these words in a single sense throughout.
+
+   Here the words stand for a single term, as in Euclid.
+
+2. The author is using them in two or more senses, shifting his meaning from
+   place to place
+
+   Here the word stands for several terms, as in Locke. This is the more usual
+   case.
+
+Procedure:
+
+1. Try to determine whether the word has one or many meanings.
+2. If many, try to see whether they are related and how.
+3. Note the places where the word is use in one sense or another, and see if the
+   context gives you any clues to the reason for the shift in meaning.
+
+   This will enable you to follow the word in its change of meanings with the
+   same flexibility that characterizes the author's usage.
+
+How does one find out what the meaning are? There is only one way. You have to
+discover the meaning of a word you do not understand by using the meanings of
+all the other words in the context which you do understand. This is not an easy
+job, but is possible.
+
+A good jigsaw puzzle is one all of whose parts fits; the picture can be
+perfectly completed. The same is true of the ideally good book. But there are
+few books of this sort. In proportion as they are good, their terms will be so
+well made and put together by the author that the reader can do the work
+interpretation fruitfully.
+
 
 ******************************
 What's the proposition and why
@@ -872,6 +1000,34 @@ Glossary
 Criticism
     To judge whether what is being offered is really acceptable as knowledge
 
+.. 185
+.. _come to terms:
+
+Come to terms
+    When in any context one knows precisely what another means when certain
+    words are used.
+
+    If the author uses a word in one meaning, and the reader reads it in
+    another, words have passed between them but they have not come to terms.
+
+    There are degrees of success.
+
+.. 186
+.. _communication:
+
+Communication
+    An effort on the part of one man to share some with another: his knowledge,
+    his decisions, his sentiments.
+
+    Root is related to the word "common".
+    
+    Communication succeeds only when it results in a common something, as an
+    item of knowledge which two men have in common. When there is unresolved
+    ambiguity in communication, there is no communication, or at best it must be
+    incomplete.
+
+    For communication to be successful, it is necessary for two parties to use
+    the same words with the same meanings.
 
 .. 119
 
@@ -1052,6 +1208,22 @@ Science
     books. You may actually have have to witness an experiment unless you can use
     your imagination to construct something as you have never observed.
 
+.. 186-187
+.. _term:
+.. _terms:
+
+Term
+    A word used unambiguously.
+
+    All (or at least nearly all) words are ambiguous, but a word which has
+    several meanings can be used in one sense at a time.
+
+    Terms do not appear in dictionaries, though the materials for making them
+    are there. Terms occur only in the process of communication.
+    
+    Terms are basic elements of communicable knowledge.
+
+    A term is not a word. A word may be ambiguous, especially an important word.
 
 .. _theoretical:
 .. _theoretical book:

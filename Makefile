@@ -1,4 +1,4 @@
-.PHONY: all clean
+.PHONY: all clean watch
 
 SRC = src
 TARGETS = $(shell find src -print | grep rst$  \
@@ -13,3 +13,6 @@ all: $(TARGETS)
 	
 clean:
 	rm -r build
+
+watch:
+	./scripts/watch

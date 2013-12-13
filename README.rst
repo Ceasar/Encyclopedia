@@ -6,22 +6,20 @@ Notes on various documents and personal encyclopdia.
 Usage
 -----
 
-To build html files, simply:
+To build HTML files, simply:
 
 .. code:: bash
 
     make
 
-To automatically build html from rst files, simply:
+To automatically rebuild HTML when a source file changes:
 
 .. code:: bash
 
-    python reload.py
-
-This script watches ``/src`` and runs ``make`` if anything is modified.
+    make watch
 
 
-To search for documents (title or contents), simply:
+To search documents (title or contents), simply:
 
 .. code:: bash
 

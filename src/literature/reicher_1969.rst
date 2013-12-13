@@ -1,4 +1,5 @@
-.. include:: ../glossaries/shorthand.rst
+.. include:: ../shorthand/science.rst
+.. include:: ../shorthand/psycholinguistics.rst
 .. include:: ../glossaries/psycholinguistics.h
 
 .. _reicher 1969:
@@ -175,18 +176,18 @@ Footnotes
 .. [*]
     Another possible explanation for this is that letters are forgotten more
     quickly than words while in |VIS|_. The experimenters attempted to mitigate
-    this possiblity by having the |E| inform half of the subjects of the
-    `response alternatives`_ before the trial, but this was not successful, as
-    informed |Ss| performed worse. It's unclear why informing subjects reduced
-    performance. Under different conditions, the opposite result was found in
-    other studies.
+    this possiblity by having the experimenter inform half of the subjects of
+    the `response alternatives`_ before the trial, but this was not successful,
+    as informed |Ss| performed worse. It's unclear why informing subjects
+    reduced performance. Under different conditions, the opposite result was
+    found in other studies.
 
 .. [#]
-    This was suggested by an experiment in which a `visual masking field`_,
-    assumed to erase |VIS|_, followed the stimulus display after various
-    intervals. The function relating time between between the stimulus and the
-    masking field to the number of letters correctly reported had a slope of 10
-    msec per letter correctly reported.
+    This was suggested by an |E| in which a `visual masking field`_, assumed to
+    erase |VIS|_, followed the stimulus display after various intervals. The
+    function relating time between between the stimulus and the masking field to
+    the number of letters correctly reported had a slope of 10 msec per letter
+    correctly reported.
 
 .. [#]
     Although |Ss| performed better on one position of a `tachistoscope`_, all of
@@ -303,9 +304,9 @@ Stimulus duration
 
     The three stimulus durations were determined separately for each |S|.
 
-    In the first session of the experiment, the |D_LONG|_  was determined.
+    In the first session of the |E|, the |D_LONG|_  was determined.
 
-    In the second session of the experiment, the |D_SHORT|_  was determined.
+    In the second session of the |E|, the |D_SHORT|_  was determined.
     
     The actual durations used for each |S| were the |D_SHORT|_, the |D_LONG|_,
     and a |D_MED|_.

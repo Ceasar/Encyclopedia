@@ -4,7 +4,6 @@
 .. |ce| replace:: context effects
 .. |ci| replace:: coarticulatory influences
 .. |cfc| replace:: compensation for coarticulation
-.. |E| replace:: experimenter
 .. |fl| replace:: feature level
 .. |hl| replace:: higher-level
 .. |L| replace:: letter
@@ -18,9 +17,7 @@
 .. |ps| replace:: processes
 .. |PER| replace:: perception
 .. |rp| replace:: readout |p|
-.. |S| replace:: subject
 .. |sp| replace:: speech |PER|
-.. |Ss| replace:: subjects
 .. |SCAN| replace:: scanning device
 .. |td| replace:: top-down
 .. |ter| replace:: interlevel

@@ -1,7 +1,8 @@
+.. include:: ../shorthand/science.rst
+.. include:: ../shorthand/psycholinguistics.rst
 .. include:: ../glossaries/psycholinguistics.h
-.. include:: ../glossaries/shorthand.rst
 
-.. _reicher 1969: ../../../build/reicher_1969.html 
+.. _reicher 1969: reicher_1969.html 
 
 .. _rumelhart mcclelland 1981:
 
@@ -65,7 +66,7 @@ The model
 
 Here we review the model we have worked out to achieve this result.
 
-.. image:: ../img/rumelhart_mcclelland_1981_fig_2.1.png
+.. image:: ../../img/rumelhart_mcclelland_1981_fig_2.1.png
    :height: 350px
    :align: right
 
@@ -92,7 +93,7 @@ Specific assumptions
 --------------------------------------------------------------------------------
 :Pages: 43-46 (4)
 
-.. image:: ../img/rumelhart_mcclelland_1981_fig_2.2.png
+.. image:: ../../img/rumelhart_mcclelland_1981_fig_2.2.png
    :height: 400px
    :align: right
 
@@ -126,7 +127,7 @@ Now we consider what happens when an input reaches the system.
 Assume that the entire system is in a quiescent state and that each node is at
 resting level.
 
-.. image:: ../img/rumelhart_mcclelland_1981_fig_2.4.png
+.. image:: ../../img/rumelhart_mcclelland_1981_fig_2.4.png
    :height: 200px
    :align: right
 
@@ -135,7 +136,7 @@ extracted which |+|_ and |-|_ |LL| nodes, causing some to activate. These |L|
 nodes, in turn, |+| |WL| nodes which contain them and |-|_ |WL| nodes which do
 not.
 
-.. image:: ../img/rumelhart_mcclelland_1981_fig_2.5.png
+.. image:: ../../img/rumelhart_mcclelland_1981_fig_2.5.png
    :height: 500px
    :align: right
 
@@ -207,7 +208,7 @@ Dim or brief    No         Minimal  Extracted |VI|
 Clear           Yes        Large    Stimulus duration
 ============    =========  =======  ==================
 
-.. image:: ../img/rumelhart_mcclelland_1981_fig_2.7.png
+.. image:: ../../img/rumelhart_mcclelland_1981_fig_2.7.png
    :align: right
    :width: 400px
 
@@ -426,7 +427,7 @@ Footnotes
     For simplicity, inputs consist of letters written in a simple geometric
     font.
 
-    .. image:: ../img/rumelhart_mcclelland_1981_fig_2.3.png
+    .. image:: ../../img/rumelhart_mcclelland_1981_fig_2.3.png
        :height: 200px
 
 .. [#]

@@ -1,4 +1,4 @@
-.. include:: ../glossaries/shorthand.rst
+.. include:: ../shorthand/psycholinguistics.rst
 .. include:: ../glossaries/psycholinguistics.h
 
 ================================================================================

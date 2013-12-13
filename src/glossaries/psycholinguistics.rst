@@ -1,4 +1,4 @@
-.. include:: shorthand.rst
+.. include:: ../shorthand/psycholinguistics.rst
 
 .. _coarticulatory influence:
 .. _coarticulatory influences:

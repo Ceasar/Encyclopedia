@@ -151,7 +151,7 @@ Knowing how to read well was like any other art or skill.
 
     Here I wish only to record this fact about our schools, a fact which
     concerns us all, because in large part they have made us what we are
-    today—people who cannot read well enough to enjoy reading for profit or
+    todaypeople who cannot read well enough to enjoy reading for profit or
     profit by reading for enjoyment. (11)
 
     But education does not stop with schooling, nor does the responsibility for
@@ -159,8 +159,8 @@ Knowing how to read well was like any other art or skill.
     system. Everyone can and must decide for himself whether he is satisfied
     with the education he got, or is now getting if he is still in school. If he
     is not satisfied, it is up to him to do something about it. With schools as
-    they are, more schooling is hardly the remedy. One way out—perhaps the only
-    one available to most people—is to learn to read better, and then, by
+    they are, more schooling is hardly the remedy. One way outperhaps the only
+    one available to most peopleis to learn to read better, and then, by
     reading better, to learn more of what can be learned through reading. (11)
 
 ***************************
@@ -668,7 +668,7 @@ Positive signs
    - Typographical devices, as quotation marks or italics.
    - Explicitly discussing it various senses and the way he is going to use it
      here and there.
-   - Giving a précising definition.
+   - Giving a precising definition.
    - Quarrels with other writers about it.
 
 Every field of knowledge has its own technical vocabulary, which must be
@@ -1310,3 +1310,4 @@ Footnotes
        - Under these conditions, what is the right thing to do, or the better
          rather than the worse?
        - Under what conditions would it be better to do this rather than that?
+

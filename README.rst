@@ -1,14 +1,13 @@
-book reports
-============
+scholar
+=======
 
-Collection of books reports.
+Notes on various documents and personal encyclopdia.
 
 Usage
 -----
 
 To build html files, simply::
 
-    mkdir build
     make
 
 To automatically build html from rst files, simply::

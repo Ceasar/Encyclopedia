@@ -2,6 +2,8 @@
 .. include:: ../shorthand/psycholinguistics.rst
 .. include:: ../glossaries/psycholinguistics.h
 
+.. _tachistoscope: ../encyclopedia/Tachistoscope.html
+
 .. _reicher 1969:
 
 ================================================================================

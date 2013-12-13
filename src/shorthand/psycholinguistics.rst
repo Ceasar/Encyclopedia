@@ -30,9 +30,11 @@
 .. |Ws| replace:: words
 .. |-W| replace:: nonword
 .. |-Ws| replace:: nonwords
+.. |WSE| replace:: word superiority effect
 
 .. _ci: glossaries/psycholinguistics.html#coarticulatory-influence
 .. _cfc: glossaries/psycholinguistics.html#compensation-for-coarticulation
 .. _pc: glossaries/psycholinguistics.html#perceptual-compensation
 .. _scan: glossaries/psycholinguistics.html#scan
 .. _VMASK: glossaries/psycholinguistics.html#visual-masking
+.. _WSE: encyclopedia/Word_superiority_effect.html

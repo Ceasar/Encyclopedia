@@ -63,11 +63,3 @@ Visual information storage (VIS)
 Visual masking
     A reduction in the detectability of a brief visual stimulus by the
     presentation of a second stimulus (the masking stimulus).
-
-.. |WSE| replace:: word superiority effect
-.. _WSE:
-
-Word superiority effect (WSE)
-    The phenomenon that people have better recognition of letters presented
-    within words as compared to isolated letters and to letters presented within
-    nonword (orthographically illegal, unpronounceable letter array) strings

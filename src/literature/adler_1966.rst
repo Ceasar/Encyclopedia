@@ -813,6 +813,30 @@ The things the reader can say
 
 :Pages: 235-266 (15)
 
+If the reader does not understand and if the fault is with the book, rather than
+with the reader, the reader must locate the sources of trouble. He should be
+able to do show that its structure is unintelligible. To the extent that a
+reader can support his charge that a book is unintelligible, he has no further
+critical obligations.
+
+Let us suppose you are a reading a good book and understand it. If you agree
+with what the author says, the work is over. You have been enlightened,
+convinced, or persuaded. This is the usual case.
+
+The reader must be acquainted with the principles of argument. The reader can
+ultimately reach significant agreement or disagreement with the author only by
+meeting the author's arguments, not by simply following them.
+
+The reader who `comes to terms` with an author and grasps his propositions and
+reasoning, is *en rapport* with the author's mind.
+
+.. 252. I think this is an important note:
+
+Aside: The whole process of interpretation is directed toward a meeting of minds
+through the medium of language. Understanding a book can be described as a kind
+of agreement between writer and reader. They agree about the use of language to
+express idea.
+
 Rule 3.2: |rule 3.2|
 ====================
 
@@ -834,11 +858,189 @@ Rule 3.2.4: |rule 3.2.4|
 And still more rules
 ************************
 
-`266`
+:Pages: 266-291 (25)
 
-################################
+There are a few point to make about the utility of looking outside the book you
+are reading in order to read it well.
+
+In any art, rules have a disappointing way of being too general. The more
+general, the fewer, but also the more remote they are from the intricacies  of
+the actual situation in which you try to follow them.
+
+So far the rules have been stated generally enough to apply to any instructive
+book, but you cannot read a book in general.
+
+The most important thing about any practical book is that it can never solve the
+practical problems with which it is concerned. Action is required. This is in
+contrast to a theoretical book, which can solve its own problems.
+
+Every action takes place in a particular situation under special circumstances.
+You cannot act in general. The kind of practical judgment which immediately
+precedes action must be highly particular.
+
+A book rarely will give such concrete advice, so rarely is such advice is every
+written. Only someone in the same exact situation could help.
+
+Practical books fall into two main groups. Those the primarily present rules (of
+which, no great books are) and those that are primarily concerned with the
+principles which generate rules (e.g. great books in economics, politics, and
+morals).
+
+In reading a book which is primarily a rulebook, the major propositions too look
+for, of course, are the rules. You can always recognize a rule because it
+recommend something as worth doing to gain a certain end. The arguments in a
+practical book will be attempts to show you that the rules are sound. The writer
+may appeal to principles or simply illustrate their soundness by showing how
+they work in on concrete cases. The former is less persuasive, but it can
+explain the reason for the rules better than examples of their use can.
+
+In the other kind, the major of propositions and arguments will look exactly
+like those in a purely theoretical book. The propositions will say that
+something is the case, and the arguments will try to show that it is so.
+However, there is an important difference between reading a such a book and a
+purely theoreitcal one- since ultimate problems to be solved are practical, an
+intelligent reader always readings between the lines and see the rules which may
+not be expressed, but may be derived from the general principles. Unless it is
+so read, a practical book is not read as practical, and is read poorly. You
+really do not understand it, and certainly cannot criticize it properly in any
+other way.
+
+In judging a theoretic book, the reader must observe the discrepancy between his
+own basic assumptions and those of the author. In judging a partical book,
+everything turns on the ends or goals, not the means.
+
+Two clues to the major questions you must ask about yourself in reading any sort
+of practical book:
+
+1. What are the author's objectives?
+2. What means is he proposing?
+
+Answering both of these is necessary for the understanding and criticism of a
+practical book.
+
+Since the ultimate judgment of a practical work is based on its ends, the author
+must be something of an orator or propagandist. There is nothing wrong or
+vicious about this; it is the nature of practical affairs. No one makes serious
+practical judgments or engages in action without being moved somehow from below
+the neck. The writer of practical books who does not realize this will be
+ineffective.
+
+.. 274 todo: resume at "The best protection..."
+
+.. 280 - Extrinsic reading scientific work
+
+Scientific work
+    The report of findings or conclusions in some field of research, whether
+    carried on experimentally in a laboratory or by observations of nature in
+    the raw.
+
+The scientific problem is always to describe the phenomena as accurately as
+possible and to trace the interconnections among different kinds of phenomena.
+
+In the great works of science, there is no oratory or propaganda, though there
+may be bias in the sense of initial presuppositions. You can detect this by
+distinguishing what the author assumes from what he establishes through
+argument. The more objective a scientific author is, the more he will explicitly
+beg you to take this or that for granted. Scientific objectivity is not the
+absence of initial bias; it is attained by a frank confession of it.
+
+The leading terms in a scientific work are usually expressed by uncommon or
+technical words. They are relatively easy to spot. Through them you can readily
+grasp the propositions. The main propositions are always general ones, since
+science tries to say how things are generally.
+
+The only point of difficulty is with respect to arguments. Science is primarily
+inductive. To understand and judge the inductive arguments in a scientific book,
+you must be able to follow the evidence which the scientists reports as their
+basis. Sometimes descriptions or diagrams illustrate the phenomena. In the worst
+case the reader must get the special experience for himself first hand (perhaps
+at a museum). This is reason why a good school would require laboratory work for
+students.
+
+> The scientific classics become more intelligible to those who have seen with
+their own eyes and done with their own hands what a great scientist describes as
+as the procedure by which he reached his insights.
+
+**Thus, the major extrinsic aid in the read of scientific books is not the
+reading of other books, but rather getting a direct acquaintance with the
+phenomena involved.**
+
+Other books may be helpful, but the primary aid is experiment.
+
+.. 282 - Philosophical
+
+Ethical and political books have already been treated. (practical philosophy)
+
+Here we treat theoretic works, such as metaphysics.
+
+The philosophical problem is to explain, not to describe, the nature of things.
+It asks more about the connection of phenomena. It seeks to penetrate to the
+ultimate causes and conditions of things.
+
+The basic terms of philosophy and science are abstract. No general knowledge is
+expressible except in abstract terms. Whenever you talk generally about anything
+you are using abstractions.
+
+Just as the inductive argument should be the reader's main focus in the case of
+scientific books, so here you must pay closest attention to the philosopher's
+principles or beginnings.
+
+.. todo: skipped a lot to 286
+
+There are two further points about extrinsic reading in connection with
+philosophical books:
+
+1. Do not spend all your time reading books about the philosophers, their lives,
+   and opinions. Trying reading the philosophers themselves, in relation to one
+   another.
+
+2. Note the data of the philosopher you are reading. This will place his
+   properly in the conversation with those who cam before and after, and prper
+   you for the sort of scientific imagery he will employ to illustrate some of
+   his points.
+
+.. 288 - Summary
+
+Summary:
+
+What lies beyond the book you are reading? Three things:
+
+1. Experience, common or special
+
+2. Other books (of various sorts: reference books, secondary books,
+   commentaries, other great books, dealing with the same or related matters)
+
+3. Live discussion
+
+    > I like to think of the great books as involved in a prolonged conversation
+    about the basic problems of mankind. The great authors were great readers,
+    and one way to understand them is to read the books they read. As readers,
+    they carried on a conversation with other authors, just as each of us
+    carries on a conversation with the books we read, though we may not write
+    other books.
+
+    To get into conversations, we must read the great books in relation to each
+    other and in an order that somehow respects chronology. The conversation of
+    the books takes place in time.
+
+    While this is not indispensable, it is certainly a great help. Hence, why
+    teachers meet with students to discuss them. The reader who learns to
+    discuss a book well with other with other readers may come thereby to have
+    better conversations with the author when he has him alone in his study.
+
+Following all the rules of intrinsic reading is seldom sufficient to read any
+book well, either interpretatively or critically. Experience and other books
+are dispensable extrinsic aids.
+
+The utility of extrinsic reading is simply an extension of the value of context
+in read a book by itself. We have seen how the context must be used to interpret
+words and sentences to find terms and propositions. Just as the whole book is a
+context for any of its parts, so related books provide an even larger context
+that helps you interpret the ones you are reading.
+
+################################################################################
 The rest of the reader's life
-################################
+################################################################################
 
 .. contents::
    :local:

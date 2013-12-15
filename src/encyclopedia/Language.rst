@@ -13,7 +13,7 @@ Language is a versatile medium for communication.
 
 Languages can be thought of as an evolutionary adaption.
 
-A language consists of a `lexicon` and a `grammar`_.
+A language consists of a `lexicon`_ and a `grammar`_.
 
 ----
 
@@ -30,26 +30,43 @@ phonemes and (2) are constructed from a finite set of phonemes (i.e. the
 alphabet), natural languages fit this definition. Similarly, formal mathematics
 is also a language.
 
+.. contents::
+
 Properties
 ================================================================================
 
 Hockett's design features of human language: 
 
 01. Vocal-auditory channel
+
 02. Broadcast transmission and directional reception
+
 03. Rapid fading (transitoriness)
+
 04. Interchangeability
+
 05. Total feedback
+
 06. Specialization
+
 07. Semanticity
+
 08. Arbitrariness
+
 09. Discreteness
+
 10. Displacement [human]
+
 11. Productivity (Generativity) (Expressive variety) [human]
+
 12. Traditional transmission [human]
+
 13. Duality of patterning [human]
+
 14. Prevarication [human]
+
 15. Reflexiveness [human]
+
 16. Learnability [human]
 
 (01)-(09) are properties of communication systems of all primates.[1]
@@ -58,7 +75,10 @@ Hockett's design features of human language:
 
 Note: These design features are not independent.
 
-## 01. Vocal-auditory Channel
+.. sectnum::
+
+Vocal-auditory Channel
+--------------------------------------------------------------------------------
 
 A communication system transmits signals over a channel.
 
@@ -71,7 +91,8 @@ Example: gesture (optic)
 
 Advantage: Vocal-auditory communication leaves the rest of the body free for activities that can be carried on at the same time.[1]
 
-## 02. Broadcast transmission and directional reception
+Broadcast transmission and directional reception
+--------------------------------------------------------------------------------
 
 A communication system has broadcast transmission if signs can be received in all directions.
 
@@ -85,7 +106,8 @@ Example: instrumental music
 
 Note: Consequence of (01). (Stems from physics of sound)
 
-## 03. Rapid fading (Transitoriness)
+Rapid fading (Transitoriness)
+--------------------------------------------------------------------------------
 
 A communication system has rapid fading if signs fade after sending.
 
@@ -100,7 +122,8 @@ Example: Written records
 
 Note: Consequence of (01). (Stems from physics of sound)
 
-## 04. Interchangeability
+Interchangeability
+--------------------------------------------------------------------------------
 
 A communication system has interchangeability if a receiver can reproduce any message it receives.
 
@@ -113,7 +136,8 @@ Example: Courtship motions of stickleback are different, and neither can act out
 Example: An infant cannot reproduce the message of its mother
 Example: stickleback courtship
 
-## 05. Total feedback
+Total feedback
+--------------------------------------------------------------------------------
 
 A communication system has total feedback if a sender receives and comprehends messages it sends.
 
@@ -128,7 +152,8 @@ Example: stickleback courtship (The male stickleback does not see the color of h
 
 Importance: Enables the so-called internalization of communicative behavior that constitutes a major position of thinking.
 
-## 06. Specialization
+Specialization
+--------------------------------------------------------------------------------
 
 A communication system has specialization if speech serve no purpose except communication.
 
@@ -138,7 +163,8 @@ Example: instrumental music
 Example: A dog, panting with his tongue hanging out, is performing a biologically essential activity, since this is how dogs cool themselves off and maintain the proper body temperate. The panting incidentally produces sound, thereby may inform other dogs as to where he is and how he feels. But this transmission of information is strictly a side effect.
 Example: Echolocation is not specialization
 
-## 07. Semanticity
+Semanticity
+--------------------------------------------------------------------------------
 
 A communication system has semanticity if signals have meaning.
 
@@ -154,7 +180,8 @@ Example: An overheated dog will pant to dissipate heat, and an observer may unde
 Example: stickleback courtship
 Example: instrumental music
 
-## 08. Arbitrariness
+Arbitrariness
+--------------------------------------------------------------------------------
 
 A communication system has arbitrariness if signs have no indexical meaning.
 
@@ -175,7 +202,8 @@ Disadvantage: Is arbitrary
 
 Note: Consequence of (07).
 
-## 09. Discreteness
+Discreteness
+--------------------------------------------------------------------------------
 
 A communication system has discreteness if each elementary signaling unit is discrete.
 
@@ -187,7 +215,8 @@ Not all communication is discrete:
 Example: paralinguistic phenomena (volume: a speaker may raise his voice along a continuous scale to indicate degree of anger or lower his voice along a continuous scale to indicate degree of confidentiality)
 Example: bee-dancing
 
-## 10. Displacement
+Displacement
+--------------------------------------------------------------------------------
 
 A communication system has displacement if participants can communicate about things independent from space or time.
 
@@ -198,8 +227,8 @@ Not every communicative system has displacement:
 Example: gibbon calls
 Example: Vervet monkeys can signal the presence of a predatory eagle, but cannot refer to the eagle that attacks a week ago; their communication is limited to what is immediately present.
 
-11. Productivity
-----------------
+Productivity
+--------------------------------------------------------------------------------
 
 A communication system has productivity if users can produce and comprehend messages that have never been sent or received.
 
@@ -225,8 +254,8 @@ A productive system may be called an "open" system.
 
 Whatever can be meant can be said.[1] A given language may not have the vocabulary or syntax to say what I mean in that language, but there are no barriers in principle to supplementing the impoverished language or saying what I mean in a richer one.[1]
 
-12. Traditional transmission
-----------------------------
+Traditional transmission
+--------------------------------------------------------------------------------
 
 A communication system has traditional transmission if users must learn it (and teach it).
 
@@ -238,8 +267,8 @@ Example: instrumental music
 Example: bee-dancing
 Example: stickleback courtship
 
-13. Duality of patterning
-----------------------------
+Duality of patterning
+--------------------------------------------------------------------------------
 
 A communication system has traditional transmission if signs are made of and distinguished by meaningless parts, which can be combined in infinite permutations to make novel signs.
 

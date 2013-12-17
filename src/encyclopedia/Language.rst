@@ -69,7 +69,7 @@ Hockett's design features of human language:
 
 16. Learnability [human]
 
-(01)-(09) are properties of communication systems of all primates.[1]
+(01)-(09) are properties of `communication systems`_ of all primates.[1]
 
 (10)-(16) are unique properties of human language.[1]
 
@@ -80,7 +80,7 @@ Note: These design features are not independent.
 Vocal-auditory Channel
 --------------------------------------------------------------------------------
 
-A communication system transmits signals over a channel.
+A `communication system`_ transmits signals over a channel.
 
 Example: gibbon calls (vocal-auditory)
 Example: paralinguistic phenomena (vocal-auditory)
@@ -94,9 +94,9 @@ Advantage: Vocal-auditory communication leaves the rest of the body free for act
 Broadcast transmission and directional reception
 --------------------------------------------------------------------------------
 
-A communication system has broadcast transmission if signs can be received in all directions.
+A `communication system`_ has broadcast transmission if signs can be received in all directions.
 
-A communication system has direction reception if receivers can localize the source through the message.
+A `communication system`_ has direction reception if receivers can localize the source through the message.
 
 Example: bee-dancing
 Example: stickleback courtship
@@ -109,7 +109,7 @@ Note: Consequence of (01). (Stems from physics of sound)
 Rapid fading (Transitoriness)
 --------------------------------------------------------------------------------
 
-A communication system has rapid fading if signs fade after sending.
+A `communication system`_ has rapid fading if signs fade after sending.
 
 Example: gibbon calls
 Example: paralinguistic phenomena
@@ -125,7 +125,7 @@ Note: Consequence of (01). (Stems from physics of sound)
 Interchangeability
 --------------------------------------------------------------------------------
 
-A communication system has interchangeability if a receiver can reproduce any message it receives.
+A `communication system`_ has interchangeability if a receiver can reproduce any message it receives.
 
 Example: gibbon calls
 Example: paralinguistic phenomena
@@ -139,7 +139,7 @@ Example: stickleback courtship
 Total feedback
 --------------------------------------------------------------------------------
 
-A communication system has total feedback if a sender receives and comprehends messages it sends.
+A `communication system`_ has total feedback if a sender receives and comprehends messages it sends.
 
 Example: gibbon calls
 Example: paralinguistic phenomena
@@ -155,7 +155,7 @@ Importance: Enables the so-called internalization of communicative behavior that
 Specialization
 --------------------------------------------------------------------------------
 
-A communication system has specialization if speech serve no purpose except communication.
+A `communication system`_ has specialization if speech serve no purpose except communication.
 
 Example: gibbon calls
 Example: paralinguistic phenomena
@@ -166,7 +166,7 @@ Example: Echolocation is not specialization
 Semanticity
 --------------------------------------------------------------------------------
 
-A communication system has semanticity if signals have meaning.
+A `communication system`_ has semanticity if signals have meaning.
 
 Example: bee-dancing
 Example: gibbon calls
@@ -174,7 +174,7 @@ Example: paralinguistic phenomena
 Example: The English word "salt" means salt, not sugar or pepper.
 Example: Calls of gibbons possess semanticity; the gibbon has a danger call and it does not in principle matter that the meaning of the call is a great deal broader and more language than, say, the cry of "Fire!"
 
-Not every communication systems has semanticity:
+Not every `communication system`_ has semanticity:
 
 Example: An overheated dog will pant to dissipate heat, and an observer may understand the panting to mean the dog is hot, but panting does not stand for overheated-ness the same way "overheated" does.
 Example: stickleback courtship
@@ -183,7 +183,7 @@ Example: instrumental music
 Arbitrariness
 --------------------------------------------------------------------------------
 
-A communication system has arbitrariness if signs have no indexical meaning.
+A `communication system`_ has arbitrariness if signs have no indexical meaning.
 
 Example: gibbon calls
 Example: paralinguistic phenomena
@@ -205,7 +205,7 @@ Note: Consequence of (07).
 Discreteness
 --------------------------------------------------------------------------------
 
-A communication system has discreteness if each elementary signaling unit is discrete.
+A `communication system`_ has discreteness if each elementary signaling unit is discrete.
 
 Example: gibbon calls
 Example: If a speaker produces a syllable that deviates from the normal pronunciation of "pin" in the direction of "bin", he is not producing a third word, but just "pin" or "bin" in a noisy way. The receiver compensates if he can or else fails to understand.
@@ -218,7 +218,8 @@ Example: bee-dancing
 Displacement
 --------------------------------------------------------------------------------
 
-A communication system has displacement if participants can communicate about things independent from space or time.
+A `communication system`_ has displacement if participants can communicate about
+things independent from space or time.
 
 Example: bee-dancing
 
@@ -230,7 +231,8 @@ Example: Vervet monkeys can signal the presence of a predatory eagle, but cannot
 Productivity
 --------------------------------------------------------------------------------
 
-A communication system has productivity if users can produce and comprehend messages that have never been sent or received.
+A `communication system`_ has productivity if users can produce and comprehend
+messages that have never been sent or received.
 
 Note: Productivity implies a system can generate an infinite number of signs.
 Note: If a system has recursivity, then it has productivity.
@@ -257,7 +259,8 @@ Whatever can be meant can be said.[1] A given language may not have the vocabula
 Traditional transmission
 --------------------------------------------------------------------------------
 
-A communication system has traditional transmission if users must learn it (and teach it).
+A `communication system`_ has traditional transmission if users must learn it
+(and teach it).
 
 Not every communicative system has traditional transmission:
 
@@ -270,7 +273,9 @@ Example: stickleback courtship
 Duality of patterning
 --------------------------------------------------------------------------------
 
-A communication system has traditional transmission if signs are made of and distinguished by meaningless parts, which can be combined in infinite permutations to make novel signs.
+A `communication system`_ has traditional transmission if signs are made of and
+distinguished by meaningless parts, which can be combined in infinite
+permutations to make novel signs.
 
 Example: "tack", "cat", and "cat" have distinct meaning but are composed of the same three meaningless sounds in different permutations
 Example: Morse code
@@ -364,8 +369,17 @@ It hardly seems outlandish to think there might be such a specialized organ for 
 
 According to the Genetic Hypothesis, innate knowledge is determined by brain structure, so it is present only when the supporting brain structures are present. Development of the physical structure is not complete at birth. The physical growth of various parts of the body follows a fairly predictable timetable (e.g baby teeth, puberty).
 
-- Need concept of innate knowledge to solve the Paradox of Language Acquisition - that children can unconsciously learn a mental grammar on their own, while linguists as a community can't figure out how the mental grammar works. Innate knowledge would give children a head start
-- Why does Paradox of Language Acquisition arise? Because children don't learn language by being taught, rather they must figure out a MG that gives them the patterns for forming sentences. How do we know children must be figuring out a MG? Because that's what they have to end up with as adults in order to account for their ability to speak and understand an unlimited range of sentences.
+- Need concept of innate knowledge to solve the Paradox of Language Acquisition
+
+  - that children can unconsciously learn a mental grammar on their own, while
+    linguists as a community can't figure out how the mental grammar works.
+    Innate knowledge would give children a head start
+
+- Why does Paradox of Language Acquisition arise? Because children don't learn
+  language by being taught, rather they must figure out a MG that gives them the
+  patterns for forming sentences. How do we know children must be figuring out a
+  MG? Because that's what they have to end up with as adults in order to account
+  for their ability to speak and understand an unlimited range of sentences.
 
 ### Questions about innate knowledge
 
@@ -389,193 +403,25 @@ Three basic criteria are involved:
 
 Innate part of language = Part due to special purpose endowment for learning + Part due to general properties of the mind
 
-We should try to minimize the part due to special purpose endowment for learning. Such an endowment demands an evolutionary jump since the time we diverged from the apes, and we would like to think that the jump was not too extraordinary. (It must be though, to account for the Paradox of Language Acquisiton.)
+We should try to minimize the part due to special purpose endowment for
+learning. Such an endowment demands an evolutionary jump since the time we
+diverged from the apes, and we would like to think that the jump was not too
+extraordinary. (It must be though, to account for the Paradox of Language
+Acquisiton.)
 
-Recall our initial question: What does human nature have to be like in order for us to be able to use language? Two more answers, having to do with the nature of learning, have emerged from the Argument for Innate Knowledge.
+Recall our initial question: What does human nature have to be like in order for
+us to be able to use language? Two more answers, having to do with the nature of
+learning, have emerged from the Argument for Innate Knowledge.
 
-1. The learning of language isn't just a passive "soaking up" of information from the environment. Language learners actively construct unconscious principles that permit them to make sense of information coming from the environment. These principles make it possible not just to reproduce the input parrotlike, but to use language in novel ways. What is learned comes as much from inside the learner as from the environment.
+1. The learning of language isn't just a passive "soaking up" of information
+   from the environment. Language learners actively construct unconscious
+   principles that permit them to make sense of information coming from the
+   environment. These principles make it possible not just to reproduce the
+   input parrotlike, but to use language in novel ways. What is learned comes as
+   much from inside the learner as from the environment.
+
 2. 
 
----
 
-Linguistic typology
-===================
-
-Linguistic typology is a subfield of linguistics that studies and classifies languages according to structural features.
-
-Analysis
-========
-
-Linguistic typology consists of:
-
-1. Qualitative typology
-2. Quantitative typology
-3. Theoretical typology
-
-# Inflection in language
-# ======================
-
-## Synthetic & Analytics
-
-A language is analytic (or isolating) iff it has no degree of inflection.
-
-Example: Mandarin Chinese
-
-A language is synthetic iff it has some degree of inflection.
-
-Example: Latin is strongly inflected.
-Example: English is weakly inflected.
-
-Note: Languages with weak inflection may rely on order.
-Note: Programming languages rely on order, but there is no inherent need for that.
-
-### Synthetic
-
-A language is polysynthetic iff a sentence can consists of a single highly-inflected word.
-
-Example: Many American Indian languages.
-
-A language is agglutinative iff it uses agglutination extensively: most words are formed by joining morphemes together.
-
-A language is fusional iff it has a tendency to overly many morphemes to denote grammatical change.
-
-Example: Sanskrit
-Example: Greek
-Example: Latin
-
-fusionality is...
-
-Example: Latin "bonus". "-us" denotes masculine gender, nominative case, and singular number.
-
-----
-
-
-Syntax
-------
-
-Syntax is the study of the principles and processes by which sentences are constructed in particular languages. (Arrangement of words)
-
-The basic unit of interest is the sentence which minimally consists of an independent clause.
-
-Kinds
-=====
-
-1. Transformation Grammar
-
-Transformation Grammar
-----------------------
-
-A transformational grammar is a generative grammar that has been developed in the Chomskyan tradition of phase structure grammar.
-
-# History
-
-In 1956, Chomsky published "Three Models for the Description of Language" and introduced transformation grammar.
-
-# Standard Theory
-
-The Standard Theory (1957) corresponds to the original model of generative grammar laid out in Chomsky's 'Aspects of the theory of syntax'.
-
-Linguists working in this view see a sentence as not merely a string of words, but rather a derivation tree. Phrase structure trees are not sufficient though, and require transformational grammar.
-
-## Deep Structure & Surface Structure
-
-In 1957, Chomsky published Syntactic Structures, in which he developed the idea that sentences have two levels of representation: a deep structure and a surface structure.
-
-The deep structure of a linguist expression is a theoretical construct that represents the core semantics relations of a sentence. The deep structure is mapped onto to the surface structure via transformations.
-
-
-Transformations had been proposed prior to the development of deep structure as a means of increasing the mathematical and descriptive power of context-free grammars.
-
-Chomsky's advisor, Zellig Harris, took transformations to be relations between sentences.
-
-Deep structures can unify similar structures that have similar meanings. For example, the sentences "Pat loves Chris" and "Chris is loved by Pat" means roughly the same thing and use similar words. To account for this similarity, some linguists (e.g. Chomsky) have to tried to account for this similarity by posting that these two sentences are distinct surface forms that derive from a common 'deep structure'.
-
-Chomsky developed a formal theory of grammar where transformations maniulated not only the surface strings, but the parse tree associaed to them.
-
-Chomsky noted that by dividing deep structures from surfaces structures, one could understand "slip of the tongue" moments (when someone say something one did not instend) as instances where deep structures do not translate into intended surface structure.
-
-The deep structure concept caught on in unrelated fields (e.g architecture, music, politics) to express similar concepts.
-
----
-
-Chomsky believes there are considerable similarities between language's deep structures. Chomsky has argued that many of the properties of a generative grammar arise from an "innate" universal grammar.
-
-# Syntactic Sugar
-
-> Syntactic Sugar is a code transformation which preserves semantics but eases use through clarification of intent. [6]
-
-I wonder if this has something to do with ease of use. Would people use itertools more if everything inside was a builtin?
-
-----
-
-# Chomsky Hierarchy 
-
-The Chomsky hierarchy is a containment hierarchy of classes of formal grammars introduced by Noam Chomsky in 1956.
-
-- This is a containment hierarchy so the smaller boxes are contained in the larger boxes.
-
-Chomsky hierarchy from most powerful to least powerful:
-
-0. Recursively enumerable languages
-1. Context-sensitive languages
-2. Context-free languages
-3. Regular languages
-
-## Recursively Enumerable language
-
-Recursively enumerable languages can be recognized by a Turing machine.
-
-## Context-Sensitive language
-
-Context-sensitive languages can be recognized by a linear-bounded non-deterministic Turing Machine.
-
-## Context-free language (Phrase structure language)
-
-A context-free language is a language generated by a context-free grammar. A context-free grammar is a formal grammar in which every production rule is of the form `V -> w` where `V` is a single nonterminal symbol, and `w` is a string of terminals or nonterminals.
-
-Four components:
-
-1. A set of terminal symbols, sometimes referred to as "tokens".
-2. A set of nonterminals, sometimes called "syntactic variables".
-3. A set of productions, where each production consists of a nonterminal, called the head or left side of the production, an arrow, and a sequence of terminals and/or nonterminals, called the body or right side of the production.
-4. A designation of one of the nonterminals as the start symbol.
-
-In computer science, a popular notation for context-free grammars is Backus-Naur Form.
-
-CFGs can be recognized by non-deterministic pushdown automatons.
-
-## Regular Languages
-
-CFGs can be recognized by a finite state automaton.
-
-----
-
-# Formal Language
-
-A formal language is a set of strings that may be constrained by rules that are specific to it.
-
-The field of formal language theory primarily studies the purely syntactical aspects of such languages. (The study of interpretations of formal languages is called formal semantics.)
-
-# Analysis
-
-The alphabet of a formal language is the set of symbols from which the strings of the language may be formed.
-
-A string is a sequence of symbols.
-
-A word is a string formed from an alphabet.
-
-## Operations
-
-There are certain common operations on languages.
-
-- Concatenation
-- Intersection
-- Complement
-- Kleene start
-
-
----
-
-> Any modern regex flavor can match a lot more than just regular languages. How much exactly, that’s what the rest of the article is about.
-
-- Can regular languages match context-free languages
+.. _communication system: Communication_system.html
+.. _communication systems: `communication system`_

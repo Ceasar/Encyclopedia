@@ -348,63 +348,6 @@ General discussion
   minimal-effort explanation for ambiguity: each factor we tested which we
   predicted to increase each of processing, also increase ambiguity.
 
-This is not say there is no cost to ambiguity.
-
-1. Comprehends must actively use context_ to disambiguate meaning. However,
-   considerable evidence from `language processing`_ indicates that
-   comprehenders are able to quickly use contextual information in the form
-   of discourse context, local linguistic context, or more global world
-   knowledge in disambiguating language. These systems may be useful for normal
-   language comprehension, as they are for disambiguating language.
-
-   `Levinson (2000)` has argued explicitly that speaker articulation, not
-   hearer inference, is the principal bottleneck in human language. Inference is
-   "cognitively cheap": therefore, normal human communication requires the
-   comprehender to make continual inferences about speaker intention, and does
-   not require the speaker to fully articulate every shade of meaning.
-
-2. A more substantial cost for ambiguity_ arises when inference fails, causing
-   actual confusion. However, some researchers have claimed that genuine
-   ambiguity_ is vanishingly rare. Indeed, polysemy and homophony appear to be
-   soo well-disambiguated by context that we often consciously notice genuine
-   ambiguity as humorous. Therefore, we believe the potential for
-   miscommunication is rare enough that the potential for miscommunication is
-   rare enough relative to the degree of ambiguity that is reasonable to ignore
-   this communicative cost, at least an approximation.
-
-Language users do not appear to go to great lengths to avoid linguistic
-ambiguities, despite actively avoiding conceptual ambiguities_. Ferreira, Slevc,
-and Rogers (2005) found that experimental participants chose to produce
-descriptions of objects that avoided conceptual ambiguities, such as saying
-"small bat" rather than just "bat" when a large bat was also present. However,
-speakers much less often went to similar lengths to avoid purely linguistic
-ambiguities (such as "baseball bat" when an animal bat was also present).
-
-These findings suggest that ambiguity is not enough of a problem to real-world
-communication that speakers would make much effort to avoid it. This may well be
-because actual language in context provides other information that resolves the
-ambiguities most of the time. Such information could be prosodic, or it may be
-given by context, meaning that in real language use there is rarely much need to
-actively choose linguistic forms which are unambiguous in isolation.
-
-Our arguments are closely related to `Uniform Information Density` (UID) which
-holds that speakers are more likely to choose words and structures which
-maintain a roughly constant rate of information transmission, UID and closely
-related theories have been used to explain phenomena such as discourse-level
-predictability and reduction.
-
-An ambiguous_ linguistic form conveys less information about its intended
-meaning than unambiguous linguistic form. Therefore, to keep the entropy rate
-constant, one might choose ambiguous linguistic units which are *less*
-surprising in other way which match our findings: this strategy would result in
-ambiguous words being more phonotactically predictable, higher-frequency (less
-surprising), and shorter (to maintain constant information-per-ptime). However,
-we argue that the results presented above are not merely a consequence of UID,
-though they rely on similar ideas and theoretical basis. Most importantly, UID
-does not directly predict that efficient language *should* be ambiguous_, since
-there are other ways to construct a linguistic system with constant information
-rate.
-
 Conclusion
 ================================================================================
 
@@ -422,7 +365,12 @@ preferentially re-used, decreasing the overall effort need to use a linguistic
 system.
 
 We test predictions of this theory by showing that ambiguity_ allows re-use of
-the easiest linguistic units.
+the easiest linguistic units. These results are hard to explain with anything
+other than a theory based on efficient communication: what theory would posit
+that ambiguity should preferentially be found in these linguistic units, but not
+that it results for efficiency? Our results argue for a rational explanation of
+ambiguity and demonstrate that ambiguity is not mysterious when language is
+considered as a cognitive system designed in part for communication.
 
 Footnotes
 ================================================================================
@@ -478,12 +426,6 @@ Communicative pressure
     Any cause that reduces communicative success in a proportion of a
     population, potentially exerts communicative pressure.
 
-.. _sense:
-
-Sense
-    Word senses separate related meanings, such as those in "John runs to the
-    store", "she runs her finger through her hair", and "the train runers
-    between Boston and New York".
 
 .. _CELEX:
 
@@ -504,3 +446,4 @@ CELEX
 .. _language processing: ../encyclopedia/Language_processing.html
 .. _lemmas: ../encyclopedia/Lemma.html
 .. _natural language: ../encyclopedia/Natural_language.html
+.. _sense: ../encyclopedia/Word_sense.html

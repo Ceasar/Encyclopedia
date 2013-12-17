@@ -1,32 +1,36 @@
 
+.. |lp| replace:: language production
+.. _articulation: Articulation.html
+.. _conceptualization: Conceptualization.html
+.. _discourse: Discourse.html
+.. _speech production: Speech_production.html
+
 ================================================================================
 Language Production
 ================================================================================
 
-Language production is the production of spoken or written language.
-
-Language production describes each stage between having a `concept` and
-translating it into linguistic form.
+**Language production** refers to process of producing `discourse`_, from
+`conceptualization`_ to `articulation`_, in the form of `speech production`_ or
+`writing`.
 
 .. contents::
 
 History
 ================================================================================
 
-Until relatively recently (this is from 2006) the normal process of adult LP
-garnered little systematic attention from either linguists or psycholinguists.
+Until relatively recently (this is from 2006), neither linguists or
+psycholinguists paid much attention to the normal process of adult |lp|.
 
 Studying how people talk is hard and easy to dismiss as a viable scientific
 problem. Both of these issues have receded. By 2006, there were valid, reliable
 methods for getting at the underpinnings of production, burgeoning scientific
-interest in the LP ability.
+interest in the |lp| ability.
 
 Research
 ================================================================================
 
-Presently, most research focuses on how speakers accomplish the most rudimentary
-goals; producing utterances in a particular language. Though seemingly simple,
-it is far from easy to explain this.
+Presently, most research focuses on how speakers accomplish seemingly simple
+goals; producing utterances in a particular language.
 
 At the outset, this calls for being able to think in ways that readily converted
 into language or "thinking for speaking".

@@ -111,7 +111,7 @@ Experiment
 
 :Observations:
 
-    .. image:: ../img/reicher_1969_fig_1.png
+    .. image:: ../../img/reicher_1969_fig_1.png
 
 :Results:
 

@@ -1,6 +1,5 @@
+.. include:: ../../indexes/psycholinguistics.rst
 
-.. _ambiguous:
-.. _ambiguities:
 
 ================================================================================
 Ambiguity
@@ -38,22 +37,3 @@ Morphemes_ may be ambiguous out of context.[1]
 
 
 .. [1] `Piantadosi, Tily, Gibson. 2012. <../literature/piantadosi_tily_gibson_2012.html>`_
-
-.. _communication system: Communication_system.html
-.. _communication systems: Communication_system.html
-.. _amphiboly: Amphiboly.html
-.. _context: Linguistic_context.html
-.. _deixis: Deixis.html
-.. _homonymy: Homonymy.html
-.. _homography: Homography.html
-.. _homophony: Homophony.html
-.. _language: Language.html
-.. _language processing: Language_processing.html
-.. _morphemes: Morpheme.html
-.. _natural language processing: Natural_language_processing.html
-.. _polysemy: Polysemy.html
-.. _redundant: Redundancy.html
-.. _sense: Word_sense.html
-.. _senses: sense_
-.. _word senses: sense_
-.. _syntactic categories: Syntactic_category.html

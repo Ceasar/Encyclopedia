@@ -1,19 +1,17 @@
-
-.. _grammar: Grammar.html
-.. _lexicon: Lexicon.html
+.. include:: ../../indexes/psycholinguistics.rst
 
 ================================================================================
 Language
 ================================================================================
 
 Language is the human capacity for acquiring and using complex systems of
-`communication`.
+communication_.
 
 Language is a versatile medium for communication.
 
 Languages can be thought of as an evolutionary adaption.
 
-A language consists of a `lexicon`_ and a `grammar`_.
+A language consists of a lexicon_ and a grammar_.
 
 ----
 
@@ -421,7 +419,3 @@ learning, have emerged from the Argument for Innate Knowledge.
    much from inside the learner as from the environment.
 
 2. 
-
-
-.. _communication system: Communication_system.html
-.. _communication systems: `communication system`_

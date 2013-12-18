@@ -36,17 +36,19 @@ correct these errors without retransmission.
 An example of a communication system designed to be fault-tolerant is the
 `NATO phonetic alphabet`.
 
+.. todo: ease of comprehension and ease of production are not independent
+
 Clarity
 --------------------------------------------------------------------------------
 
-Clarity refers to the degree to which a signal will be decoded as intended by
-the source. In orthographic systems, clarity is also known as "readability".
+Clarity refers to ease of comprehension. In orthographic systems, clarity is
+also known as "readability".
 
 Conciseness
 --------------------------------------------------------------------------------
 
-Conciseness refers to the degree to which interlocutors can efficiently produce
-and comprehend signals. The opposite of conciseness is verbosity.
+Conciseness refers to ease of production. The opposite of conciseness is
+verbosity.
 
 In systems where context_ is informative about meaning, conciseness may be
 enhanced by re-using efficient signs_, provided comprehenders can efficiently

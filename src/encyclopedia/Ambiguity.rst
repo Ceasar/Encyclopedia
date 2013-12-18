@@ -6,8 +6,10 @@
 Ambiguity
 ================================================================================
 
-**Ambiguity** is any attribute of a concept whose meaning cannot be definitely
-resolved according to a process consisting of a finite number of steps.
+A form is **ambiguous** if it can map to more than one possible meaning. [1]_
+For instance, the word "run" is ambiguous because it can map to a large number
+of possible meaning, including a run in a panthose, a run in baseball, a jog, to
+run, a stretch of consecutive events, etc.
 
 .. contents::
    :depth: 2
@@ -52,5 +54,6 @@ Morphemes_ may be ambiguous out of context.[1]
 .. _polysemy: Polysemy.html
 .. _redundant: Redundancy.html
 .. _sense: Word_sense.html
-.. _senses: Word_sense.html
+.. _senses: sense_
+.. _word senses: sense_
 .. _syntactic categories: Syntactic_category.html

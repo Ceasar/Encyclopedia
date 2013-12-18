@@ -1,15 +1,4 @@
 
-.. |A| replace:: Ambiguity
-.. |a| replace:: ambiguity
-.. _a: ambiguity_
-.. |I| replace:: Information
-.. |i| replace:: information
-.. _i: information_
-.. |ecs| replace:: efficient `communication system`_
-.. |ecss| replace:: efficient `communication systems`_
-.. |pf| replace:: phonological form
-.. |pfs| replace:: phonological forms
-
 ================================================================================
 The communicative function of |a| in language
 ================================================================================
@@ -31,22 +20,27 @@ The communicative function of |a| in language
     which makes fewer assumptions than previous work, and is more generally
     applicable.
 
-    We argue that the generality of our results explains the pervasiveness of
-    |a|_ in language, and shows how |a|_ likely results from
-    ubiquitous pressure for *efficient communication*.
-
     The authors argue that:
     
-    - If context_ provides |i|_ about meaning, then an |ecs| will be
-      ambiguous_.
+    1. If context_ provides |i|_ about meaning, then an |ecs| will not redundant
+       specify information_ provided by the context_ and will be ambiguous_ out
+       of context_.
 
-    - |a|_ allows for greater ease of `language processing`_ by
-      permitting efficient linguistic units to be re-used.
+    2. |A|_ allows for greater ease of `language processing`_ by permitting
+       re-use of easy-to-process linguistic units. If reused such that they are
+       always well-disambiguated by context and if disambiguation is cheap,
+       using the system will require less overall effort.
 
-    The authors test predictions of this theory in English, German, and Dutch.
+    The authors test predictions of (2) (that words and syllables which are most
+    efficient will be preferentially re-used) in English, German, and Dutch, and
+    confirm their hypotheses.
 
-.. todo:  what does efficient mean here?
-.. todo:  what does meaning mean here?
+    The author interpret their results as strong evidence for the view that
+    |a|_ results from a pressure for efficient communication.
+
+    The authors conclude that their results explain the pervasiveness of |a|_ in
+    language and show how |a|_ likely results from ubiquitous pressure for
+    efficient communication.
 
 .. contents::
 
@@ -76,226 +70,146 @@ is a useful feature for a `communication system`_.
 Two benefits of |a|
 ================================================================================
 
-In this section, we present two closely related arguments that |a|_ allows for
-more |ecss|.
+In this section, we present two similar arguments that |ecss| will be ambiguous
+when context_ is informative about meaning.
 
 Both assume that:
 
 1. |I|_ is typically present to resolve ambiguities
 
-2. Using this |i|_ is relatively "cheap"
-
-The first argument looked at |a|_ from the perspective of `coding theory`_,
-arguing that when context is informative, any good `communication system` will
-leave out |i|_ already in the context. It is unclear how one might test this
-argument, since it is a mathematical demonstration that |a|_ should exist; it
-does not make predictions about language other than the presence of |a|_.
-
-The second argument assumed that codewords differ in their difficulty, and
-argued that as long as there are some ambiguities that context can resolve,
-|ecss| will use |a|_ to make communication easier. This argument directly
-predicts that linguistic units which require "less effort" should be more
-ambiguous.
-
-We do not view these arguments as distinct alternatives, but rather as
-complementary ways of understanding how |a|_ is useful.
+2. Disambiguation is not prohibitively costly; using |i| from the
+   context_ to infer which meaning was intended does not substantially impede
+   comprehension.
 
 |A| in general communication
 --------------------------------------------------------------------------------
 
-In this section we motivate an `information-theoretic`_ view of |a|_.
+In this section we motivate an `information-theoretic`_ view of |a|_. We argue
+that when context_ is informative, any |ecss| will leave out |i|_ already in the
+context_ and therefore necessarily appear ambiguous_ when examined out of
+context_.
 
-Intuitively, a linguistic form is ambiguous if it can map to more than one
-possible meaning. For instance, the word "run" is ambiguous because it can refer
-to a large number of possible meaning, including a run in a pantyhose, a run in
-baseball, a jog, to run, a stretch of consecutive events, etc.
+No assumptions are made about the linguistic system, or the distribution of
+contexts or meaning, nor what the contexts or meanings actually are, and
+therefore the argument applies at all levels of linguistic analysis.
 
-One can show the optimally |ecs| should look ambiguous by formalizing a notion
-of uncertainty about meaning, as long as context is informative about meaning.
+A key assumption that is required is that speakers and listeners have the same
+or very similar coding schemes and also the same ability to use contextual
+information to constrain the possible meanings.
 
-We quantify the uncertainty that listeners would have about intended meaning by
-using `Shannon entropy`. `Shannon entropy` measures the amount of |i|_
-required on average to disambiguate which meaning in M is intended.
-
-`Shannon entropy` is dependent on `context`_. Actual `language use` takes place
-with reference to the world and linguistic context. For instance, knowing that
-the speaker is playing baseball, for instance, will change the expectations of
-what meaning of "run" is intended. When the context is known and informative, it
-necessarily decreases `entropy`_.
-
-An optimally |ecs| will not convey unnecessary |i|_. An |ecs| will never be able
-to disambiguate language out of context. This means that when the individual
-units of an efficient communication_system
+It is unclear how one might test this argument, since it is a mathematical
+demonstration that |a|_ should exist; it does not make predictions about
+language other than the presence of |a|_.
 
 |A| and minimum effort
 --------------------------------------------------------------------------------
 
+In this section, the authors argue that ambiguity is a desirable property of a
+linguistic systems because it potentially allows for ease of processing.
+
+Ease of processing may be improved if linguistic form vary in ease of
+processing, there are at least two meanings which are unlikely to occur in the
+same context, and the cost of disambiguating is cheap. In this case, an
+unambiguous system could be made more efficient by mapping the meanings onto
+whichever of their corresponding linguistic forms was easiest to process.
+
 Empirical evaluation of |a| and effort
-================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In this section we empirically evaluate the prediction that |a|_ allows for
-re-use of efficient linguistics units by looking at homophony, polysemy, and the
-|a|_ about meaning of different syllables, in English, German, and Dutch.
+In this section we empirically evaluate the prediction of the second argument
+that |a|_ allows for re-use of efficient linguistics units by looking at
+homophony_, polysemy_, and the |a|_ about meaning of different syllables, in
+English, German, and Dutch.
 
-Our basic approach is to measure properties of words and syllables and see if
-easier linguistic units are preferentially re-used in language.
+Our basic approach is to measure the difficulty of words and syllables and see
+if easier linguistic units are preferentially re-used in language.
 
-We investigate the influence of three simple and easy-to-measure properties of
-words:
+We use three measures of linguistic difficulty for word and syllables:
+length, frequency, and `phonotactic surprisal`_. [*]_ 
 
-1. Length
+We measure re-use by measuring the number of possible meanings a word or
+syllable has. [*]_
 
-2. Frequency
-
-3. `Phonotactic probability`
-
-We use several different techniques to analyze the influence on these factors on
-|a|_.
-
-Ideally, one would measure |a|_ using the `entropy`_ over meanings for a
-given linguistic form. Unfortunately `entropy`_ is difficult to estimate without
-statistical bias, which leads to results which are difficult to interpret.
-
-For this reason, we primarily present count data: for each linguistic unit, we
-count the number of possible meanings it has in order to measure its degree of
-|a|_.
+We then use several different techniques to analyze the influence of these
+factors on |a|_.
 
 Homophony
---------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A homophone is a word that is pronounced the same as another word but differs in
-meaning. The words may be spelled the same, such as "rose" (flower) and "rose"
-(past tense of "rise"), or differently, such as "to", "two", and "too". The
-words may different only in part of speech, such as "experiment" (the noun) and
-"experiment" (verb).
+:Question:
+    Are phonological forms reused as a function of difficulty?
 
-:Question: 
+:Prediction:
+    Easier phonological forms should be reused more often than harder
+    phonological forms, across languages.
 
-:Prediction: Phonological forms which are high-frequency, phonotactically
-             well-formed, and short will map to many different word `lemmas`_.
+:Experiment:
+    - Word length was measured by syllables.
 
-:Experiment: Examine homophones from CELEX_.
+    - Word frequencies were taken from CELEX_ and were transformed to negative
+      log probabilities.
 
-             - Word length was measured by number of syllables.
+    - `Phonotactic surprisal`_ was computed using a simple triphone language
+      model. This measure was divided by word length to prevent it being
+      collinear with length, and therefore can be interpreted as surprisal per
+      phoneme, averaged over the entire word.
 
-             - Word frequencies were taken from CELEX_.
-
-             - Phonotactic surprisal?
+    - Number of homophones was taken from CELEX_.
 
 :Observations:
 
     .. image:: ../../img/piantadosi_tily_gibson_2012_fig_1.png
        :width: 100%
 
-:Results:
-    Every factor predicted to increase ease of use also increases the number of
-    meanings assigned to phonological forms.
-
-    - Fig. 1a shows that shorter |pfs| are assigned more meanings across all
-      languages.
-
-    - Fig. 1b shows that higher frequency (lower negative log probability)
-      |pfs| tend to be mapped to many more word meanings than lower frequency
-      |pfs|, across all languages. [*]_
-
-    - Fig. 1c shows that as average `phonotactic surprisal` per phoneme
-      increases, words also tend to have fewer meanings. This effect tends to
-      level out, showing no differences between the highest surprisal words or
-      slight increases. These effects may result from poorer estimation in the
-      highest phonotactic surprisal words, which have the lowest frequency
-      phonotactic trigrams.
-
-:Conclusions:
+:Results: Prediction confirmed. [*]_ [*]_
 
 
 Polysemy
---------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Here we consider similar predictions about the number of word senses each word
-has as a function of the word's length.
+:Question: 
+    Are word forms reused as a function of difficulty?
 
-:Question:
-
-:Prediction:
+:Predictions:
+    Easier word forms should be reused more often than harder word forms, across
+    part of speech. [*]_
 
 :Experiment:
-    Look at words forms found in the English version of WordNet and CELEX_.
+    - The length of a word form was measured as phonological length.
 
-    We chose to look at part of speech categories separately to ensure the
-    finding are not driven by a single part of speech category and also to check
-    that these effects go beyond effects of homophony.
+    - Frequency of a word form was computed as in the homophony analysis.
 
-    For each word and part of speech, we computed the number of senses using
-    WordNet.
+    - `Phonotactic surprisal`_ was computed as in the homophony analysis.
 
-    For each word, CELEX_ was used to find the phonological length of each word,
-    as well as its phonotactic probability and frequency (negative log
-    probability) using the same methods as the previous section.
+    - The number of word senses_ was taken from WordNet.
 
 :Observations:
 
     .. image:: ../../img/piantadosi_tily_gibson_2012_fig_2.png
        :width: 100%
 
-.. todo: I'm not sure I understand how this differs.
-
-:Results:
-    Fig. 2 shows predicted effects in each part of speech, and for each measure.
-    This reveals the predicted trends in nearly the full range of measures. For
-    the majority of bins across the range of variables, factors which should
-    increase each also increase the number of word senses.
-
-    - Longer words have fewer senses.
-
-    - Lower frequency words have fewer senses.
-
-    - Higher phonotactic surprisal have fewer senses.
-
-    We argue that frequent word -like phonotactically well-formed and short
-    words - have more meanings because they are easier to process. In contrast,
-    Zipf argued that frequent words have more meanings because such a
-    relationship optimally balances concerns of speakers and listeners.
+:Results: Prediction confirmed.
 
 Syllables
---------------------------------------------------------------------------------
-
-Given just one syllable, one will have some incomplete information about what
-word the speaker is attempting communicate. In this sense, individual syllables
-are ambiguous about meaning, and it is only when they are heard in the context
-of other syllables, words, and discourse situations that they can be used to
-unambiguously communicate meaning.
-
-
-In general, this syllable analysis is interesting in part because syllables are
-not generally taken to be ambiguous in the same way that words or sentences are.
-Syllables are not, on their own, meaningful units of language. However,
-syllables are informative about intended meanings. In this case, we take the
-intended meaning to be the word lemma which being communicated.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 :Question:
+    Are syllables reused as a function of difficulty?
 
 :Prediction:
-    Easier syllables should convey less information than about meaning than
-    harder syllables. In this case, we take syllables to be informative about
-    the words that they appear in.
+    Easier syllables should be reused more often than harder syllables, across
+    languages.
 
 :Experiment:
-
-    We analyzed syllables in words from CELEX_.
-    
-    In each language, we computed the number of words each syllable appears in.
-
-    Syllable frequencies and phonotactic log probabilities were computed using
-    the same procedures as the previous two sections.
-
     - The length of a syllable was measured as the number of phones in its
       phonological transcription.
 
-    - Phonotactic log probability was computed using a trigram model, the
-      negative log probably of each syllable was computed according to its total
-      token count in CELEX_.
+    - Syllable frequencies and phonotactic log probabilities were computed using
+      the same procedures as the previous two sections.
 
     - Phonotactic surprisal?
+
+    - Reuse was measured as the number of words a syllable appears in.
 
 :Observations:
 
@@ -304,22 +218,11 @@ intended meaning to be the word lemma which being communicated.
 
 :Results:
     Syllables pattern similarly to words, except in the case of phonotactic
-    predictability.
-
-    - Increasing length decreases the numbers a syllable appears in.
-
-    - Higher negative log probability (lower frequency) decreases the number of
-      words.
-
-    - Increasing phonotactic surprisal tends to decrease the number of words.
-      [*]_
+    predictability. [*]_
 
 :Conclusion:
     Predictors of ease extend to syllable units, although not in the case of
     German syllable length.
-
-    It is likely that at the syllable level, other kinds of constraints such as
-    articulation exert a stronger influence on the design of lexical systems.
 
 General discussion
 ================================================================================
@@ -351,29 +254,48 @@ General discussion
 Conclusion
 ================================================================================
 
-We have provided several kinds of evidence for the view that ambiguity results
-from a pressure for efficient communication.
+- We have provided several kinds of evidence for the view that ambiguity results
+  from a pressure for efficient communication.
 
-We argued that any efficient communication system will necessarily be ambigious
-when context is informative about meaning. The units of an efficient
-communication system will not redundantly specify information provided by the
-context; when examined out of context, these units will appear not to completely
-disambiguate meaning.
+- We argued that any efficient communication system will necessarily be
+  ambiguous_ when context_ is informative about meaning. The units of an
+  efficient communication system will not redundantly specify information
+  provided by the context; when examined out of context, these units will appear
+  not to completely disambiguate meaning.
 
-We have also argued that ambiguity allows efficient linguistic units to be
-preferentially re-used, decreasing the overall effort need to use a linguistic
-system.
+- We have also argued that ambiguity_ allows efficient linguistic units to be
+  preferentially re-used, decreasing the overall effort need to use a linguistic
+  system.
 
-We test predictions of this theory by showing that ambiguity_ allows re-use of
-the easiest linguistic units. These results are hard to explain with anything
-other than a theory based on efficient communication: what theory would posit
-that ambiguity should preferentially be found in these linguistic units, but not
-that it results for efficiency? Our results argue for a rational explanation of
-ambiguity and demonstrate that ambiguity is not mysterious when language is
-considered as a cognitive system designed in part for communication.
+- We test predictions of this theory by showing that ambiguity_ allows re-use of
+  the easiest linguistic units. These results are hard to explain with anything
+  other than a theory based on efficient communication: what theory would posit
+  that ambiguity should preferentially be found in these linguistic units, but
+  not that it results for efficiency? Our results argue for a rational
+  explanation of ambiguity and demonstrate that ambiguity is not mysterious when
+  language is considered as a cognitive system designed in part for
+  communication.
 
 Footnotes
 ================================================================================
+
+.. [*]
+    Both frequency and length are know to influence on-line language processing
+    with longer and lower-frequency words taking longer to process.
+
+    Intuitively, words that are re-used through ambiguity should have very low
+    `phonotactic surprisal`_ in order to decrease cognitive and articulatory
+    difficulty.
+
+    While we only examined these three predictors, our theory predicts that any
+    other measure which increases processing ease should also increase
+    ambiguity.
+
+.. [*]
+    Ideally, one would measure |a|_ using the `entropy`_ over meanings for a
+    given linguistic form. Unfortunately `entropy`_ is difficult to estimate
+    without statistical bias, which leads to results which are difficult to
+    interpret.
 
 .. [*]
     This is somewhat difficult to interpret because |pfs| with more meaning
@@ -388,14 +310,29 @@ Footnotes
     meanings can be used in more situations.
 
 .. [*]
-    The syllables with lowest phonotactic surprisal do appear in the most word;
-    however, very high phonotactic surprisal syllables also tend to appear in
-    many words. We believe this trend is an artifact of our phonotactic
-    surprisal model, which has increased estimation error for the high
-    phonotactic surprisal. This interpretation is supported by the absence of a
-    quadratic trend using a two-phone model. Alternatively, it may be the case
-    that other articulatory effects are present at the syllable level and that
-    this trend results from other kinds of articulatory constraints.
+    This effect on phontactic surprise tends to level out, showing no
+    differences between the highest surprisal words or slight increases. These
+    effects may result from poorer estimation in the highest `phonotactic
+    surprisal`_ words, which have the lowest frequency phonotactic trigrams.
+
+.. [*]
+    We chose to look at part of speech categories separately to ensure the
+    finding are not driven by a single part of speech category and also to check
+    that these effects go beyond effects of homophony.
+
+.. [*]
+    The syllables with lowest `phonotactic surprisal`_ do appear in the most
+    word; however, very high `phonotactic surprisal`_ syllables also tend to
+    appear in many words.
+    
+    We believe this trend is an artifact of our `phonotactic surprisal`_ model,
+    which has increased estimation error for the high `phonotactic surprisal`_.
+    This interpretation is supported by the absence of a quadratic trend using a
+    two-phone model.
+    
+    Alternatively, it may be the case that other articulatory effects are
+    present at the syllable level and that this trend results from other kinds
+    of articulatory constraints (which exert a stronger influence).
 
 .. [*]
     We note, however, that the languages tested are historically-related,
@@ -430,7 +367,16 @@ Communicative pressure
 .. _CELEX:
 
 CELEX
-    A lexical database.
+    A particular lexical database.
+
+.. _phonotactic surprisal:
+
+Phonotactic surprisal
+    Phonotactic surprisal refers to how phonetically probable a word is, given
+    all other words in the language (measurable using a Markov model).
+
+    A word with low phonotactic surprisal may be called "phonotactically
+    well-formed".
 
 .. _ambiguous: ../encyclopedia/Ambiguity_.html
 .. _ambiguity: ../encyclopedia/Ambiguity_.html
@@ -440,6 +386,8 @@ CELEX
 .. _communication system: ../encyclopedia/Communication_system.html
 .. _communication systems: ../encyclopedia/Communication_system.html
 .. _entropy: ../encyclopedia/Entropy.html
+.. _homophony: ../encyclopedia/Homophony.html
+.. _homophones: ../encyclopedia/Homophony.html
 .. _information: ../encyclopedia/Information.html
 .. _information theory: ../encyclopedia/Information_theory.html
 .. _information-theoretic: ../encyclopedia/Information_theory.html
@@ -447,3 +395,15 @@ CELEX
 .. _lemmas: ../encyclopedia/Lemma.html
 .. _natural language: ../encyclopedia/Natural_language.html
 .. _sense: ../encyclopedia/Word_sense.html
+.. _senses: sense_
+
+.. |A| replace:: Ambiguity
+.. |a| replace:: ambiguity
+.. _a: ambiguity_
+.. |I| replace:: Information
+.. |i| replace:: information
+.. _i: information_
+.. |ecs| replace:: efficient `communication system`_
+.. |ecss| replace:: efficient `communication systems`_
+.. |pf| replace:: phonological form
+.. |pfs| replace:: phonological forms

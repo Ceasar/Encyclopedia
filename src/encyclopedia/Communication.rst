@@ -1,3 +1,4 @@
+.. include:: ../../index.rst
 
 ================================================================================
 Communication
@@ -40,9 +41,5 @@ Kinds
 
 - Human communication
 - Nonhuman communication
-
-.. _destination: Desination.html
-.. _joint act: Joint_act.html
-.. _information: Information.html
 
 .. [2] Clark, Bly, 1995, "Pragmatics and Discourse

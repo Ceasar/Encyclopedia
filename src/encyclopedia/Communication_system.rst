@@ -1,3 +1,4 @@
+.. include:: ../../index.rst
 
 ================================================================================
 Communication System
@@ -112,30 +113,3 @@ Juba 2011:
 .. [1] Shannon, "A Mathematical Theory of Communication"
 
 .. [2] `Piantadosi, Tily, Gibson. 2012. <../literature/piantadosi_tily_gibson_2012.html>`_
-
-.. _ambiguous: Ambiguity.html
-.. _ambiguity: Ambiguity.html
-.. _ambiguities: ambiguity_
-.. _channel: Channel.html
-.. _communication: Communication.html
-.. _communication systems: Communication_system.html
-.. _communicative pressures: Communicative_pressure.html
-.. _context: Linguistic_context.html
-.. _homophony: Homophony.html
-.. _human communication system: Human_communication_system.html
-.. _human communication systems: `human communication system`_
-.. _language: Language.html
-.. _language processing: Language_processing.html
-.. _language use: Language_use.html
-.. _message: Message.html
-.. _messages: message_
-.. _noise: Noise.html
-.. _noisy: Noise.html
-.. _polysemy: Polysemy.html
-.. _pronouns: Pronoun.html
-.. _receiver: Receiver.html
-.. _redundant: Redundant.html
-.. _sign: Sign.html
-.. _signs: sign_
-.. _source: Source.html
-.. _system: System.html

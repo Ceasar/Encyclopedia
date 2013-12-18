@@ -15,7 +15,7 @@
 .. _conceptualization: Conceptualization.html
 .. _context: Linguistic_context.html
 .. _deixis: Deixis.html
-.. _destination: Desination.html
+.. _destination: Destination.html
 .. _direct realism: Direct_realism.html
 .. _disambiguate: Ambiguity.html
 .. _discourse: Discourse.html
@@ -23,7 +23,7 @@
 .. _homograph: Homograph.html
 .. _homography: Homography.html
 .. _homonymy: Homonymy.html
-.. _homophone: Homophone.html
+.. _homophone: Homophony.html
 .. _homophony: Homophony.html
 .. _human communication system: Human_communication_system.html
 .. _human communication systems: `human communication system`_
@@ -42,6 +42,7 @@
 .. _lexemes: Lexeme.html
 .. _lexicon: Lexicon.html
 .. _linguistics: Linguistics.html
+.. _memory: Memory.html
 .. _message: Message.html
 .. _messages: message_
 .. _morpheme: Morpheme.html
@@ -52,29 +53,26 @@
 .. _noisy: Noise.html
 .. _percept: Perception.html
 .. _perception: Perception.html
-.. _perception: Perception.html
 .. _polysemes: Polyseme.html
 .. _polysemy: Polysemy.html
 .. _polysemy: Polysemy.html
 .. _pronouns: Pronoun.html
-.. _proximal stimulus:
 .. _receiver: Receiver.html
 .. _redundant: Redundancy.html
 .. _sense: Word_sense.html
 .. _senses: sense_
-.. _sensory modality:
 .. _sign: Sign.html
-.. _signs: sign_
 .. _signal: Signal.html
 .. _signals: signal_
-.. _singular_name:
+.. _signs: sign_
 .. _source: Source.html
 .. _speech production: Speech_production.html
 .. _speech: Speech.html
-.. _syntactic category: Syntactic_category.html
 .. _syntactic categories: Syntactic_category.html
+.. _syntactic category: Syntactic_category.html
 .. _syntax: Syntax.html
 .. _system: System.html
+.. _template matching: Template_matching.html
 .. _transducer: Transducer.html
 .. _word senses: sense_
 .. _word: Word.html

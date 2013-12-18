@@ -1,3 +1,4 @@
+.. include:: ../../index.rst
 
 ================================================================================
 Linguistic context
@@ -13,6 +14,3 @@ Linguistic context includes:
 
 Linguistic context enables interlocutors_ to disambiguate_ linguistic
 expressions.
-
-.. _disambiguate: Ambiguity.html
-.. _interlocutors: Interlocutor.html

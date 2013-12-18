@@ -1,5 +1,4 @@
-.. include:: ../../indexes/psycholinguistics.rst
-
+.. include:: ../../index.rst
 
 ================================================================================
 Ambiguity

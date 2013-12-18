@@ -1,5 +1,4 @@
-
-.. _speech production: Speech_production.html
+.. include:: ../../index.rst
 
 Articulation
 ================================================================================

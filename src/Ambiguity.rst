@@ -1,4 +1,4 @@
-.. include:: ../../index.rst
+.. include:: index
 
 ================================================================================
 Ambiguity
@@ -35,4 +35,4 @@ Morphemes_ may be ambiguous out of context.[1]
   ("Dylan's") or a present tense verb conjugation ("runs").
 
 
-.. [1] `Piantadosi, Tily, Gibson. 2012. <../literature/piantadosi_tily_gibson_2012.html>`_
+.. [1] `Piantadosi, Tily, Gibson. 2012. <piantadosi_tily_gibson_2012.html>`_

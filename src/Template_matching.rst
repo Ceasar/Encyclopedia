@@ -1,4 +1,4 @@
-.. include:: ../../index.rst
+.. include:: index
 
 ================================================================================
 Template matching
@@ -17,4 +17,4 @@ The problems with template matching become unwieldy when there many patterns to
 be recognized because patterns tend to be similar to one another and the number
 of template comparisons becomes very large.
 
-.. [Massaro1998] `Massaro 1998. <../literature/massaro_1998.html>`_
+.. [Massaro1998] `Massaro 1998. <massaro_1998.html>`_

@@ -1,13 +1,12 @@
 .. include:: ../shorthand/psycholinguistics.rst
-
-.. _McClelland: James_L_McClelland.html
+.. include:: index
 
 ================================================================================
 TRACE model of speech |PER|
 ================================================================================
 
-TRACE is a `connectionist model` of |sp|, proposed by `McClelland`_ and Elman in
-1986.
+TRACE is a `connectionist model`_ of |sp|, proposed by `McClelland`_ and Elman
+in 1986.
 
 TRACE was made into a working computer program for running perceptual
 simulations.

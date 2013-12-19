@@ -1,5 +1,4 @@
-.. _Rumelhart McClelland 1981: ../literature/rumelhart_mcclelland_1981.html
-.. _Elman McClelland 1998: ../literature/elman_mcclelland_1988.html
+.. include:: index
 
 ================================================================================
 James L. McClelland
@@ -9,7 +8,7 @@ James L. McClelland is the Lucie Stern Professor at Stanford University, where i
 currently the chair of the Psychology Department.
 
 He is best for his work on `statistical learning` and `parallel distributing
-processing`, applying `connectionist models` 
+processing`, applying `connectionist models`_.
 
 Publications
 ================================================================================

@@ -1,10 +1,6 @@
+.. include:: index
 .. include:: ../shorthand/science.rst
 .. include:: ../shorthand/psycholinguistics.rst
-
-.. _tachistoscope: ../encyclopedia/Tachistoscope.html
-.. _forced-choice: ../encyclopedia/Two-atlernative_forced_choice.html
-
-.. _reicher 1969:
 
 ================================================================================
 Perceptual recognition as a function of meaningfulness of stimulus material
@@ -35,10 +31,10 @@ Introduction
 ================================================================================
 
 Sperling showed after a very brief visual presentation of letters, |Ss|
-initially have more information available than they can report. This suggests
-that |Ss| have a limited capacity to `process`_ visual information and that
-excess information is kept in (what Sperling calls) |VIS|_ to await processing.
-Subjects lose information while it remains in |VIS|_ and it may be cleared by
+initially have more information_ available than they can report. This suggests
+that |Ss| have a limited capacity to process_ visual information and that
+excess information_ is kept in (what Sperling calls) |VIS|_ to await processing.
+Subjects lose information_ while it remains in |VIS|_ and it may be cleared by
 |VMASK|_. Presumably, |VIS|_ does not detect words, so a |SCAN| is proposed as
 well.  Evidence on whether the |SCAN|_ processes information in serial or
 parallel is equivocal.  [*]_
@@ -111,7 +107,7 @@ Experiment
 
 :Observations:
 
-    .. image:: ../../img/reicher_1969_fig_1.png
+    .. image:: ../img/reicher_1969_fig_1.png
 
 :Results:
 

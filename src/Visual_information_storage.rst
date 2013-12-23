@@ -1,3 +1,5 @@
+.. include:: index
+
 Visual information storage
 ================================================================================
 
@@ -6,4 +8,4 @@ information loss takes place.
 
 Sperling suggests it is a fast-decaying system for storing sensory information
 (e.g. information which has not made contract with the central processor or
-long-term memory).
+long-term memory_).

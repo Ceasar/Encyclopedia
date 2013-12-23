@@ -14,3 +14,9 @@ Linguistic context includes:
 
 Linguistic context enables interlocutors_ to disambiguate_ linguistic
 expressions.
+
+Kinds
+================================================================================
+
+Word context
+    Letters in a word are said to be affected by word context.

@@ -57,4 +57,22 @@ patterns.
     identification. For example, a capital E has three horizontal lines and one
     vertical line.
 
+----
+
+Prototype matching
+================================================================================
+
+One of the possible type of pattern memory is a set of prototypes. [1]_
+
+The exact form such prototype descriptions might take in the mind is not known
+and may never be known. However, the representation in memory_ must be
+compatible with the percept_. Compatibility is necessary because the perceiver
+must compare the information provided by the stimulus to some memory of the
+prototypes or categories.
+
+A prototype (or category) is a summary description of a meaningful pattern. Each
+prototype is a description of the ideal feature values that a pattern should
+have if it is a member of that category.
+
+
 .. [1] `Massaro 1998`_

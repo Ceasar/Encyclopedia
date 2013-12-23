@@ -8,6 +8,7 @@
 .. |hl| replace:: higher-level
 .. |L| replace:: letter
 .. |Ls| replace:: letters
+.. |LP| replace:: letter perception
 .. |ll| replace:: lower-level 
 .. |m| replace:: mechanism
 .. |ms| replace:: mechanisms
@@ -27,18 +28,35 @@
 .. |VMASK| replace:: visual mask
 .. |VMASKing| replace:: visual masking
 .. |W| replace:: word
-.. |wl| replace:: word level
-.. |Ws| replace:: words
 .. |-W| replace:: nonword
 .. |-Ws| replace:: nonwords
+.. |~W| replace:: pseudoword
+.. |~Ws| replace:: pseudowords
+.. |-~W| replace:: non-pseudoword
+.. |-~Ws| replace:: non-pseudowords
+.. |WA| replace:: word advantage
+.. |WC| replace:: word context
+.. |wl| replace:: word level
+.. |Ws| replace:: words
 .. |WSE| replace:: word superiority effect
+.. |WP| replace:: |W| |PER|
+.. |-WP| replace:: |-W| |PER|
+.. |~WP| replace:: |~W| |PER|
+.. |-~WP| replace:: |-~W| |PER|
 
-.. _ce: ../encyclopedia/Context_effects.html
-.. _ci: ../encyclopedia/Coarticulatory_influence.html
-.. _cfc: ../encyclopedia/Compensation_for_coarticulation.html
-.. _pc: ../encyclopedia/Perceptual_compensation.html
-.. _scan: ../encyclopedia/Scanning_device.html
-.. _sp: ../encyclopedia/Speech_perception.html
-.. _VIS: ../encyclopedia/Visual_information_storage.html
-.. _VMASK: ../encyclopedia/Visual_masking.html
-.. _WSE: ../encyclopedia/Word_superiority_effect.html
+.. _ce: Context_effects.html
+.. _ci: Coarticulatory_influence.html
+.. _cfc: Compensation_for_coarticulation.html
+.. _pc: Perceptual_compensation.html
+.. _scan: Scanning_device.html
+.. _sp: Speech_perception.html
+.. _LP: Letter_recognition.html
+.. _VIS: Visual_information_storage.html
+.. _VMASK: Visual_masking.html
+.. _WA: Word_superiority_effect.html
+.. _WC: Linguistic_context.html
+.. _WSE: Word_superiority_effect.html
+.. _WP: Word_recognition.html
+.. _-WP: WP_
+.. _~WP: WP_
+.. _-~WP: WP_

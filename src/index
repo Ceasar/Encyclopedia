@@ -1,32 +1,32 @@
-.. _Elman McClelland 1998: elman_mcclelland_1988.html
-.. _McClelland: James_L_McClelland.html
-.. _Rumelhart McClelland 1981: rumelhart_mcclelland_1981.html
 .. _ambiguities: ambiguity_
 .. _ambiguity: Ambiguity.html
-.. _ambiguous: Ambiguity.html
+.. _ambiguous: ambiguity_
 .. _amphiboly: Amphiboly.html
 .. _articulation: Articulation.html
 .. _artificial intelligence: Artificial_intelligence.html
 .. _attention: Attention.html
 .. _channel: Channel.html
 .. _ci: Coarticulatory_influences.html
+.. _cognitive science: Cognitive_science.html
 .. _communication system: Communication_system.html
 .. _communication systems: Communication_system.html
 .. _communication: Communication.html
 .. _communicative pressures: Communicative_pressure.html
-.. _connectionist model: Connectionist_model.html
-.. _connectionist models: `connectionist model`_
+.. _connectionism: Connectionism.html
+.. _connectionist: connectionism_
 .. _computational model: Computational_model.html
 .. _computational models: `computational model`_
 .. _conceptualization: Conceptualization.html
-.. _context: Linguistic_context.html
+.. _context: `linguistic context`_
 .. _deixis: Deixis.html
 .. _destination: Destination.html
 .. _direct realism: Direct_realism.html
 .. _disambiguate: Ambiguity.html
 .. _discourse: Discourse.html
 .. _distal object: Distal_object.html
+.. _Elman McClelland 1998: elman_mcclelland_1988.html
 .. _feature analysis: Feature_analysis.html
+.. _forced-choice: Two-alternative_forced_choice.html
 .. _grammar: Grammar.html
 .. _homograph: Homograph.html
 .. _homography: Homography.html
@@ -36,6 +36,7 @@
 .. _human communication system: Human_communication_system.html
 .. _human communication systems: `human communication system`_
 .. _information: Information.html
+.. _interactive activation model: Interactive_activation_model.html
 .. _interlocutors: Interlocutor.html
 .. _joint act: Joint_act.html
 .. _language comprehension: Language_comprehension.html
@@ -51,6 +52,9 @@
 .. _lexemes: Lexeme.html
 .. _lexicon: Lexicon.html
 .. _linguistics: Linguistics.html
+.. _linguistic context: Linguistic_context.html
+.. _Massaro 1998: massaro_1998.html
+.. _McClelland: James_L_McClelland.html
 .. _memory: Memory.html
 .. _message: Message.html
 .. _messages: message_
@@ -58,6 +62,8 @@
 .. _morphemes: Morpheme.html
 .. _morphology: Morphology.html
 .. _natural language processing: Natural_language_processing.html
+.. _neural network: Neural_network.html
+.. _neural networks: `neural network`_
 .. _noise: Noise.html
 .. _noisy: noise_
 .. _Pandemonium architecture: Pandemonium_architecture.html
@@ -71,8 +77,12 @@
 .. _pronouns: Pronoun.html
 .. _receiver: Receiver.html
 .. _redundant: Redundancy.html
-.. _sense: Word_sense.html
-.. _senses: sense_
+.. _Reicher 1969: Reicher_1969.html 
+.. _Rumelhart: David_E_Rumelhart.html
+.. _Rumelhart McClelland 1981: rumelhart_mcclelland_1981.html
+.. _Selfridge 1959: Selfridge_1959.html
+.. _sense: `word sense`_
+.. _senses: `word sense`_
 .. _sign: Sign.html
 .. _signal: Signal.html
 .. _signals: signal_
@@ -84,15 +94,18 @@
 .. _syntactic categories: `syntactic category`_
 .. _syntax: Syntax.html
 .. _system: System.html
+.. _tachistoscope: Tachistoscope.html
 .. _template matching: Template_matching.html
 .. _transducer: Transduction.html
 .. _transduction: Transduction.html
+.. _visual information storage: Visual_information_storage.html
 .. _visual mask: Visual_masking.html
 .. _visual masking: Visual_masking.html
-.. _word senses: sense_
 .. _word: Word.html
-.. _words: word_
+.. _word advantage: `word superiority effect`_
+.. _word context: `linguistic context`_
 .. _word recognition: Word_recognition.html
+.. _word sense: Word_sense.html
+.. _word senses: `word sense`_
 .. _word superiority effect: Word_superiority_effect.html
-.. _Selfridge 1959: Selfridge_1959.html
-.. _Massaro 1998: massaro_1998.html
+.. _words: word_

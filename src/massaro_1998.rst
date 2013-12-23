@@ -96,6 +96,7 @@ this feature is perceived discretely or continuously.
 
 .. image:: ../img/Massaro_1998_fig_6.png
    :align: center
+   :width: 50 %
 
 In an experiment addressing the issue, each of the six letters shown in figure
 8.6 was presented seventy times in random order, and the subject categorized
@@ -105,6 +106,7 @@ on the ``e`` side of the continuum were consistently categorized as ``e``.
 
 .. image:: ../img/Massaro_1998_fig_7.png
    :align: center
+   :width: 50 %
 
 From this, it might be concluded that the horizontal line feature is perceived
 discretely. However, this conclusion would not be justified because the
@@ -260,68 +262,192 @@ receive the same categorization response.
 
 One place where variability might occur in a template model is in the decision
 operations. For example, if decisions are based on a goodness-of-match rule
-(RGR).
+(RGR). [*]_
 
-.. image:: ../img/Massaro_1998_fig_15.png
+However, another aspect of these predictions is not realistic. Given that the
+response probability is still based on the objective overlap between the
+stimulus and the template, the model must make the same prediction for each
+subject, but observations confirm that subjects differ from one another. (Which
+makes sense, given that there is no reason for each subject's template to be the
+same.) Given different templates, subjects should categorize stimuli
+differently. Thus, any reasonable template model cannot be based on objective
+overlap that can be measured directly in the stimuli; it must assume subjective
+overlap that will be unique for each subject. In this case, each test letter
+require independent estimates of the amount of subjective overlap with the
+templates for each subject. Thus, the template model can only predict the
+categorization probably for a test letter by estimating a subjective overlap
+value for that test letter. Therefore, we cannot predict performance on the test
+letters without first measuring how subjects respond to each of the 49 stimuli.
+With this stipulation, we are left without a testable template model for the
+``G``-``Q`` task.
+
+.. image:: ../img/Massaro_1998_fig_16.png
    :align: center
    :width: 50%
-
-One justification of the RGR is the probability matching that is often
-observed in decision making. The RGR also captures what appears to be a
-reasonable relationship between stimuli and responses in pattern recognition.
 
 Discrete feature model
 --------------------------------------------------------------------------------
 
-Elaborating the presumed operations
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Although our experiment cannot test template models, it is ideal for testing
+feature models.
 
-One of the possible type of pattern memory is a set of summary descriptions of
-the meaningful patterns. These summary descriptions are called "prototypes" or
-categories and each prototype is a description of the ideal feature values that
-a pattern should have if it is a member of that category. The exact form such
-prototype descriptions might take in the mind is not known and may never be
-known. However, the representation in memory_ must be compatible with the
-percept_. Compatibility is necessary because the perceiver must compare the
-information provided by the stimulus to some memory of the prototypes or
-categories.
+Why make an effort to test such a model when the idea of discrete featured was
+already falsified in the ``c``-``e`` study? Several justifications:
 
-.. todo: Prototype-matching?
+1. It is important to know if conclusions reached in the single-factor
+   ``c``-``e`` study generalize to a two-factor ``G``-``Q`` study.
+
+2. A combining or integration process might occur in the two-factor study that
+   is not needed in the single-factor ``c``-``e`` study, and the addition of an
+   integration process to combine information about two or more features might
+   limit the perceiver to only discrete information about each feature.
+
+3. We will see that more complex experimental situation allows us to derive a
+   more complex discrete feature model that warrants empirical test because the
+   more complex model might give accurate predictions even though a simpler
+   version has already been falsified.
+
+With just a single feature we might postulate two psychological processes:
+evaluation and decision. For example, in the ``c``-``e`` recognition task
+described above, the horizontal line feature must be evaluated and then a
+categorization or rating decision must be made.
+
+But, given multiple features, such as in the ``G``-``Q`` recognition task just
+described, there is possibility that an additional integration operation occurs
+after evaluation but before decision. This integration operation combines or
+integrates several features or sources of information that have been evaluated
+before a decision is made.
 
 .. image:: ../img/Massaro_1998_fig_17.png
    :align: center
 
-1. Evaluation: Evaluate the stimulus to determine the values of the
-   features; which features are present and which are absent.
+1. Evaluation: Evaluate the stimulus to determine the values of the features;
+   which features are present and which are absent. Evaluation is the analysis
+   of each source of information by the processing system. It can be thought of
+   as the transformation of the physical value of each source into a
+   psychological value. (In the ``Q``-``Q`` task, for example, evaluation would
+   give separate representations of the gap size and line angle components of
+   the test letter.)
 
 2. Feature integration: Compare each of the prototypes to the stimulus feature,
    and output a measure of how much each prototype matches the stimulus.
+   Integration is defined as a combination of the information made available by
+   the evaluation process.
 
 3. Decision: Select a response based on the outcome of integration. The decision
    operation might simply select the prototype or category with the best
-   goodness of match.
+   goodness of match. Decision converts the outcome of integration into a
+   response.
 
 The three operations between presentation of a pattern and its categorization as
 can be formalized mathematically.
 
+.. image:: ../img/Massaro_1998_table_1.png
+   :align: center
+
 Free parameters and their estimation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here we describe how values for these variables are determined. This involves
+the concept of free parameters and their estimation.
+
+In terms of the DFM, we do not the know ``p_i`` and ``q_j`` values because we
+cannot state ahead of time how changes in the letter features will change these
+probability values. However, the DFM makes some strong predictions that allow it
+to be quantitatively tested.
+
+Assumption:
+
+- Independence: In the DFM model, the probability of classifying a particular
+  feature depends on the physical characteristics of the feature, but not on the
+  other features.
+  
+Without this assumption, the DFM would be essentially untestable.
+
+With the independence assumption, we can see that there can be a unique value of
+``p_i`` for each of the seven levels of gap size that is unaffected by line
+angle. Similar for ``q_i``.
+
+We do not know what these values are, and we must use the results given by a
+subject to find them. 
+
+Most computational or quantitative models have a set of free parameters. A free
+parameter in a model is a variable that cannot be exactly predicted in advance.
+The actual performance of a subject is used to set the value of the variable.
+
+Predictions of behavior cannot be exact or even very accurate without first
+knowing something about what is being predicted. This uncertainty would preclude
+the quantitative test of letter recognition models if we were not able to
+estimate free parameters.
+
+In parameter estimation, we use our observations of the subject's behavior to
+estimate the values of the free parameters of the model being tested. Because we
+want to give every model its best shot, our goal should be to find the values of
+the parameters that maximize how accurately the model is able to account for the
+results.
+
+Because we want to give every model its best shot, our goal should be to find
+the values of the parameters that maximize how accurately the model is able to
+account for the results. This is called "maximizing the goodness of fit" of the
+model. When we compare competing models, each model should be predicting as well
+as it can to increase the fairness of the test.
+
+.. image:: ../img/Massaro_1998_fig_16.png
+   :align: center
+   :width: 50%
+
+.. image:: ../img/Massaro_1998_fig_18.png
+   :align: center
+   :width: 50%
 
 Fuzzy logical model of perception
 --------------------------------------------------------------------------------
 
+.. image:: ../img/Massaro_1998_fig_19.png
+   :align: center
+   :width: 50%
+
+.. image:: ../img/Massaro_1998_fig_20.png
+   :align: center
+   :width: 50%
+
 Benchmark measures of goodness of fit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Even if a model is a correct description of the psychological processes
+involved, we cannot expect it to fit observations perfectly.
 
 Context effects in pattern recognition
 ================================================================================
 :Pages: 338-343 (6)
+
+The pattern recognition experiments discussed up to this point have manipulated
+one or two bottom up sources of information.
+
+Bottom-up sources refer to sources conveying information more or less directly
+from the stimulus such as the gap size and line angle variables.
+
+Another source has been dubbed "top-down" to refer to other relevant information
+that a perceiver has available, including word knowledge and the information
+that emerges from the context accompanying the bottom-up sources.
+
+The context coveys information because a perceiver has prior knowledge about how
+the context constrains the bottom-up information.
+
+.. image:: ../img/Massaro_1998_fig_21.png
+   :align: center
+
+.. image:: ../img/Massaro_1998_fig_22.png
+   :align: center
 
 Test of the FLMP
 --------------------------------------------------------------------------------
 
 Sentence context in word recognition
 --------------------------------------------------------------------------------
+
+.. image:: ../img/Massaro_1998_fig_23.png
+   :align: center
 
 Artificial neural network models
 ================================================================================
@@ -365,6 +491,28 @@ Footnotes
     perceptual processes. I think of letter and word recognition as automatic.
     The nature of the response should not greatly influence the perceptual
     processing that leads to the response.
+
+.. [*]
+    RGR calculated the probability of some alternative ``X`` against ``Y`` as
+    ``M(X) / (M(X) + M(Y)`` where ``M(x)`` is the goodness of match of a test
+    item with template ``x``.
+
+    .. image:: ../img/Massaro_1998_fig_15.png
+       :align: center
+       :width: 50%
+
+    One justification of the RGR is the probability matching that is often
+    observed in decision making.
+
+    The RGR also captures what appears to be a reasonable relationship between
+    stimuli and responses in pattern recognition. Consider a case in which a
+    test letter gives a reasonably good match only to the first alternative and
+    a second case in which the test letter gives a good match to the first
+    alternative and a somewhat less good match to the second alternative. If the
+    absolute match were the important value for the decision, the probability of
+    classifying the letter as the first alternative should be 1 in both cases.
+    However, the RGR predicts that the probability of classifying the letter as
+    the first alternative in the second case should be much less.
 
 .. |Figure8| image::
     ../img/Massaro_1998_fig_8.png

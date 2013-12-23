@@ -1,12 +1,6 @@
 .. include:: ../shorthand/science.rst
 .. include:: ../shorthand/psycholinguistics.rst
-
-.. _Rumelhart: ../encyclopedia/David_E_Rumelhart.html
-.. _McClelland: ../encyclopedia/James_L_McClelland.html
-.. _forced-choice: ../encyclopedia/Two-alternative_forced_choice.html
-.. _reicher 1969: reicher_1969.html 
-
-.. _rumelhart mcclelland 1981:
+.. include:: index
 
 ================================================================================
 Interactive Processing through Spreading Activation
@@ -44,9 +38,6 @@ Here, the authors propose a model that addresses these concerns.
 Some important facts about |WP|
 ================================================================================
 :Pages: 38-43 (6)
-
-`Reicher 1969`_ conclusively demonstrated that |LP|_ in |Ws| and |-Ws| is
-dependent on |WC|_. [*]_
 
 The literature provides several important clues to the processes at work in
 |WP| that have been central to the development of our model:
@@ -349,42 +340,9 @@ Footnotes
 ================================================================================
 
 .. [*]
-    Historical findings support the view that |LP|_ in |Ws| and |-Ws| is not
-    independent of |WC|. [1]_ However, it is possible to interpret them in terms
-    of `postperceptual guessing` [2]_ or `postperceptual forgetting processes`
-    [3]_.  `Reicher 1969`_ eliminated these nonperceptual interpretations and
-    conclusively demonstrated that |WC|_ facilitates |LP|_. [4]_
-
-.. [*]
     In general, of course, a given level may have more than one level
     immediately above or below it, but for simplicity we now consider the case
     in which there is a linear ordering of levels.
-
-.. [1]
-    - |WP|_ is possible in conditions where accurate |LP|_ is not.
-
-    - At a given exposure level, |WP|_ is more accurate for common |Ws| than
-      uncommon |Ws|.
-
-    - |LP|_ is more accurate in |~Ws|_ than |-~Ws|_.
-
-.. [2]
-    Word perception might be better than nonword perception simply because
-    |Ss| could guess imperfectly perceived words based on their knowledge of
-    English.
-
-.. [3]
-    |WP| might be better than |-WP| simply because a large number of unrelated
-    |Ls| might pose a memory load that would limit accuracy of identification,
-    even if all the |Ls| were perceived accurately
-
-.. [4]
-    Postperceptual guessing can be eliminated because |LP| was more
-    accurate in words despite the fact that both alternatives would have formed
-    a word.
-
-    Postperceptual forgetting can be eliminated because |LP| was more accurate
-    in words than with single |Ls|.
 
 .. [#]
     Recently, researchers found that recognition of familiar visual forms does
@@ -470,50 +428,6 @@ Interactive processing
     A form of cooperative processing in which all knowledge at all levels of
     abstraction can come into play in the process of reading and comprehension.
 
-.. |LP| replace:: letter perception
-.. _LP:
-.. _letter perception:
-
-Letter perception
-    The process of recognizing letters.
-
-.. |~W| replace:: pseudoword
-.. _~W:
-.. |~Ws| replace:: pseudowords
-.. _~Ws:
-.. |-~W| replace:: non-pseudoword
-.. _-~W:
-.. |-~Ws| replace:: non-pseudowords
-.. _-~Ws:
-
-Pseudoword
-    A pronounceable nonword.
-
-.. |WA| replace:: word advantage
-.. _WA:
-
-Word advantage
-    The perceptual advantage of |Ws| over |-Ws| or |1Ls|.
-
-.. |WC| replace:: word context
-.. _WC:
-.. _word context:
-
-Word context
-    A context containing a recognized word.
-
-.. |WP| replace:: |W| perception
-.. _WP:
-.. |-WP| replace:: |-W| perception
-.. _-WP:
-.. |~WP| replace:: |~W| perception
-.. _~WP:
-.. |-~WP| replace:: |-~W| perception
-.. _-~WP:
-.. _word perception:
-
-Word perception
-    The process of recognizing words.
 
 .. |WK| replace:: word knowledge
 .. _WK:

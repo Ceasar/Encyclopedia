@@ -1,9 +1,9 @@
 
 .. _adler_1966:
 
-=============================================================
+================================================================================
 How to Read a Book: The Classic Guide to Intelligent Reading
-=============================================================
+================================================================================
 
 :Author: Mortimer Adler
 :Publisher: Simon and Schuster
@@ -21,9 +21,9 @@ How to Read a Book: The Classic Guide to Intelligent Reading
    :depth: 3
 
 
-#######################
+#################################################################################
 The activity of reading
-#######################
+#################################################################################
 
 .. This abstract was taken from page 166
 
@@ -94,9 +94,9 @@ Adler analyzes this part as such:
    :local:
    :depth: 1
 
-*********************
+********************************************************************************
 To the average reader
-*********************
+********************************************************************************
 
 :Abstract:
 
@@ -163,39 +163,87 @@ Knowing how to read well was like any other art or skill.
     one available to most peopleis to learn to read better, and then, by
     reading better, to learn more of what can be learned through reading. (11)
 
-***************************
+********************************************************************************
 The reading of "reading"
-***************************
+********************************************************************************
+:Pages: 16-33
 
-.. 16
+:Abstract: In this chapter we define what we mean by "reading".
 
-**********************
+We simplify our discussion by limiting our use of "reading" to that which
+requires mental activity and that interprets human language.
+
+
+Degrees of reading
+================================================================================
+
+Here we distinguish what it means to read "better" or "worse": [7]_ 
+
+1. In many fields we measure a man's skill by the difficult of the task he can
+   perform. Thus, we can say that one man is a better reader than another if he
+   can read more *difficult material*. [8]_
+   
+2. Given the same thing to read, one man reads it better than another insofar as
+   he reads it more actively and performs each of the acts involved more
+   successfully.
+
+3. One reader is better than another in proportion as he is capable of a greater
+   range of activity in reading. This includes both being able to read great
+   books and being able to read books by unskilled authors who may inadvertently
+   hamper the reader.
+
+Kinds of reading
+================================================================================
+
+We can use the word "reading" in two distinct senses since for each individual
+there exists two sorts of reading: [11]_
+
+1. Reading anything which immediately comprehensible to us.
+
+2. Reading anything which is challenging to understand.
+
+The first kind makes up the majority of popular reading and is the only kind
+lesser readers can do. We do this kind for information or for entertainment
+(e.g. newspapers, magazines).   
+   
+The second kind is a more active kind of reading, entailing not only more varied
+activity, but more skill in the performance of the various acts required. There
+are two conditions under which this kind of reading takes place:
+
+1. Initially, the writer understands more than the reader, and is
+   communicating something which can increase the reader's understanding.
+
+2. The reader is able to overcome this inequality to some degree and approach
+   equality with the writer.
+
+Note, it is possible to be mistaken in your judgment of something you're
+reading. So, the beginning of reading as a conscious effort to understand is an
+accurate perception of the difference.
+
+********************************************************************************
 Reading is learning
-**********************
+********************************************************************************
+:Pages: 33-48
 
-.. 33
-
-**************************
+********************************************************************************
 Teachers, dead or alive
-**************************
+********************************************************************************
+:Pages: 48-65
 
-.. 48
-
-******************************
+********************************************************************************
 "The defeat of the schools"
-******************************
+********************************************************************************
+:Pages: 65-101
 
-.. 65
-
-***************
+********************************************************************************
 On self-help
-***************
+********************************************************************************
+:Pages: 101
 
-.. 101
 
-#########
+#################################################################################
 The rules
-#########
+#################################################################################
 
 :Abstract:
 
@@ -221,7 +269,7 @@ From many rules to one habit
    :depth: 1
 
 Three ways of reading
-=====================
+================================================================================
 
 .. contents::
    :local:
@@ -586,6 +634,18 @@ not take a place.
 
 Rule 2.1: |rule 2.1|
 ====================
+
+    One of the primary rules for reading anything is to spot the most important
+    words the author uses. Spotting them is not enough, however. You have to
+    know how they are being used. Find an important word merely begins the more
+    difficult research for the meanings, one or more, common or special, which
+    the word is used to convey as it appears here and there in the text.
+
+..
+
+    When you start out to investigate the various senses of a word, it is
+    usually wise to begin with a dictionary and you known own knowledge of
+    common knowledge.
 
 Find the most important words and through them `come to terms`_ with the author.
 (187)
@@ -1046,21 +1106,21 @@ The rest of the reader's life
    :local:
    :depth: 1
 
-******************
+********************************************************************************
 The Other Half
-******************
+********************************************************************************
 
 `295`
 
-*******************
+********************************************************************************
 The Great Books
-*******************
+********************************************************************************
 
 `322`
 
-***************************
+********************************************************************************
 Free Minds and Free Men
-***************************
+********************************************************************************
 
 `354`
 
@@ -1227,6 +1287,10 @@ Communication
     item of knowledge which two men have in common. When there is unresolved
     ambiguity in communication, there is no communication, or at best it must be
     incomplete.
+   
+    Successful communication occurs in any case where what the writer wanted to
+    have received finds its way into the reader's possession. The writer's and
+    reader's skill converge upon a common end.
 
     For communication to be successful, it is necessary for two parties to use
     the same words with the same meanings.
@@ -1396,6 +1460,15 @@ Purism
     rooted in the senses and imagination and moves or is moved by emotion
     and sentiment.
 
+.. _reading:
+
+Reading
+    The process of interpreting or understanding what presents itself to the
+    senses in the form of words or other sensible marks.
+
+    This is stipulative, and used for defining our problem, which is reading in
+    the sense of receiving written communication.
+
 .. _science:
 
 Science
@@ -1452,9 +1525,9 @@ Understanding
 Unity
     The unity of a book is what it is about, its purpose, theme, or main point.
 
-#########
+#################################################################################
 Footnotes
-#########
+#################################################################################
 
 .. 153
 
@@ -1513,3 +1586,83 @@ Footnotes
          rather than the worse?
        - Under what conditions would it be better to do this rather than that?
 
+.. [7]
+    One obvious fact shows the existence of a wide range of degrees in the
+    ability to read is that reading begins in the primary grades and runs
+    through every level of the educational system. Since what we have to learn,
+    as we ascend in our education, becomes more difficult or complex, we must
+    improve our ability to read proportionately.
+
+    Supposedly, gradations in reading go along with graduations from one
+    educational level to another. This supposition is not well founded, however,
+    as in the US, there is little discernible difference between the literacy of
+    a high school student and a college senior. But, this fact means only that
+    the gradations have become more obscure for us, not that they do not exist.
+
+.. [8]
+    The accuracy of such measurement depends, of course, on the independent
+    precision with which we can grade the tasks in difficulty. We would be
+    moving in circles if we said, for instance, that the more difficult book is
+    one which only the better reader can master.
+
+    In order to understand what makes some books more difficult to read than
+    others, we would have to know what demands they make on the skill of the
+    reader.
+
+    The difficulty of the reading matter is a convenient, objective sign of
+    degrees of reading ability, but it does not tell us what the difference is
+    in that reader, so far as his skill is concerned.
+
+.. [11]
+    Adler tells a story:
+
+    Here is a book, I said, and here is your mind. The book consists of language
+    written by someone for the sake of communicating something to you. Your
+    success in reading is determined by the extent to which you get all that
+    writer intended to communicate.
+
+    Now, as you go through the pages either you understand perfectly everything
+    the author has to say or you do not. If you do, you may have gained
+    information, but you could not have increased understand. If upon effortless
+    inspection, a book is completely intelligible to you, then the author and
+    you are as two minds in the same mold. The symbols on the page merely
+    express the common understanding your had before you met.
+
+    Let us take the second alternative. You do not understand the book perfectly
+    at once. Let us assume even that you understand enough to know you do not
+    understand it all. You know there is more in the book than you understand
+    and hence, that the book contains something which can increase your
+    understanding. What do you do then?
+
+    You can do a number of things.
+
+    You can take the book to someone else who, you think, can read better than
+    you, and have him explain the parts that troubled you.
+
+    Or you can get him to recommend a textbook or commentary which will make it
+    all plain by telling you what the author meant.
+
+    Or you may decide, as many students do, that what's over your head isn't
+    worth bothering about, that you understand enough, and the rest doesn't
+    matter.
+
+    If you do any of these things, you are not doing the job of reading which
+    the book requires. That is done in one way only. Without external help, you
+    take the book into your study and work on it. With nothing but the power of
+    your mind, you operate on the symbols before you in such a way that you
+    gradually lift yourself from a state of understanding less to one of
+    understanding more.
+
+    Such elevation, accomplished by the mind working on a book, is reading, the
+    kind of reading that a book which challenges your understanding deserves.
+
+    Thus I roughly defined what I mean by reading: the process whereby a mind,
+    with nothing to operate on the but the symbols of readable matter, and with
+    not help from outside, elevates itself by the power of its own operations.
+    The mind passes from understanding less to understanding more.
+
+    The operations which causes this to happen are the various acts which
+    constitute the art of reading. "How many of these acts do you know?" I asked
+    three thousand teachers. "What things would you do by yourself if your lif
+    depended on understanding something readable which at first perusal left you
+    somewhat in the dark?"

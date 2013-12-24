@@ -12,7 +12,12 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 :Read: December 2013
 :Pages: 397
 :Abstract:
-    ?
+    This book has only two functions to perform: to interest you in the profit
+    of reading and to assist you in cultivating the art.
+
+    This book is intended to help you develop the `art`_ of `reading for
+    understanding`_, not `reading for information`; therefore, it aims to
+    encourage and assist you in reading the `great books`_.
 
 .. sectnum::
    :depth: 2
@@ -47,21 +52,28 @@ Adler analyzes this part as such:
        This part is divided into the following sections.
 
        1. The varieties and degrees of reading ability.
-       2. The major distinctions between reading for amusement and reading for
-          instruction.
-       3. The distinction, in `reading for instruction`_, between information and
-          understanding.
-       4. The relation of this last distinction to one between active and
-          passive reading.
+
+       2. The major distinctions between `reading for amusement`_ and `reading
+          for instruction`_.
+
+       3. The distinction, in `reading for instruction`_, between `reading for
+          information`_ and `reading for understanding`_.
+
+       4. The relation of this last distinction to one between `active reading`_
+          and `passive reading`_.
+
        5. Defines the sort of reading to be discussed as the reception of
           communications conveying knowledge.
+
        6. Relates reading to learning_, by distinguishing between learning by
           discovery_ and learning by instruction_.
+
        7. The relation of books and teachers, distinguishing them as dead and
           alive, and shows that reading is learning from dead teachers.
-       8. Distinguishes between primary and secondary teachers, living or dead,
-          and defines the great books as original communications, and hence
-          primary teachers.
+
+       8. Distinguishes between `primary teachers`_ and `secondary teachers`_,
+          living or dead, and defines the great books as original
+          communications, and hence primary teachers.
 
     2. The second treats of the failure of contemporary education with respect
        to reading.
@@ -312,6 +324,19 @@ Teachers, dead or alive
 ********************************************************************************
 :Pages: 48-65
 
+Let me end this chapter by calling you attention to two things.
+
+1. You have learned something about the rules of reading.
+
+2. We have now pretty well defined the purpose of this book.
+
+You may have some reservations about the enterprise:
+
+- There are many books other than the `great books`_ which are worth reading.
+  But we must admit the better the book, the more it is worth reading.
+  Furthermore, if you learn how to read the great books, you will have no
+  difficulty in reading anything else.
+
 ********************************************************************************
 "The defeat of the schools"
 ********************************************************************************
@@ -373,7 +398,7 @@ A good book deserves three readings.
 These three readings are not three in time, but three in manner: three ways of
 reading a book.
 
-The first two readings are reading for understanding. As a reader becomes
+The first two readings are `reading for understanding`_. As a reader becomes
 expert, these may be performed simultaneously. The third is distinct, as a
 reader must understand an author before criticizing him.
 
@@ -1214,6 +1239,85 @@ TODO
 
 ----
 
+################################################################################
+Critique of Education
+################################################################################
+
+.. 58
+
+(The proliferation of textbooks and lecture courses in our educational system
+today is the surest sign of our declining literacy. A textbook or manual might
+almost be defined as a pedagogical invention for getting "something" into the
+heads of those who cannot read well enough to learn more actively.  An ordinary
+classroom lecture is a similar device. When teachers no longer know how to
+perform the function of reading books *with* their students, they are forced to
+lecture *at* them instead.)
+
+
+.. 58
+
+It happens to be the case, of course, that most of the primary teachers are
+dead -- the men are dead and the books they have left us are dead teachers --
+whereas most of the living teachers are secondary. But suppose that we could
+resuscitate the primary teachers of all times. Suppose there was a college or
+university in which the faculty was thus composed. Would anyone want to go to
+any university if he could get into this one? There need be no limitation on
+numbers. The price of admission -- the only entrance requirement -- is the
+ability and willingness to read.
+
+The great books can be read in our of school. If they are read in school, in
+classes under the supervision of live teachers, the latter must properly
+subordinate themselves to the dead ones.
+
+For many centuries, education was regarded as the elevation of a mind by its
+betters. If we are honest, most of us living teachers should be willing to admit
+that, apart from the advantages which age bestows, we are not much better than
+our students in intellectual caliber or attainment. If elevation is to take
+place, better minds than ours will have to do the teaching.
+
+One might object that great books are too difficult for most of us, in school
+our out. That is why we are forced to get our education from secondary teachers,
+from classroom lectures, textbooks, popularizations, which repeat and digest for
+us what would otherwise forever remain a closed book. Even though our aim is
+understanding, not information, we must be satisfied with a less rich diet. We
+suffer incurable limitations. The masters are too far above us. This I deny. For
+one thing, the less rich diet is likely not be genuinely nourishing at all. The
+latter cannot be substituted for the former, because you cannot get the same
+thing out of them.
+
+The path of true learning is strewn with rocks, not roses. Anyone who insists
+upon taking the easier way ends up in a fool's paradise-- a sophomore all his
+life.
+
+The great books can be read by every man. The help he needs from secondary
+teachers does not consist of the get-learning-quick substitutes. It consists of
+help in learning how to read, and more than that when possible, help actually in
+the course of reading the great books.
+
+Let me argue a bit further the point the great books are the most readable. In
+some cases, of course, they are difficult to read. They require the greatest
+ability to read. The art of teaching demands a corresponding and proportionate
+art of being taught. But, at the same time the great books are the most
+competent to instruct us about the subject matters with which they deal. If we
+had the skill necessary to read them, we would find them the easiest.
+
+There is something of a paradox here. It is due to the fact that two different
+kinds of mastery are involved. There is, on the one hand, the author's mastery
+of his subject matter; on the other, there is our need to master the book he has
+written. These books are recognized as great because of their mastery, and we
+rate ourselves as reader according to the degree of our ability to master these
+books.
+
+If our aim in reading is to gain knowledge and insight, then the great books are
+the most readable, both for the less and for the more competent, because they
+are the most instructive. Obviously, I do not mean "most readable" in the sense
+of "with the least effort" -- even for the expert reader. I mean that these
+books reward every degree of effort and ability to the maximum. It maybe hard
+to dig for gold than for potatoes, but each unit of successful effort is more
+amply repaid.
+
+----
+
 Are you reading for information or understanding?
 
 Heuristic: Anything easily digested is reading for information
@@ -1414,12 +1518,22 @@ Complex skill
 Complexity
     The parts and organization of parts of a complex entity.
 
+.. _dead teacher:
+.. _dead teachers:
+
+Dead teacher
+    Books.
+
+    We cannot talk back to dead teachers or ask them questions.
+    
+    Though we use "dead" that does not necessarily mean the teacher is dead.
+
 .. _discover:
 .. _discovery:
 
 Discovery
     The process of learning something by research, by investigation, or by
-    reflection.
+    reflection, by one's self.
 
     Discovery is the primary source of knowledge.
 
@@ -1429,6 +1543,16 @@ Discovery
     "reading" loosely, we can say that discovery is the art of reading nature.)
 
     See also: instruction_
+
+.. 142
+.. _expository:
+.. _expository book:
+.. _expository books:
+
+Expository book
+    A book which primarily instructs_.
+
+    See: `Reading for instruction`_
 
 .. 129
 .. _extrinsic:
@@ -1473,6 +1597,23 @@ Front matter
 Great work
     pass
 
+    Great books are usually called "classics", but that word has for most people
+    a wrong and forbidding connotation -- wrong in the sense of referring to
+    antiquity, and forbidding in the sense of sounding unreadable. Great books
+    are being written today and were written yesterday as well as long ago, and
+    far from being unreadable, the great books are the most readable and those
+    which most deserve to be read.
+
+    Only after you have read some of the great books competently will you have
+    an intimate grasp of the standards by which other books can be judged as
+    great or good.
+
+    Great books are like popularizations in that most of them are written for
+    ordinary men and not for pedants of scholars. To the extent that they are
+    original, they have to address themselves to an audience which starts from
+    scratch. However, unlike textbooks and popularizations, the great books
+    assume an audience of readers who are thoroughly competent to read.
+
 .. _history:
 
 History
@@ -1490,6 +1631,9 @@ Information
 
     Information is a prerequisite for understanding_.
 
+.. _teach:
+.. _teacher:
+.. _teaching:
 .. _instruct:
 .. _instructs:
 .. _instruction:
@@ -1498,6 +1642,9 @@ Instruction
     Communication to convey knowledge.
 
     Instruction occurs occurs when one man teaches another through discourse.
+
+    Teach is the process whereby one man learns from another through
+    communication.
 
     When being instructed, the learner acts on something communicated to him.
     He performs operations on discourse.
@@ -1520,7 +1667,8 @@ Learning
     We stipulate "learning" to mean the process of acquiring knowledge (in the
     everyday sense). (Foregoing skill_).
 
-    The two ways of learning are instruction_ and discovery_.
+    The two ways of learning are instruction_ and discovery_. The two may help
+    each other.
 
 .. _learning_curve:
 
@@ -1550,15 +1698,6 @@ Learning plateau
     combination. (One cannot think about beating one's opponent in tennis
     until one can reliably return a ball.)
 
-.. 142
-.. _expository:
-.. _expository book:
-.. _expository books:
-
-Expository book
-    A book which primarily instructs_.
-
-    See: `Reading for instruction`_
 
 .. 132
 .. _liberal art:
@@ -1571,11 +1710,84 @@ Liberal art
 
     *focus* truth, expository writing
 
+.. _live teacher:
+.. _live teachers:
+
+Live teacher
+    A speaking teacher; a teacher we learn from by listening. A human being with
+    whom we have some personal contact.
+
+    Unlike a `dead teacher`_, a live teacher may teach us skills_ by *showing*
+    us how or helping us directly go through the motions. Without a live
+    teacher, we have to develop skill by practicing according to rules in a
+    book, without being stopped, corrected, and shown how. (Though it certainly
+    can be done.)
+
+    Considered as a source of knowledge, live teachers either compete with or
+    cooperate with `dead teachers`_.
+    
+    - By competition, I mean the way in which many live teachers tell their
+      students by lectures what the students could learn by reading the books
+      the lecturer himself digested. (Long before the magazine existed, live
+      teachers earned their living by being "reader's digests".
+      
+    - By cooperations I mean the way in which the live teacher somehow divides
+      the function of teaching between himself and the available books: some
+      things he tells the students and some things he expects the student to
+      learn by reading.
+
+    If these were the only functions a live teacher performed, it would follow
+    that anything which can be learned in school can be learned outside of
+    school and without live teachers. (It might take a little more trouble to
+    read for yourself than to have books digested for you. You might have to
+    read more books, if books were your only teachers. But to whatever extent it
+    is true that the live teacher has no knowledge to communicate except he
+    himself learned by reading, you can learn it directly from books yourself,
+    provided you can read as well.) Moreover, if you seek is understanding
+    rather than information, reading will take you further. Most people are even
+    more likely to be passive in listening to a lecture than reading a book.
+    Note-taking is usually not an active assimilation of what is to be
+    understood, but an almost automatic record of what was said.
+
+    There are two other functions a live teacher performs, by which he relates
+    to books.
+
+    1. Repetition. This is not really useful though, because if a student had
+       read the assigned text he would have gotten what he wanted anyway, and if
+       he was unable to, he would be less likely to be able to understand the
+       lecture.
+
+    2. Original communication. This used to be more common before printing.
+       Students would travel all over Europe to hear a famous lecturer. This
+       function is uncommon today. Few teachers have original communications to
+       make (most simply repeat or digest, and students could learn everything
+       he knows by reading the books he has read).
+
+    The only justification for living teacher then is a practical one.
+
+    The self-educated man is as rare as the self-made man. Most men do not
+    become genuinely learned or amass large fortunes through their own efforts.
+    The existence of such men, however, shows it can be done. Their rarity
+    indicates the exceptional qualities of character required. In knowledge, as
+    in wealth, most of us have to be spoon-fed to the little we possess.
+
+    There is one except however.
+
 .. _original communication:
 .. _original communications:
 
 Original communication
     TODO: Complete this
+
+    (They need not be original in entirety of course. On the contrary, complete
+    originality is both impossible and misleading. It is impossible except at
+    the hypothetical beginning of cultural tradition. It is misleading because
+    no one should try to discover for himself what he can be taught by others.
+    The best sort of originality is that which adds something to the fund of
+    knowledge made available by the tradition of learning. Ignorance or neglect
+    of the tradition is likely to result in a false or shallow originality.)
+
+    The `great books`_ in all fields of learning are original communications.
 
 .. _obscurantism:
 
@@ -1608,6 +1820,13 @@ Philosophy
 Practical Book
     A book concerned with `action`, `applied science`, or `knowing how` to do
     something which you think you `should`.
+
+.. _primary book:
+.. _primary teacher:
+.. _primary teachers:
+
+Primary teacher
+    A teacher which contains `original communications`_.
 
 .. _purism:
 
@@ -1687,10 +1906,39 @@ Science
     books. You may actually have have to witness an experiment unless you can use
     your imagination to construct something as you have never observed.
 
-.. 186-187
-.. _term:
-.. _terms:
+.. _secondary:
+.. _secondary teacher:
+.. _secondary teachers:
 
+Secondary teacher
+
+    The secondary teacher is simply a better student, and he should regard
+    himself as learning from the masters along with his younger charges. He
+    should not act as if he were the primary teacher, using a great book as if
+    it were just another textbook of the sort one of his colleagues might write.
+    The primary sources of his own knowledge should be the primary sources of
+    learning for his students.
+
+    Textbooks and popularizations of all sorts are written for people who do not
+    know how to read or can read only for information.  As dead teachers, they
+    are like the live secondary teachers who wrote them.
+
+    Alive or dead, a secondary teacher tries to impart knowledge without
+    requiring too much too skillful activity on the part of the learner. Theirs
+    is an art of teaching which demands the least art of being taught in the
+    students. They stuff the mind rather than enlighten it. The measure of their
+    success is how much the sponge will absorb.
+
+    When avoid effort in learning, we find ourselves with the results of
+    effortless learning: assorted vagaries we collect by letting secondary
+    teachers indoctrinate us. If you paid the greater price in effort, you would
+    be rewarded by better goods.
+
+.. note: the above paragraph is interesting as a response to Clara's notion that
+         a good artist makes them approachable to anyone. It is simply untrue.
+
+.. _art:
+.. _arts:
 .. _skill:
 .. _skills:
 
@@ -1704,6 +1952,10 @@ Skill
     can perform.
 
     Skills must be learned through practice.
+
+.. 186-187
+.. _term:
+.. _terms:
 
 Term
     A word used unambiguously.
@@ -1739,8 +1991,8 @@ Understanding
 
     To understand some thing, one must approach it:
 
-    1. First, as a whole, having unity and a structure of parts
-    2. Second, in terms of its elements, its units of language and thought
+    1. As a whole, having unity and a structure of parts
+    2. In terms of its elements, its units of language and thought
 
 .. 162
 

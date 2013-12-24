@@ -49,14 +49,14 @@ Adler analyzes this part as such:
        1. The varieties and degrees of reading ability.
        2. The major distinctions between reading for amusement and reading for
           instruction.
-       3. The distinction, in reading for instruction, between information and
+       3. The distinction, in `reading for instruction`_, between information and
           understanding.
        4. The relation of this last distinction to one between active and
           passive reading.
        5. Defines the sort of reading to be discussed as the reception of
           communications conveying knowledge.
-       6. Relates reading to learning, by distinguishing between learning by
-          discovery and learning by instruction.
+       6. Relates reading to learning_, by distinguishing between learning by
+          discovery_ and learning by instruction_.
        7. The relation of books and teachers, distinguishing them as dead and
           alive, and shows that reading is learning from dead teachers.
        8. Distinguishes between primary and secondary teachers, living or dead,
@@ -164,66 +164,148 @@ Knowing how to read well was like any other art or skill.
     reading better, to learn more of what can be learned through reading. (11)
 
 ********************************************************************************
-The reading of "reading"
+The reading of "reading" & Reading is learning
 ********************************************************************************
-:Pages: 16-33
+:Pages: 16-33, 33-48
 
-:Abstract: In this chapter we define what we mean by "reading".
+:Abstract:
+    In these chapters we define what we mean by "reading". There are different
+    degrees of reading and different kinds of reading. The different kinds of
+    reading are reading for information and reading for understanding.
 
-We simplify our discussion by limiting our use of "reading" to that which
-requires mental activity and that interprets human language.
+    Some, but not all, reading is learning (e.g. amusement). Some, but not all,
+    learning is reading (e.g. skills or discovery).
 
+1. The varieties and `degrees of reading`_ ability.
+
+2. The major distinctions between `reading for amusement`_ and `reading for
+   instruction`_.
+
+3. The distinction, in `reading for instruction`_, between `information`_ and
+   `understanding`_.
+
+4. The relation of this last distinction to one between `active reading`_ and
+   `passive reading`_.
+
+5. Defines the sort of reading to be discussed as the reception of
+   communications conveying knowledge.
+
+6. Relates reading to learning_, by distinguishing between learning by
+   discovery_ and learning by instruction_.
+
+7. The relation of books and teachers, distinguishing them as dead and alive,
+   and shows that reading is learning from dead teachers.
+
+8. Distinguishes between primary and secondary teachers, living or dead, and
+   defines the great books as `original communications`_, and hence primary
+   teachers.
 
 Degrees of reading
 ================================================================================
 
 Here we distinguish what it means to read "better" or "worse": [7]_ 
 
-1. In many fields we measure a man's skill by the difficult of the task he can
-   perform. Thus, we can say that one man is a better reader than another if he
-   can read more *difficult material*. [8]_
+1. One reader is better than another another if he can read more *difficult
+   material*. [8]_
    
-2. Given the same thing to read, one man reads it better than another insofar as
-   he reads it more actively and performs each of the acts involved more
+2. Given the same thing to read, one reader is better than another insofar as
+   he reads more actively_ and performs each of the acts involved more
    successfully.
 
 3. One reader is better than another in proportion as he is capable of a greater
-   range of activity in reading. This includes both being able to read great
-   books and being able to read books by unskilled authors who may inadvertently
-   hamper the reader.
+   range of activity in reading. This includes both being able to read `great
+   books`_ and being able to read lesser books which may inadvertently hamper
+   the reader.
 
-Kinds of reading
+Reading appropriately
 ================================================================================
 
-We can use the word "reading" in two distinct senses since for each individual
-there exists two sorts of reading: [11]_
+Different kinds of reading are appropriate to different kinds of literature.
 
-1. Reading anything which immediately comprehensible to us.
-
-2. Reading anything which is challenging to understand.
-
-The first kind makes up the majority of popular reading and is the only kind
-lesser readers can do. We do this kind for information or for entertainment
-(e.g. newspapers, magazines).   
-   
-The second kind is a more active kind of reading, entailing not only more varied
-activity, but more skill in the performance of the various acts required. There
-are two conditions under which this kind of reading takes place:
-
-1. Initially, the writer understands more than the reader, and is
-   communicating something which can increase the reader's understanding.
-
-2. The reader is able to overcome this inequality to some degree and approach
-   equality with the writer.
+`Great books` deserve `reading for understanding`_. To only `read for
+information`_ with these books is a great waste. Nevertheless, many ignorant
+people make this mistake, mistaking quantity of reading for quality of reading.
+(We call these people sophomores meaning "wise fools".)
 
 Note, it is possible to be mistaken in your judgment of something you're
 reading. So, the beginning of reading as a conscious effort to understand is an
 accurate perception of the difference.
 
-********************************************************************************
-Reading is learning
-********************************************************************************
-:Pages: 33-48
+Relation to thinking
+================================================================================
+
+Thinking is only one part of the activity of learning.
+
+I stress again the two errors which are so frequently made:
+
+1. Made by those who write or talk about an art of thinking as if there were any
+   such thing in and by itself. Since we never thinking apart from the work of
+   being taught or the process of research, there is no art of thinking apart
+   from the art of reading and listening, on the one hand, the art of discovery
+   on the other. To whatever extent it is true that reading is learning, it is
+   also true that reading is thinking. A complete account of the art of thinking
+   can be given only in the context of a complete analysis of reading and
+   research.
+
+2. Made by those who write about the art of thinking as if it were identical
+   with the art of discovery.
+
+   It is equally important to know how we think when we read a book or listen to
+   a lecture. Perhaps it is even more important for teachers who are engaged in
+   instruction, since the art of reading must be related to the art of being
+   taught, as the art of writing is related to the art of reading. I doubt
+   whether anyone who does not know to read well can write well. I similarly
+   doubt whether anyone who does have the art of being taught is skilled in
+   teach.
+
+The cause of these errors is probably complex.
+
+- Partly, they may be due to the false supposition that teaching and research
+  are activities, whereas reading being taught are merely passive.
+
+- Partly, they may be due to an exaggeration of the scientific method, which
+  stresses investigation or research as if it were the only occasion for
+  thought.
+  
+
+The effect of these errors on American education is only too obvious:
+
+- Much more time is spent on training students how to discover things for
+  themselves than in training them how to learn from others.
+
+(A balanced education must place a just emphasis on both types of learning and
+on the arts they require. There is no particular virtue in wasting time to find
+out for yourself what has already been discovered. One should save one's skill
+in research for what has not yet been been discovered, and exercise one's skill
+in being taught for learning what others already know and therefore can teach.
+Each generation of men should not have to learn everything for themselves, as
+nothing had ever learned before.)
+
+    We may continue to gain some knowledge by speaking to nature, for it will
+    always answer, but there is no point in our ancestors speaking to us unless
+    we know how to listen.
+
+We neither agree nor disagree with nature, as we often do the case of books. The
+critical faculty need to employed only in the latter case.
+
+----
+
+There is good reason for placing our discussion to the art of reading; listening
+is learning from a living teacher, while reading is learning from a dead one (or
+at least one who is not present to us except through his writing).
+
+If you ask a living teacher a question, he may answer you. If you are puzzled by
+what he says, you may save yourself the trouble of thinking by asking him what
+he means. If, however you ask a book, you must answer it yourself. In this
+respect a book is like nature. When you speak to it, it answers you only to the
+extent that you do the work of thinking and analysis yourself.
+
+Books can also be read under the guidance and with the help of teachers. So we
+must consider the relation between books and teachers -- between being taught by
+books with and without the aid of teachers. Obviously it is a matter which
+concerns those of us who are still in school. But it also concerns those of us
+who are not, for we may have to depend on books alone as the means for
+continuing our education, and we ought to know how to make books teach us well.
 
 ********************************************************************************
 Teachers, dead or alive
@@ -796,6 +878,10 @@ What's the proposition and why
 Rule 2.2: |rule 2.2|
 ====================
 
+When you have found out the meaning of each of the three words, *as I have used
+them*, you will have discovered the proposition I am trying to convey. Then, and
+only then, can you decide whether you agree with me.
+
 .. _rule 2.3:
 
 Rule 2.3: |rule 2.3|
@@ -1257,6 +1343,19 @@ is different from reading the newspaper which is different from reading Plato.
 Glossary
 ########
 
+.. _active:
+.. _actively:
+.. _active reading:
+
+Active reading
+    The kind of reading we do when we read anything which requires effort to
+    understand.
+       
+    Active readings entails a variety of activity and skill in the performance
+    of the various acts required.
+
+    See also: `Passive reading`_.
+
 .. _criticism:
 
 Criticism
@@ -1301,7 +1400,7 @@ Communication
 .. _complex skills:
 
 Complex skill
-    A skill which depends on many other simpler skills in order to be performed
+    A skill_ which depends on many other simpler skills in order to be performed
     effectively.
 
     During the acquisition of a complex skill, each of its component skills
@@ -1314,6 +1413,22 @@ Complex skill
 
 Complexity
     The parts and organization of parts of a complex entity.
+
+.. _discover:
+.. _discovery:
+
+Discovery
+    The process of learning something by research, by investigation, or by
+    reflection.
+
+    Discovery is the primary source of knowledge.
+
+    When the learner proceeds without the help of any sort of teacher, the
+    operations of learning are performed on nature rather than discourse. The
+    rules of such learning constitute the art of discovery. (If we use the word
+    "reading" loosely, we can say that discovery is the art of reading nature.)
+
+    See also: instruction_
 
 .. 129
 .. _extrinsic:
@@ -1367,12 +1482,45 @@ History
     The historian narrates these happenings and often colors his narrative
     with some comment on, or insight into, the significance of the events.
 
+.. _information:
+
+Information
+    Information refers to facts or knowing *that*. One can test for information
+    by testing recall.
+
+    Information is a prerequisite for understanding_.
+
+.. _instruct:
+.. _instructs:
+.. _instruction:
+
+Instruction
+    Communication to convey knowledge.
+
+    Instruction occurs occurs when one man teaches another through discourse.
+
+    When being instructed, the learner acts on something communicated to him.
+    He performs operations on discourse.
+    
+    (Note, that if we overlook some minor differences, we can say that reading
+    and listening are the same art -- the art of being taught.)
+
+    See also: discovery_
+
 .. 129
 .. _intrinsic:
 .. _intrinsic reading:
 
 Intrinsic reading
     Reading a book in itself, apart from all other books.
+
+.. _learning:
+
+Learning
+    We stipulate "learning" to mean the process of acquiring knowledge (in the
+    everyday sense). (Foregoing skill_).
+
+    The two ways of learning are instruction_ and discovery_.
 
 .. _learning_curve:
 
@@ -1408,7 +1556,9 @@ Learning plateau
 .. _expository books:
 
 Expository book
-    A book which conveys knowledge primarily.
+    A book which primarily instructs_.
+
+    See: `Reading for instruction`_
 
 .. 132
 .. _liberal art:
@@ -1437,6 +1587,15 @@ Obscurantism
     1.  Of estheticism, which regards all books as if they were poetry
     2.  Of intellectualism, which treats all books as if they were instructive
 
+.. _passive:
+.. _passive reading:
+
+Passive reading
+    The kind of reading_ we do when we read anything which is immediately
+    comprehensible to us.
+
+    See also: `Active reading`_
+
 .. _philosophy:
 
 Philosophy
@@ -1463,11 +1622,56 @@ Purism
 .. _reading:
 
 Reading
-    The process of interpreting or understanding what presents itself to the
-    senses in the form of words or other sensible marks.
+    We stipulate "reading" to mean the active mental process of interpreting or
+    understanding text; the process of receiving written communication.
 
-    This is stipulative, and used for defining our problem, which is reading in
-    the sense of receiving written communication.
+    We primarily divide reading into `reading for amusement`_ and  `reading for
+    instruction`_.
+
+.. _reading for amusement:
+
+Reading for amusement
+    pass
+
+.. _read for information:
+.. _reading for information:
+
+Reading for information
+    Passive_ `reading for instruction`_ for gaining information_ (e.g.
+    newspapers, magazines).   
+
+    Reading for information makes up the majority of time reading and is the
+    only kind lesser readers can do.
+
+    Reading for information is the only kind of reading require by most schools.
+
+    `Reading for instruction`_ may be divided into `reading for information`_
+    and `reading for understanding`_.
+
+.. _reading for instruction:
+
+Reading for instruction
+    Reading primarily for receiving instruction_.
+
+    Some, but not all learning can be achieved through reading: we can learn
+    knowledge *that* through reading but not skill. At best a book can aid one can
+    learn the nature of an art and its rules.
+
+.. _read for understanding:
+.. _reading for understanding:
+
+Reading for understanding
+    Active_ `reading for instruction`_ for gaining understanding_.
+
+    There are two conditions under which reading for understanding takes place:
+
+    1. Initially, the writer understands_ more than the reader, and is
+       communicating something which can increase the reader's understanding.
+       (If the writer does understand more than we do, we can only be informed
+       by him.)
+
+    2. The reader is able to overcome this inequality to some degree and
+       approach equality with the writer.
 
 .. _science:
 
@@ -1486,6 +1690,20 @@ Science
 .. 186-187
 .. _term:
 .. _terms:
+
+.. _skill:
+.. _skills:
+
+Skill
+    Knowledge *how*; the ability to perform some particular act.
+    
+    A person who has a skill can do things that people who lack the skill
+    cannot.
+
+    In many fields we measure a man's skill_ by the difficulty of the task he
+    can perform.
+
+    Skills must be learned through practice.
 
 Term
     A word used unambiguously.
@@ -1508,10 +1726,16 @@ Theoretical Book
     A book concerned with `knowledge`, `pure science`, or `knowing that`.
 
 .. 123
+.. _understand:
+.. _understands:
 .. _understanding:
 
 Understanding
-    To grasp what is being offered as knowledge
+    To understand is to learn not only facts but their significance; to know
+    that something is the case and to know why it is the case; to be able to
+    explain something.
+
+    To understand is to grasp what is being offered as knowledge
 
     To understand some thing, one must approach it:
 

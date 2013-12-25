@@ -12,12 +12,20 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 :Read: December 2013
 :Pages: 397
 :Abstract:
-    This book has only two functions to perform: to interest you in the profit
-    of reading and to assist you in cultivating the art.
+    Most of us have experienced difficulties in reading, but we do not know why
+    we have trouble or what to do about it.
 
-    This book is intended to help you develop the `art`_ of `reading for
-    understanding`_, not `reading for information`; therefore, it aims to
-    encourage and assist you in reading the `great books`_.
+    This is a book for the average reader, who is literate and can `read for
+    information`_, but cannot `read for understanding`_.
+    
+    Knowing how to read well is like any other art_; it is a complex activity,
+    involving many different rules and steps in each of which we can acquire
+    more and more skill through practice. Similarly, mastery is not easy;
+    learning to read presents difficulties to be overcome by effort and time.
+
+    This book has only two functions to perform: to interest you in the profit
+    of reading and to assist you in cultivating the art; therefore, it aims to
+    encourage and assist you in reading the `great books`_. [9]_
 
 .. sectnum::
    :depth: 2
@@ -30,155 +38,29 @@ How to Read a Book: The Classic Guide to Intelligent Reading
 The activity of reading
 #################################################################################
 
-.. This abstract was taken from page 166
+.. 166
+.. 175
 
 :Abstract:
     This part is about the nature of reading in general, the various kinds of
-    reading, and the relation of the art of reading ot the art of being taught
+    reading, and the relation of the art of reading to the art of being taught
     in school and out. It considers, therefore, the serious consequences of the
     neglect of reading in contemporary education, suggesting as a solution that
     books can be substituted for living teachers if individuals can help
     themselves learn how to read.
 
-.. 175
-
-Adler analyzes this part as such:
-
-    The book is divided into three major parts.
-
-    1. The first treats of the nature and kinds of reading, and the place of
-       reading in education.
-
-       This part is divided into the following sections.
-
-       1. The varieties and degrees of reading ability.
-
-       2. The major distinctions between `reading for amusement`_ and `reading
-          for instruction`_.
-
-       3. The distinction, in `reading for instruction`_, between `reading for
-          information`_ and `reading for understanding`_.
-
-       4. The relation of this last distinction to one between `active reading`_
-          and `passive reading`_.
-
-       5. Defines the sort of reading to be discussed as the reception of
-          communications conveying knowledge.
-
-       6. Relates reading to learning_, by distinguishing between learning by
-          discovery_ and learning by instruction_.
-
-       7. The relation of books and teachers, distinguishing them as dead and
-          alive, and shows that reading is learning from dead teachers.
-
-       8. Distinguishes between `primary teachers`_ and `secondary teachers`_,
-          living or dead, and defines the great books as original
-          communications, and hence primary teachers.
-
-    2. The second treats of the failure of contemporary education with respect
-       to reading.
-
-       This part is divided into the following sections.
-
-       1. The varieties and degrees of reading ability.
-       2. The relation of reading to such other skills as writing and speaking
-          are discussed with respect to current educational defects.
-       3. The results of scientific educational measurements are reported to
-          show the lack of these skills in the graduates of our schools.
-       4. Other evidences, especially from book publishers, are offered as
-          correlating evidence to these findings.
-       5. An attempt is made to explain why the schools have failed.
-
-    3. The third attempts to show how the contemporary education situation can
-       be remedied.
-
-       1. Any art of skill can be acquired by those who will practice according
-          to the rules.
-       2. It is indicated how the art of reading might be acquired by those who
-          did not learn how in school.
-       3. It is suggested that by learning how to read, people can compensate
-          for the defects of their education.
-       4. It is hoped that if people generally understood what an education
-          should be, through having learned to read and having read, they would
-          take serious steps to reform the failing school system.
-
 .. contents::
-   :local:
    :depth: 1
-
-********************************************************************************
-To the average reader
-********************************************************************************
-
-:Abstract:
-
-.. contents::
    :local:
-   :depth: 1
-
-.. 3
-
-This is a book for readers who cannot read.
-
-There are many kinds of reading and degrees of ability to read.
-
-This book is for readers who want to read better or want to read in some other
-way than they now can.
-
-This book is for people who cannot read at all (e.g. infants, imbeciles) and
-masters. 
-
-    Most of us know that we are are not expert reader. We know this in many
-    ways, but most obviously when we find some things too difficult to read, or
-    have great trouble in reading them; or when someone else has read the same
-    thing we have and shown us how much we missed or misunderstood...  Most of
-    us have experienced difficulties in reading, but we do not know why we have
-    trouble or what to do about it.
-
-    I think this is because most of us do not regard reading as a complicated
-    activity, involving many different steps in each of which we can acquire
-    more and more skill through practice, as in the case of any other art. We
-    may not even think there is an art of reading. We tend to think of reading
-    almost as if it were something as simple and natural to do as looking or
-    walking. There is no art of looking or walking. 
-
-
-    I told him that this book was like a book on how to play tennis.
-
-    As written about in books, the art of tennis consists of rules for making
-    each of the various strokes, a discussion of how and when to use them, and a
-    description of how to organize these parts into the general strategy of a
-    successful game. The art of reading has to be written about in the same way.
-    There are rules for each of the different steps you must take to complete
-    the reading of a whole book.
-
-Knowing how to read well was like any other art or skill.
-
-----
-
-.. 6
-
-    For every illusion that the classroom can nourish, there is a school  of
-    hard knocks to destroy it.
-
-    Here I wish only to record this fact about our schools, a fact which
-    concerns us all, because in large part they have made us what we are
-    todaypeople who cannot read well enough to enjoy reading for profit or
-    profit by reading for enjoyment. (11)
-
-    But education does not stop with schooling, nor does the responsibility for
-    the ultimate educational fate of each of us rest entirely on the school
-    system. Everyone can and must decide for himself whether he is satisfied
-    with the education he got, or is now getting if he is still in school. If he
-    is not satisfied, it is up to him to do something about it. With schools as
-    they are, more schooling is hardly the remedy. One way outperhaps the only
-    one available to most peopleis to learn to read better, and then, by
-    reading better, to learn more of what can be learned through reading. (11)
 
 ********************************************************************************
-The reading of "reading" & Reading is learning
+The nature of reading, the kinds of reading & the place of reading in education
 ********************************************************************************
-:Pages: 16-33, 33-48
+:Pages:
+    3-16 (`To the average reader`),
+    16-33 (`The reading of "reading"`),
+    33-48 (`Reading is learning`),
+    48-65 (`Teachers, dead or alive`)
 
 :Abstract:
     In these chapters we define what we mean by "reading". There are different
@@ -188,32 +70,34 @@ The reading of "reading" & Reading is learning
     Some, but not all, reading is learning (e.g. amusement). Some, but not all,
     learning is reading (e.g. skills or discovery).
 
-1. The varieties and `degrees of reading`_ ability.
+    1. The varieties and degrees of reading ability.
 
-2. The major distinctions between `reading for amusement`_ and `reading for
-   instruction`_.
+    2. The major distinctions between `reading for amusement`_ and `reading for
+       instruction`_.
 
-3. The distinction, in `reading for instruction`_, between `information`_ and
-   `understanding`_.
+    3. The distinction, in `reading for instruction`_, between `reading for
+       information`_ and `reading for understanding`_.
 
-4. The relation of this last distinction to one between `active reading`_ and
-   `passive reading`_.
+    4. The relation of this last distinction to one between `active reading`_
+       and `passive reading`_.
 
-5. Defines the sort of reading to be discussed as the reception of
-   communications conveying knowledge.
+    5. Defines the sort of reading to be discussed as the reception of
+       communications conveying knowledge.
 
-6. Relates reading to learning_, by distinguishing between learning by
-   discovery_ and learning by instruction_.
+    6. Relates reading to learning_, by distinguishing between learning by
+       discovery_ and learning by instruction_.
 
-7. The relation of books and teachers, distinguishing them as dead and alive,
-   and shows that reading is learning from dead teachers.
+    7. The relation of books and teachers, distinguishing them as dead and
+       alive, and shows that reading is learning from dead teachers.
 
-8. Distinguishes between primary and secondary teachers, living or dead, and
-   defines the great books as `original communications`_, and hence primary
-   teachers.
+    8. Distinguishes between `primary teachers`_ and `secondary teachers`_,
+       living or dead, and defines the `great books`_ as `original
+       communications`_, and hence `primary teachers`_.
 
 Degrees of reading
 ================================================================================
+
+As an active_ skill, reading there are various degrees of reading ability.
 
 Here we distinguish what it means to read "better" or "worse": [7]_ 
 
@@ -229,19 +113,28 @@ Here we distinguish what it means to read "better" or "worse": [7]_
    books`_ and being able to read lesser books which may inadvertently hamper
    the reader.
 
-Reading appropriately
+.. 132
+
+Fine arts & Liberal arts
 ================================================================================
 
-Different kinds of reading are appropriate to different kinds of literature.
+We distinguish between two large classes of books: `fine art`_ and
+`liberal art`_ which differ on:
 
-`Great books` deserve `reading for understanding`_. To only `read for
-information`_ with these books is a great waste. Nevertheless, many ignorant
-people make this mistake, mistaking quantity of reading for quality of reading.
-(We call these people sophomores meaning "wise fools".)
+1. Intention of the author
+2. The satisfaction its afford readers
 
-Note, it is possible to be mistaken in your judgment of something you're
-reading. So, the beginning of reading as a conscious effort to understand is an
-accurate perception of the difference.
+`Fine arts`_ and `liberal arts`_ require different `complex skills`_ to
+appreciate. Both skills are necessary for decent literacy since few books fit
+neatly into either class, and many `great books`_, especially works of history,
+intentionally do not. [#]_
+
+.. 135
+
+Books which treat of the appreciation or criticism of `fine art`_ are themselves
+`liberal arts`_. [#]_ After reading this book you can read those and learn how
+to read the other way. In general, you will find the greatest help from those
+books which formulate the rules and exemplify them in practice. [#]_
 
 Relation to thinking
 ================================================================================
@@ -250,17 +143,13 @@ Thinking is only one part of the activity of learning.
 
 I stress again the two errors which are so frequently made:
 
-1. Made by those who write or talk about an art of thinking as if there were any
-   such thing in and by itself. Since we never thinking apart from the work of
-   being taught or the process of research, there is no art of thinking apart
-   from the art of reading and listening, on the one hand, the art of discovery
-   on the other. To whatever extent it is true that reading is learning, it is
-   also true that reading is thinking. A complete account of the art of thinking
-   can be given only in the context of a complete analysis of reading and
-   research.
+1. Believing that the art of thinking could be by itself.
+   
+   Since we never think apart from the work of being taught or the
+   process of research, there is no art of thinking apart from the art of
+   reading and listening, on the one hand, the art of discovery on the other.
 
-2. Made by those who write about the art of thinking as if it were identical
-   with the art of discovery.
+2. Believing that the art of thinking is the same as the art of discovery.
 
    It is equally important to know how we think when we read a book or listen to
    a lecture. Perhaps it is even more important for teachers who are engaged in
@@ -273,29 +162,10 @@ I stress again the two errors which are so frequently made:
 The cause of these errors is probably complex.
 
 - Partly, they may be due to the false supposition that teaching and research
-  are activities, whereas reading being taught are merely passive.
+  are active_, whereas reading being taught are merely passive_.
 
 - Partly, they may be due to an exaggeration of the scientific method, which
-  stresses investigation or research as if it were the only occasion for
-  thought.
-  
-
-The effect of these errors on American education is only too obvious:
-
-- Much more time is spent on training students how to discover things for
-  themselves than in training them how to learn from others.
-
-(A balanced education must place a just emphasis on both types of learning and
-on the arts they require. There is no particular virtue in wasting time to find
-out for yourself what has already been discovered. One should save one's skill
-in research for what has not yet been been discovered, and exercise one's skill
-in being taught for learning what others already know and therefore can teach.
-Each generation of men should not have to learn everything for themselves, as
-nothing had ever learned before.)
-
-    We may continue to gain some knowledge by speaking to nature, for it will
-    always answer, but there is no point in our ancestors speaking to us unless
-    we know how to listen.
+  stresses discovery_ as if it were the only occasion for thought.
 
 We neither agree nor disagree with nature, as we often do the case of books. The
 critical faculty need to employed only in the latter case.
@@ -319,34 +189,257 @@ concerns those of us who are still in school. But it also concerns those of us
 who are not, for we may have to depend on books alone as the means for
 continuing our education, and we ought to know how to make books teach us well.
 
-********************************************************************************
-Teachers, dead or alive
-********************************************************************************
-:Pages: 48-65
-
-Let me end this chapter by calling you attention to two things.
-
-1. You have learned something about the rules of reading.
-
-2. We have now pretty well defined the purpose of this book.
-
-You may have some reservations about the enterprise:
-
-- There are many books other than the `great books`_ which are worth reading.
-  But we must admit the better the book, the more it is worth reading.
-  Furthermore, if you learn how to read the great books, you will have no
-  difficulty in reading anything else.
 
 ********************************************************************************
-"The defeat of the schools"
+The failure of contemporary education with respect to reading
 ********************************************************************************
-:Pages: 65-101
+:Pages: 65-101 (`"The defeat of the schools"`)
+
+:Abstract:
+   1. Various evidences are recited, giving the writer's personal experiences
+      with the inability of students to read.
+
+   2. The relation of reading to such other skills as writing and speaking
+      are discussed with respect to current educational defects.
+
+   3. The results of scientific educational measurements are reported to
+      show the lack of these skills in the graduates of our schools.
+
+   4. Other evidences, especially from book publishers, are offered as
+      correlating evidence to these findings.
+
+   5. An attempt is made to explain why the schools have failed.
+
+
+The relation of reading to writing and speaking
+================================================================================
+
+The lack of reading for understanding in schools
+================================================================================
+
+Overemphasis on information, rather than understanding
+--------------------------------------------------------------------------------
+
+We may be college students -- perhaps, candidates for a higher degree -- and yet
+realize that what is happening to us is stuffing, not education. There are many
+college students who know, certainly by the time they get their bachelor's
+degree, that they spent four years taking courses and finishing with them by
+passing examinations. The mastery attained in that process is not of subject
+matter, but of the teacher's personality. If the student remember enough of what
+was told to him in lectures and textbooks, and if he has a line on the teacher's
+pet prejudices, he can pass that course easily enough, but he is also passing up
+an education.
+
+.. 58
+
+(The proliferation of textbooks and lecture courses in our educational system
+today is the surest sign of our declining literacy. A textbook or manual might
+almost be defined as a pedagogical invention for getting "something" into the
+heads of those who cannot read well enough to learn more actively.  An ordinary
+classroom lecture is a similar device. When teachers no longer know how to
+perform the function of reading books *with* their students, they are forced to
+lecture *at* them instead.)
+
+Textbooks and lecture courses merely make demands on one's memory.
+
+Overemphasis on discovery, rather than instruction
+--------------------------------------------------------------------------------
+
+We may continue to gain some knowledge by speaking to nature, for it will
+always answer, but there is no point in our ancestors speaking to us unless
+we know how to listen.
+
+The effect of these errors (regarding mistakes on the art of thinking as
+an independent art, or as the same as the art of discovery) on American
+education is only too obvious: Much more time is spent on training students how
+to discover things for themselves than in training them how to learn from
+others.
+
+A balanced education must place a just emphasis on both types of learning and
+on the arts they require. There is no particular virtue in wasting time to find
+out for yourself what has already been discovered. One should save one's skill
+in research for what has not yet been been discovered, and exercise one's skill
+in being taught for learning what others already know and therefore can teach.
+Each generation of men should not have to learn everything for themselves, as
+nothing had ever learned before.
+
+Why schools have failed
+================================================================================
+
+The humbug we teachers have to practice is the front we put on of knowledge and
+expertness. It is not entirely humbug, because we usually know a little more and
+can do a little better than our best students. But we must not let the humbug
+fool ourselves. If we do know that we cannot read much better than our students,
+we have allowed our professional imposture to deceive ourselves. The best
+teachers are those who make the few pretensions. The teacher who shows he is
+also struggling with books helps students much more than a pedagogue who appears
+to get through them with ease.
 
 ********************************************************************************
-On self-help
+How the contemporary education situation can be remedied
 ********************************************************************************
-:Pages: 101
+:Pages: 101-116 (`On self-help`)
 
+:Abstract:
+   1. Any art_ can be acquired by those who will practice according
+      to the rules.
+
+   2. It is indicated how the art of reading might be acquired by those who
+      did not learn how in school.
+
+   3. It is suggested that by learning how to read, people can compensate
+      for the defects of their education.
+
+   4. It is hoped that if people generally understood what an education
+      should be, through having learned to read and having read, they would
+      take serious steps to reform the failing school system.
+
+
+.. 58
+
+It happens to be the case, of course, that most of the primary teachers are
+dead -- the men are dead and the books they have left us are dead teachers --
+whereas most of the living teachers are secondary. But suppose that we could
+resuscitate the primary teachers of all times. Suppose there was a college or
+university in which the faculty was thus composed. Would anyone want to go to
+any university if he could get into this one? There need be no limitation on
+numbers. The price of admission -- the only entrance requirement -- is the
+ability and willingness to read.
+
+The great books can be read in our of school. If they are read in school, in
+classes under the supervision of live teachers, the latter must properly
+subordinate themselves to the dead ones.
+
+For many centuries, education was regarded as the elevation of a mind by its
+betters. If we are honest, most of us living teachers should be willing to admit
+that, apart from the advantages which age bestows, we are not much better than
+our students in intellectual caliber or attainment. If elevation is to take
+place, better minds than ours will have to do the teaching.
+
+One might object that great books are too difficult for most of us, in school
+our out. That is why we are forced to get our education from secondary teachers,
+from classroom lectures, textbooks, popularizations, which repeat and digest for
+us what would otherwise forever remain a closed book. Even though our aim is
+understanding, not information, we must be satisfied with a less rich diet. We
+suffer incurable limitations. The masters are too far above us. This I deny. For
+one thing, the less rich diet is likely not be genuinely nourishing at all. The
+latter cannot be substituted for the former, because you cannot get the same
+thing out of them.
+
+The path of true learning is strewn with rocks, not roses. Anyone who insists
+upon taking the easier way ends up in a fool's paradise-- a sophomore all his
+life.
+
+The great books can be read by every man. The help he needs from secondary
+teachers does not consist of the get-learning-quick substitutes. It consists of
+help in learning how to read, and more than that when possible, help actually in
+the course of reading the great books.
+
+Let me argue a bit further the point the great books are the most readable. In
+some cases, of course, they are difficult to read. They require the greatest
+ability to read. The art of teaching demands a corresponding and proportionate
+art of being taught. But, at the same time the great books are the most
+competent to instruct us about the subject matters with which they deal. If we
+had the skill necessary to read them, we would find them the easiest.
+
+There is something of a paradox here. It is due to the fact that two different
+kinds of mastery are involved. There is, on the one hand, the author's mastery
+of his subject matter; on the other, there is our need to master the book he has
+written. These books are recognized as great because of their mastery, and we
+rate ourselves as reader according to the degree of our ability to master these
+books.
+
+If our aim in reading is to gain knowledge and insight, then the great books are
+the most readable, both for the less and for the more competent, because they
+are the most instructive. Obviously, I do not mean "most readable" in the sense
+of "with the least effort" -- even for the expert reader. I mean that these
+books reward every degree of effort and ability to the maximum. It maybe hard
+to dig for gold than for potatoes, but each unit of successful effort is more
+amply repaid.
+
+How to acquire the art of reading outside of school
+================================================================================
+
+No one can be taught reading, or any other skill for that matter, who will not
+help himself. You have to be willing to *take* advice and to *follow* rules. You
+can get no further than you take yourself.
+
+There is only one caution I must add to keep the proceedings honest. Those
+self-help books which promise to do more than they can are bogus. No book, as I
+have said before, can direct you in the acquisition of a skill with as much
+efficiency as the tutor or coach who takes you by the hand and leads you through
+the motions.
+
+Let me start now the conditions under which you can effectively help yourself:
+
+Any art or skill is possessed by those who have formed the habit of operating
+according to its rules.
+
+There is no way of forming a habit of operation than by operating. That is what
+it means to say on learns to do by doing. The difference between your activity
+before and after you have formed a habit is a difference in facility and
+readiness.
+
+One thing is clear. Knowing the rules of an art is not the same as having the
+habit. When we speak of a man as skilled in any way, we do not mean that he
+knows the rules of doing something, but that he possess the habit of doing it.
+
+Of course, it is true that knowing the rules, more or less explicitly, is a
+condition of getting the skill. Nor can you acquire an artistic habit without
+following rules. The art as something which can be taught consists of rules to
+be followed in operation.
+
+There is one difference between reading and certain other skills. To acquire any
+art you must know the rules in order to follow them. But you need not in every
+case understand the rules, or at least not to the same degree. Thus, in learning
+to drive an automobile you must know the rules but you do not have to know the
+principles of automatic mechanics which make them right. In other words, to
+*understand* the rules is to *know more than* the rules. It is to know the
+scientific principles which underlie them.
+
+----
+
+Adler is hesitant before talking about self-help, because of perhaps, an
+irrational prejudice against self-help books. Two things have changed his mind.
+
+1. The current education system is crazy.
+
+2. Adult education is possible. The person who learns something out of school is
+   self-disciplined. He works for merit in his own eyes, not credit from the
+   registrar.
+
+
+Compensating for defects in education
+================================================================================
+
+Education does not stop with schooling, nor does the responsibility for the
+ultimate educational fate of each of rest entirely on the school system.
+Everyone must decide for himself whether is satisfied with the education he
+got, or is now getting if he is still in school. If he is not satisfied, it is
+up to him to do something about it.
+
+With schools as they are, more schooling is hardly the remedy. One way out --
+perhaps the only one available to most people -- is to learn to read better, and
+then, by reading better, to learn more of what can be learned through reading.
+
+.. todo: What might be other ways?
+
+Hope for reforming education
+================================================================================
+
+If somehow out of school and after it, people generally could get some of the
+education they did not get in school, they might be motivated to change the
+school system. Any they could get the education they did not get, if they could
+read. The vicious circle would be broken if the general public were better
+educated than the standard product of the schools and colleges. It would break
+at the point where they would really know themselves the kind of literacy they
+would like their children to get.
+
+More than educational reform is at stake. Democracy and the liberal institutions
+we have cherished in this country since its founding are in the balance, too.
+
+The role of living teachers
+--------------------------------------------------------------------------------
 
 #################################################################################
 The rules
@@ -506,9 +599,9 @@ Rules of `extrinsic reading`_:
 Criteria for rules of intrinsic reading
 =======================================
 
-1. The rules of intrinsic reading also apply to lectures
-2. The rules only apply to reading a `whole` book, not to excerpts
-3. The rules only apply to liberal arts, not fine arts
+1. The rules also apply to lectures
+2. The rules only apply to reading a *whole* book, not to excerpts
+3. The rules only apply to `liberal arts`_, not `fine arts`_
 
 .. 129
 
@@ -541,51 +634,15 @@ One should not read small pieces spaced over time:
 .. TODO: This is extremely hazy and should be revised.
 
 
-.. 132
 
-Fine arts & Liberal arts
-========================
+********************************************************************************
+Analytic reading
+********************************************************************************
 
-We distinguish between two large classes of books: `fine art`_ and
-`liberal art`_ which differ on:
+:Pages:
+    140-160 (20) (`Catching on from the title`),
+    160-185 (25) (`Seeing the skeleton`)
 
-1. Intention of the author
-2. The satisfaction its afford readers
-
-`Fine arts`_ and `liberal arts`_ require different `complex skills`_ to
-appreciate. Both skills are necessary for decent literacy since few books fit
-neatly into either class, and many `great books`_, especially works of history,
-intentionally do not. [#]_
-
-.. 135
-
-Books which treat of the appreciation or criticism of `fine art`_ are themselves
-`liberal arts`_. [#]_ After reading this book you can read those and learn how
-to read the other way. In general, you will find the greatest help from those
-books which formulate the rules and exemplify them in practice. [#]_
-
-.. 137
-
-Read books with a purpose
-=========================
-
-One should satisfy one's purpose by going to a book written with a similar
-intention, but know the same book can be read in different ways and according
-to different purposes (do not make the mistakes of `purism`_ or `obscurantism`_).
-The author may have had more than one intention, although one is likely to be
-primary and dictate the obvious character of the book. Whatever you do in the
-way of reading, you must know what you are doing and obey the rules for doing
-that sort of things. There is no error in reading a poem as if it were
-philosophy so long as you know which you are doing at a given time and how to
-do it well. 
-
-.. 140
-
-**************************
-Catching on from the title
-**************************
-
-:Pages: 140-160 (20)
 :Abstract:
     It is important to know what kind of book one is reading before reading it
     because different kinds of books cannot be read in the same way. The
@@ -594,6 +651,11 @@ Catching on from the title
     `history`_, `science`_, or `philosophy`_. One can usually classify a book
     before reading it by reading it `front matter`_. One can identify specific
     kinds of books with specific rules.
+
+    To grasp a complex entity like a book, one must grasp its `unity`_ and its
+    `complexity`_. One should do this by writing a concise statement of the
+    unity, a blueprint of its structure, and noting the problems the author is
+    trying to solve.
 
 .. contents::
    :local:
@@ -618,6 +680,35 @@ require different methods to solve and different methods of writing to explain,
 which require different kinds of reading to follow. If a reader does not know
 the kind of book he is reading, he will become perplexed and he may be unable
 to ask or answer a large number of questions about the book.
+
+.. 137
+
+Read books with a purpose
+--------------------------------------------------------------------------------
+
+One should satisfy one's purpose by going to a book written with a similar
+intention, but know the same book can be read in different ways and according
+to different purposes (do not make the mistakes of `purism`_ or `obscurantism`_).
+The author may have had more than one intention, although one is likely to be
+primary and dictate the obvious character of the book. Whatever you do in the
+way of reading, you must know what you are doing and obey the rules for doing
+that sort of things. There is no error in reading a poem as if it were
+philosophy so long as you know which you are doing at a given time and how to
+do it well. 
+
+Reading appropriately
+--------------------------------------------------------------------------------
+
+Different kinds of reading are appropriate to different kinds of literature.
+
+`Great books` deserve `reading for understanding`_. To only `read for
+information`_ with these books is a great waste. Nevertheless, many ignorant
+people make this mistake, mistaking quantity of reading for quality of reading.
+(We call these people sophomores meaning "wise fools".)
+
+Note, it is possible to be mistaken in your judgment of something you're
+reading. So, the beginning of reading as a conscious effort to understand is an
+accurate perception of the difference.
 
 .. 147
 
@@ -662,20 +753,6 @@ which lie outside the scope of your normal, routine, daily experience, it is
 scientific, otherwise it is philosophical, since science requires special
 observation for support which requires elaborate experiments, but philosophy
 needs only common observations ("armchair thinking").
-
-
-.. 160
-
-*******************
-Seeing the skeleton
-*******************
-
-:Pages: 160-185 (25)
-:Abstract:
-    To grasp a complex entity like a book, one must grasp its `unity`_ and its
-    `complexity`_. One should do this by writing a concise statement of the
-    unity, a blueprint of its structure, and noting the problems the author is
-    trying to solve.
 
 .. _rule 1.2:
 
@@ -727,11 +804,13 @@ started out with problems and ended by writing the solutions. The reader may
 improve his ability to detect an author's problems by studying the kinds of
 questions anyone can ask about anything. [#]_
 
-***************
-Coming to terms
-***************
+*********************************************************************************
+Synthetic reading
+*********************************************************************************
 
-:Pages: 185-209 (24)
+:Pages:
+    185-209 (24) (`Coming to terms`),
+    209-235 (26) (`What's the proposition and why`)
 
 Coming to terms is the first stage of interpretation. Unless the reader comes to
 terms with the author, the communication of knowledge from one to the other does
@@ -891,13 +970,6 @@ few books of this sort. In proportion as they are good, their terms will be so
 well made and put together by the author that the reader can do the work
 interpretation fruitfully.
 
-
-******************************
-What's the proposition and why
-******************************
-
-:Pages: 209-235 (26)
-
 .. _rule 2.2:
 
 Rule 2.2: |rule 2.2|
@@ -946,11 +1018,13 @@ that composed the argument.
 Rule 2.4: |rule 2.4|
 ====================
 
-*****************************
-The etiquette of talking back
-*****************************
+********************************************************************************
+Critical reading
+********************************************************************************
 
-:Pages: 235-251 (16)
+:Pages:
+    235-251 (16) (`The etiquette of talking back`)
+    251-266 (15) (`The things the reader can say`)
 
 Reading a book is a kind of conversation. The reader has the last word, but
 the reader must not be judge before reading fully because the author cannot
@@ -978,11 +1052,9 @@ Rule 3.1.2: |rule 3.1.2|
 Rule 3.1.3: |rule 3.1.3|
 ------------------------
 
-*****************************
-The things the reader can say
-*****************************
+pass
 
-:Pages: 235-266 (15)
+----
 
 If the reader does not understand and if the fault is with the book, rather than
 with the reader, the reader must locate the sources of trouble. He should be
@@ -1235,100 +1307,11 @@ Free Minds and Free Men
 
 `354`
 
-TODO
+
 
 ----
 
-################################################################################
-Critique of Education
-################################################################################
-
-.. 58
-
-(The proliferation of textbooks and lecture courses in our educational system
-today is the surest sign of our declining literacy. A textbook or manual might
-almost be defined as a pedagogical invention for getting "something" into the
-heads of those who cannot read well enough to learn more actively.  An ordinary
-classroom lecture is a similar device. When teachers no longer know how to
-perform the function of reading books *with* their students, they are forced to
-lecture *at* them instead.)
-
-
-.. 58
-
-It happens to be the case, of course, that most of the primary teachers are
-dead -- the men are dead and the books they have left us are dead teachers --
-whereas most of the living teachers are secondary. But suppose that we could
-resuscitate the primary teachers of all times. Suppose there was a college or
-university in which the faculty was thus composed. Would anyone want to go to
-any university if he could get into this one? There need be no limitation on
-numbers. The price of admission -- the only entrance requirement -- is the
-ability and willingness to read.
-
-The great books can be read in our of school. If they are read in school, in
-classes under the supervision of live teachers, the latter must properly
-subordinate themselves to the dead ones.
-
-For many centuries, education was regarded as the elevation of a mind by its
-betters. If we are honest, most of us living teachers should be willing to admit
-that, apart from the advantages which age bestows, we are not much better than
-our students in intellectual caliber or attainment. If elevation is to take
-place, better minds than ours will have to do the teaching.
-
-One might object that great books are too difficult for most of us, in school
-our out. That is why we are forced to get our education from secondary teachers,
-from classroom lectures, textbooks, popularizations, which repeat and digest for
-us what would otherwise forever remain a closed book. Even though our aim is
-understanding, not information, we must be satisfied with a less rich diet. We
-suffer incurable limitations. The masters are too far above us. This I deny. For
-one thing, the less rich diet is likely not be genuinely nourishing at all. The
-latter cannot be substituted for the former, because you cannot get the same
-thing out of them.
-
-The path of true learning is strewn with rocks, not roses. Anyone who insists
-upon taking the easier way ends up in a fool's paradise-- a sophomore all his
-life.
-
-The great books can be read by every man. The help he needs from secondary
-teachers does not consist of the get-learning-quick substitutes. It consists of
-help in learning how to read, and more than that when possible, help actually in
-the course of reading the great books.
-
-Let me argue a bit further the point the great books are the most readable. In
-some cases, of course, they are difficult to read. They require the greatest
-ability to read. The art of teaching demands a corresponding and proportionate
-art of being taught. But, at the same time the great books are the most
-competent to instruct us about the subject matters with which they deal. If we
-had the skill necessary to read them, we would find them the easiest.
-
-There is something of a paradox here. It is due to the fact that two different
-kinds of mastery are involved. There is, on the one hand, the author's mastery
-of his subject matter; on the other, there is our need to master the book he has
-written. These books are recognized as great because of their mastery, and we
-rate ourselves as reader according to the degree of our ability to master these
-books.
-
-If our aim in reading is to gain knowledge and insight, then the great books are
-the most readable, both for the less and for the more competent, because they
-are the most instructive. Obviously, I do not mean "most readable" in the sense
-of "with the least effort" -- even for the expert reader. I mean that these
-books reward every degree of effort and ability to the maximum. It maybe hard
-to dig for gold than for potatoes, but each unit of successful effort is more
-amply repaid.
-
-----
-
-Are you reading for information or understanding?
-
-Heuristic: Anything easily digested is reading for information
-
-*   Newspaper
-
-Claim: not really learning anything new
-
-You need to find writers who are more knowledgable on a particular subject than yourself.
-
-Mortimery Adler wrote the book on reading in "How to Read a Book". Identified four levels of reading:
+Mortimer Adler wrote the book on reading in "How to Read a Book". Identified four levels of reading:
 
 1.  Elementary
 
@@ -1806,6 +1789,9 @@ Passive reading
     The kind of reading_ we do when we read anything which is immediately
     comprehensible to us.
 
+    We tend to think of reading almost as if it were something as simple and
+    natural to do as looking or walking. There is no art of looking or walking. 
+
     See also: `Active reading`_
 
 .. _philosophy:
@@ -2088,6 +2074,14 @@ Footnotes
     The difficulty of the reading matter is a convenient, objective sign of
     degrees of reading ability, but it does not tell us what the difference is
     in that reader, so far as his skill is concerned.
+
+.. [9]
+    You may have some reservations about the enterprise:
+
+    - There are many books other than the `great books`_ which are worth
+      reading. But we must admit the better the book, the more it is worth
+      reading. Furthermore, if you learn how to read the great books, you will
+      have no difficulty in reading anything else.
 
 .. [11]
     Adler tells a story:

@@ -698,7 +698,7 @@ questions anyone can ask about anything. [#]_
 .. |reading 2| replace:: The interpretation of a book's contents
 
 *********************************************************************************
-Synthetic reading
+Interpretative reading
 *********************************************************************************
 
 :Pages:

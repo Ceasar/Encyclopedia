@@ -407,12 +407,12 @@ A good book deserves three readings.
 
 1.  Understanding_
 
-    1. Analytic Reading
-    2. Synthetic Reading
+    1. `Analytic reading`_
+    2. `Interpretative reading`_
 
 2.  Critical
 
-    3. Critical Reading
+    3. Critical reading
 
 These three readings are not three in time, but three in manner: three ways of
 reading a book.
@@ -421,8 +421,25 @@ The first two readings are `reading for understanding`_. As a reader becomes
 expert, these may be performed simultaneously. The third is distinct, as a
 reader must understand an author before criticizing him.
 
-The first two readings and the third must be done somewhat separately;
-understanding the author must always precede criticizing or judging him.
+----
+
+Relation of analytic reading and interpretative reading:
+
+The major parts of a book and even their principal divisions contain many
+propositions and usually several arguments. But if you keep on dividing the book
+into its parts, you at last have to say: "In this part, the following points are
+made." Now each of these points is likely to be a proposition and some of them
+taken together probably form an argument.
+
+Thus the two processes, which we have called the first and the second reading,
+meet. You work down to propositions and arguments by dividing the book into its
+parts. You work up to arguments by showing how they are composed of propositions
+and ultimately of terms. When you have completed these two readings, you can
+really say you know the contents of a book.
+
+
+----
+
 
 .. 126
 
@@ -440,13 +457,14 @@ understanding the author must always precede criticizing or judging him.
     him to write well habitually, as if the rules were part of his nature. The
     same is true of reading.
 
+
+
+
+
 Intrinsic reading & Extrinsic reading
 =====================================
 
-We distinguish between:
-
-#. `intrinsic reading`_
-#. `extrinsic reading`_
+We distinguish between `intrinsic reading`_ and `extrinsic reading`_.
 
 .. 127
 
@@ -535,13 +553,6 @@ Analytic reading
 
 Here the reader proceeds from the whole to its parts.
 
-Rules for the first reading:
-
-#. |rule 1.1|_
-#. |rule 1.2|_
-#. |rule 1.3|_
-#. |rule 1.4|_
-
 Knowing `what the whole book is about <rule 1.2_>`_ and `what its main
 divisions are <rule 1.3_>`_ will help you discover its leading terms and
 propositions. If you can discover what the chief contentions of the author are
@@ -618,7 +629,7 @@ unskilled authors are unaware of distinctions.
 
 `Fine arts` and `liberal arts` can be distinguished by:
 
-1. Intention of the author
+1. Intention of the author (to please or to instruct)
 2. The satisfaction its afford readers
 
 .. 149
@@ -709,7 +720,11 @@ Interpretative reading
 
 :Abstract:
     The purpose of this reading is to meet minds with the author, by finding his
-    ideas (terms), assertions (propositions), and arguments (syllogisms).
+    ideas (terms), assertions (propositions), and arguments (syllogisms). To
+    **come to terms** is to know precisely what another man means when he uses
+    certain words in any context. If the author uses a word in one meaning, and
+    the reader reads it in another, words have passed between them but they have
+    not come to terms.
     
     Given that language is an imperfect medium for communicating thought, there
     are many obstacles to communication which need to be overcome. We can expect
@@ -718,133 +733,171 @@ Interpretative reading
     work toward each other, guided by the principles which underly the rules of
     good reading and writing.
 
+    Interpretation is a skill, and there are degrees of success. The lowest is
+    "verbalism", or the habit of using words without regard for the thoughts
+    they convey. One succumbs if one passively reads, especially if one is
+    reading something in which the important words also happen to be in popular
+    usage. The reader who is active rather than passive, is attentive not only
+    to the word but to the sentences and paragraphs.
+
     Each rule for this reading has a grammatical and a logical step: the
     grammatical step deals with words and the logical step deals with their
     meanings. So far as communication is concerned, both steps are
     indispensable; if language is used without thought, nothing is being
     communicated. [17]_
 
+    The reader does not have to follow the rules in order. Though, the reader
+    must usually understand lower-level units to understand higher-level units,
+    discovering important high-level units may aid discovering important
+    low-level units (and of course vice-versa).
+
+    Adler warns he has only touched the most essential points, and hints at
+    studying topics in philosophy of language for more information.
+
 .. contents::
    :depth: 1
    :local:
 
-
-.. _rule 2.1:
-
-Rule 2.1: |rule 2.1|
+Background
 ================================================================================
 
-.. 185
-.. _come to terms:
+One does not need to be a trained logician to spot the argument; most books are
+intended for the general reader, not for specialists in logic. Nevertheless some
+background is helpful.
 
-To **come to terms** is to know precisely what another man means when he uses
-certain words in any context. If the author uses a word in one meaning, and the
-reader reads it in another, words have passed between them but they have not
-come to terms. Coming to terms is a skill, and there are degrees of success.
+- A term is a concept. 
 
-Note, until  passive reading is overcome, the reader proceeds as if he knew what
-all the words meant, especially if he is reading something in which the
-important words also happen to be in popular usage.
+- A proposition asserts a relation between terms. If the proposition is
+  self-evident, it is called an axiom. If a proposition is not self-evident, it
+  may be called an opinion until a reason is given to support it.
 
-How to come to terms
+- An argument is a sequence of propositions, some of which give reasons for what
+  is to be concluded. If the conclusion follows from the premises, then the
+  argument is valid. That does not necessarily mean the conclusion is true,
+  because one or more of the premises may be false or only probable.
+
+- A many-to-many relationship exists between words/phrases and terms. Thus,
+  different words/phrases may express the same term, and different terms may be
+  expressed by the same words/phrases. Not all words/phrases express terms.
+
+- A many-to-many relationship exists between sentences and propositions. Thus,
+  different sentences may express the same proposition, and different
+  propositions may be expressed the same sentence. Not all sentences express
+  propositions.
+
+- Argument necessarily correspond to a sequences of sentences, but do not
+  necessarily correspond to a paragraph (e.g. due to digressions or due to an
+  author's style of writing many short paragraphs).
+
+The role of the author
+================================================================================
+
+In proportion to the author's skill, the author will aid the reader.
+
+- The author may help the reader discover important words by explicitly defining
+  or stressing important words. He may use common technical vocabulary, which
+  simplifies matters if the reader has prior knowledge of the subject matter.
+
+- A good and honest author helps the reader by making his argument plain. He
+  states his assumptions, explains his reasoning (except when they can be can
+  omitted without inconvenience due to common knowledge), and summarizes himself
+  as his arguments develop.
+
+From the author's point of view, the important sentences are those which express
+the judgments on which his whole argument rests.
+
+The role of the reader
+================================================================================
+
+The role of the reader is to discover the important expressions and then
+interpret them.
+
+Discovering important expressions
 --------------------------------------------------------------------------------
 
-Generally, one come to terms with an author by finding where he uses important
-words and determining how he uses them.
+A book usually contains much more than the bare statements of an argument. The
+author may explain how he came to the point of view he now holds,why he
+thinks his position has serious consequences, or discuss the words he has to
+use.
 
-1. Find places where the author explicitly defines terms.
+The reader has two basic strategies for discovering important expressions:
 
-2. Identify technical vocabulary and use prior knowledge of the subject matter
-   to determine what they mean.
+1. Study expressions which he cannot readily understand. (Since you should not
+   have trouble with expression that the author uses in an ordinary way, if you
+   have trouble, then it may be important. Note that the common sense of words
+   changes with time and place.)
 
-3. Find where the author explicitly stresses certain words (e.g. typographical
-   devices, such as quotation marks or italics, or quarrels with other writers
-   about how they have used certain words) and interpret them.
+2. For a given linguistic level,  study expressions that belong to higher-level
+   units and study expressions that contain lower-level unit.
 
-4. Find words that trouble you and interpret them. (Since you should not have
-   trouble with words that the author uses in an ordinary way, if you have
-   trouble, then the author may be using it in a special way. Note that the
-   common sense of words changes with time and place.)
+Arguments may also by identified by the presence of discourse connectives (e.g.
+"because", "if ... then"", "since", "therefore", or "it follows").
 
-Interpreting in (3) and (4) deserves special attention.
-
-How to interpret words
+Interpreting expressions
 --------------------------------------------------------------------------------
 
-Let us suppose that you have the marked a words that trouble you. What next?
+Once you have the marked a words that trouble you, one can interpret them by:
 
-Either the author uses this word univocally or he uses it equivocally. The
-latter is the more usual case.
+1. Grouping the places where the author uses the word by sense. (Usually, the
+   author will use the same word with different senses.)
 
-Procedure:
+2. Finding the meaning using context, common knowledge, and reference material.
 
-1. Group the places where the author uses the word by sense.
-
-2. Find the meaning using context, common knowledge, and reference material.
-
-There is no rule of thumb for find the meaning of words. Doing so is sort of
+No rule of thumb exists for finding the meaning of words. Doing so is sort of
 like solving a jigsaw puzzle; as each word is understood, the others are easier
 to understand, and occasionally a misunderstood word will cause other words to
 be misunderstood as well. Note however, unlike a jigsaw puzzle, it is possible a
 bad author may use words that cannot be interpreted.
 
-The difficulty of the task is to some degree proportional to the skill of the
-writer.
+The reader can interpret the sentences he has found to discover the one or more
+propositions they contain by interpreting all the words that make up the
+sentence, and especially its principal words. Only two differences exist between
+interpreting words and interpreting sentences:
 
-Note: an author may use different words to express the same term.
+1. The reader employs a larger context in the latter case. He brings all the
+   surrounding sentences to bear on the sentence in question, just as he used
+   the surrounding words to interpret a particular word.
 
-Note: like a word, a phrase may express a term.
+2. Complicated sentences usually express two or more propositions. You have not
+   completed your interpretation until you have separated out of it all the
+   different, though perhaps related, propositions it contains.
 
-There is a note toward the end where Adler warns he has only touched the most
-essential points, and hints at studying philosophy of language for more
-information.
+Testing
+--------------------------------------------------------------------------------
 
-.. _rule 2.2:
-
-Rule 2.2: |rule 2.2|
-====================
-
-.. _rule 2.3:
-
-Rule 2.3: |rule 2.3|
-====================
-
-Find if you can the paragraphs in a book which state its important arguments;
-but if the argument are not thus expressed, your task is `construct` them, by
-taking a sentence from this paragraph, and one from that, until you have
-gathered together the sequence of sentences which the state the propositions
-that composed the argument.
-
-.. tip::
-
-   Remember that every argument must involve a number of statements. Of these,
-   some give the reasons why you should accept a conclusion the author is
-   proposing. If you find find the conclusions first, then look for the
-   reasons. If you find the reasons first, see what they lead to. (231)
-
-.. tip::
-
-   Discriminate between the kind of argument which points to one or more
-   particular facts as evidence for some generalization and the kind which
-   offers a series of general statements to prove some further generalizations.
-
-   General propositions which are called self-evident, or axioms, are
-   propositions we know to be true as soon as we understand their terms. Such
-   propositions are ultimately derived from our experience of particulars. (231)
-
-.. tip::
-
-   Observe:
-   
-   - what things the author says he must assume
-   - what he says can be proved or otherwise evidenced
-   - what need not be proved because it is self-evident
+The reader can test whether or not he has done he has completed this reading
+successfully in by restating and exemplifying (either imaginatively or by
+reference to actual experience) each logical unit. [20]_ It is important that
+reader can do this, since failure would imply that he would not be able to
+recognize the proposition if it were presented to him in other words, which is
+especially important for `extrinsic reading`_. [19]_
 
 Rule 2.4: |rule 2.4|
-====================
+================================================================================
 
+The fourth rules governs the last step in the second reading of a book and ties
+the second reading together with the first.
 
-.. _reading_3:
+Recall that last step in the first reading was the discovery of the major
+problems which the author tried to answer in the course of the book. Now after
+you have grasped his arguments, you can check what you have found by answering
+the following questions:
+
+- Which of the problems that the author tried to solve did he succeed in
+  solving?
+
+- In the course of solving these, did he get into any new ones?
+
+- Of the problems he failed to solve, old or new, which did the author know he
+  failed on?
+
+A good writer, like a good reader, should know whether a certain problem has
+been solved or not, though I can see how it might cost the reader less pain to
+acknowledge the failure.
+
+When you are able to answer these questions you can feel reasonably assured that
+you have managed to understand the book.
+
 .. _reading_critical:
 .. _reading_evaluative:
 
@@ -874,19 +927,228 @@ defend himself.
     conduct themselves well. Otherwise there is no profit in the enterprise.
     The profit in good conversation is something learned.
 
+The reader has an obligation as well as opportunity to talk back. Nothing can
+stop a reader from pronouncing judgment. The roots of the obligation lie a
+little deeper.
+
+Some of these rules are general maxims of intellectual etiquette. Others are
+more specific criteria for defining the point of criticism.
+
+There is a tendency to think that a good book is above the criticism of the
+average reader. The reader and the author are not peers. The author is subject
+to trail only by a jury of his peers.
+
+Adler thinks there is no book so good that fault cannot be found with it.
+
+Once an reader has understood a book, they have elevated themselves almost to
+peerage with the author. Not they are fit to exercise the rights and
+privileges of their new position.
+
+Docility is generally confused with subservience. "docile" is derived from Latin
+root which means to teach or be taught. A person is wrongly thought to be docile
+if he is passive and pliable. On the contrary, docility is the extremely active
+virtue of being teachable. No one is really teachable who does not freely
+exercise his power of independent judgment. The most docile reader is,
+therefore, the most critical. He is the reader who finally responds to a book by
+the greatest effort to make up his own mind on the matters the author has
+discussed. I say "finally" because docility requires that a teacher be fully
+heard and, more than that, understood, before he is judged.
+
+The same principles of grammar and logic underlie rules of good writing as well
+as good reading. The rules we have so far discussed concern the achievement of
+intelligiblity on the part of the writer and the achievement of understanding on
+the part of the reader. The last set of rules goes beyond understanding to
+critical judgment. Here is where rhetoric comes in.
+
+There are many uses of rhetoric. We usually think of it in connection with the
+orator or propagandist. But in its most general significance, rhetoric is
+involved in every situation in which communication takes place among men takes
+place among men. If we are the talkers, we wish not only to be understood but to
+be agreed in some sense. If our purpose in trying to persuade is serious, we
+wish to convince or persuade -- more precisely, to convince about theoretical
+matters and to persuade about matters that ultimately affect action or feeling.
+
+To be equally serious in receiving such communication, one must be not only a
+responsive, but a responsible listener. You are responsible to the extent that
+you follow what has been said and note the intention which prompts it. But you
+also have the responsibility of taking a position.
+
+On the part of the speaker or writer, rhetorical skill is knowing how to
+convince or persuade. Since this is ultimate end in view, all the other aspects
+of communication must serve it. Grammatical and logical skill in writing clearly
+and intelligibly has virtue in itself, but it is also a means to an end.
+Reciprocally, on the part of the reader or listener, rhetorical skill is knowing
+how to react to anyone who tries to convince or persuade us. Here, too,
+grammatical and logical skill, which enables us to understand what is being
+said, prepares the way for a critical reaction.
+
+-----
+
+Skill in the first two readings comes from a mastery of grammar and logic. Skill
+in the third depends on rhetoric.
+
+
 Rule 3.1: |rule 3.1|
 ====================
 
 Rule 3.1.1: |rule 3.1.1|
 ------------------------
 
+This first rule is simply you must not begin to talk back until you have
+listened carefully and are (honestly) sure you understand.
+
+You must be able to say, with reasonable certainty, "I understand", before you
+can say any of the following things: "I agree", "I disagree", or "I suspend
+judgment". These three remarks exhaust all the critical positions you can take.
+
+It is an error to suppose that to criticize is to disagree. To agree is to
+exercise just as much critical judgment on your part as to disagree. You can be
+just as wrong is agreeing as in disagreeing. To agree without understanding is
+inane. To disagree without understanding is impudent.
+
+Suspending judgment is also an act of criticism. It is taking the position that
+something has not been shown. You are saying that you are not convinced or
+persuaded on way or the other.
+
+
+This means the third reading must always follow the other two in time.
+
+The first two readings are separate in time only for the beginner, and even he
+may combine them.
+
+-----
+
+This rule seems to be such obvious common sense obvious sense that you may
+wonder why I have bothered to state it is so explicitly. Two reasons:
+
+1. Many people make the error of identifying criticism with disagreement.
+
+2. Anecdotally, few people observe it in practice.
+
+I have had the experience, shared by all authors, of suffering book reviews by
+critics who did not feel obliged to do the reading first. I have also had the
+experience of lecturing, both in university and on the public platform, and of
+having critical questions asked which were based on any understanding of what
+I had said. There is no point answering critics of this sort. The only thing to
+do is to ask them to state your position for you, the position they claim to be
+challenging. If they cannot do it satisfactorily, if they cannot repeat what you
+have said in your own words, you know that they do not understand, and you are
+entirely justified in ignoring their criticisms.
+
+Several further points to note:
+
+- If you are reading a great book, you ought to hesitate before you say "I
+  understand". The presumption certainly is that you have a lot of work to do
+  before you can make that declaration honestly and with assurance. You must, of
+  course, be a judge in this matter, and that makes the responsibility even more
+  severe.
+
+- To say "I don't understand" is, of course, a critical judgment, but only after
+  you have tried your hardest does it reflect on the book rather than yourself.
+  The presumption is in favor of the book, especially if it is a great one. In
+  reading great books, failing to read is usually the reader's fault. Hence he
+  is obligated to stay with the task of the first two readings a long time
+  before entering on the third.
+
+Two other conditions under which the rule requires special care:
+
+1. If you are reading only part of a book, it is more difficult to be sure that
+   you understand, and hence you should be more hesitant to criticize.
+
+2. Sometimes a book is related to other books by the same author, and depends
+   upon them for full significance. In this situation, you should be more
+   circumspect about saying "I understand" and slower to raise your critical
+   lance. (This happen with writers who have not been able to say everything
+   they thought or knew in a single work.)
+
 Rule 3.1.2: |rule 3.1.2|
 ------------------------
+
+There is no point in winning an argument if you know or suspect you are wrong.
+(Practically, of course, it may get you ahead in the world for a short time. But
+honestly is the better policy in the slightly longer run.)
+
+Many think a conversation is an occasion for a personal aggrandizement. They
+think that winning the argument is what matters, not learning the truth.
+
+He who regards conversation as a battle can win only be being an antagonist,
+whether is right or wrong. The reader who approaches a book in this spirit reads
+it only to find something he can disagree with; a *casus belli*.
+
+Now, in a conversation which a reader has with a book in the privacy of his own
+study, there is nothing to prevent the reader from winning an argument. The
+author is not there to defend himself. If all he wants is the empty satisfaction
+of seeming to show the author up, he can get it readily.
+
+But if the reader realizes that the only profit in conversation, with live or
+dead teachers, is what one can learn from them, if he realizes that you win only
+by gaining knowledge, he may see the futility of mere contentiousness.
+
 
 Rule 3.1.3: |rule 3.1.3|
 ------------------------
 
-pass
+Regard disagreements as capable of being resolved.
+
+Where the second maxim urged you not to disagree disputatiously, this one warns
+you against disagreeing hopelessly. One is hopeless about the fruitfulness of
+discussion if one does not recognize that all rational men can agree. (Note, I
+said *can* agree-- I did not say all rational men *do* agree.)
+
+The point I am trying to make is that disagreement is futile agitation unless
+it is undertaken with the hope that it may lead to the resolution of an issue.
+
+These two facts -- that mean do disagree and can agree -- arise from the
+complexity of human nature. Men are rational animals. Their rationality is the
+source of their power to agree. Their animality, and the imperfections of their
+reason which it entails, is the cause of passion and prejudice. The language
+they must use to communicate is an imperfect medium. Yet to the extent men are
+rational, these obstacles to their understanding one another can be overcome.
+
+The sort of disagreement, which is only apparent, resulting from
+misunderstanding, is certainly curable. There is another sort of disagreement,
+which is due to inequalities of knowledge. The ignorant often foolishly disagree
+with the learned about matters exceeding their own knowledge. The more learned,
+however, have a right to be critical of errors made by those who lack relevant
+knowledge. Disagreements of this sort can be also be corrected, by instruction.
+
+All human disagreements can be resolved by the removal misunderstanding or of
+ignorance. Hence the man who at any stage of conversation disagrees, should at
+least hope to reach agreement in the end. He should be as much prepared to have
+his own mind changed as seek to change the mind of another. He should always
+keep before him the possibility that he misunderstands or that he is ignorant on
+some point. No one who looks upon disagreement as an occasion for teaching
+another should forget that it is also an occasion for being taught. (The trouble
+is that everyone think everything is just a matter of opinion, and that everyone
+has a right to an opinion.)
+
+How does this apply to the conversation between reader and author?
+
+It deals with the situation which the reader finds himself disagreeing with
+something like a book. It requires him first to be sure that the disagreement is
+not due to misunderstanding. Supposing that the reader has been careful to
+observe the rule that he must not begin a critical reading until he understands,
+and is therefore satisfied that there is no misunderstanding here.
+
+This maxim then requires him to distinguish between knowledge and opinion, and
+to regard an issue concerning knowledge as one which can be resolved. If he
+pursues the matter further, he may be instructed by the author on points which
+change his mind. If that does not happen, he may be justified in his criticism,
+and metaphorically at least, be able to instruct the author. He can at least
+hope that were the author alive and present, his mind could be changed.
+
+If the author does not give reasons for his propositions, they can be treated
+only as expressions of opinion on his part. The reader who does not distinguish
+between the reasoned statement of knowledge and the flat expression of opinion
+is not reading to learn. He is at most interested in the author's personality
+and is using the book as a case history. Such a reader of courses neither agrees
+nor disagrees; he does not judge the book but the man.
+
+The distinction between knowledge and opinion applies to him as well as to the
+author. The reader must do more than make judgment of agreement or disagreement;
+he must give reasons for them. If he agrees, it suffices if he actively shares
+the author's reasons for them. If he disagrees, he must give his grounds for
+doing so. Otherwise he is treating a matter of knowledge as if it were opinion.
 
 ----
 
@@ -913,6 +1175,8 @@ Aside: The whole process of interpretation is directed toward a meeting of minds
 through the medium of language. Understanding a book can be described as a kind
 of agreement between writer and reader. They agree about the use of language to
 express idea.
+
+
 
 Rule 3.2: |rule 3.2|
 ====================
@@ -1238,10 +1502,8 @@ is different from reading the newspaper which is different from reading Plato.
 
 .. |rule 2.1| replace:: Come to terms with the author
 
-.. |rule 2.2| replace:: Find the important sentences and grasp the author's
-                        leading propositions
-.. |rule 2.3| replace:: Locate or construct the basic arguments in the book by
-                        finding them in the connection of sentences
+.. |rule 2.2| replace:: Grasp the author's leading propositions
+.. |rule 2.3| replace:: Locate or construct the basic arguments in the book
 .. |rule 2.4| replace:: Determine which of his problems the author solved and
                         which he did not, and, of the latter, decide which the
                         author knew he failed to solve
@@ -1761,6 +2023,17 @@ Footnotes
     help from those books which formulate the rules and exemplify them in
     practice. [#]_
 
+.. [19]
+    The process of translation from a foreign language into English is relevant
+    to the test I have suggested. If you cannot state in an English sentence
+    what a French sentence says, you know you do not understand the meaning of
+    the French.
+
+.. [20]
+    Not all propositions are equally susceptible to this test. It may be
+    necessary to have the special experience which only a laboratory can afford
+    to be sure you have grasped certain scientific propositions.
+
 -----
 
 **Relation to thinking**
@@ -1946,3 +2219,11 @@ of "with the least effort" -- even for the expert reader. I mean that these
 books reward every degree of effort and ability to the maximum. It maybe hard
 to dig for gold than for potatoes, but each unit of successful effort is more
 amply repaid.
+
+----
+
+Perhaps you are beginning to see how essential a part of reading it is to be
+perplexed and know it. Wonder is the beginning of wisdom in learning from books
+as well as from nature.
+
+.. I disagree with the above *as a necessary fact*.

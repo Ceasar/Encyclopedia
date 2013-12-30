@@ -414,12 +414,16 @@ A good book deserves three readings.
 
     3. Critical reading
 
-These three readings are not three in time, but three in manner: three ways of
-reading a book.
+There are three ways of reading a book. The first two readings are `reading for
+understanding`_.
 
-The first two readings are `reading for understanding`_. As a reader becomes
-expert, these may be performed simultaneously. The third is distinct, as a
-reader must understand an author before criticizing him.
+The third is distinct, as a reader must understand an author
+before criticizing him.
+
+
+As a reader becomes expert, the first two readings may be performed
+simultaneously.
+
 
 ----
 
@@ -431,12 +435,53 @@ into its parts, you at last have to say: "In this part, the following points are
 made." Now each of these points is likely to be a proposition and some of them
 taken together probably form an argument.
 
-Thus the two processes, which we have called the first and the second reading,
-meet. You work down to propositions and arguments by dividing the book into its
-parts. You work up to arguments by showing how they are composed of propositions
-and ultimately of terms. When you have completed these two readings, you can
-really say you know the contents of a book.
+Thus the two the first and the second reading meet. You work down to
+propositions and arguments by dividing the book into its parts. You work up to
+arguments by showing how they are composed of propositions and ultimately of
+terms. When you have completed these two readings, you can really say you know
+the contents of a book.
 
+Relation to the Trivium
+================================================================================
+
+The same principles of grammar and logic underlie rules of good writing as well
+as good reading. The principles of rhetoric underlies rules of critical judgment.
+
+The rules of the first two readings concern the achievement of intelligiblity on
+the part of the writer and the achievement of understanding on the part of the
+reader.
+
+Skill in reading for understanding from a mastery of grammar and logic. Skill in
+criticism depends on rhetoric.
+
+
+On the part of the speaker or writer, rhetorical skill is knowing how to
+convince or persuade. Since this is ultimate end in view, all the other aspects
+of communication must serve it. Grammatical and logical skill in writing clearly
+and intelligibly has virtue in itself, but it is also a means to an end.
+
+Reciprocally, on the part of the reader or listener, rhetorical skill is knowing
+how to react to anyone who tries to convince or persuade us. Here, too,
+grammatical and logical skill, which enables us to understand what is being
+said, prepares the way for a critical reaction.
+
+----
+
+To be equally serious in receiving such communication, one must be not only a
+responsive, but a responsible listener. You are responsible to the extent that
+you follow what has been said and note the intention which prompts it. But you
+also have the responsibility of taking a position.
+
+
+----
+
+There are many uses of rhetoric. We usually think of it in connection with the
+orator or propagandist. But in its most general significance, rhetoric is
+involved in every situation in which communication takes place among men takes
+place among men. If we are the talkers, we wish not only to be understood but to
+be agreed in some sense. If our purpose in trying to persuade is serious, we
+wish to convince or persuade -- more precisely, to convince about theoretical
+matters and to persuade about matters that ultimately affect action or feeling.
 
 ----
 
@@ -865,12 +910,13 @@ interpreting words and interpreting sentences:
 Testing
 --------------------------------------------------------------------------------
 
-The reader can test whether or not he has done he has completed this reading
-successfully in by restating and exemplifying (either imaginatively or by
-reference to actual experience) each logical unit. [20]_ It is important that
-reader can do this, since failure would imply that he would not be able to
-recognize the proposition if it were presented to him in other words, which is
-especially important for `extrinsic reading`_. [19]_
+The reader can test whether or not he has completed this reading successfully by
+restating and exemplifying (either imaginatively or by reference to actual
+experience) each logical unit. [20]_
+
+If the reader cannot do this, he will not be able to recognize the proposition
+if it were presented to him in other words, which is especially important for
+`extrinsic reading`_. [19]_
 
 Rule 2.4: |rule 2.4|
 ================================================================================
@@ -909,40 +955,32 @@ Critical reading
     235-251 (16) (`The etiquette of talking back`)
     251-266 (15) (`The things the reader can say`)
 
-Here the reader judges the author, and decides whether he agrees or disagrees.
+:Abstract:
+    Here the reader takes a critical position.
 
-.. At this point we have seen rules 1.1, 
+    The reader has an obligation as well as opportunity to talk back. Nothing
+    can stop a reader from pronouncing judgment. The roots of the obligation lie
+    a little deeper.
 
-Reading a book is a kind of conversation. The reader has the last word, but
-the reader must not be judge before reading fully because the author cannot
-defend himself.
+    Some of these rules are general maxims of intellectual etiquette. Others are
+    more specific criteria for defining the point of criticism.
 
-    Ordinary conversations between persons who confront each other are good
-    only when they are carried on decently. I am not thinking merely of the
-    decencies according to conventions of social politeness. There is in
-    addition, an intellectual etiquette one should observe. Without it,
-    conversation is bickering rather than profitable communication. I am
-    assuming here, of course, that the conversation is about a serious matter
-    on which men can agree or disagree. Then it becomes important that they
-    conduct themselves well. Otherwise there is no profit in the enterprise.
-    The profit in good conversation is something learned.
+.. contents::
+   :depth: 2
+   :local:
 
-The reader has an obligation as well as opportunity to talk back. Nothing can
-stop a reader from pronouncing judgment. The roots of the obligation lie a
-little deeper.
-
-Some of these rules are general maxims of intellectual etiquette. Others are
-more specific criteria for defining the point of criticism.
+The obligation to criticize
+================================================================================
 
 There is a tendency to think that a good book is above the criticism of the
 average reader. The reader and the author are not peers. The author is subject
-to trail only by a jury of his peers.
+to trail only by a jury of his peers. Once an reader has understood a book, they
+have elevated themselves almost to peerage with the author. Now they are fit to
+exercise the rights and privileges of their new position.
 
-Adler thinks there is no book so good that fault cannot be found with it.
+There is no book so good that fault cannot be found with it.
 
-Once an reader has understood a book, they have elevated themselves almost to
-peerage with the author. Not they are fit to exercise the rights and
-privileges of their new position.
+-----
 
 Docility is generally confused with subservience. "docile" is derived from Latin
 root which means to teach or be taught. A person is wrongly thought to be docile
@@ -954,188 +992,120 @@ the greatest effort to make up his own mind on the matters the author has
 discussed. I say "finally" because docility requires that a teacher be fully
 heard and, more than that, understood, before he is judged.
 
-The same principles of grammar and logic underlie rules of good writing as well
-as good reading. The rules we have so far discussed concern the achievement of
-intelligiblity on the part of the writer and the achievement of understanding on
-the part of the reader. The last set of rules goes beyond understanding to
-critical judgment. Here is where rhetoric comes in.
+Critical positions
+================================================================================
 
-There are many uses of rhetoric. We usually think of it in connection with the
-orator or propagandist. But in its most general significance, rhetoric is
-involved in every situation in which communication takes place among men takes
-place among men. If we are the talkers, we wish not only to be understood but to
-be agreed in some sense. If our purpose in trying to persuade is serious, we
-wish to convince or persuade -- more precisely, to convince about theoretical
-matters and to persuade about matters that ultimately affect action or feeling.
+Many people make the error of identifying criticism with disagreement. But in
+fact, the reader can take any of three critical positions:
 
-To be equally serious in receiving such communication, one must be not only a
-responsive, but a responsible listener. You are responsible to the extent that
-you follow what has been said and note the intention which prompts it. But you
-also have the responsibility of taking a position.
+1. Agree
+   
+2. Disagree
 
-On the part of the speaker or writer, rhetorical skill is knowing how to
-convince or persuade. Since this is ultimate end in view, all the other aspects
-of communication must serve it. Grammatical and logical skill in writing clearly
-and intelligibly has virtue in itself, but it is also a means to an end.
-Reciprocally, on the part of the reader or listener, rhetorical skill is knowing
-how to react to anyone who tries to convince or persuade us. Here, too,
-grammatical and logical skill, which enables us to understand what is being
-said, prepares the way for a critical reaction.
+3. Suspend judgment (taking the position that something has not been shown; that
+   you are not convinced or persuaded).
 
------
+Each requires exercising critical judgment; one can be just as wrong in agreeing
+as in disagreeing.
 
-Skill in the first two readings comes from a mastery of grammar and logic. Skill
-in the third depends on rhetoric.
+Declaring that one understands
+================================================================================
 
+The reader should hesitate to declare that he understands under several
+conditions:
+
+- When reading a great book, since, presumably, you have a lot of work to
+  do before you declare that honestly understand.
+
+- When reading only part of a book, since it is difficult to be sure that you
+  understand.
+
+- When a book is related to other books by the same author, and depends upon
+  them for full significance.
+
+To say "I don't understand" is, of course, a critical judgment, but only after
+you have tried your hardest does it reflect on the book rather than yourself.
+The presumption is in favor of the book, especially if it is a great one. Hence
+the reader is obligated to stay with the task of the first two readings a long
+time before entering on the third.
+
+If the reader does not understand and if the fault is with the book, rather than
+with the reader, the reader must locate the sources of trouble. He should be
+able to do show that its structure is unintelligible. To the extent that a
+reader can support his charge that a book is unintelligible, he has no further
+critical obligations.
 
 Rule 3.1: |rule 3.1|
 ====================
 
+
 Rule 3.1.1: |rule 3.1.1|
 ------------------------
 
-This first rule is simply you must not begin to talk back until you have
-listened carefully and are (honestly) sure you understand.
-
-You must be able to say, with reasonable certainty, "I understand", before you
-can say any of the following things: "I agree", "I disagree", or "I suspend
-judgment". These three remarks exhaust all the critical positions you can take.
-
-It is an error to suppose that to criticize is to disagree. To agree is to
-exercise just as much critical judgment on your part as to disagree. You can be
-just as wrong is agreeing as in disagreeing. To agree without understanding is
-inane. To disagree without understanding is impudent.
-
-Suspending judgment is also an act of criticism. It is taking the position that
-something has not been shown. You are saying that you are not convinced or
-persuaded on way or the other.
-
-
-This means the third reading must always follow the other two in time.
-
-The first two readings are separate in time only for the beginner, and even he
-may combine them.
-
------
-
-This rule seems to be such obvious common sense obvious sense that you may
-wonder why I have bothered to state it is so explicitly. Two reasons:
-
-1. Many people make the error of identifying criticism with disagreement.
-
-2. Anecdotally, few people observe it in practice.
-
-I have had the experience, shared by all authors, of suffering book reviews by
-critics who did not feel obliged to do the reading first. I have also had the
-experience of lecturing, both in university and on the public platform, and of
-having critical questions asked which were based on any understanding of what
-I had said. There is no point answering critics of this sort. The only thing to
-do is to ask them to state your position for you, the position they claim to be
-challenging. If they cannot do it satisfactorily, if they cannot repeat what you
-have said in your own words, you know that they do not understand, and you are
-entirely justified in ignoring their criticisms.
-
-Several further points to note:
-
-- If you are reading a great book, you ought to hesitate before you say "I
-  understand". The presumption certainly is that you have a lot of work to do
-  before you can make that declaration honestly and with assurance. You must, of
-  course, be a judge in this matter, and that makes the responsibility even more
-  severe.
-
-- To say "I don't understand" is, of course, a critical judgment, but only after
-  you have tried your hardest does it reflect on the book rather than yourself.
-  The presumption is in favor of the book, especially if it is a great one. In
-  reading great books, failing to read is usually the reader's fault. Hence he
-  is obligated to stay with the task of the first two readings a long time
-  before entering on the third.
-
-Two other conditions under which the rule requires special care:
-
-1. If you are reading only part of a book, it is more difficult to be sure that
-   you understand, and hence you should be more hesitant to criticize.
-
-2. Sometimes a book is related to other books by the same author, and depends
-   upon them for full significance. In this situation, you should be more
-   circumspect about saying "I understand" and slower to raise your critical
-   lance. (This happen with writers who have not been able to say everything
-   they thought or knew in a single work.)
+To agree without understanding is inane and to disagree without understanding is
+impudent. Thus, do not criticize until you are sure you understand. The reader
+who fails to honor this rule, who cannot satisfactorily state the position he
+claims to be challenging, should expect to be rightfully ignored.
 
 Rule 3.1.2: |rule 3.1.2|
 ------------------------
 
-There is no point in winning an argument if you know or suspect you are wrong.
-(Practically, of course, it may get you ahead in the world for a short time. But
-honestly is the better policy in the slightly longer run.)
-
-Many think a conversation is an occasion for a personal aggrandizement. They
-think that winning the argument is what matters, not learning the truth.
-
-He who regards conversation as a battle can win only be being an antagonist,
-whether is right or wrong. The reader who approaches a book in this spirit reads
-it only to find something he can disagree with; a *casus belli*.
-
-Now, in a conversation which a reader has with a book in the privacy of his own
-study, there is nothing to prevent the reader from winning an argument. The
-author is not there to defend himself. If all he wants is the empty satisfaction
-of seeming to show the author up, he can get it readily.
-
-But if the reader realizes that the only profit in conversation, with live or
-dead teachers, is what one can learn from them, if he realizes that you win only
-by gaining knowledge, he may see the futility of mere contentiousness.
-
+Many people make the mistake of believing that conversation is a battle and
+that the goal is to win. Thus, they seek opportunities to disagree on points
+they can win, regardless of whether they are right or wrong. But, the only
+profit in conversation, with live or dead teachers, is what one can learn from
+them; thus it is pointless to be disputatious or contentious.
 
 Rule 3.1.3: |rule 3.1.3|
 ------------------------
 
-Regard disagreements as capable of being resolved.
+Have reasons for disagreement.
 
-Where the second maxim urged you not to disagree disputatiously, this one warns
-you against disagreeing hopelessly. One is hopeless about the fruitfulness of
-discussion if one does not recognize that all rational men can agree. (Note, I
-said *can* agree-- I did not say all rational men *do* agree.)
+Regard disagreements as capable of being resolved; all rational men can agree,
+and hopeless disagreement is mere futile agitation.
 
-The point I am trying to make is that disagreement is futile agitation unless
-it is undertaken with the hope that it may lead to the resolution of an issue.
+Note, I said *can* agree-- I did not say all rational men *do* agree. Men can
+only overcome obstacles to agreement to the extent they are rational.
 
-These two facts -- that mean do disagree and can agree -- arise from the
-complexity of human nature. Men are rational animals. Their rationality is the
-source of their power to agree. Their animality, and the imperfections of their
-reason which it entails, is the cause of passion and prejudice. The language
-they must use to communicate is an imperfect medium. Yet to the extent men are
-rational, these obstacles to their understanding one another can be overcome.
+There are two causes of disagreement:
 
-The sort of disagreement, which is only apparent, resulting from
-misunderstanding, is certainly curable. There is another sort of disagreement,
-which is due to inequalities of knowledge. The ignorant often foolishly disagree
-with the learned about matters exceeding their own knowledge. The more learned,
-however, have a right to be critical of errors made by those who lack relevant
-knowledge. Disagreements of this sort can be also be corrected, by instruction.
+1. Misunderstanding
 
-All human disagreements can be resolved by the removal misunderstanding or of
-ignorance. Hence the man who at any stage of conversation disagrees, should at
-least hope to reach agreement in the end. He should be as much prepared to have
-his own mind changed as seek to change the mind of another. He should always
-keep before him the possibility that he misunderstands or that he is ignorant on
-some point. No one who looks upon disagreement as an occasion for teaching
-another should forget that it is also an occasion for being taught. (The trouble
-is that everyone think everything is just a matter of opinion, and that everyone
-has a right to an opinion.)
+2. Inequality of knowledge
 
-How does this apply to the conversation between reader and author?
+Thus, all human disagreements can be resolved by the removal misunderstanding or
+of ignorance.
 
-It deals with the situation which the reader finds himself disagreeing with
-something like a book. It requires him first to be sure that the disagreement is
-not due to misunderstanding. Supposing that the reader has been careful to
-observe the rule that he must not begin a critical reading until he understands,
-and is therefore satisfied that there is no misunderstanding here.
+The man who at any stage of conversation disagrees, should hope to reach
+agreement in the end. He should be as much prepared to have his own mind changed
+as seek to change the mind of another. He should always keep before him the
+possibility that he misunderstands or that he is ignorant on some point.
 
-This maxim then requires him to distinguish between knowledge and opinion, and
-to regard an issue concerning knowledge as one which can be resolved. If he
-pursues the matter further, he may be instructed by the author on points which
-change his mind. If that does not happen, he may be justified in his criticism,
-and metaphorically at least, be able to instruct the author. He can at least
-hope that were the author alive and present, his mind could be changed.
+(The trouble is that everyone think everything is just a matter of opinion, and
+that everyone has a right to an opinion.)
+
+(The ignorant often foolishly disagree with the learned about matters exceeding
+their own knowledge. The more learned, however, have a right to be critical of
+errors made by those who lack relevant knowledge.)
+
+----
+
+Let us suppose you are a reading a good book and understand it.
+
+If the reader agrees, the work is over; he has been enlightened, convinced, or
+persuaded.
+
+If the reader disagrees, he should:
+
+1. Be sure that the disagreement is not due to misunderstanding.
+
+2. Distinguish between knowledge and opinion, and to regard an issue concerning
+   knowledge as one which can be resolved.
+   
+If he pursues the matter further, he may be instructed by the author on points
+which change his mind. If that does not happen, he may be justified in his
+criticism, and metaphorically at least, be able to instruct the author. He can
+at least hope that were the author alive and present, his mind could be changed.
 
 If the author does not give reasons for his propositions, they can be treated
 only as expressions of opinion on his part. The reader who does not distinguish
@@ -1150,48 +1120,202 @@ he must give reasons for them. If he agrees, it suffices if he actively shares
 the author's reasons for them. If he disagrees, he must give his grounds for
 doing so. Otherwise he is treating a matter of knowledge as if it were opinion.
 
-----
-
-If the reader does not understand and if the fault is with the book, rather than
-with the reader, the reader must locate the sources of trouble. He should be
-able to do show that its structure is unintelligible. To the extent that a
-reader can support his charge that a book is unintelligible, he has no further
-critical obligations.
-
-Let us suppose you are a reading a good book and understand it. If you agree
-with what the author says, the work is over. You have been enlightened,
-convinced, or persuaded. This is the usual case.
+Rule 3.2: |rule 3.2|
+====================
 
 The reader must be acquainted with the principles of argument. The reader can
 ultimately reach significant agreement or disagreement with the author only by
 meeting the author's arguments, not by simply following them.
 
-The reader who `comes to terms` with an author and grasps his propositions and
-reasoning, is *en rapport* with the author's mind.
+Some people fail to distinguish between two senses of agreement. In consequence,
+they wrongly suppose that where there is understanding between men, disagree mt
+is impossible. They all disagreement is simply due misunderstanding. The error
+is corrected as soon we remember that the author is making judgments about the
+world in which live. Obviously, he can be right or wrong.
 
-.. 252. I think this is an important note:
+You disagree because you think the author can be shown to be wrong on some
+point. You are not simply voicing your prejudice or expressing your emotions.
 
-Aside: The whole process of interpretation is directed toward a meeting of minds
-through the medium of language. Understanding a book can be described as a kind
-of agreement between writer and reader. They agree about the use of language to
-express idea.
+There are three conditions which must be satisfied in order for controversy to
+be well conducted / intelligent and profitable conversation.
 
+1. It is necessary to acknowledge emotions to bring to a dispute, or those which
+   arise in the course of it. Otherwise, you are likely to be giving vent to
+   feelings, not stating reasons.
 
+2. You must make your own assumptions explicit. You must know what your
+   prejudices are. Otherwise you are not likely to admit that your opponent may
+   be equally entitled to different assumptions.
 
-Rule 3.2: |rule 3.2|
-====================
+   Good controversy should not be a quarrel about assumptions. If an author asks
+   you to take something for granted, the fact that the opposite can be taken
+   for granted should prevent you from honoring his request. If your prejudices
+   lie on the opposite side, and if you do not acknowledge them to be
+   prejudices, you cannot give the author's case a fair hearing.
+
+3. An attempt at impartiality is a good antidote for the blindness that is
+   inevitable in partisanship. Controversy without partisanship is, of course,
+   impossible, but to be sure that there is more light in it, and less heat,
+   each of the disputants should at least try to take the other fellow's point
+   of view. If you have not been able to read a book sympathetically, your
+   disagreement with it is probably more contentious than judicial.
+
+Adler think these rules are too hard to actually follow in practice.
+
+Four ways in which a book can be adversely criticized:
+
+Hope is that if a reader confines himself to make these points, he will be less
+likely to indulge in expressions of emotion or prejudice.
+
+After he hsaid said, "I understand but I disagree" he can make the following
+remarks:
+
+1. You are uninformed
+
+2. You are misinformed
+
+3. You are illogical, your reasoning is not cogent
+
+4. Your analysis is incomplete.
+
+These may not be exhaustive, though I think they are.
+
+They are somewhat independent.
+
+The reader cannot make any of these remarks without being definite and precise
+about the respect in which the author is uninformed or misinformed or illogical
+(e.g. it cannot be totally illogical).
+
+The reader who makes any of these remarks must not only make it definitely, by
+specifying these remarks, but he must always support his point.
+
+The first 3 points deal with the soundness of the author's statements and
+reasoning. The fourth deals with the completeness of the author's execution of
+his plan-- the adequacy with which he discharges the task he has chosen.
 
 Rule 3.2.1: |rule 3.2.1|
 ------------------------
 
+To say the author is *uninformed* is to say that he lacks some piece of
+knowledge which is *relevant* to the problem he is trying to solve.
+
+Note: Unless the knowledge would have been relevant, there is no point in making
+the remark.
+
+To support the remark, you must be able yourself to state the knowledge which
+the author lacks and show it is relevant, how it makes a difference to his
+conclusions.
+
 Rule 3.2.2: |rule 3.2.2|
 ------------------------
+
+To say than an author is *misinformed* is to say that he asserts what is not the
+case.
+
+His error may be due to lack of knowledge but the error is more than that.
+
+This kind of defect should be pointed out, of course, only if it is relevant to
+the author's conclusions.
+
+To support the remark you must be able to argue the truth or greater probability
+of a position contrary to the author's.
+
+These first two points of criticism are somewhat related. Lack of information
+may be the cause of erroneous assertions. Further, whenever a man is misinformed,
+he is also uninformed of the truth. But it makes a differences whether the
+defect be simply negative or positive as well. Lack of relevant knowledge makes
+it impossible to solve certain problem or support certain conclusions. Erroneous
+suppositions, however, lead to wrong conclusions and untenable solutions. Take
+together, these two points charge an author with defects in his premises. He
+needs more knowledge than he possesses. His evidences and reasons are not good
+enough in quantity or quality.
 
 Rule 3.2.3: |rule 3.2.3|
 ------------------------
 
+To say that an author is *illogical* is to say that he has committed a fallacy in
+reasoning.
+
+In general, fallacies are of two sorts.
+
+1. The *non sequitur*, when the conclusion does follow from the premises
+
+2. Inconsistency, when propositions are incompatible
+
+To make either of these criticisms, the author must be able to show the precise
+respect in which the author's argument lacks cogency.
+
+One is concerned with this defect only to the extent that major conclusions are
+affected by it. A book may lack cogency in irrelevant respects.
+
+This point is related to the first two.
+
 Rule 3.2.4: |rule 3.2.4|
 ------------------------
+
+Background: Since the reader understands, his failure to support any of these
+first three remarks obligates you to agree with the author as far as he has
+gone. Since you have not been able to show the author is uninformed,
+misinformed, or illogical on relevant matters, you simply cannot disagree. You
+must agree.
+
+To say that an author's analysis is *incomplete* is to say that he has not
+solved all the problems he started with, or that he has not made as good a use
+of his materials as possible, that he did not see all their implications and
+ramifications, or that he has failed to make distinctions which are relevant to
+his undertaking.
+
+It is not enough to say that a book is incomplete; anyone can say that of any
+book. There is no point in making this remark, therefore, unless the reader can
+define the inadequacy precisely, either by his own efforts as a knower or
+through the help of other books.
+
+This point is strictly not a basis for disagreement.
+
+A reader who agrees with a book in part -- because he finds no reason to make any
+of the other points of criticism -- may, nevertheless, suspend judgment on the
+whole, in light of the fourth point about the book's incompleteness.
+
+----
+
+Related books in the same field can be critically compared by reference to these
+four criteria. One is better than another in proportion as it speaks more truth
+and makes fewer errors. If we are reading for knowledge, that book is best which
+most adequately treats a given subject matter.
+
+The profoundest comparison is made with respect to the completeness of analysis
+which each presents. The measure of such completeness is to be found in the
+number of valid and significant distinctions which the accounts being compared
+contain.
+
+You may also see how the fourth critical remark ties together the three readings
+of any book. The last step in the second reading is to known which of these
+problems the author solved and which he did not. The final step of criticism is
+the point about completeness. It touches the first reading in so far as it
+consider how adequately the author stated his problems, and the second in for as
+it measures how satisfactorily he solved them.
+
+
+----
+
+These rules describe an ideal performance. Few people have ever ready any book
+in this ideal manner. And those who have probably ready very few book sin this
+way. The ideal remains, however, the measure of achievement. You are a good
+reader in the degree to which you approximate it
+
+When we speak of someone as "well read" we should have this ideal in mind. Too
+often, I fear, we use the phrase to mean the quantity rather than than the
+quality of reading. A person who has read widely but not well deserves to be
+pitied rather than praised, for so much effort has been misguided and
+profitless.
+
+The great writers have always been great readers, but that does not mean they
+they read *all* the great books which, in their day, were listed as the great
+and indispensable ones. In many cases, they read fewer books than are now
+required in some of out better colleges, but what they did read, they read well.
+
+There are of course many books worth reading well. There is a much larger number
+which should be only scanned and skimmed.
 
 .. _chapter 14:
 
@@ -1511,11 +1635,9 @@ is different from reading the newspaper which is different from reading Plato.
 .. |reading 3| replace:: The criticism of a book as a communication of knowledge
 
 .. |rule 3.1| replace:: General maxims
-.. |rule 3.1.1| replace:: Suspend criticism until you have completed analysis
-                          and interpretation.
+.. |rule 3.1.1| replace:: Do not criticize until you are sure you understand
 .. |rule 3.1.2| replace:: Do not disagree disputatiously or contentiously
-.. |rule 3.1.3| replace:: Respect the difference between knowledge and opinion,
-                          by having reasons for any critical judgment you make
+.. |rule 3.1.3| replace:: Respect the difference between knowledge and opinion
 .. |rule 3.2| replace:: Specific criteria for points of criticism
 .. |rule 3.2.1| replace:: Show wherein the author is uninformed
 .. |rule 3.2.2| replace:: Show wherein the author is misinformed
@@ -2033,6 +2155,8 @@ Footnotes
     Not all propositions are equally susceptible to this test. It may be
     necessary to have the special experience which only a laboratory can afford
     to be sure you have grasped certain scientific propositions.
+
+    
 
 -----
 

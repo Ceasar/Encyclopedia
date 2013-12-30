@@ -30,7 +30,7 @@ How to Read a Book: The Classic Guide to Intelligent Reading
    :depth: 2
 
 .. contents::
-   :depth: 3
+   :depth: 2
 
 
 #################################################################################
@@ -951,266 +951,102 @@ the greatest effort to make up his own mind on the matters the author has
 discussed. I say "finally" because docility requires that a teacher be fully
 heard and, more than that, understood, before he is judged.
 
-Critical positions
+General maxims of intellectual etiquette
 ================================================================================
 
-Many people make the error of identifying criticism with disagreement. But in
-fact, the reader can take any of three critical positions:
-
-1. Agree
-   
-2. Disagree
-
-3. Suspend judgment (taking the position that something has not been shown; that
-   you are not convinced or persuaded).
-
-Each requires exercising critical judgment; one can be just as wrong in agreeing
-as in disagreeing.
-
-The reader may also declare that he does not understand. In this case, the
-presumption is in favor with the book, and the reader must be able to show that
-the fault lie with the book by demonstrating it to be unintelligible. If the
-reader can do this, he has no further critical obligations.
-
-Rule 3.1: |rule 3.1|
-====================
-
-Rule 3.1.1: |rule 3.1.1|
-------------------------
+Do not criticize until you are sure you understand
+--------------------------------------------------------------------------------
 
 To agree without understanding is inane and to disagree without understanding is
 impudent. Thus, do not criticize until you are sure you understand. The reader
 who fails to honor this rule, who cannot satisfactorily state the position he
 claims to be challenging, should expect to be rightfully ignored.
 
-Rule 3.1.2: |rule 3.1.2|
-------------------------
+Do not disagree disputatiously or contentiously
+--------------------------------------------------------------------------------
 
-Many people make the mistake of believing that conversation is a battle and
-that the goal is to win. Thus, they seek opportunities to disagree on points
-they can win, regardless of whether they are right or wrong. But, the only
-profit in conversation, with live or dead teachers, is what one can learn from
-them; thus it is pointless to be disputatious or contentious.
+It is a mistake to believe, as many do, that conversation is a battle and that
+the goal is to win. Such a belief, leads one to seek opportunities to disagree
+regardless of whether one is right or wrong. But, since the only profit in
+conversation is knowledge, nothing is gained in making a critical remark unless
+it is relevant to your opponent's conclusions. Therefore, do not disagree
+disputatiously or contentiously, and permit your opponent to lack soundness in
+irrelevant respects.
 
-Rule 3.1.3: |rule 3.1.3|
-------------------------
+Respect the difference between knowledge and opinion
+--------------------------------------------------------------------------------
 
-Have reasons for disagreement.
+When men are irrational and fail to distinguish between knowledge and opinion,
+there is nothing to judge but each other, and disagreement is mere futile
+agitation. When men are rational and do distinguish between knowledge and
+opinion, men judge each other's arguments, and disagreement is an opportunity
+to understand, to instruct, or to be instructed.
 
-Regard disagreements as capable of being resolved; all rational men can agree,
-and hopeless disagreement is mere futile agitation.
+Taking a critical position
+================================================================================
 
-Note, I said *can* agree-- I did not say all rational men *do* agree. Men can
-only overcome obstacles to agreement to the extent they are rational.
+The reader may declare that he does not understand. In this case, the
+presumption is in favor with the book, and the reader must be able to show that
+the fault lie with the book by demonstrating it to be unintelligible. If the
+reader can do this, he has no further critical obligations.
 
-There are two causes of disagreement:
+Now, let us suppose the reader understands the author. Then, the reader must
+exercise critical judgment and take a critical positions; he may agree,
+disagree, or suspend judgment.
 
-1. Misunderstanding
+Disagreeing
+--------------------------------------------------------------------------------
 
-2. Inequality of knowledge
+The reader disagrees when he thinks the author can be shown to be wrong on some
+point, either due to a mistake in reasoning or a mistake in judgment about the
+world.
 
-Thus, all human disagreements can be resolved by the removal misunderstanding or
-of ignorance.
+When the reader disagrees, the first thing he must do is make sure that the
+disagreement is not due to misunderstanding. It will either be the case that
+the author instructs the reader on points which change his mind, or that the
+reader is able to (metaphorically, at least) instruct the author. If the latter,
+the reader is justified in his criticism.
 
-The man who at any stage of conversation disagrees, should hope to reach
-agreement in the end. He should be as much prepared to have his own mind changed
-as seek to change the mind of another. He should always keep before him the
-possibility that he misunderstands or that he is ignorant on some point.
+When the reader is confident the disagreement is not due to misunderstanding,
+the next thing he must do is give reasons for his disagreement.
 
-(The trouble is that everyone think everything is just a matter of opinion, and
-that everyone has a right to an opinion.)
+The reader can disagree in two ways. He may show that the author has a defect in
+his premises or has committed a fallacy in his reasoning.
 
-(The ignorant often foolishly disagree with the learned about matters exceeding
-their own knowledge. The more learned, however, have a right to be critical of
-errors made by those who lack relevant knowledge.)
+The reader can show the author has a defect in premises by showing that the
+author is uninformed or that the author is misinformed. To show that the
+author is uninformed, the reader must show that the author lacks relevant
+knowledge and in unable to support relevant conclusions. To do this, he must
+state the knowledge which the author lacks and show how it makes a difference to
+the author's conclusions. To show that the author is misinformed, the reader
+must show that the author has made an erroneous supposition, possibly leading to
+a false conclusion. To do this, the reader must be able to argue the truth or
+greater probability of a position contrary to the author's.
 
-----
+The reader can show the author has committed a fallacy in reasoning by showing
+the author's argument is a *non sequitur*, by showing the conclusion does follow
+from its premises, or by showing that the author argument is inconsistent, by
+showing that some propositions are incompatible.
 
-Let us suppose you are a reading a good book and understand it.
+Agreeing & Suspending judgment
+--------------------------------------------------------------------------------
 
-If the reader agrees, the work is over; he has been enlightened, convinced, or
-persuaded.
+If the reader understands and does not disagree, then he must agree with the
+author or suspend judgment.
 
-If the reader disagrees, he should:
-
-1. Be sure that the disagreement is not due to misunderstanding.
-
-2. Distinguish between knowledge and opinion, and to regard an issue concerning
-   knowledge as one which can be resolved.
-   
-If he pursues the matter further, he may be instructed by the author on points
-which change his mind. If that does not happen, he may be justified in his
-criticism, and metaphorically at least, be able to instruct the author. He can
-at least hope that were the author alive and present, his mind could be changed.
-
-If the author does not give reasons for his propositions, they can be treated
-only as expressions of opinion on his part. The reader who does not distinguish
-between the reasoned statement of knowledge and the flat expression of opinion
-is not reading to learn. He is at most interested in the author's personality
-and is using the book as a case history. Such a reader of courses neither agrees
-nor disagrees; he does not judge the book but the man.
-
-The distinction between knowledge and opinion applies to him as well as to the
-author. The reader must do more than make judgment of agreement or disagreement;
-he must give reasons for them. If he agrees, it suffices if he actively shares
-the author's reasons for them. If he disagrees, he must give his grounds for
-doing so. Otherwise he is treating a matter of knowledge as if it were opinion.
-
-Rule 3.2: |rule 3.2|
-====================
-
-The reader must be acquainted with the principles of argument. The reader can
-ultimately reach significant agreement or disagreement with the author only by
-meeting the author's arguments, not by simply following them.
-
-Some people fail to distinguish between two senses of agreement. In consequence,
-they wrongly suppose that where there is understanding between men, disagree mt
-is impossible. They all disagreement is simply due misunderstanding. The error
-is corrected as soon we remember that the author is making judgments about the
-world in which live. Obviously, he can be right or wrong.
-
-You disagree because you think the author can be shown to be wrong on some
-point. You are not simply voicing your prejudice or expressing your emotions.
-
-There are three conditions which must be satisfied in order for controversy to
-be well conducted / intelligent and profitable conversation.
-
-1. It is necessary to acknowledge emotions to bring to a dispute, or those which
-   arise in the course of it. Otherwise, you are likely to be giving vent to
-   feelings, not stating reasons.
-
-2. You must make your own assumptions explicit. You must know what your
-   prejudices are. Otherwise you are not likely to admit that your opponent may
-   be equally entitled to different assumptions.
-
-   Good controversy should not be a quarrel about assumptions. If an author asks
-   you to take something for granted, the fact that the opposite can be taken
-   for granted should prevent you from honoring his request. If your prejudices
-   lie on the opposite side, and if you do not acknowledge them to be
-   prejudices, you cannot give the author's case a fair hearing.
-
-3. An attempt at impartiality is a good antidote for the blindness that is
-   inevitable in partisanship. Controversy without partisanship is, of course,
-   impossible, but to be sure that there is more light in it, and less heat,
-   each of the disputants should at least try to take the other fellow's point
-   of view. If you have not been able to read a book sympathetically, your
-   disagreement with it is probably more contentious than judicial.
-
-Adler think these rules are too hard to actually follow in practice.
-
-Four ways in which a book can be adversely criticized:
-
-Hope is that if a reader confines himself to make these points, he will be less
-likely to indulge in expressions of emotion or prejudice.
-
-After he hsaid said, "I understand but I disagree" he can make the following
-remarks:
-
-1. You are uninformed
-
-2. You are misinformed
-
-3. You are illogical, your reasoning is not cogent
-
-4. Your analysis is incomplete.
-
-These may not be exhaustive, though I think they are.
-
-They are somewhat independent.
-
-The reader cannot make any of these remarks without being definite and precise
-about the respect in which the author is uninformed or misinformed or illogical
-(e.g. it cannot be totally illogical).
-
-The reader who makes any of these remarks must not only make it definitely, by
-specifying these remarks, but he must always support his point.
-
-The first 3 points deal with the soundness of the author's statements and
-reasoning. The fourth deals with the completeness of the author's execution of
-his plan-- the adequacy with which he discharges the task he has chosen.
-
-Rule 3.2.1: |rule 3.2.1|
-------------------------
-
-To say the author is *uninformed* is to say that he lacks some piece of
-knowledge which is *relevant* to the problem he is trying to solve.
-
-Note: Unless the knowledge would have been relevant, there is no point in making
-the remark.
-
-To support the remark, you must be able yourself to state the knowledge which
-the author lacks and show it is relevant, how it makes a difference to his
-conclusions.
-
-Rule 3.2.2: |rule 3.2.2|
-------------------------
-
-To say than an author is *misinformed* is to say that he asserts what is not the
-case.
-
-His error may be due to lack of knowledge but the error is more than that.
-
-This kind of defect should be pointed out, of course, only if it is relevant to
-the author's conclusions.
-
-To support the remark you must be able to argue the truth or greater probability
-of a position contrary to the author's.
-
-These first two points of criticism are somewhat related. Lack of information
-may be the cause of erroneous assertions. Further, whenever a man is misinformed,
-he is also uninformed of the truth. But it makes a differences whether the
-defect be simply negative or positive as well. Lack of relevant knowledge makes
-it impossible to solve certain problem or support certain conclusions. Erroneous
-suppositions, however, lead to wrong conclusions and untenable solutions. Take
-together, these two points charge an author with defects in his premises. He
-needs more knowledge than he possesses. His evidences and reasons are not good
-enough in quantity or quality.
-
-Rule 3.2.3: |rule 3.2.3|
-------------------------
-
-To say that an author is *illogical* is to say that he has committed a fallacy in
-reasoning.
-
-In general, fallacies are of two sorts.
-
-1. The *non sequitur*, when the conclusion does follow from the premises
-
-2. Inconsistency, when propositions are incompatible
-
-To make either of these criticisms, the author must be able to show the precise
-respect in which the author's argument lacks cogency.
-
-One is concerned with this defect only to the extent that major conclusions are
-affected by it. A book may lack cogency in irrelevant respects.
-
-This point is related to the first two.
-
-Rule 3.2.4: |rule 3.2.4|
-------------------------
-
-Background: Since the reader understands, his failure to support any of these
-first three remarks obligates you to agree with the author as far as he has
-gone. Since you have not been able to show the author is uninformed,
-misinformed, or illogical on relevant matters, you simply cannot disagree. You
-must agree.
-
-To say that an author's analysis is *incomplete* is to say that he has not
-solved all the problems he started with, or that he has not made as good a use
-of his materials as possible, that he did not see all their implications and
+The reader suspends judgment when he is not convinced or persuaded. He takes the
+position that an author's analysis is incomplete, that he has not solved all
+the problems he started with, that he has not made as good a use of his
+materials as possible, that he did not see all their implications and
 ramifications, or that he has failed to make distinctions which are relevant to
 his undertaking.
 
-It is not enough to say that a book is incomplete; anyone can say that of any
-book. There is no point in making this remark, therefore, unless the reader can
-define the inadequacy precisely, either by his own efforts as a knower or
-through the help of other books.
+If the reader chooses to suspend judgment, he must define the inadequacy
+precisely, either by his own efforts as a knower or through the help of other
+books.
 
-This point is strictly not a basis for disagreement.
-
-A reader who agrees with a book in part -- because he finds no reason to make any
-of the other points of criticism -- may, nevertheless, suspend judgment on the
-whole, in light of the fourth point about the book's incompleteness.
+If the reader chooses not to suspend judgment, then he must agree and the work
+is over; he has been enlightened, convinced, or persuaded.
 
 ----
 
@@ -1565,16 +1401,6 @@ is different from reading the newspaper which is different from reading Plato.
 
 .. |reading 3| replace:: The criticism of a book as a communication of knowledge
 
-.. |rule 3.1| replace:: General maxims
-.. |rule 3.1.1| replace:: Do not criticize until you are sure you understand
-.. |rule 3.1.2| replace:: Do not disagree disputatiously or contentiously
-.. |rule 3.1.3| replace:: Respect the difference between knowledge and opinion
-.. |rule 3.2| replace:: Specific criteria for points of criticism
-.. |rule 3.2.1| replace:: Show wherein the author is uninformed
-.. |rule 3.2.2| replace:: Show wherein the author is misinformed
-.. |rule 3.2.3| replace:: Show wherein the author is illogical
-.. |rule 3.2.4| replace:: Show wherein the author's analysis or account is
-                          incomplete
 
 ########
 Glossary
@@ -2203,3 +2029,62 @@ perplexed and know it. Wonder is the beginning of wisdom in learning from books
 as well as from nature.
 
 .. I disagree with the above *as a necessary fact*.
+
+----
+
+There are three conditions which must be satisfied in order for controversy to
+be well conducted / intelligent and profitable conversation.
+
+1. It is necessary to acknowledge emotions to bring to a dispute, or those which
+   arise in the course of it. Otherwise, you are likely to be giving vent to
+   feelings, not stating reasons.
+
+2. You must make your own assumptions explicit. You must know what your
+   prejudices are. Otherwise you are not likely to admit that your opponent may
+   be equally entitled to different assumptions.
+
+   Good controversy should not be a quarrel about assumptions. If an author asks
+   you to take something for granted, the fact that the opposite can be taken
+   for granted should prevent you from honoring his request. If your prejudices
+   lie on the opposite side, and if you do not acknowledge them to be
+   prejudices, you cannot give the author's case a fair hearing.
+
+3. An attempt at impartiality is a good antidote for the blindness that is
+   inevitable in partisanship. Controversy without partisanship is, of course,
+   impossible, but to be sure that there is more light in it, and less heat,
+   each of the disputants should at least try to take the other fellow's point
+   of view. If you have not been able to read a book sympathetically, your
+   disagreement with it is probably more contentious than judicial.
+
+Adler think these rules are too hard to actually follow in practice.
+
+Four ways in which a book can be adversely criticized:
+
+Hope is that if a reader confines himself to make these points, he will be less
+likely to indulge in expressions of emotion or prejudice.
+
+After he has said said, "I understand but I disagree" he can make the following
+remarks:
+
+1. You are uninformed
+
+2. You are misinformed
+
+3. You are illogical, your reasoning is not cogent
+
+4. Your analysis is incomplete.
+
+These may not be exhaustive, though I think they are.
+
+They are somewhat independent.
+
+The reader cannot make any of these remarks without being definite and precise
+about the respect in which the author is uninformed or misinformed or illogical
+(e.g. it cannot be totally illogical).
+
+The reader who makes any of these remarks must not only make it definitely, by
+specifying these remarks, but he must always support his point.
+
+The first 3 points deal with the soundness of the author's statements and
+reasoning. The fourth deals with the completeness of the author's execution of
+his plan-- the adequacy with which he discharges the task he has chosen.

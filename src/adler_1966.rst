@@ -193,12 +193,8 @@ and `reading for understanding`_.
 
 ----
 
-`Expository books`_ may be classified as `theoretical`_ or `practical`_. We
-`read for information`_ for `read for understanding`_ when we read expository
+We `read for information`_ for `read for understanding`_ when we read expository
 books.
-
-`Theoretical books`_ may be classified as `history`_, `science`_, or
-`philosophy`_. [#]_
 
 Since reading of any sort is an activity, all reading must to some degree be
 active. Hence, when we contrast active with passive reading, our purpose is,
@@ -209,63 +205,6 @@ Intrinsic reading & Extrinsic reading
 =====================================
 
 We distinguish between `intrinsic reading`_ and `extrinsic reading`_.
-
-.. 127
-
-Rule 0:
-    |rule 0|
-
-If authors are agreeing or disagreeing, one cannot be assured one understands
-one of them unless they recognize such agreements and disagreements.
-
-This applies especially to the `great books`_-- many of them are
-difficult to read because they are related and have been written in a certain
-order, such that reading earlier books may help understanding later books.
-
-*see* `chapter 14`_
-
-Rules of `extrinsic reading`_:
-
-1.  Read related books in relation to each other and in an order which renders
-    the later ones more intelligible
-
-
-Criteria for rules of intrinsic reading
-=======================================
-
-1. The rules also apply to lectures
-2. The rules only apply to reading a *whole* book, not to excerpts
-3. The rules only apply to `liberal arts`_, not `fine arts`_
-
-.. 129
-
-The rules of intrinsic reading also apply to lectures
-------------------------------------------------------
-
-The rules of `intrinsic reading`_ apply equally to reading a book and to taking
-a course of lectures.
-
-Lectures require more expertise from users to be profitable:
-
--   Lectures require a greater exercise of memory or note taking than books
--   Books may be reexamined
-
-
-.. 130
-
-The rules only apply to reading a `whole` book, not to excerpts
----------------------------------------------------------------
-
-The primary aim of these rules is to help you read a whole book; they would be
-misused if applied mainly to excepts or small parts out of context.
-
-One should not read small pieces spaced over time:
-
-- Excerpts are far too short for a sustained effort of reading.
-- The order in which excerpts are read make it impossible to grasp and real
-  whole concept in itself or to understand one thing in relation to another.
-
-.. TODO: This is extremely hazy and should be revised.
 
 
 ********************************************************************************
@@ -310,14 +249,10 @@ teachers.
 Overemphasis on discovery, rather than instruction
 --------------------------------------------------------------------------------
 
-Schools spend much more time on training students how to discover_ than on
-training them how to receive instruction_.
-
-A balanced education must place a just emphasis on both types of learning and
-on the arts they require. There is no particular virtue in wasting time to find
-out for yourself what has already been discovered. One should save one's skill
-in research for what has not yet been been discovered, and exercise one's skill
-in being taught for learning what others already know and therefore can teach.
+Schools spend more time on training students how to discover_ than on training
+them how to receive instruction_. But a balanced education must place a just
+emphasis on both types of training, since there is no particular virtue in
+wasting time to find out for yourself what has already been discovered.
 
 .. todo: why? presumably it is more efficient, but this is not stated.
 
@@ -395,8 +330,9 @@ written for ordinary men and not for pedants of scholars. To the extent that
 they are original, they have to address themselves to an audience which starts
 from scratch.
 
-Great books are the most instructive in that they reward every degree of
-effort and ability to the maximum. When we avoid effort in learning, we find
+Great books are the most instructive in that they reward every degree of effort
+and ability to the maximum. They make fewer logical errors and most adequately
+treat a given subject matter. When we avoid effort in learning, we find
 ourselves with the results of effortless learning: assorted vagaries we collect
 by letting secondary teachers indoctrinate us. 
 
@@ -408,14 +344,12 @@ learning for his students.
 .. note: the above paragraph is interesting as a response to Clara's notion that
      a good artist makes them approachable to anyone. It is simply untrue.
 
-The art of teaching demands a corresponding and proportionate art of being
-taught.
 
 You may object that there are many books other than the `great books`_ which are
-worth reading. But we must admit the better the book, the more it is worth
-reading. Furthermore, if you learn how to read the great books, you will have no
-difficulty in reading anything else.
-
+worth reading. Indeed, there are many books worth reading well. But, there is a
+much larger number which should be only scanned and skimmed. The better the
+book, the more it is worth reading. Furthermore, if you learn how to read the
+great books, you will have no difficulty in reading anything else.
 
 There is something of a paradox here. It is due to the fact that two different
 kinds of mastery are involved. There is, on the one hand, the author's mastery
@@ -485,7 +419,7 @@ More than educational reform is at stake. Democracy and the liberal institutions
 we have cherished in this country since its founding are in the balance, too.
 
 #################################################################################
-The rules
+General rules of reading
 #################################################################################
 
 :Pages:
@@ -499,44 +433,30 @@ The rules
     1. `Reading for understanding`_
     2. `Critical reading`_
 
+    These rules describe an ideal performance. Few people have ever ready any
+    book in this ideal manner. And those who have probably ready very few book
+    sin this way. The ideal remains, however, the measure of achievement. You
+    are a good reader in the degree to which you approximate it
+
+    When we speak of someone as "well read" we should have this ideal in mind.
+    Too often, I fear, we use the phrase to mean the quantity rather than than
+    the quality of reading. A person who has read widely but not well deserves
+    to be pitied rather than praised, for so much effort has been misguided and
+    profitless.
+
+    The great writers have always been great readers, but that does not mean
+    they they read *all* the great books which, in their day, were listed as the
+    great and indispensable ones. In many cases, they read fewer books than are
+    now required in some of out better colleges, but what they did read, they
+    read well.
+
+    Note, these rules of reading apply equally to taking a course of lectures,
+    although lectures require more skill to be profitable since they require a
+    greater exercise of memory or note-taking.
+
 .. contents::
    :local:
    :depth: 1
-
-
-.. 124
-
-**Relation to the Trivium**
-
-The principles of rhetoric underlies rules of critical
-judgment.
-
-Skill in critical reading depends on a mastery of rhetoric.
-
-In its most general significance, rhetoric is involved in every situation in
-which communication takes place among men takes place among men. If we are the
-talkers, we wish not only to be understood but to be agreed in some sense. If
-our purpose in trying to persuade is serious, we wish to convince or persuade --
-more precisely, to convince about theoretical matters and to persuade about
-matters that ultimately affect action or feeling.
-
-On the part of the speaker or writer, rhetorical skill is knowing how to
-convince or persuade. Since this is ultimate end in view, all the other aspects
-of communication must serve it. Grammatical and logical skill in writing clearly
-and intelligibly has virtue in itself, but it is also a means to an end.
-
-Reciprocally, on the part of the reader or listener, rhetorical skill is knowing
-how to react to anyone who tries to convince or persuade us. Here, too,
-grammatical and logical skill, which enables us to understand what is being
-said, prepares the way for a critical reaction.
-
-----
-
-To be equally serious in receiving such communication, one must be not only a
-responsive, but a responsible listener. You are responsible to the extent that
-you follow what has been said and note the intention which prompts it. But you
-also have the responsibility of taking a position.
-
 
 .. _understand:
 .. _understands:
@@ -547,24 +467,21 @@ also have the responsibility of taking a position.
 Reading for understanding
 ********************************************************************************
 
-:Abstract:
-    To understand is to learn not only facts but their significance; to know
-    not only that something is the case, but to know also why it is the case; to
-    be able to explain something. Thus, by "reading for understanding", we mean
-    the active process of approaching equality with an author by grasping what
-    he offers as knowledge. [23]_
+To understand is to learn not only facts but their significance; to not only
+know that something is the case, but to also know why it is the case; to be
+able to explain something. Thus, by "reading for understanding", we mean the
+active process of approaching equality with an intellectual better by grasping
+what he offers as knowledge.
 
-    The reader has understood the author when he can formulate the problems and
-    subordinate problems the author is trying to solve, intelligibly arrange
-    them, determine which problems the author solved and which he did not,
-    and, of the latter, decide which the author knew he failed to solve.  [6]_
-    [24]_
-    
-    To this end, the reader must perform two distinct yet complementary
-    readings: an `analytical reading`_, approaching a book as a whole, having a
-    unity and a structure of parts, and an `interpretative reading`_,
-    approaching it in terms of its elements, its units of language and thought.
-    [21]_ [22]_ 
+The reader has understood the author when he can formulate the problems and
+subordinate problems the author is trying to solve, intelligibly arrange them,
+determine which problems the author solved and which he did not, and, of the
+latter, decide which the author knew he failed to solve.
+
+To this end, the reader must perform two distinct yet complementary readings: an
+`analytical reading`_, approaching a book as a whole, having a unity and a
+structure of parts, and an `interpretative reading`_, approaching it in terms of
+its elements, its units of language and thought.  [21]_ [22]_ 
 
 .. contents::
    :local:
@@ -578,15 +495,10 @@ Analytical Reading
     160-185 (25) (`Seeing the skeleton`)
 
 :Abstract:
-    The purpose of analytical reading  is to...
-
     It is important to know what kind of book one is reading before reading it
-    because different kinds of books require different kinds of reading. The
-    primary kinds of `expository books`_ are `theoretical books`_ and `practical
-    books`_. One may further classify `theoretical books`_  as `history`_,
-    `science`_, or `philosophy`_. One can usually classify a book before reading
-    it by reading it `front matter`_. One can identify specific kinds of books
-    with specific rules.
+    because different kinds of books require different kinds of reading. One can
+    usually classify a book before reading it by reading it front matter. One
+    can identify specific kinds of books with specific rules.
 
     To grasp a complex entity like a book, one must grasp its `unity`_ and its
     `complexity`_. One should do this by writing a concise statement of the
@@ -597,6 +509,12 @@ Analytical Reading
 .. contents::
    :local:
    :depth: 1
+
+Motivation
+--------------------------------------------------------------------------------
+
+The purpose of analytical reading is to...
+
 
 .. 141
 .. _rule 1.1:
@@ -640,15 +558,19 @@ and how to do it well.
 Reading appropriately
 --------------------------------------------------------------------------------
 
+The skilled reader must read with book according to their kind and degree.
+
 Different kinds of reading are appropriate to different kinds of literature.
-
-`Great books` should be `read for understanding`_; to only `read for
-information`_ with these books is a great waste. [14]_ 
-
 `Fine arts`_ and `liberal arts`_ require different `complex skills`_ to
 appreciate. Both skills are necessary for decent literacy since many books
 cannot be univocally classified, and many `great books`_, especially works of
 history, intentionally do not. [#]_
+
+The art of teaching demands a corresponding and proportionate art of being
+taught. Nevertheless, many ignorant people make this mistake, mistaking quantity
+of reading for quality of reading. (We call these people sophomores meaning
+"wise fools".) `Great books` should be `read for understanding`_; to only `read
+for information`_ with these books is a great waste.
 
 Note, it is possible to misclassify a book. So, the beginning of reading as a
 conscious effort to understand is an accurate perception of the differences.
@@ -656,37 +578,13 @@ conscious effort to understand is an accurate perception of the differences.
 How to classify books
 --------------------------------------------------------------------------------
 
-One often can classify a book by studying its `front matter`_. This is
-preferable to classifying a book by reading it, since it is useful to know what
-kinds of book one is reading before reading. Be aware that front matter may be
-misleading, and that some books cannot be neatly classified, often because
-unskilled authors are unaware of distinctions.
+One often can classify a book by studying its front matter: its title,
+subtitle, table of contents, and preface. This is preferable to classifying a
+book by reading it, since it is useful to know what kinds of book one is reading
+before reading. Be aware that front matter may be misleading, and that some
+books cannot be neatly classified, often because unskilled authors are unaware
+of distinctions.
 
-`Fine arts` and `liberal arts` can be distinguished by:
-
-1. Intention of the author (to please or to instruct)
-2. The satisfaction its afford readers
-
-.. 149
-
-Practical books can be identified by noticing "the art of", "how to", or the
-names of practical fields (such as  economics, ethics, and politics) in the
-title, identifying it as a manual, guidebook, oration, political speech, or
-moral treatise, identifying persuasive writing, noticing it tells you either
-what you `should` do or `how` to do it, and noticing frequent occurrence of
-such words as "should", "ought", "good", "bad", "ends", "means", "better",
-"worse", "right", and "wrong".
-
-`History`_ books can usually be identified by spotting "history" in the title
-or being informed by the front matter that a book is about the past. `Science`_
-and `philosophy`_ books are harder to identify because they are easy to mistake
-for each other since both have titles that are the name of the subject matter
-that they deal with, both seek general truths, and both claim frequently claim
-the same subjects. Roughly though, if a `theoretical book`_ refers to things
-which lie outside the scope of your normal, routine, daily experience, it is
-scientific, otherwise it is philosophical, since science requires special
-observation for support which requires elaborate experiments, but philosophy
-needs only common observations ("armchair thinking").
 
 .. _rule 1.2:
 
@@ -742,46 +640,27 @@ Interpretative reading
 .. 188
 
 :Abstract:
-    The purpose of interpretative reading is to meet minds with the author, by
-    understanding his ideas (terms), assertions (propositions), and arguments
-    (syllogisms).
-    
-    To **come to terms** is to know precisely what another man means when he
-    uses certain words in any context. If the author uses a word in one meaning,
-    and the reader reads it in another, words have passed between them but they
-    have not come to terms.
-    
-    Given that language is an imperfect medium for communicating thought, the
-    reader and author need to overcome many obstacles to communicate. We can
-    expect a good writer to do his best to overcome these obstacles, but we
-    cannot expect him to overcome them all; both reader and writer must be
-    willing to work toward each other, guided by the principles which underly
-    the rules of good reading and writing.
-
-    Interpretation is a skill, and there are degrees of success. The lowest is
-    "verbalism", or the habit of using words without regard for the thoughts
-    they convey. One succumbs if one passively reads, especially if one is
-    reading something in which the important words also happen to be in popular
-    usage. The reader who is active rather than passive, is attentive not only
-    to the word but to the sentences and paragraphs.
-
-    Each rule for this reading has a grammatical and a logical step: the
-    grammatical step deals with words and the logical step deals with their
-    meanings. So far as communication is concerned, both steps are
-    indispensable; if language is used without thought, nothing is being
-    communicated. [17]_
-
-    The reader does not have to follow the rules in order. Though, the reader
-    must usually understand lower-level units to understand higher-level units,
-    discovering important high-level units may aid discovering important
-    low-level units (and of course vice-versa).
-
     Adler warns he has only touched the most essential points, and hints at
     studying topics in philosophy of language for more information.
 
 .. contents::
    :depth: 1
    :local:
+
+Motivation
+--------------------------------------------------------------------------------
+
+The purpose of interpretative reading is to meet minds with the author: to know
+precisely what he means by the language he uses, to know his ideas (terms),
+assertions (propositions), and arguments (syllogisms).
+
+Given that language is an imperfect medium for communicating thought, the reader
+and author need to overcome many obstacles to successfully communicate. We can
+expect a good writer to do his best to overcome these obstacles, but we cannot
+expect him to overcome them all; both reader and writer must work toward each
+other, guided by the common grammatical and logical principles which underly the
+rules of good reading and writing.
+ 
 
 Background
 --------------------------------------------------------------------------------
@@ -790,7 +669,7 @@ One does not need to be a trained logician to spot the argument; most books are
 intended for the general reader, not for specialists in logic. Nevertheless some
 background is helpful.
 
-- A term is a concept, a basic element of communicable knowledge.
+- A term is an idea, a basic element of communicable knowledge.
     
 - A proposition asserts a relation between terms. If the proposition is
   self-evident, it is called an axiom. If a proposition is not self-evident, it
@@ -808,7 +687,7 @@ background is helpful.
 - A many-to-many relationship exists between sentences and propositions. Thus,
   different sentences may express the same proposition, and different
   propositions may be expressed the same sentence. Not all sentences express
-  propositions.
+  propositions and complicated sentences may express multiple propositions.
 
 - Argument necessarily correspond to a sequences of sentences, but do not
   necessarily correspond to a paragraph (e.g. due to digressions or due to an
@@ -819,31 +698,22 @@ The role of the author
 
 In proportion to the author's skill, the author will aid the reader.
 
-- The author may help the reader discover important words by explicitly defining
-  or stressing important words. He may use common technical vocabulary, which
-  simplifies matters if the reader has prior knowledge of the subject matter.
+- A good author will help the reader come to terms by explicitly defining or
+  stressing important words and using common technical vocabulary. A bad author
+  may use words that cannot be interpreted.
 
 - A good and honest author helps the reader by making his argument plain. He
-  states his assumptions, explains his reasoning (except when they can be can
-  omitted without inconvenience due to common knowledge), and summarizes himself
-  as his arguments develop.
-
-From the author's point of view, the important sentences are those which express
-the judgments on which his whole argument rests.
+  states his assumptions, explains his reasoning, and summarizes himself as his
+  arguments develop.
 
 The role of the reader
 --------------------------------------------------------------------------------
 
-The role of the reader is to discover the important expressions and then
-interpret them.
+The role of the reader is to discover the important terms, propositions, and
+arguments by finding the important words and sentences and interpreting them.
 
 Discovering important expressions
 --------------------------------------------------------------------------------
-
-A book usually contains much more than the bare statements of an argument. The
-author may explain how he came to the point of view he now holds,why he
-thinks his position has serious consequences, or discuss the words he has to
-use.
 
 The reader has two basic strategies for discovering important expressions:
 
@@ -852,52 +722,49 @@ The reader has two basic strategies for discovering important expressions:
    have trouble, then it may be important. Note that the common sense of words
    changes with time and place.)
 
-2. For a given linguistic level,  study expressions that belong to higher-level
+2. For a given linguistic level, study expressions that belong to higher-level
    units and study expressions that contain lower-level unit.
+
+A book usually contains much more than the bare statements of an argument. The
+author may explain how he came to the point of view he now holds, why he
+thinks his position has serious consequences, or discuss the words he has to
+use.
 
 Arguments may also by identified by the presence of discourse connectives (e.g.
 "because", "if ... then"", "since", "therefore", or "it follows").
 
-Interpreting expressions
+.. 129
+.. _extrinsic:
+.. _extrinsic reading:
+
+Interpretation
 --------------------------------------------------------------------------------
 
-Once you have the marked a words that trouble you, one can interpret them by:
+Interpretation is a skill, and there are degrees of success. One succeeds to the
+degree one knows exactly what the author means by his words. One fails to the
+degree one uses words without regard for the thoughts they convey ("verbalism").
 
-1. Grouping the places where the author uses the word by sense. (Usually, the
-   author will use the same word with different senses.)
+No reliable principle exists for interpretation. Generally, it involves the
+reader marking the expressions that trouble him, and then using context to infer
+their meaning.
 
-2. Finding the meaning using context, common knowledge, and reference material.
+Generally, the greater the context, the easier it is to interpret. This is
+because, like a jigsaw puzzle, interpreting expressions helps interpreting other
+expressions, and misinterpreting expressions will cause other expressions to be
+misinterpreted. It is for this reason that it can be difficult to understand
+excerpts or books that refer to others, and why readers are encouraged to read
+the book the author has read, or to read books on a topic chronologically.
 
-No rule of thumb exists for finding the meaning of words. Doing so is sort of
-like solving a jigsaw puzzle; as each word is understood, the others are easier
-to understand, and occasionally a misunderstood word will cause other words to
-be misunderstood as well. Note however, unlike a jigsaw puzzle, it is possible a
-bad author may use words that cannot be interpreted.
+The reader can expand his context by gaining experience, common or special,
+gaining knowledge of the subject matter by reading multiple related books in
+relation to one another (extrinsic reading), (e.g. reference books, secondary
+books, commentaries, other great books), and by participating in live
+discussions.
 
-The reader can interpret the sentences he has found to discover the one or more
-propositions they contain by interpreting all the words that make up the
-sentence, and especially its principal words. Only two differences exist between
-interpreting words and interpreting sentences:
-
-1. The reader employs a larger context in the latter case. He brings all the
-   surrounding sentences to bear on the sentence in question, just as he used
-   the surrounding words to interpret a particular word.
-
-2. Complicated sentences usually express two or more propositions. You have not
-   completed your interpretation until you have separated out of it all the
-   different, though perhaps related, propositions it contains.
-
-Testing
---------------------------------------------------------------------------------
-
-The reader can test whether or not he has completed this reading successfully by
+To be able to use extrinsic aids, the reader must be able to recognize logical
+units in different forms. The reader can test whether or not he can do so by
 restating and exemplifying (either imaginatively or by reference to actual
 experience) each logical unit. [20]_
-
-If the reader cannot do this, he will not be able to recognize the proposition
-if it were presented to him in other words, which is especially important for
-`extrinsic reading`_. [19]_
-
 
 .. _reading_critical:
 .. _reading_evaluative:
@@ -911,45 +778,57 @@ Critical reading
     251-266 (15) (`The things the reader can say`)
 
 :Abstract:
-    The purpose of critical reading is to judge whether what the author offers
-    as knowledge is acceptable; to take a critical position. This step is
-    necessary because, unlike nature, a person may provide knowledge that is
-    unsound or incomplete.
-
-    No book is so good that fault cannot be found with it.
-
-    The reader has an obligation as well as opportunity to talk back. Nothing
-    can stop a reader from pronouncing judgment. The roots of the obligation lie
-    a little deeper.
-
-    Adler presents several general rules about how to undertake the task of
-    criticism (maxims of intellectual etiquette), and then presents a number of
+    Here we present several general rules about how to undertake the task of
+    criticism (maxims of intellectual etiquette), and then present a number of
     critical points the reader can make.
 
 .. contents::
    :depth: 2
    :local:
 
-The obligation to criticize
+Motivation
 ================================================================================
 
-There is a tendency to think that a good book is above the criticism of the
-average reader. The reader and the author are not peers. The author is subject
-to trail only by a jury of his peers. Once an reader has understood a book, they
-have elevated themselves almost to peerage with the author. Now they are fit to
-exercise the rights and privileges of their new position.
+The purpose of critical reading is to judge whether what an author offers
+as knowledge is acceptable; to take a critical position. This step is
+necessary because, unlike nature, a person may provide knowledge that is
+unsound or incomplete.
 
------
+One may object that a good book is above the criticism of the average reader;
+the author is subject to trial only by a jury of his peers and the reader and
+the author are not peers. But once an reader has understood a book, he has
+elevated himself almost to peerage with the author.
 
-Docility is generally confused with subservience. "docile" is derived from Latin
-root which means to teach or be taught. A person is wrongly thought to be docile
-if he is passive and pliable. On the contrary, docility is the extremely active
-virtue of being teachable. No one is really teachable who does not freely
-exercise his power of independent judgment. The most docile reader is,
-therefore, the most critical. He is the reader who finally responds to a book by
-the greatest effort to make up his own mind on the matters the author has
-discussed. I say "finally" because docility requires that a teacher be fully
-heard and, more than that, understood, before he is judged.
+Background
+================================================================================
+
+The principles of rhetoric underlies rules of critical judgment.
+
+Skill in critical reading depends on a mastery of rhetoric.
+
+In its most general significance, rhetoric is involved in every situation in
+which communication takes place among men takes place among men. If we are the
+talkers, we wish not only to be understood but to be agreed in some sense. If
+our purpose in trying to persuade is serious, we wish to convince or persuade --
+more precisely, to convince about theoretical matters and to persuade about
+matters that ultimately affect action or feeling.
+
+On the part of the speaker or writer, rhetorical skill is knowing how to
+convince or persuade. Since this is ultimate end in view, all the other aspects
+of communication must serve it. Grammatical and logical skill in writing clearly
+and intelligibly has virtue in itself, but it is also a means to an end.
+
+Reciprocally, on the part of the reader or listener, rhetorical skill is knowing
+how to react to anyone who tries to convince or persuade us. Here, too,
+grammatical and logical skill, which enables us to understand what is being
+said, prepares the way for a critical reaction.
+
+----
+
+To be equally serious in receiving such communication, one must be not only a
+responsive, but a responsible listener. You are responsible to the extent that
+you follow what has been said and note the intention which prompts it. But you
+also have the responsibility of taking a position.
 
 General maxims of intellectual etiquette
 ================================================================================
@@ -966,21 +845,34 @@ Do not disagree disputatiously or contentiously
 --------------------------------------------------------------------------------
 
 It is a mistake to believe, as many do, that conversation is a battle and that
-the goal is to win. Such a belief, leads one to seek opportunities to disagree
+the goal is to win. Such a belief leads one to seek opportunities to disagree
 regardless of whether one is right or wrong. But, since the only profit in
 conversation is knowledge, nothing is gained in making a critical remark unless
 it is relevant to your opponent's conclusions. Therefore, do not disagree
 disputatiously or contentiously, and permit your opponent to lack soundness in
 irrelevant respects.
 
-Respect the difference between knowledge and opinion
+Do not equate knowledge and opinion
 --------------------------------------------------------------------------------
 
-When men are irrational and fail to distinguish between knowledge and opinion,
-there is nothing to judge but each other, and disagreement is mere futile
-agitation. When men are rational and do distinguish between knowledge and
-opinion, men judge each other's arguments, and disagreement is an opportunity
-to understand, to instruct, or to be instructed.
+Men who equate knowledge and opinion leave nothing to judge but each other.
+Since the only profit in conversation is knowledge, nothing is gained in such
+disagreements. On the other hand, when men respect the distinction between
+knowledge and opinion, they are forced to give reasons for their statements,
+which creates an opportunity to remove misunderstanding and ignorance.
+
+Tips for observing intellectual etiquette
+================================================================================
+
+1. Acknowledge the emotions one brings to a dispute, or those which arise
+   in the course of it. Otherwise, one is likely to give vent to feelings,
+   rather than state reasons.
+
+2. Know one's assumptions and one's prejudices. Otherwise one is unlikely
+   to admit that one's opponent is equally entitled to different assumptions.
+
+3. Make an attempt at impartiality and subdue inevitable partisanship.
+   Otherwise, disagreement is probably more contentious than judicial.
 
 Taking a critical position
 ================================================================================
@@ -997,31 +889,17 @@ disagree, or suspend judgment.
 Disagreeing
 --------------------------------------------------------------------------------
 
-The reader disagrees when he thinks the author can be shown to be wrong on some
-point, either due to a mistake in reasoning or a mistake in judgment about the
-world.
-
-When the reader disagrees, the first thing he must do is make sure that the
-disagreement is not due to misunderstanding. It will either be the case that
-the author instructs the reader on points which change his mind, or that the
-reader is able to (metaphorically, at least) instruct the author. If the latter,
-the reader is justified in his criticism.
-
-When the reader is confident the disagreement is not due to misunderstanding,
-the next thing he must do is give reasons for his disagreement.
-
 The reader can disagree in two ways. He may show that the author has a defect in
 his premises or has committed a fallacy in his reasoning.
 
 The reader can show the author has a defect in premises by showing that the
 author is uninformed or that the author is misinformed. To show that the
 author is uninformed, the reader must show that the author lacks relevant
-knowledge and in unable to support relevant conclusions. To do this, he must
-state the knowledge which the author lacks and show how it makes a difference to
-the author's conclusions. To show that the author is misinformed, the reader
-must show that the author has made an erroneous supposition, possibly leading to
-a false conclusion. To do this, the reader must be able to argue the truth or
-greater probability of a position contrary to the author's.
+knowledge and in unable to support relevant conclusions by stating the knowledge
+which the author lacks and showing how it makes a difference to the author's
+conclusions. To show that the author is misinformed, the reader must show that
+the author has made an erroneous supposition, possibly leading to a false
+conclusion, by arguing the truth or greater probability of a contrary position.
 
 The reader can show the author has committed a fallacy in reasoning by showing
 the author's argument is a *non sequitur*, by showing the conclusion does follow
@@ -1048,171 +926,280 @@ books.
 If the reader chooses not to suspend judgment, then he must agree and the work
 is over; he has been enlightened, convinced, or persuaded.
 
-----
 
-Related books in the same field can be critically compared by reference to these
-four criteria. One is better than another in proportion as it speaks more truth
-and makes fewer errors. If we are reading for knowledge, that book is best which
-most adequately treats a given subject matter.
+#################################################################################
+Specific rules of reading
+#################################################################################
 
-The profoundest comparison is made with respect to the completeness of analysis
-which each presents. The measure of such completeness is to be found in the
-number of valid and significant distinctions which the accounts being compared
-contain.
+:Pages: 266-291 (25) (`And still more rules`)
 
-You may also see how the fourth critical remark ties together the three readings
-of any book. The last step in the second reading is to known which of these
-problems the author solved and which he did not. The final step of criticism is
-the point about completeness. It touches the first reading in so far as it
-consider how adequately the author stated his problems, and the second in for as
-it measures how satisfactorily he solved them.
+:Abstract:
+    In any art, rules have a disappointing way of being too general. The more
+    general, the fewer, but also the more remote they are from the intricacies
+    of the actual situation in which you try to follow them. So far the rules
+    have been stated generally enough to apply to any instructive book, but you
+    cannot read a book in general.
+
+    Every action takes place in a particular situation under special
+    circumstances.  You cannot act in general. The kind of practical judgment
+    which immediately precedes action must be highly particular. A book rarely
+    will give such concrete advice, so rarely is such advice is every written.
+    Only someone in the same exact situation could help.
+
+.. contents::
+   :depth: 2
+   :local:
 
 
-----
+`Expository books`_ may be classified as `theoretical`_ or `practical`_.
 
-These rules describe an ideal performance. Few people have ever ready any book
-in this ideal manner. And those who have probably ready very few book sin this
-way. The ideal remains, however, the measure of achievement. You are a good
-reader in the degree to which you approximate it
+.. _practical:
+.. _practical books:
 
-When we speak of someone as "well read" we should have this ideal in mind. Too
-often, I fear, we use the phrase to mean the quantity rather than than the
-quality of reading. A person who has read widely but not well deserves to be
-pitied rather than praised, for so much effort has been misguided and
-profitless.
+********************************************************************************
+Practical book
+********************************************************************************
 
-The great writers have always been great readers, but that does not mean they
-they read *all* the great books which, in their day, were listed as the great
-and indispensable ones. In many cases, they read fewer books than are now
-required in some of out better colleges, but what they did read, they read well.
+A practical book is a book concerned with `action`, `applied science`, or
+`knowing how` to do something which you think you `should`. They can be
+identified by noticing "the art of", "how to", or the names of practical fields
+(such as  economics, ethics, and politics) in the title, identifying it as a
+manual, guidebook, oration, political speech, or moral treatise, identifying
+persuasive writing, noticing it tells you either what you `should` do or `how`
+to do it, and noticing frequent occurrence of such words as "should", "ought",
+"good", "bad", "ends", "means", "better", "worse", "right", and "wrong".
 
-There are of course many books worth reading well. There is a much larger number
-which should be only scanned and skimmed.
+Practical questions:
 
-.. _chapter 14:
+- What ends should be sought?
 
-************************
-And still more rules
-************************
+- What means should be chosen to a given end?
 
-:Pages: 266-291 (25)
+- What things must one do to gain a certain objective, and in what order?
 
-There are a few point to make about the utility of looking outside the book you
-are reading in order to read it well.
+- Under these conditions, what is the right thing to do, or the better
+  rather than the worse?
 
-In any art, rules have a disappointing way of being too general. The more
-general, the fewer, but also the more remote they are from the intricacies  of
-the actual situation in which you try to follow them.
+- Under what conditions would it be better to do this rather than that?
 
-So far the rules have been stated generally enough to apply to any instructive
-book, but you cannot read a book in general.
+Reading practical books
+================================================================================
 
-The most important thing about any practical book is that it can never solve the
-practical problems with which it is concerned. Action is required. This is in
-contrast to a theoretical book, which can solve its own problems.
+To understand and criticize a practical book, one must know what the author's
+objectives are and what means he is proposing.
 
-Every action takes place in a particular situation under special circumstances.
-You cannot act in general. The kind of practical judgment which immediately
-precedes action must be highly particular.
+In criticizing a practical book, everything turns on the ends or goals, not the
+means. Consequently, the author must be something of an orator or propagandist.
+There is nothing wrong or vicious about this; it is the nature of practical
+affairs. No one makes serious practical judgments or engages in action without
+being moved somehow from below the neck. The writer of practical books who does
+not realize this will be ineffective.
 
-A book rarely will give such concrete advice, so rarely is such advice is every
-written. Only someone in the same exact situation could help.
+The best protection against propaganda of any sort is the complete recognition
+of it for what it is. Only hidden and undetected oratory is insidious.
 
-Practical books fall into two main groups. Those the primarily present rules (of
-which, no great books are) and those that are primarily concerned with the
-principles which generate rules (e.g. great books in economics, politics, and
-morals).
+The person who reads a practical books intelligently, who knows its basic terms,
+propositions, and arguments, will able be able to detect its oratory. The reader
+should not completely resist it though, otherwise he might just as well not read
+practical books.
 
-In reading a book which is primarily a rulebook, the major propositions too look
-for, of course, are the rules. You can always recognize a rule because it
-recommend something as worth doing to gain a certain end. The arguments in a
-practical book will be attempts to show you that the rules are sound. The writer
-may appeal to principles or simply illustrate their soundness by showing how
-they work in on concrete cases. The former is less persuasive, but it can
-explain the reason for the rules better than examples of their use can.
 
-In the other kind, the major of propositions and arguments will look exactly
-like those in a purely theoretical book. The propositions will say that
-something is the case, and the arguments will try to show that it is so.
+Kinds of practical books
+================================================================================
+
+Practical books fall into two main groups. Those the primarily present rules and
+those that are primarily concerned with the principles which generate rules
+(e.g. great books in economics, politics, and morals).
+
+In reading a book which is primarily a rulebook:
+
+- The major propositions are the rules. One can always recognize a rule because
+  it recommend something as worth doing to gain a certain end. 
+
+- The arguments in a practical book will be attempts to show you that the rules
+  are sound. The writer may appeal to principles or simply illustrate their
+  soundness by showing how they work in on concrete cases.  The former is less
+  persuasive, but it can explain the reason for the rules better than examples
+  of their use can.
+
+In reading a book which is principled, the major of propositions and arguments
+will look exactly like those in a purely theoretical book:
+
+- The propositions will say that something is the case.
+  
+- The arguments will try to show that it is so.
+  
 However, there is an important difference between reading a such a book and a
-purely theoreitcal one- since ultimate problems to be solved are practical, an
+purely theoretical one- since ultimate problems to be solved are practical, an
 intelligent reader always readings between the lines and see the rules which may
 not be expressed, but may be derived from the general principles. Unless it is
 so read, a practical book is not read as practical, and is read poorly. You
 really do not understand it, and certainly cannot criticize it properly in any
 other way.
 
-In judging a theoretic book, the reader must observe the discrepancy between his
-own basic assumptions and those of the author. In judging a partical book,
-everything turns on the ends or goals, not the means.
-
-Two clues to the major questions you must ask about yourself in reading any sort
-of practical book:
-
-1. What are the author's objectives?
-2. What means is he proposing?
-
-Answering both of these is necessary for the understanding and criticism of a
-practical book.
-
-Since the ultimate judgment of a practical work is based on its ends, the author
-must be something of an orator or propagandist. There is nothing wrong or
-vicious about this; it is the nature of practical affairs. No one makes serious
-practical judgments or engages in action without being moved somehow from below
-the neck. The writer of practical books who does not realize this will be
-ineffective.
+Practical books can never solve the practical problems with which it is
+concerned. Action is required.
 
 .. 274 todo: resume at "The best protection..."
 
+No great practical books are rulebooks. All explain the principles.
+
 .. 280 - Extrinsic reading scientific work
 
-Scientific work
-    The report of findings or conclusions in some field of research, whether
-    carried on experimentally in a laboratory or by observations of nature in
-    the raw.
+Relevant extrinsic aids
+================================================================================
 
-The scientific problem is always to describe the phenomena as accurately as
-possible and to trace the interconnections among different kinds of phenomena.
+Because of the nature of practical problems and because of the admixture of
+oratory in all practical writing, the "personality" of the author is more
+important in the case of practical books than theoretical. Both in order to
+understand and to judge a moral treatise, a political tract, or an economic
+discussion, you should know something about the character of the writer,
+something about his life and times.
 
-In the great works of science, there is no oratory or propaganda, though there
-may be bias in the sense of initial presuppositions. You can detect this by
-distinguishing what the author assumes from what he establishes through
-argument. The more objective a scientific author is, the more he will explicitly
-beg you to take this or that for granted. Scientific objectivity is not the
-absence of initial bias; it is attained by a frank confession of it.
+.. _theoretical:
+.. _theoretical books:
 
-The leading terms in a scientific work are usually expressed by uncommon or
-technical words. They are relatively easy to spot. Through them you can readily
-grasp the propositions. The main propositions are always general ones, since
-science tries to say how things are generally.
+********************************************************************************
+Theoretical book
+********************************************************************************
 
-The only point of difficulty is with respect to arguments. Science is primarily
-inductive. To understand and judge the inductive arguments in a scientific book,
-you must be able to follow the evidence which the scientists reports as their
-basis. Sometimes descriptions or diagrams illustrate the phenomena. In the worst
-case the reader must get the special experience for himself first hand (perhaps
-at a museum). This is reason why a good school would require laboratory work for
-students.
+A theoretical book is a book concerned with `knowledge`, `pure science`, or
+`knowing that`.
 
-> The scientific classics become more intelligible to those who have seen with
-their own eyes and done with their own hands what a great scientist describes as
-as the procedure by which he reached his insights.
+`Theoretical books`_ may be classified as `history`_, `science`_, or
+`philosophy`_. [#]_
 
-**Thus, the major extrinsic aid in the read of scientific books is not the
-reading of other books, but rather getting a direct acquaintance with the
-phenomena involved.**
+`Science`_ and `philosophy`_ books are harder to identify because they are easy
+to mistake for each other since both have titles that are the name of the
+subject matter that they deal with, both seek general truths, and both claim
+frequently claim the same subjects. Roughly though, if a `theoretical book`_
+refers to things which lie outside the scope of your normal, routine, daily
+experience, it is scientific, otherwise it is philosophical, since science
+requires special observation for support which requires elaborate experiments,
+but philosophy needs only common observations ("armchair thinking").
 
-Other books may be helpful, but the primary aid is experiment.
+Theoretical questions:
 
-.. 282 - Philosophical
+- Does something exist?
 
-Ethical and political books have already been treated. (practical philosophy)
+- What kind of thing is it?
 
-Here we treat theoretic works, such as metaphysics.
+- What caused it to exist, or under what conditions can it exist, or why
+  does it exist?
 
-The philosophical problem is to explain, not to describe, the nature of things.
-It asks more about the connection of phenomena. It seeks to penetrate to the
-ultimate causes and conditions of things.
+- What purpose does it serve?
+
+- What are the consequences of its existence?
+
+- What are its characteristic properties, its typical traits?
+
+- What are its relations to other things of a similar sort, or of a
+  different sort?
+
+- How does it behave?
+
+History
+================================================================================
+
+History is knowledge of particular events or things which existed in the past
+and underwent a series of changes in the course of time. History books may be
+identified by identifying "history" in the title or being informed by the front
+matter that a book is about the past.
+
+Advice for reading
+--------------------------------------------------------------------------------
+
+History books are a combination of knowledge and poetry. All great historical
+works are narratives. As such, the elements of a story are its plot, character,
+and episodes, not terms, propositions, and arguments. To understand a history
+in its poetic aspect, you must know how to read fiction.
+
+Read logically, there are two kinds of statements you need to find.
+
+1. Propositions about particular things -- events, persons, or institutions.
+   Insofar as such things are a matter of argument, the author may try to give
+   you, in his text or footnotes, the evidences for believing that things
+   happened this way rather than otherwise.
+
+2. The historian may have some general interpretation of the fact he is
+   narrating. The may be expressed poetically in the way he tells the story or
+   in certain generalizations he enunciates.
+
+   Historians will try to argue many instances of some fact to argue for their
+   generalization.
+
+The historian narrates these happenings and often colors his narrative with some
+comment on, or insight into, the significance of the events.
+
+To critically read a history book, you must discover the interpretation a writer
+places on the facts. You must know his "theory", which means his generalizations
+and, if possible, the reasons for them. In no other way can you tell why certain
+facts are selected and other omitted, why stress is placed on this and no on
+that.
+
+The easiest way to catch on is read to read two histories of the same thing,
+written from different points of view.
+
+There is often more than bias in a history; there is propaganda. A history of
+something remote in time or place is also often a tract or diatribe for the home
+folks. Of all theoretical books, a history is most like practical books in this
+respect. Therefore the advice to the reader is the same. Find out something
+about the character of the historian, and the local conditions which may have
+motivated him.
+
+Relevant extrinsic aids
+--------------------------------------------------------------------------------
+
+The relevant extrinsic aids for understand history books are other books,
+original from documents from which historians gathered evidence, and visiting
+places where things happened.
+
+Science
+================================================================================
+
+A scientific work is a report of findings or conclusions in some field of
+research, whether carried on experimentally in a laboratory or by observations
+of nature in the raw.
+
+Advice for reading
+--------------------------------------------------------------------------------
+
+The purpose of a scientific work is to describe phenomena as accurately as
+possible by discovering generalizations or laws.
+
+The leading terms in a scientific work are usually expressed by technical words.
+
+The main propositions are always general ones, since science tries to say how
+things are generally.
+
+To understand the inductive arguments in a scientific book, the reader must
+be able to follow the evidence which the scientists reports as their basis.
+Sometimes descriptions or diagrams illustrate the phenomena. In the worst case
+the reader must get the special experience for himself.
+
+No oratory exists in the great works of science, but bias may exist in the
+premises. An objective scientific author will be aware of these and point them
+out to the reader, but the reader can always detect it himself by distinguishing
+premises from conclusions.
+
+Relevant extrinsic aids
+--------------------------------------------------------------------------------
+
+The primary extrinsic aid for reading scientific works is experiment. This is
+for two reasons. First, experiments give direct acquaintance with the phenomena
+involved. Second, following the procedures of a great scientist makes reading
+about them more intelligible.
+
+.. 282
+
+Philosophy
+================================================================================
+
+Advice for reading
+--------------------------------------------------------------------------------
+
+The purpose of a philosophical work is to explain, not to describe, the nature
+of things.
 
 The basic terms of philosophy and science are abstract. No general knowledge is
 expressible except in abstract terms. Whenever you talk generally about anything
@@ -1223,6 +1210,9 @@ scientific books, so here you must pay closest attention to the philosopher's
 principles or beginnings.
 
 .. todo: skipped a lot to 286
+
+Relevant extrinsic aids
+--------------------------------------------------------------------------------
 
 There are two further points about extrinsic reading in connection with
 philosophical books:
@@ -1236,44 +1226,6 @@ philosophical books:
    you for the sort of scientific imagery he will employ to illustrate some of
    his points.
 
-.. 288 - Summary
-
-Summary:
-
-What lies beyond the book you are reading? Three things:
-
-1. Experience, common or special
-
-2. Other books (of various sorts: reference books, secondary books,
-   commentaries, other great books, dealing with the same or related matters)
-
-3. Live discussion
-
-    > I like to think of the great books as involved in a prolonged conversation
-    about the basic problems of mankind. The great authors were great readers,
-    and one way to understand them is to read the books they read. As readers,
-    they carried on a conversation with other authors, just as each of us
-    carries on a conversation with the books we read, though we may not write
-    other books.
-
-    To get into conversations, we must read the great books in relation to each
-    other and in an order that somehow respects chronology. The conversation of
-    the books takes place in time.
-
-    While this is not indispensable, it is certainly a great help. Hence, why
-    teachers meet with students to discuss them. The reader who learns to
-    discuss a book well with other with other readers may come thereby to have
-    better conversations with the author when he has him alone in his study.
-
-Following all the rules of intrinsic reading is seldom sufficient to read any
-book well, either interpretatively or critically. Experience and other books
-are dispensable extrinsic aids.
-
-The utility of extrinsic reading is simply an extension of the value of context
-in read a book by itself. We have seen how the context must be used to interpret
-words and sentences to find terms and propositions. Just as the whole book is a
-context for any of its parts, so related books provide an even larger context
-that helps you interpret the ones you are reading.
 
 ################################################################################
 The rest of the reader's life
@@ -1340,13 +1292,6 @@ Mortimer Adler wrote the book on reading in "How to Read a Book". Identified fou
     Analytical reading is a thorough reading; the best you can do given an
     unlimited time.
 
-    Rules to analytic reading:
-
-    -   Classify the book according to kind and subject matter
-    -   State what the whole book is about with the utmost brevity
-    -   Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole
-    -   Define the problem or problems the author is trying to solve
-
     Though these may sound easy, they involve a lot of work.
 
     When you're done this, you may understand the book but not the broader
@@ -1376,13 +1321,8 @@ The goal of reading determines how you read. The goal of reading a romance novel
 is different from reading the newspaper which is different from reading Plato.
 
 
-.. The full list of rules is on 265 at the opening of Chapter 14
-
 .. (127)
 
-.. |rule 0| replace:: You must be able to read multiple related books in
-                      relation to one another in order to read any one of them
-                      well.
 
 .. |reading 1| replace:: The analysis of a book's structure
 
@@ -1460,38 +1400,6 @@ Complex skill
 Complexity
     The parts and organization of parts of a complex entity.
 
-.. 129
-.. _extrinsic:
-.. _extrinsic reading:
-
-Extrinsic reading
-    Reading a book in the light of other books.
-
-    Other books may be only reference books, secondary books or other great
-    books.
-
-    We may also necessarily use relevant experience as an extrinsic aid.
-
-.. 143
-.. _front matter:
-
-Front matter
-    The front matter consists of:
-
-    - the title
-    - the subtitle
-    - table of contents
-    - preface
-
-
-.. _history:
-
-History
-    History is knowledge of particular events or things which not only existed
-    in the past, but underwent a series of changes in the course of time.
-
-    The historian narrates these happenings and often colors his narrative
-    with some comment on, or insight into, the significance of the events.
 
 .. _information:
 
@@ -1559,18 +1467,6 @@ Passive reading
 
     See also: `Active reading`_
 
-.. _philosophy:
-
-Philosophy
-    ?
-
-.. _practical:
-.. _practical book:
-.. _practical books:
-
-Practical Book
-    A book concerned with `action`, `applied science`, or `knowing how` to do
-    something which you think you `should`.
 
 
 .. _purism:
@@ -1595,21 +1491,6 @@ Reading for information
     only kind lesser readers can do.
 
     Reading for information is the only kind of reading require by most schools.
-
-
-.. _science:
-
-Science
-    Science treat of matters that can happen at any time or place.
-
-    Scientists seek laws or generalizations.
-
-    Scientists seek to find out how things happen for the most part or in
-    ever case.
-
-    The rules of extrinsic reading are more complicated in the case of scientific
-    books. You may actually have have to witness an experiment unless you can use
-    your imagination to construct something as you have never observed.
 
 .. _art:
 .. _arts:
@@ -1643,12 +1524,6 @@ Skill
     him to write well habitually, as if the rules were part of his nature. The
     same is true of reading.
 
-.. _theoretical:
-.. _theoretical book:
-.. _theoretical books:
-
-Theoretical Book
-    A book concerned with `knowledge`, `pure science`, or `knowing that`.
 
 .. 162
 
@@ -1692,46 +1567,6 @@ Footnotes
        Aristotle are longer than the originals. They include, of course, more
        than a structural analysis, for they undertake to interpret the author
        sentence by sentence.
-
-.. [6]
-    The reader may improve his ability to detect an author's problems by
-    studying the kinds of questions anyone can ask about anything.
-
-    The kinds of questions anyone can ask about anything can be briefly and
-    non-exhaustively formulated.
-
-    Theoretical questions:
-
-    - Does something exist?
-
-    - What kind of thing is it?
-
-    - What caused it to exist, or under what conditions can it exist, or why
-      does it exist?
-
-    - What purpose does it serve?
-
-    - What are the consequences of its existence?
-
-    - What are its characteristic properties, its typical traits?
-
-    - What are its relations to other things of a similar sort, or of a
-      different sort?
-
-    - How does it behave?
-
-    Practical questions:
-
-    - What ends should be sought?
-
-    - What means should be chosen to a given end?
-
-    - What things must one do to gain a certain objective, and in what order?
-
-    - Under these conditions, what is the right thing to do, or the better
-      rather than the worse?
-
-    - Under what conditions would it be better to do this rather than that?
 
 .. [7]
     One obvious fact shows the existence of a wide range of degrees in the
@@ -1828,11 +1663,6 @@ Footnotes
     It is not entirely humbug, because we usually know a little more and can do
     a little better than our best students.
 
-.. [14]
-    Nevertheless, many ignorant people make this mistake, mistaking quantity of
-    reading for quality of reading.  (We call these people sophomores meaning
-    "wise fools".)
-
 
 .. [15]
     Some, but not all learning can be achieved through reading: we can learn
@@ -1855,14 +1685,6 @@ Footnotes
     knowledge made available by the tradition of learning. Ignorance or neglect
     of the tradition is likely to result in a false or shallow originality.
 
-.. [17]
-    As arts, grammar and logic are concerned with language in relation to
-    thought and thought in relation to language. That is why I said earlier that
-    skill in reading and writing is gained through these liberal arts,
-    especially grammar and logic.
-
-.. todo: where? that is an interesting argument
-
 .. 135
 .. [18]
     Books which treat of the appreciation or criticism of `fine art`_ are
@@ -1870,12 +1692,6 @@ Footnotes
     and learn how to read the other way. In general, you will find the greatest
     help from those books which formulate the rules and exemplify them in
     practice. [#]_
-
-.. [19]
-    The process of translation from a foreign language into English is relevant
-    to the test I have suggested. If you cannot state in an English sentence
-    what a French sentence says, you know you do not understand the meaning of
-    the French.
 
 .. [20]
     Not all propositions are equally susceptible to this test. It may be
@@ -1895,23 +1711,6 @@ Footnotes
     the second reading. In the former case, the parts are the ultimate divisions
     of the author's treatment of his subject matter or problem. In the latter
     case, the parts are such things as terms, propositions, and syllogisms.
-
-.. [23]
-    Assuming, of course, that the author understands more than the reader; if
-    he doesn't, then he can only inform the reader.
-
-.. [24]
-    The reader should hesitate to declare that he understands under several
-    conditions:
-
-    - When reading a great book, since, presumably, you have a lot of work to
-      do before you declare that honestly understand.
-
-    - When reading only part of a book, since it is difficult to be sure that you
-      understand.
-
-    - When a book is related to other books by the same author, and depends upon
-      them for full significance.
 
 .. [25]
     Great books are usually called "classics", but that word has for most people
@@ -2032,59 +1831,3 @@ as well as from nature.
 
 ----
 
-There are three conditions which must be satisfied in order for controversy to
-be well conducted / intelligent and profitable conversation.
-
-1. It is necessary to acknowledge emotions to bring to a dispute, or those which
-   arise in the course of it. Otherwise, you are likely to be giving vent to
-   feelings, not stating reasons.
-
-2. You must make your own assumptions explicit. You must know what your
-   prejudices are. Otherwise you are not likely to admit that your opponent may
-   be equally entitled to different assumptions.
-
-   Good controversy should not be a quarrel about assumptions. If an author asks
-   you to take something for granted, the fact that the opposite can be taken
-   for granted should prevent you from honoring his request. If your prejudices
-   lie on the opposite side, and if you do not acknowledge them to be
-   prejudices, you cannot give the author's case a fair hearing.
-
-3. An attempt at impartiality is a good antidote for the blindness that is
-   inevitable in partisanship. Controversy without partisanship is, of course,
-   impossible, but to be sure that there is more light in it, and less heat,
-   each of the disputants should at least try to take the other fellow's point
-   of view. If you have not been able to read a book sympathetically, your
-   disagreement with it is probably more contentious than judicial.
-
-Adler think these rules are too hard to actually follow in practice.
-
-Four ways in which a book can be adversely criticized:
-
-Hope is that if a reader confines himself to make these points, he will be less
-likely to indulge in expressions of emotion or prejudice.
-
-After he has said said, "I understand but I disagree" he can make the following
-remarks:
-
-1. You are uninformed
-
-2. You are misinformed
-
-3. You are illogical, your reasoning is not cogent
-
-4. Your analysis is incomplete.
-
-These may not be exhaustive, though I think they are.
-
-They are somewhat independent.
-
-The reader cannot make any of these remarks without being definite and precise
-about the respect in which the author is uninformed or misinformed or illogical
-(e.g. it cannot be totally illogical).
-
-The reader who makes any of these remarks must not only make it definitely, by
-specifying these remarks, but he must always support his point.
-
-The first 3 points deal with the soundness of the author's statements and
-reasoning. The fourth deals with the completeness of the author's execution of
-his plan-- the adequacy with which he discharges the task he has chosen.

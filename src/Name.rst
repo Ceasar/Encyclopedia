@@ -1,9 +1,11 @@
 
-.. _name:
+.. include:: index
 
 ====
 Name
 ====
+
+A name is an expression_ that consists of a word_ or phrase_.
 
 A name is an arbitrary sequence of words that serves to mark and communicate a
 thought.[2]
@@ -19,11 +21,6 @@ A designator is either a proper name or a description.[3]
 
 Form
 ====
-
-A name may be either:
-
-1. A word
-2. A phrase (two or more words)
 
 A word is a name if it is categorematic (that is, it expresses meaning independently).
 

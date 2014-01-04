@@ -1,3 +1,4 @@
+.. _Abelson Sussman 1984: Abelson_Sussman_1984.html
 .. _ambiguities: ambiguity_
 .. _ambiguity: Ambiguity.html
 .. _ambiguous: ambiguity_
@@ -5,6 +6,8 @@
 .. _articulation: Articulation.html
 .. _artificial intelligence: Artificial_intelligence.html
 .. _attention: Attention.html
+.. _biscotti: Biscotti.html
+.. _coffee: Coffee.html
 .. _channel: Channel.html
 .. _ci: Coarticulatory_influences.html
 .. _cognitive science: Cognitive_science.html
@@ -18,6 +21,8 @@
 .. _computational models: `computational model`_
 .. _conceptualization: Conceptualization.html
 .. _context: `linguistic context`_
+.. _croissant: Croissant.html
+.. _croissants: croissant_
 .. _deixis: Deixis.html
 .. _destination: Destination.html
 .. _direct realism: Direct_realism.html
@@ -27,6 +32,7 @@
 .. _Elman McClelland 1998: elman_mcclelland_1988.html
 .. _feature analysis: Feature_analysis.html
 .. _forced-choice: Two-alternative_forced_choice.html
+.. _Fortran: Fortran.html
 .. _grammar: Grammar.html
 .. _homograph: Homograph.html
 .. _homography: Homography.html
@@ -38,6 +44,7 @@
 .. _information: Information.html
 .. _interactive activation model: Interactive_activation_model.html
 .. _interlocutors: Interlocutor.html
+.. _interpreter: Interpreter.html
 .. _joint act: Joint_act.html
 .. _language comprehension: Language_comprehension.html
 .. _language processing: Language_processing.html
@@ -53,8 +60,10 @@
 .. _lexicon: Lexicon.html
 .. _linguistics: Linguistics.html
 .. _linguistic context: Linguistic_context.html
+.. _lisp: Lisp.html
 .. _Massaro 1998: massaro_1998.html
 .. _McClelland: James_L_McClelland.html
+.. _machine code: Machine_code.html
 .. _memory: Memory.html
 .. _message: Message.html
 .. _messages: message_
@@ -66,6 +75,9 @@
 .. _neural networks: `neural network`_
 .. _noise: Noise.html
 .. _noisy: noise_
+.. _numerical analysis: Numerical_analysis.html 
+.. _numerical computation: `numerical analysis`_
+.. _numerical computations: `numerical computation`_
 .. _Pandemonium architecture: Pandemonium_architecture.html
 .. _pattern recognition: Pattern_recognition.html
 .. _percept: Percept.html
@@ -74,13 +86,18 @@
 .. _polysemes: Polyseme.html
 .. _polysemy: Polysemy.html
 .. _polysemy: Polysemy.html
+.. _programming language: Programming_language.html
 .. _pronouns: Pronoun.html
 .. _receiver: Receiver.html
 .. _redundant: Redundancy.html
 .. _Reicher 1969: Reicher_1969.html 
 .. _Rumelhart: David_E_Rumelhart.html
 .. _Rumelhart McClelland 1981: rumelhart_mcclelland_1981.html
+.. _saucer: Saucer.html
+.. _saucers: saucer_
 .. _Selfridge 1959: Selfridge_1959.html
+.. _scone: Scone.html
+.. _scones: scone_
 .. _sense: `word sense`_
 .. _senses: `word sense`_
 .. _sign: Sign.html

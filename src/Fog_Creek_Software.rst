@@ -192,6 +192,198 @@ FogBugz and Trello competes with `Pivotal Tracker`, `Basecamp`, and `Asana`
 
 Kiln competes with `Github` and `Bitbucket`.
 
+Screens
+================================================================================
+
+The screening process consists of three stages:
+
+1. Phone screen
+2. Phone screen
+3. In-person interview
+
+   - 3 to 5 back-to-back interviews (each 1 hr)
+   - Largely technical, or asking about resume
+   - If accepted, Fog Creek will give an offer letter before you leave
+
+As far as I can tell, both phone screens are conducted blind, meaning, the
+interviewer does not read your resume nor check your online profiles. Presumably
+this is to prevent any non-technical from biasing the interviewer. The
+interviewers may ask you to describe yourself.
+
+Between each screen, Fog Creek will be back within at most a week, but usually
+much faster.
+
+Phone Screen 1
+--------------------------------------------------------------------------------
+
+Fog Creek Code Interview
+
+.. code:: python
+
+    Bt(item=1, 
+             1   
+           /   \   
+         2       3   
+          \     /   
+           4   5   
+
+          
+    2 6 4 7 1 5 3
+
+    def _inorder(bt):
+        if bt.left is not None:
+            for node in _inorder(bt.left):
+                yield node
+        yield bt.item
+        if bt.right is not None:
+            for node in _inorder(bt.right):
+                yield node
+
+    def inorder(bt):
+        """
+        >>> bt = BT(1, BT(2), BT(3))
+        >>> inorder(bt)
+        >>> 2 1 3
+        """
+        for node in _inorder(bt):
+            print node
+
+    def _preorder(bt):
+        yield bt.item
+        if bt.left is not None:
+            for node in _inorder(bt.left):
+                yield node
+        if bt.right is not None:
+            for node in _inorder(bt.right):
+                yield node
+
+    def preorder(bt):
+        for node in _preorder(bt):
+            print node
+
+    pre: 1 3 7 6 2 4 5 8
+    in:  3 6 7 1 4 2 5 8
+
+    pre: 3 7 6
+    in:  3 6 7
+
+    pre: 2 4 5 8
+    in: 4 2 5 8
+
+             1
+           /   \
+         3       2
+       /  \     /  \
+      X    7  4     5
+     / \  / \ / \  / \
+    X  X 6  X X X   8
+
+             1
+           /   \
+         6       2
+       /  \     /  \
+      3    7  4     5
+     / \  / \ / \  / \
+    X  X  X X X X  8  X
+
+
+    # O(n ^ 2)
+    def _construct_bt(preorder, inorder, p_indexes, i_indexes):
+        root = preorder[0] # 1, 3, 
+        # O(n)
+        i = inorder.index(root) # 3, 0,
+        i_left, i_right = inorder[:i], inorder[i+1:]
+        preorder2 = preorder[1:]
+        # (3 7 6, 2 4 5 8), (, 7 6)
+        p_left, p_right = preorder2[:i], preorder2[i:]
+        return BT(
+            item=root, # 1
+            left=construct_bt(p_left, i_left) if p_left else None,
+            right=construct(p_right, i_right) if p_right else None,
+        )
+
+    def construct_bt(preorder, inorder):
+        # get indexes
+        return _construct_bt(preorder, inorder, p_indexes, i_indexes)
+
+Phone Screen 2
+--------------------------------------------------------------------------------
+
+1. Flatten a quasi-linked linked tree
+2. Unflatten it
+
+.. code:: python
+
+    class Node:
+        def __init__(self, val, next, prev, child):
+            self.val = val
+            self.next = next
+            self.prev = prev
+            self.child = child
+
+    h           t
+    1 - 2 - 3 - 4 - 9 layer 1
+        |       |
+        5 - 6   7  layer 2
+        
+                |---------------v
+    1 - 2 - 3 - 4 - 9 - 5 - 6 - 7
+        |---------------^
+
+    h   t
+    1 - 2
+        
+    def slice(node):
+        prev = node.prev
+        prev.next = None
+        node.prev = None
+        return prev
+
+    def unflatten(h, t):
+        current = t
+        while current:
+            if current.child:
+                t = slice(current.child)
+            current = current.prev
+        retun h, t
+
+    n nodes total
+    d layers
+
+    runtime O(n)
+    space O(d)
+
+    h                       t
+    1 - 2 - 5 - 6 - 3 - 4 - 7
+        |___^           |___^
+        
+    1 - 2 -         4
+        |           |
+        5 - 6 - 3   7
+
+
+    def join(a, b):
+        a.next = b
+        b.prev = a
+
+    def flatten(h, t=None):
+        current = h
+        while current:
+            next = current.next
+            if current.child:
+                h2, t2 = flatten(current.child)
+                join(current, h2)
+                if next is not None:
+                    join(t2, next)
+                else: # we reached the end of the list
+                    return h, t2
+            if next is None:
+                return h, current
+            else:
+                current = next
+
+    flatten(h, t)
+
 References
 ================================================================================
 
@@ -202,3 +394,4 @@ References
 .. [2] Based on second phone screen with a 5-year employee on 12.11.2013. The
        interviewer had worked at an IT company before accepting a full-time
        position out of school.
+

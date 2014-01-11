@@ -11,14 +11,20 @@ Euthyphro
 
 .. contents::
 
+**Euthyphro** is one of Plato's early `Socratic dialogues`_.
+
 Background
 ================================================================================
+
+*Euthyphro* takes place in early morning on a day in 399 BC (the year of Plato's
+death), perhaps a week or two before the `trial of Socrates`_, on the porch of
+the King Archon.
 
 Summary
 ================================================================================
 
-Euthyphro encounters Socrates_ on the porch of the `King Archon`. They are both
-there for preliminary hearings before possible trials. Socrates informs
+Euthyphro encounters Socrates_ on the porch of the `King Archon`, where they are
+gathered for preliminary hearings before possible trials. Socrates informs
 Euthyphro that he is there because Meleteus has indicted him with corrupting the
 youth through inventing new gods and denying the existence of old ones.
 Euthyphro informs Socrates that he is there because he is pursuing his father
@@ -186,9 +192,6 @@ Final definition
 9. The gifts men give to the gods are tributes of honor.
 
 10. Piety is beloved to the gods.
-
-
-Meleteus is the deme of Pitthis.
 
 .. [1]
     Euthyphro believes so because he claims is it common that Zeus is the most

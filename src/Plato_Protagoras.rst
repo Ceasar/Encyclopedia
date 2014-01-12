@@ -12,7 +12,12 @@ Or the Sophists
 
 :Translator: Benjamin Jowett
 
-**Protagoras** is one of Plato's early `Socratic dialogues`_.
+:Setting: 433, the house of Callias
+
+**Protagoras** is one of Plato's early `Socratic dialogues`_. It describes a
+story of a conversation between Protagoras, a Sophist, or teacher of virtue, and
+Socrates. Socrates examines Protagoras regarding the nature of virtue, to learn
+whether it can be thought, and leaves believing that all virtue is knowledge.
 
 .. contents::
 
@@ -35,7 +40,7 @@ to learn from Protagoras; surely, from one learns from any artist their art, but
 what art does Protagoras teach? Hippocrates replies that Protagoras is a
 Sophist, and that he expects to learn to become a Sophist. Socrates asks
 Hippocrates if he is ashamed of the thought of becoming a Sophist, which
-Hippocrates admits. [*]_ Socrates confirms that the teachings of Protagoras do
+Hippocrates admits. Socrates confirms that the teachings of Protagoras do
 not make one a skilled artist, but are only a part of education (like grammar,
 music, or physical health). More specifically, Hippocrates explains that
 Protagoras teachs the art of "mak[ing] men eloquent", but Socrates presses
@@ -54,14 +59,13 @@ before consuming.
 Protagoras & What is sophistry?
 --------------------------------------------------------------------------------
 
-Socrates and Hippocrates travel to the house of Callias, where Protagoras is at
-(along with `Hippias of Elis`, `Prodicus of Ceos`, and several other wise men).
-When they enter, they find Protagoras taking a walk in the cloister followed by
-Callias, several other men that Socrates recognizes, though "the greater part of
-them appeared to be foreigners, whom Protagoras had brought with him out of the
-various cities visited by him in his journeys, he, like Orpheus_, attracting
-them his voice, and they following." Nearby, Socrates spots Hippias teaching
-physics and astronomy to men who are seated on benches and Prodicus teaching
+Socrates and Hippocrates travel to the house of Callias, where Protagoras is
+staying. When they enter, they find Protagoras taking a walk in the cloister
+followed by Callias, several other men that Socrates recognizes, though "the
+greater part of them appeared to be foreigners, whom Protagoras had brought with
+him out of the various cities visited by him in his journeys, he, like Orpheus_,
+attracting them his voice, and they following." Nearby, Socrates spots Hippias
+teaching physics and astronomy to men seated on benches and Prodicus teaching
 from bed.
 
 After looking around, Socrates and Hippocrates walk up to Protagoras and
@@ -71,8 +75,7 @@ ask Protagoras whether he would like to speak in private or in public, to which
 Protagoras replies with a long speech, dispelling the hatred against sophists
 and stating his pride of openly being one, before answering that he would like
 to speak in public. [1]_ Socrates and Callias suggest that the two hold a public
-discussion, to which everyone agrees, and everyone assembles where Hippias had
-been teaching earlier to listen.
+discussion, to which everyone agrees, and everyone assembles to listen.
 
 Socrates restates his purpose of visiting, and explain that Hippocrates would
 like to know "what will happen if he associates with you". Protagoras replies
@@ -167,49 +170,47 @@ of one and the same thing? At this Socrates begins a cross-examination.
 Protagoras explains that they are unique parts, related to each other as the
 parts of a face are related to the whole face, and separate, so that a man can
 one but not the other. Furthermore, each has a distinct function. Socrates goes
-on to show that justice and holiness are nearly identical, and then does the
-same with wisdom and temperance (by showing both to be the opposite of folly,
-and getting Protagoras to agree everything has only one opposite). Protagoras
-"assent, but with great reluctance". Socrates concludes that temperance and
-wisdom are the same, as before justice and holiness appear to be the same.
+on to show that justice and piety are nearly identical, and then does the same
+with wisdom and temperance (by showing both to be the opposite of folly, and
+getting Protagoras to agree everything has only one opposite). Protagoras
+"assented, but with great reluctance".
+
 
 Socrates threatens to leave
 --------------------------------------------------------------------------------
 
-Socrates then continues down a line asking about what "good" is, to which
-Protagoras replies with a speech, answering that the good is expedient for man,
-but not all things expedient for man are good, and some things that are not good
-for man are good for other animals and vice-versa.
+To conclude the arguments, Socrates attempts to show that justice and temperance
+are identical. As he begins his questions, Protagoras, annoyed, evades one with
+a speech. Socrates, asks Protagoras to cut his answer short, claiming (almost
+certainly falsely) that he has a bad memory. Protagoras refuses, and Socrates
+pins him on his reputation of being able to both speak at length or with speak
+with brevity. Protagoras resists, under the impression that the dialogue is a
+"battle of words". [14]) Socrates points out that as Protagoras is being
+uncooperative and announces he should leave for another engagement. Callias
+begs him to say, but Socrates replies that if Protagoras does not cooperate,
+then he is simply unable as much as he would like to say.
 
-After Protagoras's speech, Socrates, realizing that Protagoras oration's are
-making discussion impossible, claims he has poor memory and asks Protagoras to
-cut his answers short. Protagoras resists, and Socrates pins him on his
-reputation of being able to both speak at length or with speak with brevity.
-Protagoras resists, claiming that "if I had followed the method of disputation
-which my adversaries desired, as you want me to do, I should have been no better
-than another, and the name of Protagoras would have been nowhere." Socrates
-restates his admission that he is unable to follow long speeches, and point out
-that as Protagoras is being uncooperative, he should leave and get going to
-another engagement. Callias stops him, begging him to say, to which Socrates
-replies that he simply cannot compete. Callias replies that each man may speak
-his own way, to which Alcibiades replies that that is false.
+Callias replies that each man may fairly speak his own way, but Alcibiades
+refutes him. Hippias proposes that Socrates choose an umpire for the discussion,
+but Socrates objects that no suitable umpire could be chosen. At last, Socrates
+proposes that if Protagoras will not answer, then Protagoras should be allowed
+to ask as many questions as he likes to Socrates, and afterward Socrates should
+be allowed to ask as many question as he likes to Protagoras, to which everyone
+agrees.
 
-Hippias proposes that Socrates choose an umpire for the discussion, but Socrates
-objects that no suitable umpire could be chosen. Socrates proposes instead that
-if Protagoras will not answer, then Protagoras should be allowed to ask as many
-questions as he likes to Socrates, and afterward Socrates should be allowed to
-ask as many question as he likes to Protagoras, to which everyone agrees.
-
-The Poetry of Simonides
+Virtue in the Poetry of Simonides
 --------------------------------------------------------------------------------
 
-TODO
+Protagoras announces that he believes poetry to be the principal part of
+education and proposes to transfer the question of virtue to its domain.
+
+Protagoras refers to a work by Simonides that begins "Hardly on the one hand
 
 Interlude
 --------------------------------------------------------------------------------
 
 Socrates grants that Protagoras may ask as he is inclined, but suggests no
-longer discussion poems and returning to Socrates' original question, stating
+longer discussing poems and returning to Socrates' original question, stating
 that discussing poetry is vulgar, and that educated men amuse each with
 orderly conversation. Protagoras tries to avoid answering, but decides to argue
 after Alcibiades points out that Protagoras is refusing to answer.
@@ -261,48 +262,93 @@ being taught. Protagoras applauds Socrates, and they part ways.
 Themes
 ================================================================================
 
-Opposition of Protagoras and Socrates
+Sophistry
 --------------------------------------------------------------------------------
 
+The Sophists seem to have a mixed reputation. On one hand, they are known to be
+eloquent speakers. [5]_ On the other, they are shamed.
 
+The sophists are thought to be wise men. [4]_
 
+Socrates believe the Sophists are sellers of knowledge, or paid tutors. [6]_
+
+The doorkeeper does not want to open the door to Socrates and Hippocrates when
+he mistakes them for Sophists. [7]_ I am unsure why.
+
+Protagoras believe that the sophistry is an ancient art. [10]_ He claims that in
+ancient times, those who practiced it disguised themselves under various names,
+some under that of poets, as Homer, Hesiod, and Simonides, hierophants and
+prophets, as Orpheus and Museaeus, musicians, as Agathocles, and some even under
+the name of gymnastic masters.
+
+Prodicus and Hippias are also Sophists.
+
+Some sophists (Hippias at least) teach their pupils calculation, astronomy,
+geometry, and music. Protagoras teaches prudence in private and public affairs,
+how to order one's house, and the art of politics. [11]_
+
+The sophists seem to have a reputation for making long speeches, even on trivial
+manners. [12]_ This ends up being the case after Socrates begins damaging
+Protagoras's reputation through a cross-examination, and Protagoras responds
+with a speech, with nearly causes Socrates to leave. It is unclear however if
+this is the nature of Protagoras, or, if he is simply doing this to appear the
+better speaker. Further of note, Prodicus and Hippias make small speeches when
+Socrates threatens to leave. Both speak eloquently, and Prodicus receives
+applause and Hippias receives approval.
+
+The danger of buying knowledge
+--------------------------------------------------------------------------------
+
+Opposition of Protagoras and Socrates
+--------------------------------------------------------------------------------
 
 
 Characters
 ================================================================================
 
+Socrates
+--------------------------------------------------------------------------------
 
+Socrates maintains that there is a distinction between a discussion and a
+competition of orations. As Alcibiades points out, orations seem to distract
+from the point.
 
 Hippocrates
 --------------------------------------------------------------------------------
 
-Hippocrates is the son of Apollodorus and the brother of Phason, is "of a great
-and prosperous house", and "is himself in natural ability quite a match for
-anybody of his own age." Socrates believes that "he aspires to political
-eminence."
+Hippocrates is a native Athenian, the son of Apollodorus and the brother of
+Phason, is "of a great and prosperous house", and "is himself in natural ability
+quite a match for anybody of his own age." Socrates believes that "he aspires to
+political eminence."
 
 Protagoras
 --------------------------------------------------------------------------------
 
-Protagoras is very old, which we learn when says, "And I have been now many years
-in the profession -- for all my years when added up are many: there is no here
-present of whom I might not be the father" (14).
+Protagoras has a great reputation. Hippocrates is very excited to see him that
+he wishes to leave to see him before sunrise and is willing to pay him large
+sums for his wisdom. [2]_
 
-Questions
-================================================================================
+Protagoras is very old, claiming to be at least twenty years older than everyone
+else in the room. [3]_ He has been a sophists for a long time. [3]_
 
-At one point, Protagoras says:
+Protagoras openly admits he is a Sophist.
 
-    For certainly a stranger finding his way into great cities, and persuading
-    the flower or the youth in them to leave company of their kinsmen or any
-    other acquaintances, old or young, and live with him, under the idea that
-    they will be improved by his conversation, ought to be very cautious...
+Protagoras travels from city to city, persuading people to leave their family
+and live with him, under the idea they will be improved by his conversation.
+[8]_
 
-Am I to understand that it was common for youths to follow people around to
-learn an art? (Or perhaps, it is simply the nature of Protagoras's work as a
-sophist-- perhaps other artists are more stable.)
+Protagoras is the subject of many enmities and conspiracies. [9]_
 
-.. [*] It's unclear to me why Sophistry is shameful.
+Protagoras is portrayed to be a skilled speaker. He is able to both give great
+speeches and speak in myth or argue. He also refutes several of Socrates
+arguments.
+
+Protagoras loses his temper at least once and, perhaps sensing that Socrates is
+better at argument, resorts to oration to distract from the point and make
+everyone forget the question.
+
+Protagoras seems to view dialogues as a battle of words. [14]_ Protagoras
+resists Socrates' compromise after he threatens to leave.
 
 .. [*]
     A company like this of ours, and men such as we profess to be, do not
@@ -319,6 +365,120 @@ sophist-- perhaps other artists are more stable.)
     that due to its bad reputation, practitioners disguised themselves under
     other names, such as poets, prophets, gymnastic masters, and musicians.
 
+.. [2]
+    "He might take all that I have, and all that my friends have, if he
+    pleased... All men praise him Socrates; he is reputed to be the most
+    accomplished of speakers." - Hippocrates (10)
+
+.. [3]
+    "And I have been now many years in the profession -- for all my years when
+    added up are many: there is no here present of whom I might not be the
+    father" - Protagoras (14)
+
+.. [4]
+    "I take him to be on who knows wise things, he replied, as his name
+    replies." - Hippocrates, refering to Protagoras (11)
+
+.. [5]
+    "What other answer could there be but that he presides over the art which
+    makes men eloquent?" - Hippocrates (11)
+
+.. [6]
+    "Is not a Sophist, Hippocrates, one who deals whole or retail in the food of
+    the soul? ... Surely, I said, knowledge is the food the soul." - Socrates
+    (12-13)
+
+.. [7]
+    "And I think that the door-keeper, who was a eunuch, and who was probably
+    annoyed at the great inroad of the Sophists, must have heard us talking. At
+    any rate, when we knocked at the door, and he opened and saw us, he
+    grumbled: They are Sophists -- he is not at home; and instantly gave the
+    door a hearty bang with both his hands. Again we knocked, and he answered
+    without opening: Did you not hear me say that he is not at home, fellows?
+    But, my friend, I said, you need not be alarmed; for we are not Sophists,
+    and we are not come to see Callias, but we want to see Protagoras; and I
+    must request you to announce us. At last, after a good deal of difficulty,
+    the man was persuaded to open the door." - Socrates (12)
+
+.. [8]
+    "For certainly a stranger finding his way into great cities, and persuading
+    the flower or the youth in them to leave company of their kinsmen or any
+    other acquaintances, old or young, and live with him, under the idea that
+    they will be improved by his conversation, ought to be very cautious..." -
+    Protagoras (13)
+
+.. [9]
+    "Great jealousies are aroused by his proceedings, and he is the subject of
+    many enmities and conspiracies." - Protagoras (13)
+
+.. [10]
+    "Now the art of the Sophist is, as I believe, of great antiquity; but in
+    ancient times those who practised it, fearing this odium, veiled and
+    disguised themselves under various names, some under that of poets, as
+    Homer, Hesiod, and Simonides, some, of hierophants and prophets, as Orpheus
+    and Musaeus, and some, as I observe, even under the name of
+    gymnastic-masters, like Iccus of Tarentum, or the more recently celebrated
+    Herodicus, now of Selymbria and formerly of Megara, who is a first-rate
+    Sophist. Your own Agathocles pretended to be a musician, but was really an
+    eminent Sophist; also Pythocleides the Cean; and there were many others; and
+    all of them, as I was saying, adopted these arts as veils or disguises
+    because they were afraid of the odium which they would incur" - Protagoras
+    (13)
+
+.. [11]
+    "If Hippocrates comes to me he will not experience the sort of drudgery with
+    which other Sophists are in the habit of insulting their pupils; who, when
+    they have just escaped from the arts, are taken and driven back into them by
+    these teachers, and made to learn calculation, and astronomy, and geometry,
+    and music (he gave a look at Hippias as he said this); but if he comes to
+    me, he will learn that which he comes to learn. And this is prudence in
+    affairs private as well as public; he will learn to order his own house in
+    the best manner, and he will be able to speak and act for the best in the
+    affairs of the state." - Protagoras (14)
+
+.. [12]
+    "If a man were to go and consult Pericles or any of our great speakers about
+    these matters, he might perhaps hear as fine a discourse; but then when one
+    has a question to ask of any of them, like books, they can neither answer
+    nor ask; and if any one challenges the least particular of their speech,
+    they go ringing on in a long harangue, like brazen pots, which when they are
+    struck continue to sound unless some one puts his hand upon them; whereas
+    our friend Protagoras can not only make a good speech, as he has already
+    shown, but when he is asked a question he can answer briefly; and when he
+    asks he will wait and hear the answer; and this is a very rare gift. " -
+    Socrates (19)
+
+.. [13]
+    "I thought that Protagoras was getting ruffled and excited; he seemed to be
+    setting himself in an attitude of war." - Socrates (24)
+
+.. [14]
+    "Socrates, he replied, many a battle of words have I fought, and if I had I
+    had followed the method of disputation which my adversaries desired, as you
+    want me to do, I should have been no better than another, and the name of
+    Protagoras would have been nowhere." - Protagoras (24)
+
+.. [15]
+    "An in like manner, if you want to hear me and Protagoras discoursing, you
+    must ask him to shorten his answers, and keep to the point, as he did at
+    first; if not, how can there be any discussion? For discussion is one thing,
+    and making an oration is quite another, in my humble opinion." - Socrates
+    (25)
+
+.. [16]
+    "If [Protagoras] claims a superiority in argument as well, let him ask and
+    answer—not, when a question is asked, slipping away from the point, and
+    instead of answering, making a speech at such length that most of his
+    hearers forget the question at issue (not that Socrates is likely to
+    forget—I will be bound for that, although he may pretend in fun that he has
+    a bad memory)." - Alcibiades (25)
+
+.. [17]
+    "I am of the opinion, Socrates, he said, that skill in poetry is the
+    principal part of education; and this I conceive to be the power of knowing
+    what compositions of the poets are correct, and what are not, and how they
+    are to be distinguished, and of explaining when asked the reason of the
+    difference." - Protagoras (26)
 
 ----
 
@@ -350,3 +510,6 @@ such through their ignorance of dangers. And because of that ignorance they are
 coward. Then, the ignorance of what is and is not is cowardice. Courage is the
 opposite of cowardice. Then the wisdom which knows what are and are not dangers
 is opposed to the ignorance of them.
+
+.. todo: Plato credits him with having invented the role of the professional
+.. sophist. - Wikipedia

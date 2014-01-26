@@ -1,48 +1,34 @@
+
+.. include:: index
+
 ================================================================================
 Sentence
 ================================================================================
 
-A sentence is a grammatical unit of one or more `words` that are grammatically
+A sentence is a grammatical unit of one or more words_ that are grammatically
 linked.
 
 Sentences have hierarchical structure and constituent structure.
 
-Some words have certain structural requirements. (Binding theory)
-
-Verbs see to have special requirements. (Theta theory, argument structure)
-
-The form a noun matters.
-
-Question formation is subject to structural constraints.
-
-- Mary saw that movie that Betty loves? (How do we question who Betty was?)
-
-Strings of words that look very similar might not have the same structure.
-
-Sentences are either grammatical or ungrammatical. Grammatical sentences may be
-prescriptively OK or not. If so, they may be uncontroversially so, formally so
-(e.g. "To whom am I speaking?", i.e. something which must be taught), difficult
-to parse ("Cheese mice love stinks." or "I saw the man with the telescope."),
-semantically anomalous ("Blue is circular."). Non-prescriptive may be either
-dialectical ("The car needs washed.") or informal ("Me and John went to the
-store.").
-
-Notation: ``*`` means ungrammatical, ``%`` usually means dialectical variant.
+.. contents::
 
 Classification
-==============
+================================================================================
 
-Sentences can be classified based on their purpose:
+Sentences may be classified based on their purpose:
 
-- Interrogative sentence:
+- Interrogative sentence
 
-- Declarative sentence:
+- Declarative sentence
 
-- Imperative sentence:
+- Imperative sentence
 
-- Exclamatory sentence:
+- Exclamatory sentence
 
-## Interrogative Sentence (Question)
+Interrogative Sentence
+--------------------------------------------------------------------------------
+
+An interrogative sentence is ...
 
 A question is a very safe move on a part of a conversationalist because it  has no connotation of judgment or power. Consequently, other forms of getting information are better because they risk they incur demonstrates confidence.
 
@@ -50,7 +36,8 @@ A question is a very safe move on a part of a conversationalist because it  has 
 
 ### Request
 
-## Declarative Sentence (Statement)
+Declarative Sentence
+--------------------------------------------------------------------------------
 
 A statement is a meaningful declarative sentence that is either true or false.
 
@@ -60,7 +47,13 @@ Counter-example: "Greenness perambulates". Though a declarative sentence, it is 
 
 Many questions can be transformed into statements:
 
-Example: Are you tired of meeting weird guys? => You must be tired of meeting weird guys. 
+:Example:
+    Are you tired of meeting weird guys? => You must be tired of meeting weird guys. 
+
+Question formation is subject to structural constraints.
+
+:Example:
+    Mary saw that movie that Betty loves? (How do we question who Betty was?)
 
 Such transformations usually start with:
 
@@ -69,23 +62,26 @@ Such transformations usually start with:
 - "You could..." 
 - "It must be..." 
 
-Making a statement demonstrates confidence because it is less safe then asking a question. A statement takes a position, and it introduces the possibility of disagreement.
+Making a statement demonstrates confidence because it is less safe then asking a
+question. A statement takes a position, and it introduces the possibility of
+disagreement.
 
 ### Suggestion
 
-## Imperative Sentence (Command)
+Imperative Sentence
+--------------------------------------------------------------------------------
 
 An imperative sentence tells someone to do something.
 
-> What school do you go to? 
-> => So tell me what school you're from 
+    What school do you go to? => Tell me what school you go to
 
-> How was your day? 
-> => Tell me about your day 
+    How was your day? => Tell me about your day 
 
-Making a imperative sentence demonstrates confidence in one's position over another. In they comply, they've submitted.
+Making a imperative sentence demonstrates confidence in one's position over
+another. If they comply, they've submitted.
 
-## Exclamatory Sentence
+Exclamatory Sentence
+--------------------------------------------------------------------------------
 
 # Stories
 

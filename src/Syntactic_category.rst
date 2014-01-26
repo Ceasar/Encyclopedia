@@ -42,6 +42,8 @@ Verb (V)
 
 Verbs have constraints.
 
+Verbs see to have special requirements. (Theta theory, argument structure)
+
 One way to divide up verbs is based on their arity or argument structure. For
 instance "Alice smiled" versus "Alice loves pink".
 

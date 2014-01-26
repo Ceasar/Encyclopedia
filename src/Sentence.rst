@@ -5,6 +5,30 @@ Sentence
 A sentence is a grammatical unit of one or more `words` that are grammatically
 linked.
 
+Sentences have hierarchical structure and constituent structure.
+
+Some words have certain structural requirements. (Binding theory)
+
+Verbs see to have special requirements. (Theta theory, argument structure)
+
+The form a noun matters.
+
+Question formation is subject to structural constraints.
+
+- Mary saw that movie that Betty loves? (How do we question who Betty was?)
+
+Strings of words that look very similar might not have the same structure.
+
+Sentences are either grammatical or ungrammatical. Grammatical sentences may be
+prescriptively OK or not. If so, they may be uncontroversially so, formally so
+(e.g. "To whom am I speaking?", i.e. something which must be taught), difficult
+to parse ("Cheese mice love stinks." or "I saw the man with the telescope."),
+semantically anomalous ("Blue is circular."). Non-prescriptive may be either
+dialectical ("The car needs washed.") or informal ("Me and John went to the
+store.").
+
+Notation: ``*`` means ungrammatical, ``%`` usually means dialectical variant.
+
 Classification
 ==============
 
@@ -156,6 +180,7 @@ For example:
 There are two competing theoretical accounts of structural priming:
 
 1. One rests on activation in so-called combinatorial nodes that are claimed to be responsible for sentence structure. Because combinatorial nodes are linked to words with corresponding syntactic priveliges, this approached readily explains the lexical enhancement of structural priming.
+
 2. One emphasis the abstract structure building behind priming and its persistance. An explicity model of the process treats priming as a kind of implicit learning with natural links to language acquisiton in children.
 
 Structure building and lexical selection are (heavily) dependent on one another.
@@ -169,7 +194,9 @@ Incrementality is a require of the process of spoken language production, simply
 The question this poses for theories of production are:
 
 1. How incremental are the psycholinguistic preparation processes in the run up to speaking?
+
 2. What are the units of incrementation?
+
 3. What is the target of incrementation?
 
 Incrementation can be both hierarchical and linear. The distinction between these two types of incrementation was drawn in terms of the timing of eye movements.

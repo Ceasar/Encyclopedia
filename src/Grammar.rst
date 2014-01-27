@@ -5,26 +5,43 @@
 Grammar
 ================================================================================
 
-A grammar is a set of structural rules that governs the valid composition of
-words_, `phrases`, and `clauses` in a language_. A grammar consists of a
-morphology_ and a syntax_.
+Grammar refers to the study of structural rules that governs the valid
+composition of words_, `phrases`, and `clauses` in a language_.
 
-Grammar is unlike school grammar which is a social norm. So "incorrect"
-grammar still is grammatical; it's just different (e.g. British English and
-American English).
+A grammar refers to a set of such rules.
 
-Sentences are either grammatical or ungrammatical. Grammatical sentences may be
-prescriptively OK or not. If so, they may be uncontroversially so, formally so
-(e.g. "To whom am I speaking?", i.e. something which must be taught), difficult
-to parse ("Cheese mice love stinks." or "I saw the man with the telescope."),
-semantically anomalous ("Blue is circular."). Non-prescriptive may be either
-dialectical ("The car needs washed.") or informal ("Me and John went to the
-store.").
+Grammar includes morphology_, syntax_, and phonology_.
 
-Notation: ``*`` means ungrammatical, ``%`` usually means dialectical variant.
+.. contents::
 
-The particular patterns of mental grammar may be different across languages,
-but patterns of comparable complexity can always be found.
+Prescriptive grammar & Descriptive grammar
+================================================================================
+
+There are two ways to go about writing grammatical rules:
+
+1. Prescriptive rules, which prescribe how people should speak
+
+2. Descriptive rules, which describe how people actually speak
+
+Grammaticality
+================================================================================
+
+Sentences are either grammatical or ungrammatical.
+
+Grammatical sentences may be prescriptively valid or invalid. If valid, they may
+be uncontroversially so, formally so (e.g. "To whom am I speaking?", i.e.
+something which must be taught), difficult to parse ("Cheese mice love stinks."
+or "I saw the man with the telescope."), semantically anomalous ("Blue is
+circular.").
+
+Prescriptively invalid sentences may be either dialectical ("The car needs
+washed") or informal ("Me and John went to the store.").
+
+:Notation: A sentence that begins with ``*`` is ungrammatical. 
+:Notation: A sentence that begins with ``%`` is a dialectical variant.
+
+Research
+================================================================================
 
 The rules of grammar are unobservable and they must be studied indirectly.
 
@@ -36,5 +53,5 @@ Kinds
 Transformation Grammar
 --------------------------------------------------------------------------------
 
-A transformational grammar is a generative grammar that has been developed in
+A transformational grammar is a `generative grammar`_ that has been developed in
 the Chomskyan tradition of phase structure grammar.

@@ -2,9 +2,8 @@
 .. include:: index
 
 ================================================================================
-Natural language
+Phonology
 ================================================================================
 
-A **natural language** is any language_ which arises in an unpremeditated fashion
-as the result of the innate facility for language possessed by the human
-intellect.
+Phonology is the science of how we analyze sounds into syllables and pattern
+them appropriately.

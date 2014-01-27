@@ -7,11 +7,20 @@ Language
 Language is the human capacity for acquiring and using complex systems of
 communication_.
 
+Language is a psychological, or cognitive, property of humans.
+
 Language is a versatile medium for communication.
 
 Languages can be thought of as an evolutionary adaption.
 
 A language consists of a lexicon_ and a grammar_.
+
+The study of language is linguistics_.
+
+One thing that distinguishes us from animals is our ability to use language.
+Language plays an important role in how we think about abstract notions, or, at
+the very least, language appears to be structured in such a way that it allows
+us to express abstract notions.
 
 ----
 

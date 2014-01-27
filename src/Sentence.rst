@@ -10,6 +10,8 @@ linked.
 
 Sentences have hierarchical structure and constituent structure.
 
+The study of sentences is syntax_.
+
 .. contents::
 
 Classification
@@ -44,6 +46,9 @@ A statement is a meaningful declarative sentence that is either true or false.
 Example: "Socrates is a man".
 
 Counter-example: "Greenness perambulates". Though a declarative sentence, it is nonsense, so it is not a statement.
+
+A derogatory statement is a disrespectful statement. Said playfully, a
+derogatory is a tease, otherwise it is an insult.
 
 Many questions can be transformed into statements:
 
@@ -146,10 +151,12 @@ Sentence production has three parts:
 
 The alternative to building a representation is retrieving a representation.
 
-### Inflection
+Inflection
+================================================================================
 
 
-#### Attraction
+Attraction
+================================================================================
 
 The presence of non-subject plural nouns in an utterance creates a tendency toward a type of error in agreement called "attraction".
 
@@ -162,9 +169,11 @@ Attraction reveals some of the mechanisms behind language production.
 2. Attracted verbs do not simply take whatever number is seemingly dictated by a neighboring noun.
     - For example, plurals are more likely to create attraction than singulars. This means that attraction is not the mistaken implementation of agreement with something that is not the subject; if it were, errors like "The king of he islands were cruel" (plural attraction) and "The kings of the island was cruel" (singular attraction) should be about equally likely. It seems what goes wrong is not agreement with the wrong subject, but rather agreement with the right subject that has somehow acquired the wrong number.
 
-#### Structural Priming
+Structural Priming
+================================================================================
 
-Structural priming refers to the tendency for speakers to echo the structures of utterances they have recently heard or said themselves.
+Structural priming refers to the tendency for speakers to echo the structures of
+utterances they have recently heard or said themselves.
 
 Speakers do so even when the words and meaning conveyed by the echoed structure change between the first and subsequent occasion of use.
 
@@ -183,7 +192,8 @@ Structure building and lexical selection are (heavily) dependent on one another.
     - That Speakers are more likely to echo a recently heard structure whn what they say also repeats a word from a priming structure is one consequence of this dependence. It can be interpreted in terms of the binding that must occur between words and structures at the outset of sentence formulation.
     - Some words are easier to retrieve than others; they are more accessible. Accessible information tends to be produced before less accessible information provided there is a structure into which it fits.
 
-#### Incrementality
+Incrementality
+================================================================================
 
 Incrementality is a require of the process of spoken language production, simply because the vocal output channel is heavily restricted in what it can do. Words and syllables that compose them are uttered one at a time even when two words erroneously blend toget in speech (e.g. slickery, flustrated); they blend as a single word.
 

@@ -4,6 +4,9 @@
 .. _ambiguity: Ambiguity.html
 .. _ambiguous: ambiguity_
 .. _amphiboly: Amphiboly.html
+.. _anaphora: Anaphora.html
+.. _anaphor: anaphora_
+.. _anaphors: anaphora_
 .. _Apology: Apology.html
 .. _articulation: Articulation.html
 .. _artificial intelligence: Artificial_intelligence.html
@@ -23,6 +26,7 @@
 .. _communication: Communication.html
 .. _communicative pressures: Communicative_pressure.html
 .. _computable: Computable_function.html
+.. _computer science: Computer_science.html
 .. _connectionism: Connectionism.html
 .. _connectionist: connectionism_
 .. _computational model: Computational_model.html
@@ -46,7 +50,11 @@
 .. _fog_creek_software: Fog_Creek_Software.html
 .. _forced-choice: Two-alternative_forced_choice.html
 .. _Fortran: Fortran.html
+.. _generative grammar: Generative_grammar.html
 .. _grammar: Grammar.html
+.. _grammatical category: Grammatical_category.html
+.. _grammatical number: Grammatical_number.html
+.. _grammatical person: Grammatical_person.html
 .. _hackny: HackNY.html
 .. _homograph: Homograph.html
 .. _homography: Homography.html
@@ -102,6 +110,9 @@
 .. _percepts: percept_
 .. _perception: Perception.html
 .. _phaedo: Phaedo.html
+.. _philosophy: Philosophy.html
+.. _phonetics: Phonetics.html
+.. _phonology: Phonology.html
 .. _phrase: Phrase.html
 .. _Plato: Plato.html
 .. _Plato's Academy: `Platonic_Academy`_
@@ -112,6 +123,7 @@
 .. _programming language: Programming_language.html
 .. _Protagoras: Plato_Protagoras.html
 .. _pronouns: Pronoun.html
+.. _psychology: Psychology.html
 .. _receiver: Receiver.html
 .. _redundant: Redundancy.html
 .. _Reicher 1969: Reicher_1969.html 
@@ -122,6 +134,7 @@
 .. _Selfridge 1959: Selfridge_1959.html
 .. _scone: Scone.html
 .. _scones: scone_
+.. _semantics: Semantics.html
 .. _sense: `word sense`_
 .. _senses: `word sense`_
 .. _sentence: Sentence.html

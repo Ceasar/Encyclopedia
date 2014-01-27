@@ -1,11 +1,14 @@
 
-.. _morphology:
+.. include:: index
 
-==========
+================================================================================
 Morphology
-==========
+================================================================================
 
 Morphology is the study of word forms.
+
+Morphology is the study of language at level of organizing group of sounds into
+meaningful units.
 
 Morphology consists of two parts:
 
@@ -13,7 +16,7 @@ Morphology consists of two parts:
 2. Inflectional morphology (grammar, conjugation/declination)
 
 Derivational (Lexical)
-------------
+================================================================================
 
 Derivational morphology is the study of the formation of new words.
 
@@ -32,7 +35,7 @@ Lexicalization is the process of adding words, set phrases, or word patterns to 
         Example: {"hospital", "hospitalize", "hospitalization"}
 
 Inflectional
-------------
+================================================================================
 
 Inflectional morphology is the study of combinations of stems and affixes where the resulting word:
 
@@ -107,7 +110,8 @@ A word is recognized faster if it has been seen before recently
 
 ---
 
-# Regular & Irregular
+Regular & Irregular
+================================================================================
 
 A regular word follows the rules of morphological transformation.
 

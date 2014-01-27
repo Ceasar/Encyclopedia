@@ -2,9 +2,7 @@
 .. include:: index
 
 ================================================================================
-Natural language
+Phonetics
 ================================================================================
 
-A **natural language** is any language_ which arises in an unpremeditated fashion
-as the result of the innate facility for language possessed by the human
-intellect.
+Phonetics is the study of acoustics and articulation of speech_.

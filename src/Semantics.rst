@@ -2,9 +2,8 @@
 .. include:: index
 
 ================================================================================
-Natural language
+Semantics
 ================================================================================
 
-A **natural language** is any language_ which arises in an unpremeditated fashion
-as the result of the innate facility for language possessed by the human
-intellect.
+**Semantics** is the study of taking sentences_ and phrases and translating them
+into thoughts and idea.

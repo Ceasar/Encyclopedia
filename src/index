@@ -20,18 +20,21 @@
 .. _classical Athens: Classical_Athens.html
 .. _classical Greece: Classical_Greece.html
 .. _classical Greek: `classical Greece`_
+.. _clause: Clause.html
 .. _cognitive science: Cognitive_science.html
 .. _communication system: Communication_system.html
 .. _communication systems: Communication_system.html
 .. _communication: Communication.html
 .. _communicative pressures: Communicative_pressure.html
 .. _computable: Computable_function.html
-.. _computer science: Computer_science.html
-.. _connectionism: Connectionism.html
-.. _connectionist: connectionism_
 .. _computational model: Computational_model.html
 .. _computational models: `computational model`_
+.. _computer science: Computer_science.html
 .. _conceptualization: Conceptualization.html
+.. _connectionism: Connectionism.html
+.. _connectionist: connectionism_
+.. _constituent: Constituent.html
+.. _constituents: constituent_
 .. _context: `linguistic context`_
 .. _Crito: Crito.html
 .. _croissant: Croissant.html
@@ -52,9 +55,12 @@
 .. _Fortran: Fortran.html
 .. _generative grammar: Generative_grammar.html
 .. _grammar: Grammar.html
+.. _grammatical case: Grammatical_case.html
 .. _grammatical category: Grammatical_category.html
+.. _grammatical function: `grammatical relation`_
 .. _grammatical number: Grammatical_number.html
 .. _grammatical person: Grammatical_person.html
+.. _grammatical relation: Grammatical_relation.html
 .. _hackny: HackNY.html
 .. _homograph: Homograph.html
 .. _homography: Homography.html
@@ -114,6 +120,8 @@
 .. _phonetics: Phonetics.html
 .. _phonology: Phonology.html
 .. _phrase: Phrase.html
+.. _phrases: phrase_
+.. _phrase structure rules: Phrase_structure_rules.html
 .. _Plato: Plato.html
 .. _Plato's Academy: `Platonic_Academy`_
 .. _Platonic Academy: Platonic_Academy.html

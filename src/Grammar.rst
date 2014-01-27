@@ -23,6 +23,8 @@ There are two ways to go about writing grammatical rules:
 
 2. Descriptive rules, which describe how people actually speak
 
+.. todo: is is redundant to say "prescribe how people should speak"?
+
 Grammaticality
 ================================================================================
 

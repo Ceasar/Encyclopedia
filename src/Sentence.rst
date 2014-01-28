@@ -5,12 +5,13 @@
 Sentence
 ================================================================================
 
-A sentence is a grammatical unit of one or more words_ that are grammatically
-linked.
-
-Sentences have hierarchical structure and constituent structure.
+A sentence is a grammatical unit of one or more words_ that are `grammatically
+related`_.
 
 The study of sentences is syntax_.
+
+A simple sentence usually consists of a single finite clause_ with a finite verb
+that is independent. Complex sentences may contain multiple clauses_.
 
 .. contents::
 

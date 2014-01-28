@@ -9,7 +9,7 @@ A **syntactic category** is a type of `syntactic unit` that theories of
 `syntax`_ assume.
 
 The traditional parts of speech (e.g. noun, verb, preposition, etc.) are
-syntactic categories, and in phrase structure grammars, the phrasal categories
+syntactic categories, and in `phrase structure grammars`, the phrasal categories
 (e.g. noun phrase NP, verb phrase VP, prepositional phrase PP, etc.) are also
 syntactic categories.
 
@@ -20,6 +20,9 @@ Parts of speech are defined by distributional criteria, which may be either
 morphological or syntactical. An instance, of a morphological criterion is the
 prefix "-ly" identifying an adverb. An instance of a syntactic criteria would be
 using the word "the" to identify the following word as a noun.
+
+If a lexical item doesn't pass a test, it doesn't mean it's not a noun.
+Negative evidence is not really evidence, but we need more tests.
 
 Kinds
 ================================================================================
@@ -36,6 +39,14 @@ Noun (N)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A noun is a person, place or thing.
+
+Identifying nouns.
+
+1. If the word can fit in the frame [the _].
+
+2. Add -s to make the word plural
+
+3. Can function as subject in the frame  [the _ is/are nice].
 
 Verb (V)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,6 +83,18 @@ Note: When looking at data that is not in English there are three parts we're
 interested. We'll have data, which is the foreign language, gloss is the literal
 translation, and then we have the actual translation.
 
+Identifying lexical verbs.
+
+1. Can add "-ing" to form a progressive
+
+2. Can add "-ed" to form a past tense
+
+3. Can follow "will" in the frame ["John will _"]
+
+"is" will break this. "is" is an auxiliary and is a functional category.
+
+"John was devouring" implies a background.
+
 Adjective
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -88,6 +111,12 @@ Functional categories are mostly"closed class".
 Determiner (D)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ("the", "a")
+
+Determiners:
+
+1. Can appear before a noun.
+
+2. There, a, an, this, that, these, those, every, some
 
 Preposition (P)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,28 +155,7 @@ be, have
 Identification
 ================================================================================
 
-Identifying nouns.
 
-1. If the word can fit in the frame [the _].
-
-2. Add -s to make the word plural
-
-3. Can function as subject in the frame  [the _ is/are nice].
-
-If a lexical item doesn't pass these test, it doesn't mean it's not a noun.
-Negative evidence is not really evidence, but we need more tests.
-
-Identifying lexical verbs.
-
-1. Can add "-ing" to form a progressive
-
-2. Can add "-ed" to form a past tense
-
-3. Can follow "will" in the frame ["John will _"]
-
-"is" will break this. "is" is an auxiliary and is a functional category.
-
-"John was devouring" implies a background.
 
 Identifying adjectives.
 
@@ -165,11 +173,6 @@ Identifying adverbs.
 
 3. Can often add "-er" to make it comparative. "sooner"
 
-Determiners:
-
-1. Can appear before a noun.
-
-2. There, a, an, this, that, these, those, every, some
 
 Prepositions.
 

@@ -9,6 +9,8 @@ For instance, the word "run" is ambiguous because it can map to a large number
 of possible meaning, including a run in a panthose, a run in baseball, a jog, to
 run, a stretch of consecutive events, etc.
 
+Ambiguity is the ability of a sign to express more than one interpretation.
+
 .. contents::
    :depth: 2
 

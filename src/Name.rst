@@ -1,11 +1,19 @@
 
 .. include:: index
 
-====
+================================================================================
 Name
-====
+================================================================================
 
 A name is an expression_ that consists of a word_ or phrase_.
+
+A name may denote either a real thing or an imaginary thing (an idea of a
+thing).
+
+Things that we don't want to talk about rarely have names, but we refer to them
+by putting together several words, each of which, by itself, might be and is
+used for an indefinite number of other objects -- though context makes it clear
+what is meant.
 
 A name is an arbitrary sequence of words that serves to mark and communicate a
 thought.[2]
@@ -1122,8 +1130,6 @@ Critique of "Of Names"
     - Can one understand a sentence containing a name of a thing one has never experienced? e.g. "Let x be a number."
     - How do understand sentences containing singular abstract non-connotative names such as "squarness" given that we have no direct acquaintance.
 
-
-
 ---
 
 Notes:
@@ -1134,4 +1140,5 @@ Notes:
 
 ---
 
-- Sunday (where does that fit in our theory of names). It is is general and non-connotative, but neither a substance nor attribute.
+- Sunday (where does that fit in our theory of names). It is is general and
+  non-connotative, but neither a substance nor attribute.

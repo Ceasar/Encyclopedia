@@ -14,6 +14,8 @@
 .. _attention: Attention.html
 .. _banter: Banter.html
 .. _biscotti: Biscotti.html
+.. _code: Code.html
+.. _codes: code_
 .. _coffee: Coffee.html
 .. _conversation: Conversation.html
 .. _channel: Channel.html
@@ -81,10 +83,13 @@
 .. _hortative: Hortative.html
 .. _human communication system: Human_communication_system.html
 .. _human communication systems: `human communication system`_
+.. _icon: Icon.html
+.. _index: Index.html
 .. _information: Information.html
 .. _interactive activation model: Interactive_activation_model.html
 .. _interlocutors: Interlocutor.html
 .. _interpreter: Interpreter.html
+.. _interpretation: Interpreter.html
 .. _joint act: Joint_act.html
 .. _juxtaposition: Juxtaposition.html
 .. _language comprehension: Language_comprehension.html
@@ -159,6 +164,7 @@
 .. _scone: Scone.html
 .. _scones: scone_
 .. _semantics: Semantics.html
+.. _semiotics: Semiotics.html
 .. _sense: `word sense`_
 .. _senses: `word sense`_
 .. _sentence: Sentence.html
@@ -173,6 +179,8 @@
 .. _source: Source.html
 .. _speech production: Speech_production.html
 .. _speech: Speech.html
+.. _symbol: Symbol.html
+.. _syntagm: Syntagm.html
 .. _syntactic category: Syntactic_category.html
 .. _syntactic categories: `syntactic category`_
 .. _syntax: Syntax.html
@@ -180,6 +188,7 @@
 .. _tachistoscope: Tachistoscope.html
 .. _temperance: Temperance.html
 .. _template matching: Template_matching.html
+.. _text: Text.html
 .. _total: Total_function.html
 .. _transducer: Transduction.html
 .. _transduction: Transduction.html

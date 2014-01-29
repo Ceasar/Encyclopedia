@@ -26,7 +26,7 @@ Insofar as a code is isomorphic, meaning can be preserved. Insofar as it is not,
 A code consists of:[2]
 
 1. A set of signs_
-2. A set of conventions (or combination rules)
+2. A set of conventions_ (or combination rules)
 
 Encoding is the process of creating a message_ for transmission by an addresser
 to an addressee.

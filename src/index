@@ -7,6 +7,7 @@
 .. _anaphora: Anaphora.html
 .. _anaphor: anaphora_
 .. _anaphors: anaphora_
+.. _antonym: Antonym.html
 .. _Apology: Apology.html
 .. _articulation: Articulation.html
 .. _artificial intelligence: Artificial_intelligence.html
@@ -16,6 +17,7 @@
 .. _biscotti: Biscotti.html
 .. _code: Code.html
 .. _codes: code_
+.. _connotation: Connotation.html
 .. _convention: Convention.html
 .. _conventions: convention_
 .. _coffee: Coffee.html
@@ -60,6 +62,7 @@
 .. _Euthyphro: Plato_Euthyphro.html
 .. _expression: Expression.html
 .. _feature analysis: Feature_analysis.html
+.. _feedback: Feedback.html
 .. _flatiron_health: Flatiron_Health.html
 .. _fog_creek_software: Fog_Creek_Software.html
 .. _forced-choice: Two-alternative_forced_choice.html
@@ -112,14 +115,17 @@
 .. _Massaro 1998: massaro_1998.html
 .. _McClelland: James_L_McClelland.html
 .. _machine code: Machine_code.html
+.. _medium: Medium.html
 .. _memory: Memory.html
 .. _message: Message.html
 .. _messages: message_
 .. _morpheme: Morpheme.html
 .. _morphemes: Morpheme.html
 .. _morphology: Morphology.html
+.. _name: Name.html
 .. _natural language: Natural_language.html
 .. _natural language processing: Natural_language_processing.html
+.. _neologism: Neologism.html
 .. _neural network: Neural_network.html
 .. _neural networks: `neural network`_
 .. _Nicomachean Ethics: Aristotle_Nicomachean_Ethics.html
@@ -148,14 +154,17 @@
 .. _polysemes: Polyseme.html
 .. _polysemy: Polysemy.html
 .. _preface: Preface.html
-.. _programming language: Programming_language.html
 .. _pragmatics: Pragmatics.html
+.. _programming language: Programming_language.html
+.. _proposition: Proposition.html
+.. _pronoun: Pronoun.html
+.. _pronouns: pronoun_
 .. _Protagoras: Plato_Protagoras.html
-.. _pronouns: Pronoun.html
 .. _psychology: Psychology.html
 .. _rapport: Rapport.html
 .. _receiver: Receiver.html
-.. _redundant: Redundancy.html
+.. _redundancy: Redundancy.html
+.. _redundant: redundancy_
 .. _Reicher 1969: Reicher_1969.html 
 .. _rhetoric: Rhetoric.html
 .. _Rumelhart: David_E_Rumelhart.html
@@ -165,6 +174,7 @@
 .. _Selfridge 1959: Selfridge_1959.html
 .. _scone: Scone.html
 .. _scones: scone_
+.. _semantic relation: Semantic_relation.html
 .. _semantics: Semantics.html
 .. _semiotics: Semiotics.html
 .. _sense: `word sense`_
@@ -181,7 +191,10 @@
 .. _source: Source.html
 .. _speech production: Speech_production.html
 .. _speech: Speech.html
+.. _statement: Statement.html
 .. _symbol: Symbol.html
+.. _symbols: symbol_
+.. _synonym: Synonym.html
 .. _syntagm: Syntagm.html
 .. _syntactic category: Syntactic_category.html
 .. _syntactic categories: `syntactic category`_
@@ -198,6 +211,7 @@
 .. _uber: Uber.html
 .. _Universal Grammar: Universal_grammar.html
 .. _utterance: Utterance.html
+.. _vagueness: Vagueness.html
 .. _virtue: Virtue.html
 .. _virtues: virtue_
 .. _visual information storage: Visual_information_storage.html

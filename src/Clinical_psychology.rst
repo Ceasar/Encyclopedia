@@ -6,7 +6,7 @@ Clinical psychology
 ================================================================================
 
 Clinical psychology is a branch of psychology_ that focuses on understanding,
-preventing, and relieving psychological distress or dysfunction.
+preventing, and relieving psychological distress_ or dysfunction.
 
 Professions
 ================================================================================

@@ -37,20 +37,6 @@ A question is a very safe move on a part of a conversationalist because it  has 
 
 ### Question
 
-### Request
-
-Declarative Sentence
---------------------------------------------------------------------------------
-
-A statement is a meaningful declarative sentence that is either true or false.
-
-Example: "Socrates is a man".
-
-Counter-example: "Greenness perambulates". Though a declarative sentence, it is nonsense, so it is not a statement.
-
-A derogatory statement is a disrespectful statement. Said playfully, a
-derogatory is a tease, otherwise it is an insult.
-
 Many questions can be transformed into statements:
 
 :Example:
@@ -68,11 +54,12 @@ Such transformations usually start with:
 - "You could..." 
 - "It must be..." 
 
-Making a statement demonstrates confidence because it is less safe then asking a
-question. A statement takes a position, and it introduces the possibility of
-disagreement.
+### Request
 
-### Suggestion
+Declarative Sentence
+--------------------------------------------------------------------------------
+
+See: Statement_, Suggestion
 
 Imperative Sentence
 --------------------------------------------------------------------------------
@@ -89,75 +76,24 @@ another. If they comply, they've submitted.
 Exclamatory Sentence
 --------------------------------------------------------------------------------
 
-# Stories
-
-
-# Genuine Interest
-
-People love talking about themselves and enjoy the company of those who take a genuine interest in them.
-
-By doing this (in the right way), you let her talk about herself, but you control what she is talking about. You don't want to hear about her personal problems (intellectual whore). You just jump in every once-in-a-while with a "me too" statement to let her know that you guys are connecting. You GUIDE the conversation completely. This puts you in control. When the conversation starts heading off track, you bring it back.
-
-Take a genuine interest in what she's saying. Don't try to fake it. When she tells you she went to Europe for 3 months, don't say, "That's cool." That's a big thing. Ask her about it. What did she like? Where in Europe did she go? What were the people like? What differences are there between Europe and the US? You could talk to her for hours just about her trip.
-
-Tips
-
-1. Always be aware of your surroundings! 
-    - Some of the best conversation starters are based on what's going on around you. Maybe something funny happened, maybe there's a guy that looks like Tom Hanks. Maybe the girl dropped her cell phone in water. Whatever is going on around you, learn to use it to your advantage. 
-    - Ways to practice this: When you go out, look for things happening to people or in your surroundings. Then, approach anyone (guy or girl) and talk to him or her about it. Make it seem smooth and if you can, funny. Then, let that lead into more conversation. This is probably the best way to do a Cold Approach IMO.
-2. Don't ask random questions! 
-    - This isn't 20 questions. Don't ask a girl a question and then proceed by asking her a totally unrelated question when she answers. Keep the questions related to her answer. Base what you say off of her response. DON'T PLAN OUT WHAT YOU'RE GOING TO SAY NEXT. Go with the flow. 
-    - Good
-        - Guy: Do you live around here? 
-        - Girl: I actually live about 20 min away in __ 
-        - Guy: Really? I hear they listen to quite a bit of rap in __ (just an example) 
-        - Girl: Yeah they do! I'm not too big on rap though. I prefer acoustic bands like John Mayer or Dave Matthews 
-        - Guy: Dave was just up at the Gorge for a concert last week. Did you see the concert? 
-        - Girl: I really wanted to go but got stuck working the whole weekend 
-        - Guy: etc etc 
-    - Bad
-        - Guy: Do you live around here? 
-        - Girl: I actually live about 20 min away in __ 
-        - Guy: Cool. What kind of music do you listen to? 
-        - Girl: My favorite would have to be any acoustic bands 
-        - Guy: Did you go to the Dave Matthews Concert? 
-        - Girl: No, I got stuck working 
-        - Guy: Where do you work? 
-3. Keep the Conversations Positive 
-    - There's nothing people hate more than a negative person. You know the type: Those people that complain and argue about EVERYTHING. Always try to avoid anything negative.
-    - NEVER whine or complain and don't argue. 
-4. Understand people have opinions where there is no right or wrong 
-    - I've met so many people who always have to argue with people's opinions. That's just their way of thinking. Don't agree with a girl just for the sake of agreeing. If you have a difference of opinion, and think you can back it up, then let her know you disagree, but do it in an adult-like manner. Don't insult her way of thinking. Just like you, she probably has reasoning for her opinion. You could ask her what her reasoning is behind that. Throw in your point of view, but acknowledge her points. 
-5. Noun-ing 
-    - This is a technique I read about that will help those of you who have trouble with conversation. You'll be able to hold a conversation without a problem. It could start with the simplest of questions like, "What did you do today?" You'll learn to do this with practice without even thinking about it, but for now, here's how you do it. (this is taken from another post) 
-    - Example
-        - Guy: So what do you do with yourself? 
-        - Girl: Oh, Im in Trinity College in Dublin studying Law. 
-        - Take the nounf of this reply:
-            - Trinity College
-            - Dublin
-            - Law
-        - Pick any of these and ask a question about it!
-6. Use Open-Ended Questions 
-7. Men want facts; women want feelings
-    - This of course is a generalization that I read somewhere: Men like to cut to the facts. They don't like all the small talk and stuff in between. Men organize thoughts in their head and then say what needs to be said. Women use talking as a means to organize their thoughts. 
-
-# Syntactic Frame Generation (Sentence-Structure) (Surface Form)
+Syntactic Frame Generation (Sentence-Structure) (Surface Form)
+================================================================================
 
 Sentence production has three parts:
 
 1. Building a syntactic structure whose elementary units are words
+
 2. Building any morphologically complex words out of existing morphemes
+
 3. Building the sound structure of individual words out of phonemes
 
 The alternative to building a representation is retrieving a representation.
 
 Inflection
-================================================================================
-
+--------------------------------------------------------------------------------
 
 Attraction
-================================================================================
+--------------------------------------------------------------------------------
 
 The presence of non-subject plural nouns in an utterance creates a tendency toward a type of error in agreement called "attraction".
 

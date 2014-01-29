@@ -146,7 +146,8 @@ Example: stickleback courtship
 Total feedback
 --------------------------------------------------------------------------------
 
-A `communication system`_ has total feedback if a sender receives and comprehends messages it sends.
+A `communication system`_ has total feedback_ if a sender receives and
+comprehends messages it sends.
 
 Example: gibbon calls
 Example: paralinguistic phenomena
@@ -155,9 +156,13 @@ Example: I hear myself say "the dog" when I say so
 
 Not all systems possess total feedback:
 
-Example: stickleback courtship (The male stickleback does not see the color of his own eye and belly that are crucial in stimulating the female)
+:Example:
+    stickleback courtship (The male stickleback does not see the color of his
+    own eye and belly that are crucial in stimulating the female)
 
-Importance: Enables the so-called internalization of communicative behavior that constitutes a major position of thinking.
+:Importance:
+    Enables the so-called internalization of communicative behavior that
+    constitutes a major position of thinking.
 
 Specialization
 --------------------------------------------------------------------------------

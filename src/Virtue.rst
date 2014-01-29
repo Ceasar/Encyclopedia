@@ -27,4 +27,23 @@ Plato_ recognized five virtues:
 Cowardice
 --------------------------------------------------------------------------------
 
+Intellectual Virtue
+================================================================================
+
+Aristotle analyzed virtues into moral and intellectual virtues.
+
+Theoretical:
+
+- Sophia - wisdom
+- Episteme - scientific knowledge
+- Nous - reason
+
+Practical:
+
+- Phronesis - practical wisdom / prudence
+
+Productive:
+
+- Techne - craft knowledge, art, skill
+
 .. [1] Protagoras_

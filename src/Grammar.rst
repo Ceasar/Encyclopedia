@@ -9,6 +9,8 @@ Grammar
 composition of words_, phrases_, and clauses_ in a language_. Grammar includes
 morphology_, syntax_, and phonology_.
 
+Grammar is one of the core subjects in the trivium_.
+
 A grammar refers to a set of such rules which constitute a theory of a language.
 
 .. contents::

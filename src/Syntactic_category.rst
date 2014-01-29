@@ -16,13 +16,12 @@ syntactic categories.
 Instead of function, we're going to base the categories of words on other
 criteria.
 
-Parts of speech are defined by distributional criteria, which may be either
+Syntactic categories are defined by distributional criteria, which may be either
 morphological or syntactical. An instance, of a morphological criterion is the
 prefix "-ly" identifying an adverb. An instance of a syntactic criteria would be
-using the word "the" to identify the following word as a noun.
-
-If a lexical item doesn't pass a test, it doesn't mean it's not a noun.
-Negative evidence is not really evidence, but we need more tests.
+using the word "the" to identify the following word as a noun. Note, failure to
+comply with criteria is not evidence that a word is not a in a syntactic
+category.
 
 Kinds
 ================================================================================
@@ -32,8 +31,10 @@ Lexical category
 
 A lexical category is (for class) any open class category.
 
-Lexical categories are "open class" meaning we can invent new ones. They tend to
-have meaning.
+Lexical categories are "open class" meaning we can invent new ones (via
+neologism_).
+
+They tend to have meaning.
 
 Noun (N)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,11 +43,13 @@ A noun is a person, place or thing.
 
 Identifying nouns.
 
-1. If the word can fit in the frame [the _].
+1. Can add -s to make the word plural
 
-2. Add -s to make the word plural
+2. Can fit in the frame [the _].
 
 3. Can function as subject in the frame  [the _ is/are nice].
+
+.. todo: obviously this misses Proper nouns
 
 Verb (V)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,19 +101,39 @@ Identifying lexical verbs.
 Adjective
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Identifying adjectives.
+
+1. Usually precedes a noun and modifies. "John is a _ person."
+
+2. Can usually be the sole predicate of "be" as in [John is _]
+
+3. Can add prefix "un-" to get another adjective, suffix "-ly" to get adverb.
+
 Adverb
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Identifying adverbs.
+
+1. Ends with "ly". Exceptions "fly", "friendly", "soon"
+
+2. Negative test: Adverbs cannot be the predicate of "be" [John is _]
+
+3. Can often add "-er" to make it comparative. "sooner"
 
 Functional category
 --------------------------------------------------------------------------------
 
 A functional category is ...
 
-Functional categories are mostly"closed class".
+Functional categories are mostly "closed class".
 
 Determiner (D)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-("the", "a")
+
+A determiner is a word_ or phrase_ that serves to express the reference of a
+noun or noun phrase in the context.
+
+In English, common determiners include "the", "a", "my", and "some".
 
 Determiners:
 
@@ -120,6 +143,16 @@ Determiners:
 
 Preposition (P)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A preposition is a class of words that express spatial or temporal relations.
+
+For example, "in", "under", "towards", "before", "around", and "of".
+
+1. Can be modified by [right _]
+
+2. Often concern location and time.
+
+TODO: Read up on conjunctions and complementizers.
 
 Complementizer (C)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -152,32 +185,15 @@ Auxiliary
 
 be, have
 
-Identification
-================================================================================
+----
 
+Nominalization
+==============
 
+Nominalization is the use of a verb, adjective, or an adverb, as a noun.
 
-Identifying adjectives.
+The division between nouns and adjectives is a strictly syntactical one, as can
+be seen via nominalization:
 
-1. Usually precedes a noun and modifies. "John is a _ person."
-
-2. Can usually be the sole predicate of "be" as in [John is _]
-
-3. Can add prefix "un-" to get another adjective, suffix "-ly" to get adverb.
-
-Identifying adverbs.
-
-1. Ends with "ly". Exceptions "fly", "friendly", "soon"
-
-2. Negative test: Adverbs cannot be the predicate of "be" [John is _]
-
-3. Can often add "-er" to make it comparative. "sooner"
-
-
-Prepositions.
-
-1. Can be modified by [right _], on, in, around
-
-2. Often concern location and time. "of"
-
-TODO: Read up on conjunctions and complementizers.
+Example: "The legislation will have the most impact of the poor"
+Example: "The Socialist International"

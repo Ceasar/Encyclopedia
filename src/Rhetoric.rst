@@ -5,7 +5,7 @@
 Rhetoric
 ================================================================================
 
-Rhetoric is the art of discourse.
+Rhetoric is the art of discourse_.
 
 Rhetoric studies the form of communication rather than the content.
 

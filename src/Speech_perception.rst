@@ -9,17 +9,6 @@ Speech Perception
 **Speech perception** is the `perception`_ of `speech`_; the process by which
 the sounds of language are heard, interpreted, and understood.
 
-.. contents::
-   :depth: 2
-
-Introduction
-================================================================================
-
-Relatively simple speech sounds vary wildly between speakers.
-
-Research
-================================================================================
-
 The study of `speech perception`_ tries to understand how human listeners
 recognize speech sounds and use this information in spoken language.
 
@@ -36,6 +25,17 @@ recognize speech sounds and use this information in spoken language.
 - Music-language connection
 
 Sonagraphic studies attempt to segment speech into invariant acoustic features.
+
+.. contents::
+   :depth: 2
+
+Introduction
+================================================================================
+
+Relatively simple speech sounds vary wildly between speakers.
+
+Research
+================================================================================
 
 Research has given rise to three main theoretical perspective on `speech
 perception`_ that frame much of the empirical work.

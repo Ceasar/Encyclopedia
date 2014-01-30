@@ -5,8 +5,10 @@
 Cognitive psychology
 ================================================================================
 
-Cognitive psychology a branch of psychology_ that studies mental (or cognitive)
-processes.
-
-Mental processes include attention_, memory_, perception_, language_, and
+Cognitive psychology is a branch of psychology_ that studies cognitive
+processes, such as attention_, memory_, perception_, language_, and
 metacognition.
+
+Branches:
+
+- Linguistics_

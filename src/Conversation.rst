@@ -5,27 +5,47 @@
 Conversation
 ================================================================================
 
-A conversation is an interactive, spontaneous communication between two or more
-people that follows rules of etiquette.
+A conversation is a `joint project`_ that is interactive and spontaneous, and
+that follows `conversational maxims`_.
 
-  * Banter
-  * Gossip
-  * Debate
-  * Discussion
+* Banter_
+* Gossip
+* Debate
+* Discussion
 
-Face-to-face conversation is the basic setting for language use.
+.. contents::
+
+Face-to-face conversation
+================================================================================
+
+Face-to-face conversation is the basic setting_ for `language use`_.
 
 - Conversation is universal.
+
 - Conversation requires no special training.
+
 - Conversation is essential in acquiring one's first language.
 
-Other settings lack the immediacy, medium, or control of face-to-face conversation, so they require special techniques or practices. If we are ever to characterize language use in all its settings, the one setting that should take priority is face-to-face conversation.[4]
+Other settings lack the immediacy, medium, or control of face-to-face
+conversation, so they require special techniques or practices. If we are ever to
+characterize language use in all its settings, the one setting that should take
+priority is face-to-face conversation.[4]
 
-For a language setting to be basic, it should be universal to human societies.[1] That eliminates written setting, since entire societies rely on the spoken word.[4] One estimate is that about a sixth of the world's people are illiterate.[4] We can also eliminate spoken settings that depend on technology since these are hardly universal.[4] Most people participate only rarely in nonpersonal, institutional, and prescriptive settings, and even then their participation is usually restricted to certain roles.[4] The most common setting is face-to-face conversation.[4]
+For a language setting to be basic, it should be universal to human
+societies.[1] That eliminates written setting, since entire societies rely on
+the spoken word.[4] One estimate is that about a sixth of the world's people are
+illiterate.[4] We can also eliminate spoken settings that depend on technology
+since these are hardly universal.[4] Most people participate only rarely in
+nonpersonal, institutional, and prescriptive settings, and even then their
+participation is usually restricted to certain roles.[4] The most common setting
+is face-to-face conversation.[4]
 
-Face-to-face conversation is the principal setting that doesn't require special skills.[4] Reading and writing takes years of schooling and many people never do get very good at them.
+Face-to-face conversation is the principal setting that doesn't require special
+skills.[4] Reading and writing takes years of schooling and many people never do
+get very good at them.
 
-Face-to-face conversation is also the basic setting for children's acquisition of their first language.[4]
+Face-to-face conversation is also the basic setting for children's acquisition
+of their first language.[4]
 
 Features of face-to-face conversation:
 
@@ -68,7 +88,8 @@ Features 8-10 have to do with control--who controls what gets done and how.[4]
 
 Private settings are sometimes considered the basic setting for language use. However, when we do talk to ourselves, the principal medium is the language we have acquired from others.[4]
 
-## Turns
+Turns
+================================================================================
 
 In carrying out local projects, people coordinate on who speaks when.[1]
 

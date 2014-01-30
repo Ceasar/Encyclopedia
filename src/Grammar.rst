@@ -5,9 +5,9 @@
 Grammar
 ================================================================================
 
-**Grammar** is the study of structural rules that governs the valid
-composition of words_, phrases_, and clauses_ in a language_. Grammar includes
-morphology_, syntax_, and phonology_.
+**Grammar** is a branch of linguistics_ that studies the structural rules that
+governs the valid composition of words_, phrases_, and clauses_ in a language_.
+Grammar includes morphology_, syntax_, and phonology_.
 
 Grammar is one of the core subjects in the trivium_.
 

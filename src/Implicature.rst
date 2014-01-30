@@ -81,3 +81,35 @@ Speakers produce implicature in two main ways:[1]
 
 1. Direct appeal to maxims
 2. Blatantly violating (flouting) a maxim (leads to rhetorical figures)
+
+----
+
+- Remarks on "say":
+    - By say Grice intends the sentence meaning
+        Suppose someone uttered: "He is in the grip of a vice"
+            - without knowledge of the circumstances
+                - one would know nothing about what the speaker said assuming he was speaking English and literally
+                - one would know that that
+                    - he he said about some particular male person or animal, x, that
+                        - at the time of the utterance either
+                            1 x was unable to rid himself of a certain bad character trait, or
+                            2 some part of x was caught in a certain kind of tool
+                - for a full identification one would need to know
+                    - the identity of x
+                    - the time of the utterance
+                    - the meaning on the particular occasion of utterance of the phrase "the grip of a vice" (either 1 or 2)
+    - Grice's use of say leaves it open whether
+         - a man who says (today)- "Harold Wilson is a great man"  and
+         - another who say, "The British Prime Minstier is a great man"
+         - would if each knew the terms had the same reference had said the same thing
+    - regardless
+        - the appartus Grice is about to provide will be capable of accounting for any implicates that might depend on the presence of one rather than another of these singlar terms in the sentence uttered
+    - such implicatures would merely be related to different maxims
+
+- in some cases
+    - the conventional meaning of the words used will determined what is implicated
+        - besides helping to determine what is said
+            Example: "he is an Englushman; he is, therefore, brave" I have commited myself by virtue of meaning of words to its being the case that being brave follows from being an English man
+    - however, Grice does not want to say that I have SAID (in the favored sense) that it follows from his being an Englishman that he is brave, thought Grice implicated it is so
+    - do not want to say that utterance of this sentence would be STRICTLY SPEAKING false, should the consequence in question fail to hold
+    - SOME implicatures are conventional (unlike the vice one)

@@ -2,8 +2,8 @@
 .. include:: index
 
 ================================================================================
-Phonology
+Acoustics
 ================================================================================
 
-Phonology is a branch of linguistics_ that studies how humans analyze sounds
-into syllables and pattern them appropriately.
+Acoustics is a branch of phonetics_ that studies the physical transmission of
+speech_ sounds from speaker to the listener.

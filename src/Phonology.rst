@@ -1,9 +1,0 @@
-
-.. include:: index
-
-================================================================================
-Phonology
-================================================================================
-
-Phonology is a branch of linguistics_ that studies how humans analyze sounds
-into syllables and pattern them appropriately.

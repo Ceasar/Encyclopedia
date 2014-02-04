@@ -2,7 +2,7 @@
 
 SRC = src
 TARGETS = $(shell find src -print | grep rst$  \
-		  | sed 's/rst/html/' | sed 's/$(SRC)/build/')
+		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/build/')
 RSTFLAGS = --source-link --time --report=none --field-name-limit=0
  
 build/%.html: $(SRC)/%.rst

@@ -11,13 +11,25 @@ Features
 ================================================================================
 
 - reStructedText_ (reST) support
+
 - Document search
+
+Install
+================================================================================
+
+To install Scholar, simply:
+
+.. code:: bash
+
+     $ git clone git@github.com:Ceasar/scholar.git
+     $ cd scholar
+     $ make init
 
 Usage
 ================================================================================
 
-Using scholar involves writing (reST) documents in ``src`` and then building them
-for presentation as HTML in ``build``.
+Using scholar involves writing (reST) documents in ``src`` and then building
+them for presentation as HTML in ``build``.
 
 To build HTML files, simply:
 

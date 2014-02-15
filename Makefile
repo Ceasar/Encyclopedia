@@ -12,9 +12,11 @@ build/%.html: $(SRC)/%.rst
 all: $(TARGETS)
 
 init:
-	pip install -r requirements.txt
 	mkdir src
 	mkdir build
+
+install:
+	pip install -r requirements.txt
 	
 clean:
 	rm -r build

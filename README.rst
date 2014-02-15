@@ -23,6 +23,7 @@ To install Scholar, simply:
 
      $ git clone git@github.com:Ceasar/scholar.git
      $ cd scholar
+     $ make install
      $ make init
 
 Usage

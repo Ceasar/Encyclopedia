@@ -57,7 +57,7 @@ Quickstart
 
 In this section, we'll go over how to create a link between two files.
 
-First, we'll two files: ``src/Python.rst`` and
+First, we'll create two files: ``src/Python.rst`` and
 ``src/Programming_language.rst``.
 
 ``src/Python.rst`` should look like this::
@@ -96,34 +96,61 @@ Finally, run ``make``. ``build`` should contain two files,
 ``Programming_language.html`` and ``Python.html`` which contain working links to
 each other.
 
+At this point you're reading for creating your own documents. You'll want to
+expand your knowledge of restructedtext_ with the quickref_. It takes some
+getting to used to, but in time it should be as natural as writing Markdown.
+
+I also recommended opening up the project in Finder and then dragging `build` to
+your browser's bookmarks bar for easy access to your files (and a very simple
+search).
+
 Philosophy
 ================================================================================
 
 This section documents why scholar is designed the way it is.
 
-scholar uses reST (as opposed to other markup languages, such as HTML or
-Markdown) for a few reasons. First, it is fairly popular in certain communities,
-especially the Python community where it is standard for docs. Second, it is far
-more readable and writable than writing directly in HTML. Third, it is both far
-more powerful than Markdown, due to a number of factors including directives,
-(e.g. ``contents``, which builds a table of contents), multiple levels of
-section headers (Markdown supports only ``=`` and ``-`` and then requires ``#``
-prefixes, which are hard to read-- reST provides also ``^`` and ``~`` and in
-addition, headers surrounded by lines are treated as yet another level of
-section header).
+Why hyperlinks?
+--------------------------------------------------------------------------------
 
-scholar discourages nesting documents because, anecdotally, they become
-unmanageable. A taxonomy of ideas often makes classification difficult because
+Before writing `scholar` I used an extensive system of Markdown documents to
+manage my notes. This system was deeply nested to capture relationships between
+ideas. At some point however, they became unmanageable.
+
+For one, a taxonomy of ideas often makes classification difficult because
 certain ideas sit in the intersection of two others (e.g. psycholinguistics is
 both a part of psychology and linguistics). To some extent, this can be fixed by
-linking files in the filesystem, but doing so is inflexible. Furthermore,
-retrieval becomes difficult if linked files do not exist, since a file could be
-in a number of locations. By forcing everything into the top-level, all files
-are always immediately available. This can create ambiguity, but it is expected
-that to a large degree this will not be the case, given that the encyclopedia is
-personal, and in the case that is, names can disambiguated similar to Wikipedia
-(which appends the domain, e.g. "Ball (mathematics)").
+linking files in the filesystem, but doing so is inflexible.
+
+Further, retrieval becomes difficult, since a file could be in a number of
+locations.
+
+`scholar` solves both of these problems by forcing everything into a flat
+structure. (This risks ambiguity, but it is expected that to a large degree this
+will not be the case, given that the encyclopedia is personal, and in the case
+that is, names can disambiguated similar to Wikipedia (which appends the domain,
+e.g. "Ball (mathematics)").)
+
+Why reST?
+--------------------------------------------------------------------------------
+
+scholar uses reST (as opposed to other markup languages, such as HTML or
+Markdown) for a few reasons.
+
+1. It is already popular in certain communities, especially the Python community
+   where it is standard for docs.
+
+2. It is easier to read and write than HTML.
+
+3. It is far more powerful than Markdown. Some important examples:
+   
+   - Directives, (e.g. ``contents``, which builds a table of contents)
+     
+   - Multiple levels of section headers (Markdown supports only ``=`` and ``-``
+     and then requires ``#`` prefixes, which are hard to read. reST provides
+     also ``^`` and ``~`` and in addition, headers surrounded by lines are
+     treated as yet another level of section header).
 
 .. _personal information management: http://en.wikipedia.org/wiki/Personal_information_management
+.. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _reStructedText: http://docutils.sourceforge.net/rst.html
 .. _rest: reStructedText_

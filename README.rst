@@ -28,7 +28,7 @@ To install Scholar, simply:
 Usage
 ================================================================================
 
-Using scholar involves writing (reST) documents in ``src`` and then building
+Using scholar involves writing (reST_) documents in ``src`` and then building
 them for presentation as HTML in ``build``.
 
 To build HTML files, simply:
@@ -36,6 +36,9 @@ To build HTML files, simply:
 .. code:: bash
 
     make
+
+This will scan ``src`` for any files with the ``.rst`` extension and build them
+into HTML.
 
 To automatically rebuild HTML when a source file changes:
 
@@ -48,6 +51,50 @@ To search documents (by filename or contents), simply:
 .. code:: bash
 
     ./scripts/search <keyword>
+
+Quickstart
+================================================================================
+
+In this section, we'll go over how to create a link between two files.
+
+First, we'll two files: ``src/Python.rst`` and
+``src/Programming_language.rst``.
+
+``src/Python.rst`` should look like this::
+
+    .. include:: index
+
+    ================================================================================
+    Python
+    ================================================================================
+
+    **Python** is a `programming language`_.
+    
+``src/Python.rst`` should look like this::
+
+    .. include:: index
+
+    ================================================================================
+    Programming Language
+    ================================================================================
+
+    A **programming language** is a formal language for communicating
+    instructions to a machine.
+
+    Examples
+    ================================================================================
+
+    - Python_
+
+Finally, create a third file ``src/index``. This file will be a map from
+hyperlink to HTML file. It should look like this::
+
+    .. _programming language: Programming_language.html
+    .. _Python: Python.html
+
+Finally, run ``make``. ``build`` should contain two files,
+``Programming_language.html`` and ``Python.html`` which contain working links to
+each other.
 
 Philosophy
 ================================================================================
@@ -79,3 +126,4 @@ personal, and in the case that is, names can disambiguated similar to Wikipedia
 
 .. _personal information management: http://en.wikipedia.org/wiki/Personal_information_management
 .. _reStructedText: http://docutils.sourceforge.net/rst.html
+.. _rest: reStructedText_

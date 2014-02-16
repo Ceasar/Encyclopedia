@@ -14,6 +14,24 @@ Features
 
 - Document search
 
+Benefits
+================================================================================
+
+- Save time by eliminating redundancy
+
+  Writing structured notes enables you to recall what was important about books
+  or interests without needing to reread the sources of information that led you
+  to them. Since sources tend to be redundant with each other, this potentially
+  saves large amounts of time. Hyperlinks let you eliminate more redundancy by
+  eliminating it entirely from your notes.
+
+- Refine your understanding on everything you know
+
+  Defining and relating terms reveals areas of your knowledge that are defined
+  vaguely. By writing about a topic, you'll force yourself to understand it
+  precisely, enabling you to better explain the topic to others and ask precise
+  questions about what you don't understand.
+
 Install
 ================================================================================
 

@@ -39,10 +39,13 @@ To install Scholar, simply:
 
 .. code:: bash
 
-     $ git clone git@github.com:Ceasar/scholar.git
+     $ git clone https://github.com/Ceasar/scholar.git
      $ cd scholar
      $ make install
      $ make init
+
+You may need to ``sudo make install`` if you intend to install the Python
+requirements system-wide instead of using a virtualenv.
 
 Usage
 ================================================================================
@@ -76,7 +79,7 @@ Quickstart
 
 In this section, we'll go over how to create a link between two files.
 
-First, we'll create two files: ``src/Python.rst`` and
+First, we'll create two reST_ files: ``src/Python.rst`` and
 ``src/Programming_language.rst``.
 
 ``src/Python.rst`` should look like this::

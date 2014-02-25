@@ -81,8 +81,8 @@ First, we'll create two reST_ files: ``src/Python.rst`` and
 
     - Python_
 
-Finally, create a third file ``src/index``. This file will be a map from
-hyperlink to HTML file. It should look like this::
+Finally, create a third file ``src/index``. This file will be a mapping from
+hyperlink anchors to their target HTML files. It should look like this::
 
     .. _programming language: Programming_language.html
     .. _Python: Python.html
@@ -95,9 +95,17 @@ At this point you're reading for creating your own documents. You'll want to
 expand your knowledge of restructedtext_ with the quickref_. It takes some
 getting to used to, but in time it should be as natural as writing Markdown.
 
-I also recommended opening up the project in Finder and then dragging `build` to
-your browser's bookmarks bar for easy access to your files (and a very simple
-search).
+Tips
+================================================================================
+
+- If you open up the project in Finder and then drag ``build`` to your
+  browser's bookmarks bar, you can access your files with relative ease (and get
+  a very crude search).
+
+- Underlines and overlines for section headers should always be 80
+  characters. This looks good, and avoids any pain that might come from trying
+  to match the number of adornment character with the number of character in the
+  title.
 
 Philosophy
 ================================================================================
@@ -142,8 +150,7 @@ Markdown) for a few reasons.
      
    - Multiple levels of section headers (Markdown supports only ``=`` and ``-``
      and then requires ``#`` prefixes, which are hard to read. reST provides
-     also ``^`` and ``~`` and in addition, headers surrounded by lines are
-     treated as yet another level of section header).
+     any non-alphanumeric character. e.g. ``=-`:.'"~^_*+#``)
 
 Usage
 ================================================================================

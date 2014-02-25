@@ -1,3 +1,9 @@
+
+.. _personal information management: http://en.wikipedia.org/wiki/Personal_information_management
+.. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+.. _reStructedText: http://docutils.sourceforge.net/rst.html
+.. _rest: reStructedText_
+
 ================================================================================
 scholar
 ================================================================================
@@ -95,18 +101,6 @@ At this point you're reading for creating your own documents. You'll want to
 expand your knowledge of restructedtext_ with the quickref_. It takes some
 getting to used to, but in time it should be as natural as writing Markdown.
 
-Tips
-================================================================================
-
-- If you open up the project in Finder and then drag ``build`` to your
-  browser's bookmarks bar, you can access your files with relative ease (and get
-  a very crude search).
-
-- Underlines and overlines for section headers should always be 80
-  characters. This looks good, and avoids any pain that might come from trying
-  to match the number of adornment character with the number of character in the
-  title.
-
 Philosophy
 ================================================================================
 
@@ -179,8 +173,14 @@ To search documents (by filename or contents), simply:
 
     ./scripts/search <keyword>
 
+Tips
+================================================================================
 
-.. _personal information management: http://en.wikipedia.org/wiki/Personal_information_management
-.. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
-.. _reStructedText: http://docutils.sourceforge.net/rst.html
-.. _rest: reStructedText_
+- If you open up the project in Finder and then drag ``build`` to your
+  browser's bookmarks bar, you can access your files with relative ease (and get
+  a very crude search).
+
+- Underlines and overlines for section headers should always be 80
+  characters. This looks good, and avoids any pain that might come from trying
+  to match the number of adornment character with the number of character in the
+  title.

@@ -52,7 +52,13 @@ Quickstart
 
 In this section, we'll go over how to create a link between two files.
 
-First, we'll create two reST_ files: ``src/Python.rst`` and
+First, create a file ``src/index``. This file will be a mapping from
+hyperlink anchors to their target HTML files. It should look like this::
+
+    .. _programming language: Programming_language.html
+    .. _Python: Python.html
+
+Next, we'll create two reST_ files: ``src/Python.rst`` and
 ``src/Programming_language.rst``.
 
 ``src/Python.rst`` should look like this::
@@ -80,12 +86,6 @@ First, we'll create two reST_ files: ``src/Python.rst`` and
     ================================================================================
 
     - Python_
-
-Finally, create a third file ``src/index``. This file will be a mapping from
-hyperlink anchors to their target HTML files. It should look like this::
-
-    .. _programming language: Programming_language.html
-    .. _Python: Python.html
 
 Finally, run ``make``. ``build`` should contain two files,
 ``Programming_language.html`` and ``Python.html`` which contain working links to

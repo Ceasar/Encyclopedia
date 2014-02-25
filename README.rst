@@ -7,13 +7,6 @@ management`_; with active usage, it is intended to greatly speed up information
 retrieval. To do so, scholar provides tools for building a personal encyclopedia
 with hyperlink support.
 
-Features
-================================================================================
-
-- reStructedText_ (reST) support
-
-- Document search
-
 Benefits
 ================================================================================
 
@@ -32,6 +25,13 @@ Benefits
   precisely, enabling you to better explain the topic to others and ask precise
   questions about what you don't understand.
 
+Features
+================================================================================
+
+- reStructedText_ (reST) support
+
+- Document search
+
 Install
 ================================================================================
 
@@ -46,33 +46,6 @@ To install Scholar, simply:
 
 You may need to ``sudo make install`` if you intend to install the Python
 requirements system-wide instead of using a virtualenv.
-
-Usage
-================================================================================
-
-Using scholar involves writing (reST_) documents in ``src`` and then building
-them for presentation as HTML in ``build``.
-
-To build HTML files, simply:
-
-.. code:: bash
-
-    make
-
-This will scan ``src`` for any files with the ``.rst`` extension and build them
-into HTML.
-
-To automatically rebuild HTML when a source file changes:
-
-.. code:: bash
-
-    make watch
-
-To search documents (by filename or contents), simply:
-
-.. code:: bash
-
-    ./scripts/search <keyword>
 
 Quickstart
 ================================================================================
@@ -171,6 +144,34 @@ Markdown) for a few reasons.
      and then requires ``#`` prefixes, which are hard to read. reST provides
      also ``^`` and ``~`` and in addition, headers surrounded by lines are
      treated as yet another level of section header).
+
+Usage
+================================================================================
+
+Using scholar involves writing (reST_) documents in ``src`` and then building
+them for presentation as HTML in ``build``.
+
+To build HTML files, simply:
+
+.. code:: bash
+
+    make
+
+This will scan ``src`` for any files with the ``.rst`` extension and build them
+into HTML.
+
+To automatically rebuild HTML when a source file changes:
+
+.. code:: bash
+
+    make watch
+
+To search documents (by filename or contents), simply:
+
+.. code:: bash
+
+    ./scripts/search <keyword>
+
 
 .. _personal information management: http://en.wikipedia.org/wiki/Personal_information_management
 .. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html

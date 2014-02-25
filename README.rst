@@ -65,7 +65,7 @@ First, we'll create two reST_ files: ``src/Python.rst`` and
 
     **Python** is a `programming language`_.
     
-``src/Python.rst`` should look like this::
+``src/Programming_language.rst`` should look like this::
 
     .. include:: index
 

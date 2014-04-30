@@ -3,7 +3,7 @@
 SRC = src
 TARGETS = $(shell find src -print | grep rst$  \
 		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/build/')
-RSTFLAGS = --source-link --time --report=none --field-name-limit=0
+RSTFLAGS = --time --report=none
  
 build/%.html: $(SRC)/%.rst
 	mkdir -p $(shell dirname '$@')

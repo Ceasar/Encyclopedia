@@ -1,0 +1,121 @@
+
+a, a:hover {
+    color: inherit;
+}
+
+body {
+    font-family: "Times New Roman";
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 1em 0 0.5em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.25em;
+}
+
+h1 {
+}
+
+p > a {
+    text-decoration: underline;
+}
+
+table.docinfo {
+    margin: 1em 0em;
+}
+
+td {
+    padding: 0 0.5em;
+}
+
+th {
+    padding: 0 0.5em;
+}
+
+
+
+.container {
+    background-color: white;
+    max-width: 970px;
+    width: 75%;
+}
+
+.contents {
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    font-size: 0.875em;
+    padding: 0.5em;
+}
+
+.footer {
+    float: left;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.topic-title {
+    color: black;
+}
+
+.topic-title {
+    font-weight: bolder;
+}
+
+.subtitle {
+    margin-top: 0;
+}
+
+/*
+.contents {
+    font-size: 0.875em;
+    height: 100%;
+    left: 0;
+    overflow: scroll;
+    padding: 0.5em;
+    position: fixed;
+    top: 10px;
+    width: 160px;
+}
+*/
+
+.title + p {
+    margin-top: 1.4em;
+}
+
+.toc-backref {
+    color: inherit;
+}
+
+/*
+ul {
+    list-style: lower-greek;
+}
+*/
+
+.literal {
+    font-size: 0.875em;
+}
+
+.figure {
+    text-align: center;
+}
+
+
+/*
+li > ul {
+    display: none;
+}
+
+li:hover > ul {
+    display: block;
+}
+*/
+
+blockquote {
+    font-size: 1em;
+}

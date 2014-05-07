@@ -1,6 +1,7 @@
 
 a, a:hover {
     color: inherit;
+    text-decoration: underline;
 }
 
 body {
@@ -18,12 +19,14 @@ h1, h2, h3, h4, h5 {
     padding-bottom: 0.25em;
 }
 
-h1 {
+h1 > a, h2 > a, h3 > a, h4 > a, h5 > a {
+    text-decoration: none;
 }
 
-p > a {
-    text-decoration: underline;
+.contents a {
+    text-decoration: none;
 }
+
 
 table.docinfo {
     margin: 1em 0em;

@@ -1,14 +1,2 @@
-Flask==0.9
-Flask-Login==0.2.7
-Jinja2==2.7.1
-MarkupSafe==0.18
-Werkzeug==0.9.4
 Whoosh==2.5.5
-conmongo==0.0.2
 docutils==0.11
-dropbox==1.6
-gdata==2.0.18
-googlecl==0.9.14
-itsdangerous==0.23
-pymongo==2.5
-wsgiref==0.1.2

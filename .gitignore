@@ -2,3 +2,6 @@
 build/
 env
 src/
+stylesheets/
+
+.sass-cache/

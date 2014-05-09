@@ -1,4 +1,4 @@
-.PHONY: all clean watch install
+.PHONY: all clean watch install stylesheets
 
 SRC = src
 TARGETS = $(shell find src -print | grep rst$  \
@@ -12,14 +12,19 @@ build/%.html: $(SRC)/%.rst
 all: $(TARGETS)
 
 init:
-	mkdir src
-	mkdir build
+	mkdir -p src
+	mkdir -p build
+	make stylesheets
 
 install:
 	pip install -r requirements.txt
+	bundle install
 	
 clean:
 	rm -r build
 
 watch:
 	./scripts/watch
+
+stylesheets:
+	compass compile

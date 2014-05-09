@@ -1,0 +1,116 @@
+// I gather this file is a starting point for the project.
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+// @import "bootstrap-responsive";
+
+a, a:hover {
+    color: inherit;
+    text-decoration: underline;
+}
+
+blockquote {
+    font-size: 1em;
+}
+
+body {
+    font-family: "Times New Roman";
+    font-size: 16px;
+}
+
+cite {
+    text-decoration: underline;
+}
+
+dd {
+    margin-left: 1em;
+}
+
+h1, h2, h3, h4, h5 {
+    border-bottom: 1px solid #eee;
+    margin: 1em 0 0.5em;
+    padding-bottom: 0.25em;
+
+    > a {
+         text-decoration: none;
+    }
+}
+
+
+table.docinfo {
+    margin: 1em 0em;
+}
+
+td, th {
+    padding: 0 0.5em;
+}
+
+.caption {
+    font-size: 0.875em;
+    font-style: italic;
+}
+
+.contents {
+     @extend .well;
+
+     font-size: 0.875em;
+
+     .topic-title {
+          font-weight: bolder;
+          margin-bottom: 0;
+     }
+
+     > .auto-toc {
+          margin-bottom: 0;
+     }
+
+     ul {
+          padding-left: 1.5em;
+     }
+
+     a {
+          text-decoration: none;
+     }
+
+     a:hover {
+          text-decoration: underline;
+     }
+}
+
+.document {
+    @extend .container;
+    max-width: 970px;
+    width: 75%;
+}
+
+.figure {
+     text-align: center;
+}
+
+.footer {
+     @extend small;
+     bottom: 0;
+     opacity: 0.5;
+     position: fixed;
+     right: 0;
+}
+
+.literal {
+    font-size: 0.875em;
+}
+
+.subtitle {
+     margin-top: 0;
+}
+
+.title {
+    margin-bottom: 0;
+
+    + p {
+         margin-top: 1.4em;
+    }
+}
+
+.toc-backref {
+    color: inherit;
+}

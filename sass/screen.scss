@@ -36,6 +36,10 @@ h1, h2, h3, h4, h5 {
     }
 }
 
+table {
+     margin-bottom: 10px;
+}
+
 
 table.docinfo {
     margin: 1em 0em;
@@ -93,6 +97,10 @@ td, th {
      opacity: 0.5;
      position: fixed;
      right: 0;
+}
+
+.label {
+     color: inherit;
 }
 
 .literal {

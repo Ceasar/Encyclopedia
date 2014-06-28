@@ -5,10 +5,10 @@
 .. _rest: reStructedText_
 
 ================================================================================
-scholar
+Encyclopedia
 ================================================================================
 
-**scholar** is a set of tools designed for lifetime `personal information
+**Encyclopedia** is a set of tools designed for lifetime `personal information
 management`_; with active usage, it is intended to greatly speed up information
 retrieval. To do so, scholar provides tools for building a personal encyclopedia
 with hyperlink support.

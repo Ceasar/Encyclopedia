@@ -1,30 +1,44 @@
-.PHONY: all clean watch install stylesheets
+.PHONY: clean watch
 
+ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
+
+ENV=.env
+# Directory containing input files
 SRC = src
-TARGETS = $(shell find src -print | grep rst$  \
-		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/build/')
+# Directory containing output files
+BUILD = build
+# Options for compilation. By default, compiles with time stamps.
 RSTFLAGS = --time --report=none
- 
-build/%.html: $(SRC)/%.rst
-	mkdir -p $(shell dirname '$@')
-	rst2html.py $(RSTFLAGS) $< '$@'
- 
-all: $(TARGETS)
+# Directory containing CSS files
+STYLESHEETS = stylesheets
+# Names of files to build
+TARGETS = $(shell find $(SRC) -print | grep rst$  \
+		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/build/')
 
-init:
-	mkdir -p src
+all: $(STYLESHEETS) $(TARGETS)
+
+$(BUILD):
 	mkdir -p build
-	make stylesheets
 
-install:
-	pip install -r requirements.txt
-	bundle install
+# Make the target file ($@) from the build file ($<)
+$(BUILD)/%.html: $(SRC)/%.rst $(ENV) $(BUILD)
+	. $(ENV)/bin/activate; rst2html.py $(RSTFLAGS) $< '$@' &
 	
 clean:
-	rm -r build
+	rm -r $(BUILD)
+	rm -r $(STYLESHEETS)
 
-watch:
-	./scripts/watch
+$(ENV): requirements.txt
+	virtualenv $(ENV)
+ifeq ($(OS_NAME),Darwin)
+	export CFLAGS=-Qunused-arguments
+	export CPPFLAGS=-Qunused-arguments
+endif
+	. $(ENV)/bin/activate; pip install -r requirements.txt
 
-stylesheets:
+watch: $(ENV)
+	. $(ENV)/bin/activate; ./scripts/watch
+
+$(STYLESHEETS): sass/*
+	bundle install
 	compass compile

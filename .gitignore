@@ -1,7 +1,7 @@
 .index
+.env
+.sass-cache/
+
 build/
-env
 src/
 stylesheets/
-
-.sass-cache/

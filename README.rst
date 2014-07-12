@@ -38,20 +38,14 @@ Features
 
 - Document search
 
-Install
+Set up
 ================================================================================
 
-To install Scholar, simply:
+To set up Encyclopedia, simply:
 
 .. code:: bash
 
-     $ git clone https://github.com/Ceasar/scholar.git
-     $ cd scholar
-     $ make install
-     $ make init
-
-You may need to ``sudo make install`` if you intend to install the Python
-requirements system-wide instead of using a virtualenv.
+     $ make
 
 Quickstart
 ================================================================================

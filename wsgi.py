@@ -23,6 +23,8 @@ def index():
 
 @app.route("/<name>")
 def article(name):
+    if name.endswith(".html"):
+        return redirect(url_for("article", name=name.replace(".html", "")))
     index = get_index()
     anchor = name.replace("_", " ").title()
     target = index[anchor]
@@ -43,4 +45,4 @@ def search():
 
 
 if __name__ == "__main__":
-    app.run(port=5001)
+    app.run(debug=True, port=5001)

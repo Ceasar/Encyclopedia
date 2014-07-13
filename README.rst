@@ -10,26 +10,24 @@ Encyclopedia
 
 **Encyclopedia** is a set of tools designed for lifetime `personal information
 management`_; with active usage, it is intended to greatly speed up information
-retrieval. To do so, scholar provides tools for building a personal encyclopedia
-with hyperlink support.
+retrieval. To do so, Encyclopedia provides tools for building a personal
+encyclopedia with hyperlink support.
 
 Benefits
 ================================================================================
 
 - Save time by eliminating redundancy
 
-  Writing structured notes enables you to recall what was important about books
-  or interests without needing to reread the sources of information that led you
-  to them. Since sources tend to be redundant with each other, this potentially
-  saves large amounts of time. Hyperlinks let you eliminate more redundancy by
-  eliminating it entirely from your notes.
+  Documents on the same subject tend to be mostly redundant. By writing
+  hyper-linked notes, you can eliminate this redundancy so that future queries
+  get straight to the point.
 
 - Refine your understanding on everything you know
 
-  Defining and relating terms reveals areas of your knowledge that are defined
-  vaguely. By writing about a topic, you'll force yourself to understand it
-  precisely, enabling you to better explain the topic to others and ask precise
-  questions about what you don't understand.
+  Reveals areas of your knowledge that are defined vaguely by writing about
+  them. Encoding ideas forces you to understand them precisely, enabling you to
+  better explain the topic to others and ask precise questions about what you
+  don't understand.
 
 Features
 ================================================================================
@@ -100,14 +98,14 @@ getting to used to, but in time it should be as natural as writing Markdown.
 Philosophy
 ================================================================================
 
-This section documents why scholar is designed the way it is.
+This section documents why Encyclopedia is designed the way it is.
 
 Why hyperlinks?
 --------------------------------------------------------------------------------
 
-Before writing `scholar` I used an extensive system of Markdown documents to
-manage my notes. This system was deeply nested to capture relationships between
-ideas. At some point however, they became unmanageable.
+Before writing `Encyclopedia` I used an extensive system of Markdown documents
+to manage my notes. This system was deeply nested to capture relationships
+between ideas. At some point however, they became unmanageable.
 
 For one, a taxonomy of ideas often makes classification difficult because
 certain ideas sit in the intersection of two others (e.g. psycholinguistics is
@@ -117,7 +115,7 @@ linking files in the filesystem, but doing so is inflexible.
 Further, retrieval becomes difficult, since a file could be in a number of
 locations.
 
-`scholar` solves both of these problems by forcing everything into a flat
+`Encyclopedia` solves both of these problems by forcing everything into a flat
 structure. (This risks ambiguity, but it is expected that to a large degree this
 will not be the case, given that the encyclopedia is personal, and in the case
 that is, names can disambiguated similar to Wikipedia (which appends the domain,
@@ -126,7 +124,7 @@ e.g. "Ball (mathematics)").)
 Why reST?
 --------------------------------------------------------------------------------
 
-scholar uses reST (as opposed to other markup languages, such as HTML or
+Encyclopedia uses reST (as opposed to other markup languages, such as HTML or
 Markdown) for a few reasons.
 
 1. It is already popular in certain communities, especially the Python community
@@ -145,8 +143,8 @@ Markdown) for a few reasons.
 Usage
 ================================================================================
 
-Using scholar involves writing (reST_) documents in ``src`` and then building
-them for presentation as HTML in ``build``.
+Using Encyclopedia involves writing (reST_) documents in ``src`` and then
+building them for presentation as HTML in ``build``.
 
 To build HTML files, simply:
 

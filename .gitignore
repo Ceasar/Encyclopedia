@@ -4,6 +4,6 @@
 .sass-cache/
 
 node_modules/
+static/stylesheets/
 src/
-stylesheets/
 templates/

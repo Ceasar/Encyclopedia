@@ -1,4 +1,4 @@
-.PHONY: clean watch
+.PHONY: clean watch server
 
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
@@ -16,7 +16,6 @@ TARGETS = $(shell find $(SRC) -print | grep rst$  \
 		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/$(BUILD)/')
 
 all: $(STYLESHEETS) $(TARGETS)
-	. $(ENV)/bin/activate; python wsgi.py
 
 $(STYLESHEETS): sass/*
 	bundle install
@@ -37,6 +36,10 @@ endif
 
 watch: $(ENV)
 	. $(ENV)/bin/activate; ./scripts/watch
+
+server: 
+	make all
+	. $(ENV)/bin/activate; python wsgi.py
 	
 clean:
 	rm -r $(BUILD)

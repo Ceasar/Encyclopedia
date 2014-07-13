@@ -41,7 +41,7 @@ To set up Encyclopedia, simply:
 
 .. code:: bash
 
-     $ make
+     $ make server
 
 Then navigate to http://localhost:5001 to access the search page.
 

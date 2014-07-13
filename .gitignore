@@ -3,6 +3,7 @@
 .env
 .sass-cache/
 
-templates/
+node_modules/
 src/
 stylesheets/
+templates/

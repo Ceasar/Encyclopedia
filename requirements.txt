@@ -1,5 +1,3 @@
 Flask==0.10.1
 Whoosh==2.5.5
 docutils==0.11
-easywatch==0.0.3
-sh==1.09

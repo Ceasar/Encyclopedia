@@ -1,5 +1,4 @@
 
-.. _personal information management: http://en.wikipedia.org/wiki/Personal_information_management
 .. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _reStructedText: http://docutils.sourceforge.net/rst.html
 .. _rest: reStructedText_
@@ -8,10 +7,8 @@
 Encyclopedia
 ================================================================================
 
-**Encyclopedia** is a set of tools designed for lifetime `personal information
-management`_; with active usage, it is intended to greatly speed up information
-retrieval. To do so, Encyclopedia provides tools for building a personal
-encyclopedia with hyperlink support.
+**Encyclopedia** is a tool that helps you write and maintain a private
+hypermedia encyclopedia.
 
 .. image:: http://i.imgur.com/B3d3XYQ.png
 
@@ -26,10 +23,9 @@ Benefits
 
 - Refine your understanding on everything you know
 
-  Reveals areas of your knowledge that are defined vaguely by writing about
-  them. Encoding ideas forces you to understand them precisely, enabling you to
-  better explain the topic to others and ask precise questions about what you
-  don't understand.
+  Encoding ideas forces you to understand them precisely, enabling you to better
+  explain the topic to others and ask precise questions about what you don't
+  understand.
 
 Features
 ================================================================================

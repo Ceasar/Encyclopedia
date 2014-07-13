@@ -1,7 +1,8 @@
+.DS_STORE
 .index
 .env
 .sass-cache/
 
-build/
+templates/
 src/
 stylesheets/

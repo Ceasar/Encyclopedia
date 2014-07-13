@@ -47,6 +47,8 @@ To set up Encyclopedia, simply:
 
      $ make
 
+Then navigate to http://localhost:5001 to access the search page.
+
 Quickstart
 ================================================================================
 

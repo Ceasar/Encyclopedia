@@ -6,27 +6,26 @@ ENV=.env
 # Directory containing input files
 SRC = src
 # Directory containing output files
-BUILD = build
+BUILD = templates
 # Options for compilation. By default, compiles with time stamps.
 RSTFLAGS = --time --report=none
 # Directory containing CSS files
-STYLESHEETS = stylesheets
+STYLESHEETS = static/stylesheets
 # Names of files to build
 TARGETS = $(shell find $(SRC) -print | grep rst$  \
-		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/build/')
+		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/$(BUILD)/')
 
 all: $(STYLESHEETS) $(TARGETS)
+	. $(ENV)/bin/activate; python wsgi.py
 
-$(BUILD):
-	mkdir -p build
+$(STYLESHEETS): sass/*
+	bundle install
+	compass compile --css-dir=$(STYLESHEETS)
 
 # Make the target file ($@) from the build file ($<)
-$(BUILD)/%.html: $(SRC)/%.rst $(ENV) $(BUILD)
+$(BUILD)/%.html: $(SRC)/%.rst $(ENV) docutils.conf
+	mkdir -p $(BUILD)
 	. $(ENV)/bin/activate; rst2html.py $(RSTFLAGS) $< '$@' &
-	
-clean:
-	rm -r $(BUILD)
-	rm -r $(STYLESHEETS)
 
 $(ENV): requirements.txt
 	virtualenv $(ENV)
@@ -38,7 +37,7 @@ endif
 
 watch: $(ENV)
 	. $(ENV)/bin/activate; ./scripts/watch
-
-$(STYLESHEETS): sass/*
-	bundle install
-	compass compile
+	
+clean:
+	rm -r $(BUILD)
+	rm -r $(STYLESHEETS)

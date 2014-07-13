@@ -4,8 +4,12 @@
 // Include responsive Bootstrap styles
 // @import "bootstrap-responsive";
 
+// Google
+$color: #222;
+$color-link: #333;
+
 a, a:hover {
-    color: inherit;
+    color: $color-link;
     text-decoration: underline;
 }
 
@@ -14,8 +18,9 @@ blockquote {
 }
 
 body {
-    font-family: "Times New Roman";
-    font-size: 16px;
+     color: $color;
+     font-family: "Times New Roman";
+     font-size: 16px;
 }
 
 cite {
@@ -132,4 +137,84 @@ td, th {
 
 .toc-backref {
     color: inherit;
+}
+
+#searchform {
+  position: absolute;
+  top: 310px;
+  width: 100%;
+
+  h1 {
+       border: none;
+       text-align: center;
+  }
+}
+
+form {
+    display: block;
+    margin: 0 auto;
+    width: 833px;
+    padding-bottom: 14px;
+}
+
+.controls {
+     padding: 0 20%;
+}
+
+.twitter-typeahead {
+     padding-bottom: 2px;
+     padding-top: 3px;
+     width: 100%;
+}
+
+button {
+     background-color: #f5f5f5;
+     border: 1px solid rgba(0, 0, 0, 0.1);
+     border-radius: 2px;
+     color: #666;
+     font-family: arial; //?
+     font-size: 11px;
+     font-weight: bold;
+     height: 29px;
+     margin: 11px 6px;
+     padding: 0 8px;
+     text-align: center;
+
+     &:hover {
+          background-color: #f8f8f8;
+          border: 1px solid #c6c6c6;
+          color: #333;
+          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+     }
+}
+
+$tt-font-size: 17px;
+
+.tt-hint {
+     color: gray;
+     font-size: $tt-font-size;
+}
+
+.tt-dropdown-menu {
+     width: 100%;
+     background-color: #fff;
+     border: 1px solid rgba(0, 0, 0, 0.1);
+     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+     padding: 6px 12px;
+}
+
+.tt-input {
+     border: 1px solid #d9d9d9;
+     border-radius: 0;
+     font-size: $tt-font-size;
+     height: 27px;
+
+     &:focus {
+          border-color: $color-link;
+          box-shadow: none;
+     }
+}
+
+.tt-suggestion {
+     font-size: $tt-font-size;
 }

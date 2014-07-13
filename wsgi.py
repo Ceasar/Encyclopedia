@@ -5,10 +5,12 @@ from flask import Flask, redirect, render_template, request, url_for
 
 app = Flask(__name__)
 
+INDEX = "config/index"
+
 
 def get_index():
     index = {}
-    with open("src/index") as f:
+    with open(INDEX) as f:
         for line in f:
             anchor, target = line.split(":")
             index[anchor[4:].title()] = target.strip()

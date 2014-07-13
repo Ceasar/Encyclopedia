@@ -2,15 +2,17 @@
 
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
-ENV=.env
-# Directory containing input files
-SRC = src
 # Directory containing output files
 BUILD = templates
+ENV=.env
+# File containing a list of hyperlinks
+INDEX = config/index
+# Directory containing input files
+SRC = src
 # Options for compilation. By default, compiles with time stamps.
 RSTFLAGS = --time --report=none
 # Directory containing CSS files
-STYLESHEETS = static/stylesheets
+STYLESHEETS = static/stylesheets/
 # Names of files to build
 TARGETS = $(shell find $(SRC) -print | grep rst$  \
 		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/$(BUILD)/')
@@ -24,7 +26,7 @@ $(STYLESHEETS): sass/*
 # Make the target file ($@) from the build file ($<)
 $(BUILD)/%.html: $(SRC)/%.rst $(ENV) docutils.conf
 	mkdir -p $(BUILD)
-	. $(ENV)/bin/activate; rst2html.py $(RSTFLAGS) $< '$@' &
+	. $(ENV)/bin/activate; cat $(INDEX) $< | rst2html.py $(RSTFLAGS) > '$@' &
 
 $(ENV): requirements.txt
 	virtualenv $(ENV)

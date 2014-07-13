@@ -3,7 +3,8 @@
 .env
 .sass-cache/
 
+config/index
 node_modules/
-static/stylesheets/
 src/
+static/stylesheets/
 templates/

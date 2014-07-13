@@ -13,6 +13,8 @@ management`_; with active usage, it is intended to greatly speed up information
 retrieval. To do so, Encyclopedia provides tools for building a personal
 encyclopedia with hyperlink support.
 
+.. image:: http://i.imgur.com/89578qj.png
+
 Benefits
 ================================================================================
 

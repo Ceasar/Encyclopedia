@@ -11,7 +11,7 @@ Encyclopedia
 **Encyclopedia** is a tool that helps you write and maintain a private
 hypermedia encyclopedia.
 
-.. image:: http://i.imgur.com/B3d3XYQ.png
+.. image:: http://i.imgur.com/FXUUSNo.jpg
 
 Benefits
 ================================================================================
@@ -45,6 +45,8 @@ To set up Encyclopedia, simply:
      $ make server
 
 Then navigate to http://localhost:5001 to access the search page.
+
+.. image:: http://i.imgur.com/B3d3XYQ.png
 
 Quickstart
 ================================================================================

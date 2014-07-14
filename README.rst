@@ -1,4 +1,5 @@
 
+.. _figure: http://docutils.sourceforge.net/docs/ref/rst/directives.html#figure
 .. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _reStructedText: http://docutils.sourceforge.net/rst.html
 .. _rest: reStructedText_
@@ -168,11 +169,10 @@ To search documents (by filename or contents), simply:
 Tips
 ================================================================================
 
-- If you open up the project in Finder and then drag ``build`` to your
-  browser's bookmarks bar, you can access your files with relative ease (and get
-  a very crude search).
+- Use the figure_ directive when including images; avoid using ``image`` or
+  setting any attributes to ensure a consist style that can be changed with CSS.
 
-- Underlines and overlines for section headers should always be 80
+- Underlines and overlines for section headers should always be **80**
   characters. This looks good, and avoids any pain that might come from trying
   to match the number of adornment character with the number of character in the
   title.

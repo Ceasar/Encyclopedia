@@ -6,5 +6,6 @@
 config/index
 node_modules/
 src/
+static/images/
 static/stylesheets/
 templates/

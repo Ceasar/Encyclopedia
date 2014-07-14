@@ -7,6 +7,7 @@
 // Google
 $color: #222;
 $color-link: #333;
+$border: 1px solid #aaa;
 
 a, a:hover {
     color: $color-link;
@@ -46,6 +47,10 @@ iframe {
      height: 500px;
 }
 
+img {
+     max-width: 100%;
+}
+
 table {
      margin-bottom: 10px;
 }
@@ -72,11 +77,14 @@ td, th {
 .contents {
      @extend .well;
 
-     font-size: 0.875em;
+     display: table;
+     font-size: 95%;
+     padding: 0.5em;
 
      .topic-title {
           font-weight: bolder;
           margin-bottom: 0;
+          text-align: center;
      }
 
      > .auto-toc {
@@ -103,8 +111,13 @@ td, th {
 }
 
 .figure {
+     @extend .well;
+     clear: both;
+     float: right;
+     margin: 0.5em 0 0.5em 1em;
+     padding: 0.2em;
      text-align: center;
-     margin: 0 0 10px;
+     width: 22em;
 }
 
 .footer {
@@ -123,20 +136,26 @@ td, th {
     font-size: 0.875em;
 }
 
+.section {
+     clear: both;
+}
+
 .subtitle {
      margin-top: 0;
 }
 
 .title {
-    margin-bottom: 0;
-
-    + p {
-         margin-top: 1.4em;
-    }
+    margin-bottom: 0.5em;
 }
 
 .toc-backref {
     color: inherit;
+}
+
+.well {
+     background-color: #f9f9f9;
+     border: $border;
+     border-radius: 0;
 }
 
 #searchform {

@@ -11,7 +11,7 @@ Encyclopedia
 **Encyclopedia** is a tool that helps you write and maintain a private
 hypermedia encyclopedia.
 
-.. image:: http://i.imgur.com/FXUUSNo.jpg
+.. figure:: http://i.imgur.com/J8b6bX3.png
 
 Benefits
 ================================================================================
@@ -34,6 +34,8 @@ Features
 - reStructedText_ (reST) support
 
 - Document search
+
+.. figure:: http://i.imgur.com/FXUUSNo.jpg
 
 Set up
 ================================================================================
@@ -100,6 +102,8 @@ Philosophy
 ================================================================================
 
 This section documents why Encyclopedia is designed the way it is.
+
+.. figure:: http://i.imgur.com/toZhI3Q.jpg
 
 Why hyperlinks?
 --------------------------------------------------------------------------------

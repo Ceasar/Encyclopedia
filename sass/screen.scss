@@ -4,10 +4,18 @@
 // Include responsive Bootstrap styles
 // @import "bootstrap-responsive";
 
-// Google
+// Google black
 $color: #222;
 $color-link: #333;
+// Wikipedia border
 $border: 1px solid #aaa;
+$border-bottom-header: 1px solid #eee;
+$font-family: "Times New Roman";
+$font-size: 16px;
+$margin-bottom-flow-content: 0.625em;
+
+
+$tt-font-size: 17px;
 
 a, a:hover {
     color: $color-link;
@@ -20,8 +28,29 @@ blockquote {
 
 body {
      color: $color;
-     font-family: "Times New Roman";
-     font-size: 16px;
+     font-family: $font-family;
+     font-size: $font-size;
+}
+
+button {
+     background-color: #f5f5f5;
+     border: 1px solid rgba(0, 0, 0, 0.1);
+     border-radius: 2px;
+     color: #666;
+     font-family: arial; //?
+     font-size: 11px;
+     font-weight: bold;
+     height: 29px;
+     margin: 11px 6px;
+     padding: 0 8px;
+     text-align: center;
+
+     &:hover {
+          background-color: #f8f8f8;
+          border: 1px solid #c6c6c6;
+          color: #333;
+          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+     }
 }
 
 cite {
@@ -32,9 +61,17 @@ dd {
     margin-left: 1em;
 }
 
+form {
+    display: block;
+    margin: 0 auto;
+    width: 833px;
+    padding-bottom: 14px;
+}
+
 h1, h2, h3, h4, h5 {
-    border-bottom: 1px solid #eee;
-    margin: 1em 0 0.5em;
+    border-bottom: $border-bottom-header;
+    margin-bottom: $margin-bottom-flow-content;
+    margin-top: 1em;
     padding-bottom: 0.25em;
 
     > a {
@@ -51,8 +88,12 @@ img {
      max-width: 100%;
 }
 
+p {
+     margin-bottom: $margin-bottom-flow-content;
+}
+
 table {
-     margin-bottom: 10px;
+     margin-bottom: $margin-bottom-flow-content;
 }
 
 
@@ -75,11 +116,10 @@ td, th {
 }
 
 .contents {
-     @extend .well;
+     @extend .panel;
 
      display: table;
-     font-size: 95%;
-     padding: 0.5em;
+     min-width: 22em;
 
      .topic-title {
           font-weight: bolder;
@@ -104,6 +144,10 @@ td, th {
      }
 }
 
+.controls {
+     padding: 0 20%;
+}
+
 .document {
      @extend .container;
      max-width: 970px;
@@ -111,11 +155,10 @@ td, th {
 }
 
 .figure {
-     @extend .well;
+     @extend .panel;
      clear: both;
      float: right;
-     margin: 0.5em 0 0.5em 1em;
-     padding: 0.2em;
+     margin-left: 1em;
      text-align: center;
      width: 22em;
 }
@@ -132,8 +175,18 @@ td, th {
      color: inherit;
 }
 
+.legend {
+     padding: 3px;
+     text-align: left;
+}
+
 .literal {
     font-size: 0.875em;
+}
+
+.literal-block {
+     @extend .panel;
+     padding: 0.2em;
 }
 
 .section {
@@ -151,63 +204,6 @@ td, th {
 .toc-backref {
     color: inherit;
 }
-
-.well {
-     background-color: #f9f9f9;
-     border: $border;
-     border-radius: 0;
-}
-
-#searchform {
-  position: absolute;
-  top: 210px;
-  width: 100%;
-
-  h1 {
-       border: none;
-       text-align: center;
-  }
-}
-
-form {
-    display: block;
-    margin: 0 auto;
-    width: 833px;
-    padding-bottom: 14px;
-}
-
-.controls {
-     padding: 0 20%;
-}
-
-.twitter-typeahead {
-     padding-bottom: 2px;
-     padding-top: 3px;
-     width: 100%;
-}
-
-button {
-     background-color: #f5f5f5;
-     border: 1px solid rgba(0, 0, 0, 0.1);
-     border-radius: 2px;
-     color: #666;
-     font-family: arial; //?
-     font-size: 11px;
-     font-weight: bold;
-     height: 29px;
-     margin: 11px 6px;
-     padding: 0 8px;
-     text-align: center;
-
-     &:hover {
-          background-color: #f8f8f8;
-          border: 1px solid #c6c6c6;
-          color: #333;
-          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-     }
-}
-
-$tt-font-size: 17px;
 
 .tt-hint {
      color: gray;
@@ -236,4 +232,29 @@ $tt-font-size: 17px;
 
 .tt-suggestion {
      font-size: $tt-font-size;
+}
+
+.twitter-typeahead {
+     padding-bottom: 2px;
+     padding-top: 3px;
+     width: 100%;
+}
+
+.panel {
+     background-color: #f9f9f9;
+     border: $border;
+     border-radius: 0;
+     margin-bottom: $margin-bottom-flow-content;
+     padding: 0.5em;
+}
+
+#searchform {
+  position: absolute;
+  top: 210px;
+  width: 100%;
+
+  h1 {
+       border: none;
+       text-align: center;
+  }
 }

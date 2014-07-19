@@ -150,29 +150,30 @@ Markdown) for a few reasons.
 1. It is already popular in certain communities, especially the Python community
    where it is standard for docs.
 
-2. It is easier to read and write than HTML.
+2. It is both easier to read and write than HTML (too verbose) and Markdown
+   (the link syntax is verbose, e.g.: ``This is [an example](http://example.com/
+   "Title") inline link.``).
 
-3. It is far more powerful than Markdown. Some important examples:
+3. It is more powerful than Markdown. Some important examples:
    
-   - Directives, (e.g. ``contents``, which builds a table of contents)
+   - Directives, (e.g. ``contents`` injects a table of contents)
      
    - Multiple levels of section headers (Markdown supports only ``=`` and ``-``
-     and then requires ``#`` prefixes, which are hard to read. reST provides
-     any non-alphanumeric character. e.g. ``=-`:.'"~^_*+#``)
+     and then requires ``#`` prefixes, which are hard to read. reST provides any
+     non-alphanumeric character. e.g. ``=-`:.'"~^_*+#``)
 
 Tips
 ================================================================================
 
 - Use ``make watch`` to automatically rebuild HTML when a source file changes.
 
-- You'll probably want to expand your knowledge of restructedtext_ with the
-  quickref_. It takes some getting to used to, but in time it should be more
-  natural than writing Markdown.
+- Expand your knowledge of restructedtext_ with the quickref_. It will take some
+  getting used to, but in time it should be more natural than writing Markdown.
 
-- Use the figure_ directive when including images; avoid using ``image`` or
+- Use the figure_ directive for rendering images; avoid using ``image`` or
   setting any attributes to ensure a consist style that can be changed with CSS.
 
 - Underlines and overlines for section headers should always be **80**
-  characters. This looks good, and avoids any pain that might come from trying
-  to match the number of adornment character with the number of character in the
+  characters. This looks good in the text editor and is simpler than trying to
+  match the number of adornment characters with the number of characters in the
   title.

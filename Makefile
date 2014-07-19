@@ -11,6 +11,7 @@ INDEX = config/index
 SRC = src
 # Options for compilation. By default, compiles with time stamps.
 RSTFLAGS = --time --report=none
+SASS_DIR = sass/
 # Directory containing CSS files
 STYLESHEETS = static/stylesheets/
 # Names of files to build
@@ -19,9 +20,9 @@ TARGETS = $(shell find $(SRC) -print | grep rst$  \
 
 all: $(STYLESHEETS) $(TARGETS)
 
-$(STYLESHEETS): sass/*
+$(STYLESHEETS): $(SASS_DIR)*
 	bundle install
-	compass compile --css-dir=$(STYLESHEETS)
+	compass compile --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
 
 # Make the target file ($@) from the build file ($<)
 $(BUILD)/%.html: $(SRC)/%.rst $(ENV) docutils.conf

@@ -160,35 +160,10 @@ Markdown) for a few reasons.
      and then requires ``#`` prefixes, which are hard to read. reST provides
      any non-alphanumeric character. e.g. ``=-`:.'"~^_*+#``)
 
-Usage
-================================================================================
-
-Using Encyclopedia involves writing (reST_) documents in ``src`` and then
-building them for presentation as HTML in ``templates``.
-
-To build HTML files, simply:
-
-.. code:: bash
-
-    make
-
-This will scan ``src`` for any files with the ``.rst`` extension and build them
-into HTML.
-
-To automatically rebuild HTML when a source file changes:
-
-.. code:: bash
-
-    make watch
-
-To search documents (by filename or contents), simply:
-
-.. code:: bash
-
-    ./scripts/search <keyword>
-
 Tips
 ================================================================================
+
+- Use ``make watch`` to automatically rebuild HTML when a source file changes.
 
 - You'll probably want to expand your knowledge of restructedtext_ with the
   quickref_. It takes some getting to used to, but in time it should be more

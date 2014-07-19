@@ -37,31 +37,20 @@ Features
 
 .. figure:: http://i.imgur.com/FXUUSNo.jpg
 
-Set up
-================================================================================
-
-To set up Encyclopedia, simply:
-
-.. code:: bash
-
-     $ make server
-
-Then navigate to http://localhost:5001 to access the search page.
-
-.. image:: http://i.imgur.com/B3d3XYQ.png
-
 Quickstart
 ================================================================================
 
-In this section, we'll go over how to create a link between two files.
+In this section, we'll go over how to get started with all the major features of
+Encyclopedia.
 
-First, create a file ``config/index.rst``. This file will be a mapping from
-hyperlink anchors to their target HTML files. It should look like this::
+First, we need to create the index: a mapping from hyperlink anchors to target
+HTML files. Simply ``touch config/index.rst`` and then edit it to look like
+this::
 
     .. _programming language: Programming_language.html
     .. _Python: Python.html
 
-Next, we'll create two reST_ files: ``src/Python.rst`` and
+Next, we'll create two reST_ source files: ``src/Python.rst`` and
 ``src/Programming_language.rst``.
 
 ``src/Python.rst`` should look like this::
@@ -105,13 +94,24 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
 
     The first programming language was FORTRAN (1957), followed by Lisp (1958).
 
-Finally, run ``make``. ``templates/`` should contain two files,
-``Programming_language.html`` and ``Python.html``, which contain working links
-to each other.
+Next, run:
 
-At this point you're reading for creating your own documents. You'll want to
-expand your knowledge of restructedtext_ with the quickref_. It takes some
-getting to used to, but in time it should be as natural as writing Markdown.
+.. code:: bash
+
+     $ make server
+
+This will both compile your source files into HTML and start a small server to
+view them. If you need to stop the server, hit control-C.
+
+Finally, head over to http://localhost:5001 to access the search page.
+
+.. image:: http://i.imgur.com/B3d3XYQ.png
+
+Just type in "Python" or "Programming Language" to find your pages.
+
+.. image:: http://i.imgur.com/Kcd1jhK.png
+
+At this point, you're ready to start adding your articles.
 
 Philosophy
 ================================================================================
@@ -189,6 +189,10 @@ To search documents (by filename or contents), simply:
 
 Tips
 ================================================================================
+
+- You'll probably want to expand your knowledge of restructedtext_ with the
+  quickref_. It takes some getting to used to, but in time it should be more
+  natural than writing Markdown.
 
 - Use the figure_ directive when including images; avoid using ``image`` or
   setting any attributes to ensure a consist style that can be changed with CSS.

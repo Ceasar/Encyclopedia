@@ -66,27 +66,39 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
 
 ``src/Python.rst`` should look like this::
 
-    ================================================================================
+    ********************************************************************************
     Python
-    ================================================================================
+    ********************************************************************************
 
     **Python** is a `programming language`_.
+
+    .. contents::
+
+    History
+    ********************************************************************************
+
+    Python was created by Guido van Rossum.
+
     
 ``src/Programming_language.rst`` should look like this::
 
-    ================================================================================
+    ********************************************************************************
     Programming Language
-    ================================================================================
+    ********************************************************************************
 
     A **programming language** is a formal language for communicating
     instructions to a machine.
 
-    Examples
-    ================================================================================
+    For example, Python_.
 
-    - Python_
+    .. contents::
 
-Finally, run ``make``. ``build`` should contain two files,
+    History
+    ********************************************************************************
+
+    The first programming language was FORTRAN (1957), followed by Lisp (1958).
+
+Finally, run ``make``. ``templates/`` should contain two files,
 ``Programming_language.html`` and ``Python.html`` which contain working links to
 each other.
 
@@ -145,7 +157,7 @@ Usage
 ================================================================================
 
 Using Encyclopedia involves writing (reST_) documents in ``src`` and then
-building them for presentation as HTML in ``build``.
+building them for presentation as HTML in ``templates``.
 
 To build HTML files, simply:
 

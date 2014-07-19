@@ -70,14 +70,21 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
     Python
     ********************************************************************************
 
-    **Python** is a `programming language`_.
+    .. figure:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+
+    :Date: 1991
+    :Developer: Guido van Rossum
+    :Website: http://www.python.org/
+
+    **Python** is a `programming language`_ that is interpreted and dynamically
+    typed.
 
     .. contents::
 
     History
     ********************************************************************************
 
-    Python was created by Guido van Rossum.
+    Python was created by Guido van Rossum in 1991.
 
     
 ``src/Programming_language.rst`` should look like this::
@@ -86,8 +93,8 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
     Programming Language
     ********************************************************************************
 
-    A **programming language** is a formal language for communicating
-    instructions to a machine.
+    A **programming language** is a formal language for communicating instructions
+    to a machine.
 
     For example, Python_.
 
@@ -99,8 +106,8 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
     The first programming language was FORTRAN (1957), followed by Lisp (1958).
 
 Finally, run ``make``. ``templates/`` should contain two files,
-``Programming_language.html`` and ``Python.html`` which contain working links to
-each other.
+``Programming_language.html`` and ``Python.html``, which contain working links
+to each other.
 
 At this point you're reading for creating your own documents. You'll want to
 expand your knowledge of restructedtext_ with the quickref_. It takes some

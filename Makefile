@@ -37,11 +37,11 @@ ifeq ($(OS_NAME),Darwin)
 endif
 	. $(ENV)/bin/activate; pip install -r requirements.txt
 
-watch: node_modules
-	node_modules/.bin/nodemon -x "make" -w $(SRC) -e rst
-
 node_modules:
 	npm install nodemon
+
+watch: node_modules
+	node_modules/.bin/nodemon --exec "make --jobs=8" --watch $(SRC) --ext rst
 
 server: 
 	make all

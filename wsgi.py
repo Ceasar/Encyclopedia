@@ -2,6 +2,7 @@ import os
 import os.path
 
 from flask import Flask, redirect, render_template, request, url_for
+import jinja2
 
 app = Flask(__name__)
 
@@ -27,17 +28,20 @@ def index():
 def article(name):
     if name.endswith(".html"):
         return redirect(url_for("article", name=name.replace(".html", "")))
-    index = get_index()
-    anchor = name.replace("_", " ").title()
-    target = index[anchor]
-    if target.endswith("_"):
-        while target.endswith("_"):
-            anchor = target[:-1].replace("`", "").title()
-            target = index[anchor]
-        name = os.path.splitext(target)[0]
-        return redirect(url_for("article", name=name))
-    else:
-        return render_template(target)
+    try:
+        return render_template(name + ".html")
+    except jinja2.exceptions.TemplateNotFound:
+        index = get_index()
+        anchor = name.replace("_", " ").title()
+        target = index[anchor]
+        if target.endswith("_"):
+            while target.endswith("_"):
+                anchor = target[:-1].replace("`", "").title()
+                target = index[anchor]
+            name = os.path.splitext(target)[0]
+            return redirect(url_for("article", name=name))
+        else:
+            return render_template(target)
 
 
 @app.route("/search")

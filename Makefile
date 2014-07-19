@@ -3,10 +3,10 @@
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
 # Directory containing output files
-BUILD = templates
+BUILD = templates/
 ENV=.env
-# File containing a list of hyperlinks
-INDEX = config/index
+# Files containing reStructuredText directives
+DIRECTIVES = $(shell find config -name "*.rst" -print)
 # Directory containing input files
 SRC = src
 # Options for compilation. By default, compiles with time stamps.
@@ -16,7 +16,7 @@ SASS_DIR = sass/
 STYLESHEETS = static/stylesheets/
 # Names of files to build
 TARGETS = $(shell find $(SRC) -print | grep rst$  \
-		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/$(BUILD)/')
+		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/$(BUILD)')
 
 all: $(STYLESHEETS) $(TARGETS)
 
@@ -25,9 +25,9 @@ $(STYLESHEETS): $(SASS_DIR)*
 	compass compile --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
 
 # Make the target file ($@) from the build file ($<)
-$(BUILD)/%.html: $(SRC)/%.rst $(ENV) docutils.conf
+$(BUILD)%.html: $(SRC)/%.rst $(ENV) docutils.conf
 	mkdir -p $(BUILD)
-	. $(ENV)/bin/activate; cat $(INDEX) $< | rst2html.py $(RSTFLAGS) > '$@' &
+	. $(ENV)/bin/activate; cat $(DIRECTIVES) $< | rst2html.py $(RSTFLAGS) > '$@'
 
 $(ENV): requirements.txt
 	virtualenv $(ENV)

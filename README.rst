@@ -55,7 +55,7 @@ Quickstart
 
 In this section, we'll go over how to create a link between two files.
 
-First, create a file ``src/index``. This file will be a mapping from
+First, create a file ``config/index.rst``. This file will be a mapping from
 hyperlink anchors to their target HTML files. It should look like this::
 
     .. _programming language: Programming_language.html
@@ -66,8 +66,6 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
 
 ``src/Python.rst`` should look like this::
 
-    .. include:: index
-
     ================================================================================
     Python
     ================================================================================
@@ -75,8 +73,6 @@ Next, we'll create two reST_ files: ``src/Python.rst`` and
     **Python** is a `programming language`_.
     
 ``src/Programming_language.rst`` should look like this::
-
-    .. include:: index
 
     ================================================================================
     Programming Language

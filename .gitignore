@@ -3,7 +3,7 @@
 .env
 .sass-cache/
 
-config/index
+config/index.rst
 node_modules/
 src/
 static/images/

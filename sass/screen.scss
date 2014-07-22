@@ -111,7 +111,7 @@ p {
      margin-bottom: $margin-bottom-flow-content;
 }
 
-table.docutils:not(.footnote) {
+table.docutils:not(.footnote):not(.field-list) {
      border: $border-weak;
      margin: 0 auto;
      margin-bottom: $margin-bottom-flow-content;

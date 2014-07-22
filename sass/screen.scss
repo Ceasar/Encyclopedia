@@ -4,21 +4,35 @@
 // Include responsive Bootstrap styles
 // @import "bootstrap-responsive";
 
-// Google black
-$color: #222;
-$color-link: #333;
-// Wikipedia border
-$border: 1px solid #aaa;
-$border-bottom-header: 1px solid #eee;
+$color-foreground: $gray-darker;  // Google black
+$color-foreground-weak: $gray-dark;
+$color-foreground-weakest: $gray;
+
+$color-background-strongest: #fbfbfb;
+$color-background-strong: #fefefe;
+$color-background: #fff;
+
+// Also considered Wikipedia's ``1px solid #aaa``, but found it caused too much
+// contrast.
+$border-weak: 1px solid rgba(0, 0, 0, 0.1);
+$border-strong: 1px solid #c6c6c6; // alt: 1px solid #d9d9d9;
+
+$document-max-width: 40em; // 40 based on AListApart
+// $document-max-width: 60.625em; // 970px
+$panel-width: 35%;
 $font-family: "Times New Roman";
-$font-size: 16px;
+$font-size: 18px;
+$h1-font-size: 2.6em;
+$line-height: 30px;
 $margin-bottom-flow-content: 0.625em;
 
 
 $tt-font-size: 17px;
 
+// Links should not be styled in such a way that they make reading
+// difficult,but it also needs to be clear they are in fact links.
 a, a:hover {
-    color: $color-link;
+    color: $color-foreground;
     text-decoration: underline;
 }
 
@@ -27,28 +41,29 @@ blockquote {
 }
 
 body {
-     color: $color;
+     color: $color-foreground;
      font-family: $font-family;
      font-size: $font-size;
+     line-height: $line-height;
 }
 
 button {
-     background-color: #f5f5f5;
-     border: 1px solid rgba(0, 0, 0, 0.1);
-     border-radius: 2px;
-     color: #666;
-     font-family: arial; //?
+     background-color: $color-background-strongest;
+     border: $border-weak;
+     color: $color-foreground-weakest;
+     font-family: arial; // Google
      font-size: 11px;
      font-weight: bold;
      height: 29px;
+     line-height: 100%;
      margin: 11px 6px;
      padding: 0 8px;
      text-align: center;
 
      &:hover {
-          background-color: #f8f8f8;
-          border: 1px solid #c6c6c6;
-          color: #333;
+          background-color: $color-background-strong;
+          border: $border-strong;
+          color: $color-foreground-weak;
           box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
      }
 }
@@ -64,12 +79,12 @@ dd {
 form {
     display: block;
     margin: 0 auto;
-    width: 833px;
+    max-width: 833px;
     padding-bottom: 14px;
 }
 
 h1, h2, h3, h4, h5 {
-    border-bottom: $border-bottom-header;
+    border-bottom: $border-weak;
     margin-bottom: $margin-bottom-flow-content;
     margin-top: 1em;
     padding-bottom: 0.25em;
@@ -77,6 +92,10 @@ h1, h2, h3, h4, h5 {
     > a {
          text-decoration: none;
     }
+}
+
+h2 {
+     font-size: 1.333em;
 }
 
 iframe {
@@ -92,7 +111,9 @@ p {
      margin-bottom: $margin-bottom-flow-content;
 }
 
-table {
+table.docutils:not(.footnote) {
+     border: $border-weak;
+     margin: 0 auto;
      margin-bottom: $margin-bottom-flow-content;
 }
 
@@ -119,7 +140,7 @@ td, th {
      @extend .panel;
 
      display: table;
-     min-width: 22em;
+     padding: 0.5em 1em;
 
      .topic-title {
           font-weight: bolder;
@@ -150,8 +171,8 @@ td, th {
 
 .document {
      @extend .container;
-     max-width: 970px;
-     width: 75%;
+     max-width: $document-max-width;
+     width: 80%;
 }
 
 .figure {
@@ -159,8 +180,9 @@ td, th {
      clear: both;
      float: right;
      margin-left: 1em;
+     padding: 0.2em;
      text-align: center;
-     width: 22em;
+     width: $panel-width;
 }
 
 .footer {
@@ -176,17 +198,22 @@ td, th {
 }
 
 .legend {
+     font-size: 0.875em;
      padding: 3px;
      text-align: left;
 }
 
 .literal {
-    font-size: 0.875em;
+    background-color: $color-background-strong;
+    border: $border-weak;
+    color: $color-foreground-weak;
+    font-family: menlo; // Idental to font-family in literal blocks
+    font-size: 0.7em; // Identical to font-size in literal blocks
+    padding: 2px 4px; // Taken from Bootstrap
 }
 
 .literal-block {
      @extend .panel;
-     padding: 0.2em;
 }
 
 .section {
@@ -206,26 +233,26 @@ td, th {
 }
 
 .tt-hint {
-     color: gray;
+     color: $color-foreground-weakest;
      font-size: $tt-font-size;
 }
 
 .tt-dropdown-menu {
      width: 100%;
-     background-color: #fff;
-     border: 1px solid rgba(0, 0, 0, 0.1);
+     background-color: $color-background;
+     border: $border-weak;
      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
      padding: 6px 12px;
 }
 
 .tt-input {
-     border: 1px solid #d9d9d9;
+     border: $border-strong;
      border-radius: 0;
      font-size: $tt-font-size;
      height: 27px;
 
      &:focus {
-          border-color: $color-link;
+          border-color: $color-foreground;
           box-shadow: none;
      }
 }
@@ -241,11 +268,11 @@ td, th {
 }
 
 .panel {
-     background-color: #f9f9f9;
-     border: $border;
+     background-color: $color-background-strong;
+     border: $border-weak;
      border-radius: 0;
+     color: $color-foreground-weak;
      margin-bottom: $margin-bottom-flow-content;
-     padding: 0.5em;
 }
 
 #searchform {

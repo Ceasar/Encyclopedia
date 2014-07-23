@@ -172,8 +172,3 @@ Tips
 
 - Use the figure_ directive for rendering images; avoid using ``image`` or
   setting any attributes to ensure a consist style that can be changed with CSS.
-
-- Underlines and overlines for section headers should always be **80**
-  characters. This looks good in the text editor and is simpler than trying to
-  match the number of adornment characters with the number of characters in the
-  title.

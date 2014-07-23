@@ -23,8 +23,14 @@ $panel-width: 35%;
 $font-family: "Times New Roman";
 $font-size: 18px;
 $h1-font-size: 2.6em;
-$line-height: 30px;
+$line-height: 1em + (2em / 3);
 $margin-bottom-flow-content: 0.625em;
+
+// Lists with less than 10 items look good at 4/3em. Lists with 10 or items
+// require a second character to label, breaking the left boundary. We add
+// 2/3em for the second character (somewhat arbitrarily-- 1em is too much),
+// assuming no list will be longer than 99 elements.
+$list-padding-left: 2em;
 
 
 $tt-font-size: 17px;
@@ -107,6 +113,10 @@ img {
      max-width: 100%;
 }
 
+ol, ul {
+     padding-left: $list-padding-left;
+}
+
 p {
      margin-bottom: $margin-bottom-flow-content;
 }
@@ -140,7 +150,7 @@ td, th {
      @extend .panel;
 
      display: table;
-     padding: 0.5em 1em;
+     padding: ($list-padding-left / 4) ($list-padding-left / 2);
 
      .topic-title {
           font-weight: bolder;
@@ -152,12 +162,13 @@ td, th {
           margin-bottom: 0;
      }
 
-     ul {
-          padding-left: 1.5em;
-     }
-
      a {
           text-decoration: none;
+     }
+
+     ul {
+          list-style: none;
+          padding-left: ($list-padding-left / 2);
      }
 
      a:hover {

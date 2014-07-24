@@ -24,9 +24,11 @@ $(STYLESHEETS): $(SASS_DIR)*
 	bundle install
 	compass compile --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
 
-# Make the target file ($@) from the build file ($<)
-$(BUILD)%.html: $(SRC)/%.rst $(ENV) docutils.conf
+$(BUILD):
 	mkdir -p $(BUILD)
+
+# Make the target file ($@) from the build file ($<)
+$(BUILD)%.html: $(SRC)/%.rst | $(BUILD) $(ENV) docutils.conf
 	. $(ENV)/bin/activate; cat $(DIRECTIVES) $< | rst2html.py $(RSTFLAGS) > '$@'
 
 $(ENV): requirements.txt

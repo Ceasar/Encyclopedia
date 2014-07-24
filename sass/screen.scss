@@ -35,6 +35,11 @@ $list-padding-left: 2em;
 
 $tt-font-size: 17px;
 
+@font-face {
+     font-family: Consolas;
+     src: url('../fonts/consolas.ttf');
+}
+
 // Links should not be styled in such a way that they make reading
 // difficult,but it also needs to be clear they are in fact links.
 a, a:hover {
@@ -215,16 +220,17 @@ td, th {
 }
 
 .literal {
-    background-color: $color-background-strong;
-    border: $border-weak;
-    color: $color-foreground-weak;
-    font-family: menlo; // Idental to font-family in literal blocks
-    font-size: 0.7em; // Identical to font-size in literal blocks
-    padding: 2px 4px; // Taken from Bootstrap
+     background-color: $color-background-strong;
+     border: $border-weak;
+     color: $color-foreground-weak;
+     font-family: Consolas, menlo; // Identical to font-family in literal blocks
+     font-size: 0.7em; // Identical to font-size in literal blocks
+     padding: 2px 4px; // Taken from Bootstrap
 }
 
 .literal-block {
      @extend .panel;
+     font-family: Consolas, menlo;
 }
 
 .section {

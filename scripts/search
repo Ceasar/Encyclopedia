@@ -20,59 +20,36 @@ SRC = "src"
 
 class Document(object):
     def __init__(self, title, time, tags=None):
-        self.title = title
+        self._title = title
         self.time = time
         self.tags = tags or []
 
     @property
+    def title(self):
+        return unicode(self._title)
+
+    def _decode(self, text, encoding="UTF-8"):
+        """
+        Encode a Unicode string as ascii, ignoring any errors.
+        """
+        unistr = text.decode(encoding)
+        form = unicodedata.normalize('NFKD', unistr)
+        return form.encode('ascii', 'ignore')
+
+    @property
     def content(self):
-        return self.read()
-
-    def read(self):
         with open(self.title, 'rU') as f:
-            return f.read()
+            return unicode(self._decode(f.read()))
 
 
-# TODO: Cause the index to rebuild documents that have changed since the last
-# time this was run. Might need to work Make.
-def get_index(path, schema, src):
+def get_or_create_index(path, schema, src):
     """Get or create an Index."""
     if not os.path.exists(path):
         os.mkdir(path)
-    if exists_in(path):
-        print("retrieved existing index...")
-        index = open_dir(path)
-        update_index(index, src)
-    else:
-        print("made new index...")
-        index = create_in(path, schema)
-        writer = index.writer()
-        write(writer, index, gen_documents(src))
+    index = open_dir(path) if exists_in(path) else create_in(path, schema)
+    indexed_titles = set(field['title'] for field in gen_indexed_fields(index))
+    update_index(index.writer(), indexed_titles, gen_documents(src))
     return index
-
-
-def decode(text, encoding="UTF-8"):
-    """
-    Encode a Unicode string as ascii, ignoring any errors.
-    """
-    unistr = text.decode(encoding)
-    form = unicodedata.normalize('NFKD', unistr)
-    return form.encode('ascii', 'ignore')
-
-
-def add_doc(writer, document):
-    title = unicode(document.title)
-    try:
-        content = unicode(document.content)
-    except UnicodeDecodeError:
-        content = unicode(decode(document.content))
-    writer.add_document(title=title, content=content, time=document.time)
-
-
-def write(writer, documents):
-    for document in documents:
-        add_doc(writer, document)
-    writer.commit()
 
 
 def gen_documents(src):
@@ -85,27 +62,26 @@ def gen_documents(src):
                 yield Document(title=filepath, time=modtime)
 
 
-def update_index(index, src):
-    indexed_titles = set()
-    to_index = set()
+def gen_indexed_fields(index):
     with index.searcher() as searcher:
-        writer = index.writer()
         for field in searcher.all_stored_fields():
-            indexed_title = field['title']
-            indexed_titles.add(indexed_title)
+            yield field
 
-            if os.path.exists(indexed_title):
-                indexed_time = field['time']
-                mtime = os.path.getmtime(indexed_title)
-                if mtime > indexed_time:
-                    writer.delete_by_term('title', indexed_title)
-                    to_index.add(indexed_title)
-            else:
-                writer.delete_by_term('indexed_title', indexed_title)
-    new_docs = [doc for doc in gen_documents(src)
-                if doc.title in to_index
-                or doc.title not in indexed_titles]
-    write(writer, new_docs)
+
+def update_index(writer, indexed_titles, documents):
+    for document in documents:
+        if document.title not in indexed_titles:
+            writer.add_document(title=document.title, content=document.content,
+                                time=document.time)
+        elif os.path.getmtime(document.title) > document.time:
+            writer.delete_by_term('title', document.title)
+            writer.add_document(title=document.title, content=document.content,
+                                time=document.time)
+
+    for indexed_title in indexed_titles:
+        if not os.path.exists(indexed_title):
+            writer.delete_by_term('title', indexed_title['title'])
+    writer.commit()
 
 
 def gen_results(index, q):
@@ -122,7 +98,7 @@ def search(index, querystring):
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    index = get_index(INDEX_PATH, SCHEMA, SRC)
+    index = get_or_create_index(INDEX_PATH, SCHEMA, SRC)
     querystring = " ".join(sys.argv[1:])
     results = list(search(index, querystring))
     print "Found %s results:\n" % len(results)

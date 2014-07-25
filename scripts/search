@@ -4,33 +4,51 @@ import os
 import sys
 import unicodedata
 
-from whoosh.fields import Schema, TEXT, KEYWORD
+from whoosh.fields import Schema, ID, KEYWORD, STORED, TEXT
 from whoosh.index import create_in, exists_in, open_dir
 from whoosh.qparser import MultifieldParser
 
 INDEX_PATH = '.index'
-SCHEMA = Schema(title=TEXT(stored=True),
-                content=TEXT(stored=True),
-                tags=KEYWORD)
+SCHEMA = Schema(
+    content=TEXT(stored=True),
+    tags=KEYWORD,
+    title=ID(unique=True, stored=True),
+    time=STORED,
+)
+SRC = "src"
 
 
 class Document(object):
-    def __init__(self, title, content, tags=None):
+    def __init__(self, title, time, tags=None):
         self.title = title
-        self.content = content
+        self.time = time
         self.tags = tags or []
 
+    @property
+    def content(self):
+        return self.read()
 
-def get_index(path, schema):
+    def read(self):
+        with open(self.title, 'rU') as f:
+            return f.read()
+
+
+# TODO: Cause the index to rebuild documents that have changed since the last
+# time this was run. Might need to work Make.
+def get_index(path, schema, src):
     """Get or create an Index."""
     if not os.path.exists(path):
         os.mkdir(path)
     if exists_in(path):
         print("retrieved existing index...")
-        return open_dir(path)
+        index = open_dir(path)
+        update_index(index, src)
     else:
         print("made new index...")
-        return create_in(path, schema)
+        index = create_in(path, schema)
+        writer = index.writer()
+        write(writer, index, gen_documents(src))
+    return index
 
 
 def decode(text, encoding="UTF-8"):
@@ -42,26 +60,52 @@ def decode(text, encoding="UTF-8"):
     return form.encode('ascii', 'ignore')
 
 
-def write(index, documents):
-    writer = index.writer()
+def add_doc(writer, document):
+    title = unicode(document.title)
+    try:
+        content = unicode(document.content)
+    except UnicodeDecodeError:
+        content = unicode(decode(document.content))
+    writer.add_document(title=title, content=content, time=document.time)
+
+
+def write(writer, documents):
     for document in documents:
-        title = unicode(document.title)
-        try:
-            content = unicode(document.content)
-        except UnicodeDecodeError:
-            content = unicode(decode(document.content))
-        writer.add_document(title=title, content=content)
+        add_doc(writer, document)
     writer.commit()
 
 
-def gen_documents():
-    for dirpath, _, filenames in os.walk("src"):
+def gen_documents(src):
+    for dirpath, _, filenames in os.walk(src):
         for filename in filenames:
             logging.debug("found: %s." % filename)
             if not filename.startswith("."):
                 filepath = os.path.join(dirpath, filename)
-                with open(filepath, 'rU') as f:
-                    yield Document(title=filepath, content=f.read())
+                modtime = os.path.getmtime(filepath)
+                yield Document(title=filepath, time=modtime)
+
+
+def update_index(index, src):
+    indexed_titles = set()
+    to_index = set()
+    with index.searcher() as searcher:
+        writer = index.writer()
+        for field in searcher.all_stored_fields():
+            indexed_title = field['title']
+            indexed_titles.add(indexed_title)
+
+            if os.path.exists(indexed_title):
+                indexed_time = field['time']
+                mtime = os.path.getmtime(indexed_title)
+                if mtime > indexed_time:
+                    writer.delete_by_term('title', indexed_title)
+                    to_index.add(indexed_title)
+            else:
+                writer.delete_by_term('indexed_title', indexed_title)
+    new_docs = [doc for doc in gen_documents(src)
+                if doc.title in to_index
+                or doc.title not in indexed_titles]
+    write(writer, new_docs)
 
 
 def gen_results(index, q):
@@ -78,9 +122,8 @@ def search(index, querystring):
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    index = get_index(INDEX_PATH, SCHEMA)
+    index = get_index(INDEX_PATH, SCHEMA, SRC)
     querystring = " ".join(sys.argv[1:])
-    # write(index, gen_documents())
     results = list(search(index, querystring))
     print "Found %s results:\n" % len(results)
     for result in results:

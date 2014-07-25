@@ -11,9 +11,9 @@ DIRECTIVES := $(wildcard config/*.rst)
 SRC = src
 # Options for compilation. By default, compiles with time stamps.
 RSTFLAGS = --time --report=none
-SASS_DIR = sass/
+SASS_DIR = app/assets/sass/
 # Directory containing CSS files
-STYLESHEETS = static/stylesheets/
+STYLESHEETS = app/static/stylesheets/
 # Names of files to build
 TARGETS := $(patsubst $(SRC)/%.rst,$(BUILD)%.html,$(wildcard $(SRC)/*.rst))
 

@@ -17,13 +17,15 @@ $color-background: #fff;
 $border-weak: 1px solid rgba(0, 0, 0, 0.1);
 $border-strong: 1px solid #c6c6c6; // alt: 1px solid #d9d9d9;
 
-$document-max-width: 40em; // 40 based on AListApart
+// This number is based on an desire to use an 18px font with 66 CPL.
+// http://www.pearsonified.com/typography/
+$document-max-width: 29em; // 40em based on AListApart
 // $document-max-width: 60.625em; // 970px
 $panel-width: 35%;
 $font-family: "Times New Roman";
 $font-size: 18px;
 $h1-font-size: 2.6em;
-$line-height: 1em + (2em / 3);
+$line-height: 1.5em; // 1em + (2em / 3);
 $margin-bottom-flow-content: 0.625em;
 
 // Lists with less than 10 items look good at 4/3em. Lists with 10 or items
@@ -56,6 +58,11 @@ body {
      font-family: $font-family;
      font-size: $font-size;
      line-height: $line-height;
+}
+
+blockquote {
+     padding: 0;
+     padding-left: 6%; // Roughly 4 / 66 CPL
 }
 
 button {
@@ -94,8 +101,16 @@ form {
     padding-bottom: 14px;
 }
 
-h1, h2, h3, h4, h5 {
+h1 {
     border-bottom: $border-weak;
+}
+
+h3 {
+     font-size: 1em;
+     font-style: italic;
+}
+
+h1, h2, h3, h4, h5 {
     margin-bottom: $margin-bottom-flow-content;
     margin-top: 1em;
     padding-bottom: 0.25em;
@@ -110,8 +125,6 @@ h2 {
 }
 
 iframe {
-     width: 100%;
-     height: 500px;
 }
 
 img {
@@ -127,9 +140,14 @@ p {
 }
 
 table.docutils:not(.footnote):not(.field-list) {
-     border: $border-weak;
-     margin: 0 auto;
+     @extend .table;
+     @extend .table-striped;
+     border-color: rgba(0, 0, 0, 0.1);
      margin-bottom: $margin-bottom-flow-content;
+
+     thead > tr > th{
+          border-bottom: none;
+     }
 }
 
 
@@ -144,6 +162,13 @@ td, th {
 .abstract > .first {
      font-weight: bolder;
      text-align: center;
+}
+
+.alert-danger {
+     background-color: #f9f2f4;
+     border-radius: 4px;
+     color: #c7254e;
+     padding: 1px 2px;
 }
 
 .caption {
@@ -290,6 +315,10 @@ td, th {
      border-radius: 0;
      color: $color-foreground-weak;
      margin-bottom: $margin-bottom-flow-content;
+}
+
+.problematic {
+     color: #a55858;
 }
 
 #searchform {

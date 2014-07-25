@@ -2,6 +2,7 @@
 import logging
 import os
 import sys
+import unicodedata
 
 from whoosh.fields import Schema, TEXT, KEYWORD
 from whoosh.index import create_in, exists_in, open_dir
@@ -12,62 +13,75 @@ SCHEMA = Schema(title=TEXT(stored=True),
                 content=TEXT(stored=True),
                 tags=KEYWORD)
 
+
 class Document(object):
     def __init__(self, title, content, tags=None):
         self.title = title
         self.content = content
         self.tags = tags or []
 
+
 def get_index(path, schema):
     """Get or create an Index."""
     if not os.path.exists(path):
         os.mkdir(path)
-    return create_in(path, schema)
     if exists_in(path):
-        print "retrieved existing index..."
+        print("retrieved existing index...")
         return open_dir(path)
     else:
-        print "made new index..."
+        print("made new index...")
         return create_in(path, schema)
 
 
+def decode(text, encoding="UTF-8"):
+    """
+    Encode a Unicode string as ascii, ignoring any errors.
+    """
+    unistr = text.decode(encoding)
+    form = unicodedata.normalize('NFKD', unistr)
+    return form.encode('ascii', 'ignore')
 
 
-def write(ix, documents):
-    writer = ix.writer()
+def write(index, documents):
+    writer = index.writer()
     for document in documents:
         title = unicode(document.title)
-        content = unicode(document.content)
-        logging.info("writing %s..." % title)
-        writer.add_document(title=title,
-                            content=content)
-    logging.info("committed files...")
+        try:
+            content = unicode(document.content)
+        except UnicodeDecodeError:
+            content = unicode(decode(document.content))
+        writer.add_document(title=title, content=content)
     writer.commit()
+
 
 def gen_documents():
     for dirpath, _, filenames in os.walk("src"):
         for filename in filenames:
-            logging.info("found: %s." % filename)
+            logging.debug("found: %s." % filename)
             if not filename.startswith("."):
                 filepath = os.path.join(dirpath, filename)
                 with open(filepath, 'rU') as f:
                     yield Document(title=filepath, content=f.read())
 
 
-def search(ix, q):
-    # TODO: This is a weird API. It's not ideal to have to pass ix.
-    logging.info("searching: %s..." % q)
-    with ix.searcher() as searcher:
+def gen_results(index, q):
+    with index.searcher(closereader=False) as searcher:
         results = searcher.search(q)
-        print "Found %s results:\n" % len(results)
         for result in results:
-            print result["title"]
+            yield result
+
+
+def search(index, querystring):
+    q = MultifieldParser(["title", "content"], index.schema).parse(querystring)
+    return gen_results(index, q)
+
 
 if __name__ == "__main__":
-    # logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(level=logging.INFO)
+    index = get_index(INDEX_PATH, SCHEMA)
     querystring = " ".join(sys.argv[1:])
-    ix = get_index(INDEX_PATH, SCHEMA)
-    write(ix, gen_documents())
-
-    q = MultifieldParser(["title", "content"], ix.schema).parse(querystring)
-    search(ix, q)
+    # write(index, gen_documents())
+    results = list(search(index, querystring))
+    print "Found %s results:\n" % len(results)
+    for result in results:
+        print result["title"]

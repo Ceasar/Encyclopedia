@@ -9,19 +9,30 @@ app = Flask(__name__)
 INDEX = "config/index.rst"
 
 
-def get_index():
-    index = {}
-    with open(INDEX) as f:
+def iteritems(filename):
+    with open(filename) as f:
         for line in f:
-            anchor, target = line.split(":")
-            index[anchor[4:].title()] = target.strip()
-    return index
+            reference_name, hyperlink_target = line.split(":")
+            # strip the leading ".. _" from the reference_name
+            reference_name = reference_name[4:]
+            yield reference_name, hyperlink_target.strip()
+
+
+def get_hyperlink_target(index, reference_name):
+    hyperlink_target = index[reference_name]
+    if hyperlink_target.endswith("_"):
+        while hyperlink_target.endswith("_"):
+            reference_name = hyperlink_target[:-1].replace("`", "")
+            hyperlink_target = index[reference_name]
+        return os.path.splitext(hyperlink_target)[0]
+    else:
+        return hyperlink_target
 
 
 @app.route("/")
 def index():
-    anchors = get_index().keys()
-    return render_template("_layouts/index.html", anchors=anchors)
+    reference_names = [k for k, _ in iteritems(INDEX)]
+    return render_template("_layouts/index.html", anchors=reference_names)
 
 
 @app.route("/<name>")
@@ -31,17 +42,9 @@ def article(name):
     try:
         return render_template(name + ".html")
     except jinja2.exceptions.TemplateNotFound:
-        index = get_index()
-        anchor = name.replace("_", " ").title()
-        target = index[anchor]
-        if target.endswith("_"):
-            while target.endswith("_"):
-                anchor = target[:-1].replace("`", "").title()
-                target = index[anchor]
-            name = os.path.splitext(target)[0]
-            return redirect(url_for("article", name=name))
-        else:
-            return render_template(target)
+        index = dict(iteritems(INDEX))
+        reference_name = name.replace("_", " ")
+        return redirect(get_hyperlink_target(index, reference_name))
 
 
 @app.route("/search")

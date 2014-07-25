@@ -1,68 +1,62 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Encyclopedia</title>
-        <link rel="stylesheet" href="/static/stylesheets/screen.css" type="text/css" />
-        <style type="text/css"></style>
-    </head>
-    <body>
-        <div id="searchform">
-            <h1>Encyclopedia</h1>
-            <form role="search" action="/search">
-                <div class="controls">
-                    <input class="form-control" type="text" name="q">
-                    <center>
-                        <button type="submit">Search Encyclopedia</button>
-                    </center>
-                </div>
-            </form>
+{% extends "_layouts/_base.html" %}
+
+{% block document %}
+<div id="searchform">
+    <h1>Encyclopedia</h1>
+    <form role="search" action="/search">
+        <div class="controls">
+            <input class="form-control" type="text" name="q">
+            <center>
+                <button type="submit">Search Encyclopedia</button>
+            </center>
         </div>
-        <script src="/static/js/jquery-1.10.2.min.js"></script>
-        <script src="/static/js/typeahead.js"></script>
-        <script>
-            var substringMatcher = function(strs) {
-                return function findMatches(q, cb) {
-                    var matches, substrRegex;
+    </form>
+</div>
+<script src="/static/js/jquery-1.10.2.min.js"></script>
+<script src="/static/js/typeahead.js"></script>
+<script>
+    var substringMatcher = function(strs) {
+        return function findMatches(q, cb) {
+            var matches, substrRegex;
 
-                    // an array that will be populated with substring matches
-                    matches = [];
+            // an array that will be populated with substring matches
+            matches = [];
 
-                    // regex used to determine if a string contains the substring `q`
-                    substrRegex = new RegExp(q, 'i');
+            // regex used to determine if a string contains the substring `q`
+            substrRegex = new RegExp(q, 'i');
 
-                    // iterate through the pool of strings and for any string that
-                    // contains the substring `q`, add it to the `matches` array
-                    $.each(strs, function(i, str) {
-                        if (substrRegex.test(str)) {
-                            // the typeahead jQuery plugin expects suggestions to a
-                            // JavaScript object, refer to typeahead docs for more info
-                            matches.push({ value: str });
-                        }
-                    });
-
-                    cb(matches);
-                };
-            };
-
-            var anchors = [
-            // Inject via Jinja2
-            {% for anchor in anchors %}
-            "{{anchor}}",
-            {% endfor %}
-            null
-            ];
-
-            $('input').typeahead({
-                hint: true,
-                highlight: true,
-                minLength: 1
-            },
-            {
-                name: 'anchors',
-                displayKey: 'value',
-                source: substringMatcher(anchors)
+            // iterate through the pool of strings and for any string that
+            // contains the substring `q`, add it to the `matches` array
+            $.each(strs, function(i, str) {
+                if (substrRegex.test(str)) {
+                    // the typeahead jQuery plugin expects suggestions to a
+                    // JavaScript object, refer to typeahead docs for more info
+                    matches.push({ value: str });
+                }
             });
-            $('input').focus();
-        </script>
-    </body>
-</html>
+
+            cb(matches);
+        };
+    };
+
+    var anchors = [
+    // Inject via Jinja2
+    {% for anchor in anchors %}
+    "{{anchor}}",
+    {% endfor %}
+    null
+    ];
+
+    $('input').typeahead({
+        hint: true,
+        highlight: true,
+        minLength: 1
+    },
+    {
+        name: 'anchors',
+        displayKey: 'value',
+        source: substringMatcher(anchors)
+    });
+    $('input').focus();
+</script>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "_layouts/_base.html" %}
+
+{% block document %}
+<h1>Search Results</h1>
+<form role="search" action="/search">
+    <div class="form-group">
+        <input class="form-control" type="text" name="q">
+        <button type="submit">Search Encyclopedia</button>
+    </div>
+</form>
+<ol class="hits">
+{% for result in results %}
+<li class="hit"><div>
+        <h2><a href="/{{result.filename}}">{{result.reference_name}}</a></h2>
+        <p>{{result.paragraphs[0]}}</p>
+        <p class="hit-meta">{{result.datetime}}</p>
+</div></li>
+{% endfor %}
+</ol>
+{% endblock %}

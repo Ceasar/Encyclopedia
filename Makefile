@@ -3,10 +3,10 @@
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
 # Directory containing output files
-BUILD = templates/
+BUILD = app/templates/
 ENV=.env
 # Files containing reStructuredText directives
-DIRECTIVES = $(shell find config -name "*.rst" -print)
+DIRECTIVES := $(wildcard config/*.rst)
 # Directory containing input files
 SRC = src
 # Options for compilation. By default, compiles with time stamps.
@@ -15,8 +15,8 @@ SASS_DIR = sass/
 # Directory containing CSS files
 STYLESHEETS = static/stylesheets/
 # Names of files to build
-TARGETS = $(shell find $(SRC) -print | grep rst$  \
-		  | sed 's/\.rst/\.html/' | sed 's/$(SRC)/$(BUILD)')
+TARGETS := $(patsubst $(SRC)/%.rst,$(BUILD)%.html,$(wildcard $(SRC)/*.rst))
+
 
 all: $(STYLESHEETS) $(TARGETS)
 

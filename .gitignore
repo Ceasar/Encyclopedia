@@ -2,10 +2,11 @@
 .index
 .env
 .sass-cache/
+*.pyc
 
 config/index.rst
 node_modules/
 src/
-static/images/
-static/stylesheets/
+app/static/images/
+app/static/stylesheets/
 templates/

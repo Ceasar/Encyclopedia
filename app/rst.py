@@ -5,7 +5,11 @@ import os.path
 def iteritems(filename):
     with open(filename) as f:
         for line in f:
-            reference_name, hyperlink_target = line.split(":")
+            try:
+                reference_name, hyperlink_target = line.split(":")
+            except ValueError:
+                # the line has multiple ":" in it; probably an external link
+                continue
             # strip the leading ".. _" from the reference_name
             reference_name = reference_name[4:]
             yield reference_name, hyperlink_target.strip()

@@ -27,8 +27,11 @@ $font-family: "Times New Roman";
 $font-size: 18px;
 $font-size-weak: 0.875em;
 $h1-font-size: 2.6em;
+$max-height-iphone: 372px;
 $line-height: 1.5em; // 1em + (2em / 3);
 $margin-bottom-flow-content: 0.625em;
+
+$caption-font-size: $font-size;
 
 // Lists with less than 10 items look good at 4/3em. Lists with 10 or items
 // require a second character to label, breaking the left boundary. We add
@@ -130,6 +133,7 @@ iframe {
 }
 
 img {
+     max-height: $max-height-iphone - $caption-font-size;
      max-width: 100%;
 }
 
@@ -188,6 +192,8 @@ td, th {
 .contents {
      @extend .panel;
 
+     border: $border-weak;
+     border-radius: 0;
      display: table;
      padding: ($list-padding-left / 4) ($list-padding-left / 2);
 
@@ -218,17 +224,16 @@ td, th {
 .document {
      @extend .container;
      max-width: $document-max-width;
-     width: 80%;
 }
 
 .figure {
      @extend .panel;
+
+     box-shadow: none;
      clear: both;
-     float: right;
-     margin-left: 1em;
+     font-size: $caption-font-size;
      padding: 0.2em;
      text-align: center;
-     width: $panel-width;
 }
 
 .footer {
@@ -292,6 +297,9 @@ td, th {
 
 .literal-block {
      @extend .panel;
+
+     border: $border-weak;
+     border-radius: 0;
      font-family: Consolas, menlo;
 }
 
@@ -349,9 +357,6 @@ td, th {
 }
 
 .panel {
-     background-color: $color-background-strong;
-     border: $border-weak;
-     border-radius: 0;
      color: $color-foreground-weak;
      margin-bottom: $margin-bottom-flow-content;
 }

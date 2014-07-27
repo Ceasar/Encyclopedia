@@ -57,8 +57,14 @@ a, a:hover {
     text-decoration: underline;
 }
 
+blockquote, dl, h1, h2, h3, h4, h5, ol, p, table, ul, .contents, .figure, .literal-block {
+     margin-bottom: $margin-bottom-flow-content;
+}
+
 blockquote {
     font-size: 1em;
+     padding: 0;
+     padding-left: 6%; // Roughly 4 / 66 CPL
 }
 
 body {
@@ -66,11 +72,6 @@ body {
      font-family: $font-family;
      font-size: $font-size;
      line-height: $line-height;
-}
-
-blockquote {
-     padding: 0;
-     padding-left: 6%; // Roughly 4 / 66 CPL
 }
 
 button {
@@ -109,17 +110,7 @@ form {
     padding-bottom: 14px;
 }
 
-h1 {
-    border-bottom: $border-weak;
-}
-
-h3 {
-     font-size: 1em;
-     font-style: italic;
-}
-
 h1, h2, h3, h4, h5 {
-    margin-bottom: $margin-bottom-flow-content;
     margin-top: 1em;
     padding-bottom: 0.25em;
 
@@ -128,8 +119,17 @@ h1, h2, h3, h4, h5 {
     }
 }
 
+h1 {
+    border-bottom: $border-weak;
+}
+
 h2 {
      font-size: 1.333em;
+}
+
+h3 {
+     font-size: 1em;
+     font-style: italic;
 }
 
 iframe {
@@ -144,15 +144,10 @@ ol, ul {
      padding-left: $list-padding-left;
 }
 
-p {
-     margin-bottom: $margin-bottom-flow-content;
-}
-
 table.docutils:not(.footnote):not(.field-list) {
      @extend .table;
      @extend .table-striped;
      border-color: rgba(0, 0, 0, 0.1);
-     margin-bottom: $margin-bottom-flow-content;
 
      thead > tr > th{
           border-bottom: none;
@@ -374,7 +369,6 @@ td, th {
 
 .panel {
      color: $color-foreground-weak;
-     margin-bottom: $margin-bottom-flow-content;
 }
 
 .problematic {

@@ -31,6 +31,9 @@ $max-height-iphone: 372px;
 $line-height: 1.5em; // 1em + (2em / 3);
 $margin-bottom-flow-content: 0.625em;
 
+// The width of a general-purpose space, determined empirically.
+$width-space: 0.3em;
+
 $caption-font-size: $font-size;
 
 // Lists with less than 10 items look good at 4/3em. Lists with 10 or items
@@ -234,6 +237,19 @@ td, th {
      font-size: $caption-font-size;
      padding: 0.2em;
      text-align: center;
+}
+
+.footnote-reference {
+     color: $color-foreground-weak;
+     font-size: small;
+     line-height: 1;
+     // Note: To use a citation, one *must* put a space between it and the last
+     // character of the line being cited, e.g. ``... Core.[1]_`` is invalid but
+     // "... Core. [1]_" is. We move the footnote one space left to correct the
+     // extra space.
+     margin-left: -$width-space;
+     text-decoration: none;
+     vertical-align: top;
 }
 
 .footer {

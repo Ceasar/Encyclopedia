@@ -1,8 +1,11 @@
 
+.. _AUTHORS: https://github.com/Ceasar/Encyclopedia/blob/master/AUTHORS.rst
 .. _figure: http://docutils.sourceforge.net/docs/ref/rst/directives.html#figure
 .. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _reStructedText: http://docutils.sourceforge.net/rst.html
 .. _rest: reStructedText_
+.. _`the repository`: https://github.com/Ceasar/Encyclopedia
+.. _`open a fresh issue`: https://github.com/Ceasar/Encyclopedia/issues
 
 ================================================================================
 Encyclopedia
@@ -172,3 +175,15 @@ Tips
 
 - Use the figure_ directive for rendering images; avoid using ``image`` or
   setting any attributes to ensure a consist style that can be changed with CSS.
+
+Contribute
+================================================================================
+
+#. Check for open issues or `open a fresh issue`_ to start a discussion
+   around a feature idea or a bug.
+
+#. Fork `the repository`_ on GitHub to start making your changes to
+   the **master** branch (or branch off of it).
+
+#. Send a pull request and bug the maintainer until it gets merged and
+   published. :) Make sure to add yourself to AUTHORS_.

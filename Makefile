@@ -1,10 +1,10 @@
-.PHONY: clean watch server
+.PHONY: clean html server stylesheets
 
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
 # Directory containing output files
 BUILD = app/templates/
-ENV=.env
+ENV=env
 # Files containing reStructuredText directives
 DIRECTIVES := $(wildcard config/*.rst)
 # Directory containing input files
@@ -18,11 +18,7 @@ STYLESHEETS = app/static/stylesheets/
 TARGETS := $(patsubst $(SRC)/%.rst,$(BUILD)%.html,$(wildcard $(SRC)/*.rst))
 
 
-all: $(STYLESHEETS) $(TARGETS)
-
-$(STYLESHEETS): $(SASS_DIR)*
-	bundle install
-	compass compile --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
+all: $(TARGETS)
 
 $(BUILD):
 	mkdir -p $(BUILD)
@@ -42,12 +38,15 @@ endif
 node_modules:
 	npm install nodemon
 
-watch: node_modules
+html: node_modules
 	node_modules/.bin/nodemon --exec "make --jobs=8" --watch $(SRC) --ext rst
 
-server: 
-	make all
-	. $(ENV)/bin/activate; python wsgi.py
+stylesheets:
+	compass watch --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
+
+server:
+	bundle install
+	foreman start
 	
 clean:
 	rm -r $(BUILD)

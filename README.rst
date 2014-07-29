@@ -168,8 +168,6 @@ Markdown) for a few reasons.
 Tips
 ================================================================================
 
-- Use ``make watch`` to automatically rebuild HTML when a source file changes.
-
 - Expand your knowledge of restructedtext_ with the quickref_. It will take some
   getting used to, but in time it should be more natural than writing Markdown.
 

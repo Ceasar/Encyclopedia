@@ -5,6 +5,7 @@
 *.pyc
 
 config/index.rst
+env
 node_modules/
 src/
 app/static/images/

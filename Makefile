@@ -38,6 +38,9 @@ endif
 node_modules:
 	npm install nodemon
 
+web: $(ENV)
+	. $(ENV)/bin/activate; python wsgi.py
+
 html: node_modules
 	node_modules/.bin/nodemon --exec "make --jobs=8" --watch $(SRC) --ext rst
 

@@ -1,3 +1,3 @@
-web: . $(ENV)/bin/activate; python wsgi.py
+web: make web
 html: make html
 stylesheets: make stylesheets

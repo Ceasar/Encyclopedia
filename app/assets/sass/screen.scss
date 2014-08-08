@@ -316,6 +316,10 @@ td, th {
      border: $border-weak;
      border-radius: 0;
      font-family: Consolas, menlo;
+
+     // Don't wrap literal code; scroll instead. Otherwise long text becomes
+     // unreadable. TODO: It's unclear how strong this rationale is.
+     word-wrap: normal;
 }
 
 .section {

@@ -144,7 +144,7 @@ ol, ul {
      padding-left: $list-padding-left;
 }
 
-table.docutils:not(.footnote):not(.field-list) {
+table.docutils:not(.footnote):not(.field-list):not(.citation) {
      @extend .table;
      @extend .table-striped;
      border-color: rgba(0, 0, 0, 0.1);
@@ -231,10 +231,11 @@ td, th {
      clear: both;
      font-size: $caption-font-size;
      padding: 0.2em;
+     position: relative;
      text-align: center;
 }
 
-.footnote-reference {
+.citation-reference, .footnote-reference {
      color: $color-foreground-weak;
      font-size: small;
      line-height: 1;

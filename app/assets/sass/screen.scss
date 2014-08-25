@@ -168,6 +168,13 @@ td, th {
      text-align: center;
 }
 
+.address, .contents, .literal-block {
+     @extend .panel;
+     border: $border-weak;
+     border-radius: 0;
+     box-shadow: none;
+}
+
 /* Role for "dangerous" text.
  *
  * This should indicate to the reader that the text is considered dangerous in
@@ -188,10 +195,6 @@ td, th {
 }
 
 .contents {
-     @extend .panel;
-
-     border: $border-weak;
-     border-radius: 0;
      display: table;
      padding: ($list-padding-left / 4) ($list-padding-left / 2);
 
@@ -225,8 +228,6 @@ td, th {
 }
 
 .figure {
-     @extend .panel;
-
      box-shadow: none;
      clear: both;
      font-size: $caption-font-size;
@@ -312,10 +313,6 @@ td, th {
 }
 
 .literal-block {
-     @extend .panel;
-
-     border: $border-weak;
-     border-radius: 0;
      font-family: Consolas, menlo;
 
      // Don't wrap literal code; scroll instead. Otherwise long text becomes

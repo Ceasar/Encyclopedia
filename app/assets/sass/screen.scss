@@ -123,13 +123,36 @@ h1 {
     border-bottom: $border-weak;
 }
 
+h1, h2, h3, h4, h5, h6 {
+     font-size: 1em;
+}
+
+// These follow the formula 1 + n * (n + 1) * 1/30, which ensures that the
+// maximum font-size (i.e. h1) is 2.0em. The triangular pattern was based off
+// of the pattern of HTML4.
+
+h1 {
+     font-size: 2.0em;
+}
+
 h2 {
-     font-size: 1.333em;
+     font-size: 1.666em;
 }
 
 h3 {
+     font-size: 1.4em;
+}
+
+h4 {
+     font-size: 1.2em;
+}
+
+h5 {
+     font-size: 1.066em;
+}
+
+h6 {
      font-size: 1em;
-     font-style: italic;
 }
 
 iframe {

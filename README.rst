@@ -4,6 +4,7 @@
 .. _quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _reStructedText: http://docutils.sourceforge.net/rst.html
 .. _rest: reStructedText_
+.. _Homebrew: http://brew.sh/
 .. _`the repository`: https://github.com/Ceasar/Encyclopedia
 .. _`open a fresh issue`: https://github.com/Ceasar/Encyclopedia/issues
 
@@ -39,6 +40,53 @@ Features
 - Document search
 
 .. figure:: http://i.imgur.com/FXUUSNo.jpg
+
+Requirements
+================================================================================
+
+The short version:
+--------------------------------------------------------------------------------
+Make sure you have:
+
+- Python + virtualenv
+- Ruby + bundler and foreman gems
+- Node + npm
+
+Then just run ``make env`` and move on to Quickstart.
+
+The long version (for Mac OS X):
+--------------------------------------------------------------------------------
+
+- Install Homebrew_
+- Set up rbenv and install a version of Ruby:
+.. code:: bash
+
+  $ brew install rbenv
+  $ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+  $ source ~/.bashrc
+  $ brew install rbenv-gem-rehash
+  $ brew install ruby-build
+  $ rbenv install 2.1.2
+  $ rbenv global 2.1.2
+
+- Install bundler and foreman gems:
+.. code:: bash
+
+  $ gem install bundler foreman --no-rdoc --no-ri
+
+- Install Node (and thus npm):
+.. code:: bash
+
+  $ brew install node
+
+- Install Python and set up the virtualenv:
+.. code:: bash
+
+  $ brew install python
+  $ pip install virtualenv
+  $ make env
+
+To check if everything is set up correctly, go through Quickstart and try to ``make server``.
 
 Quickstart
 ================================================================================
@@ -78,7 +126,7 @@ Next, we'll create two reST_ source files: ``src/Python.rst`` and
 
     Python was created by Guido van Rossum in 1991.
 
-    
+
 ``src/Programming_language.rst`` should look like this::
 
     ********************************************************************************
@@ -158,9 +206,9 @@ Markdown) for a few reasons.
    "Title") inline link.``).
 
 3. It is more powerful than Markdown. Some important examples:
-   
+
    - Directives, (e.g. ``contents`` injects a table of contents)
-     
+
    - Multiple levels of section headers (Markdown supports only ``=`` and ``-``
      and then requires ``#`` prefixes, which are hard to read. reST provides any
      non-alphanumeric character. e.g. ``=-`:.'"~^_*+#``)

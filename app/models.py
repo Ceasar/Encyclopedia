@@ -4,6 +4,9 @@ import unicodedata
 
 from whoosh.fields import Schema, ID, KEYWORD, STORED, TEXT
 
+from rst import rst_to_html
+from settings import DIRECTIVES, INDEX
+
 SCHEMA = Schema(
     content=TEXT(stored=True),
     tags=KEYWORD,
@@ -14,11 +17,10 @@ SCHEMA = Schema(
 
 class Document(object):
     """
-    A document consist of body or block-level elements, and may be structured
+    A document consists of body or block-level elements, and may be structured
     into sections.
-
     """
-    def __init__(self, title, time, tags=None):
+    def __init__(self, title, time=None, tags=None):
         self._title = title
         self.time = time
         self.tags = tags or []
@@ -35,6 +37,12 @@ class Document(object):
     @property
     def filename(self):
         return os.path.splitext(os.path.split(self.title)[-1])[0]
+
+    @property
+    def html(self):
+        with open(INDEX, 'rU') as index, open(DIRECTIVES, 'rU') as directives:
+            body = index.read() + directives.read() + self.content
+            return rst_to_html(body)
 
     def gen_elements(self):
         line_buffer = []

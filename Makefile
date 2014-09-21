@@ -11,7 +11,7 @@ STYLESHEETS = app/static/stylesheets/
 
 
 server:
-	bundle install
+	# bundle install
 	foreman start
 
 $(ENV): requirements.txt
@@ -31,3 +31,6 @@ stylesheets:
 clean:
 	rm -r $(BUILD)
 	rm -r $(STYLESHEETS)
+
+test:
+	py.test tests/

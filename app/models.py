@@ -108,6 +108,9 @@ class Document(object):
         form = unicodedata.normalize('NFKD', unistr)
         return form.encode('ascii', 'ignore')
 
+    def __repr__(self):
+        return "Document(title=%s, time=%s, tags=%s)" % (self.title, self.time,
+                                                         self.tags)
 
 def gen_documents(src):
     for dirpath, _, filenames in os.walk(src):

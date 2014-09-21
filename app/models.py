@@ -113,8 +113,13 @@ class Document(object):
         return "Document(title=%s, time=%s, tags=%s)" % (self.title, self.time,
                                                          self.tags)
 
-def gen_documents(src):
-    for dirpath, _, filenames in os.walk(src):
+
+def gen_documents(top):
+    """
+    Generate the Documents in a directory tree rooted at directory *top* by
+    walking the tree top-down (including *top* itself).
+    """
+    for dirpath, _, filenames in os.walk(top):
         for filename in filenames:
             if not filename.startswith("."):
                 filepath = os.path.join(dirpath, filename)

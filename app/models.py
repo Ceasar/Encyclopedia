@@ -67,7 +67,8 @@ class Document(object):
         The contents of the document rendered as HTML.
         """
         with open(INDEX, 'rU') as index, open(DIRECTIVES, 'rU') as directives:
-            body = index.read() + directives.read() + self.content
+            parts = [index.read(), directives.read(), self.content]
+            body = "".join(parts)
             return rst_to_html(body)
 
     def gen_elements(self):

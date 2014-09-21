@@ -20,12 +20,26 @@ def test_filename():
 
 def test_contents(tmpdir):
     p = tmpdir.join("Andy_Warhol.rst")
-    content = """
+    content = (
+    """
     ***********
     Andy Warhol
     ***********
 
     **Andy Warhol** was an artist.
-    """
+    """)
     p.write(content)
     assert Document(p).content == content
+
+
+def test_html(tmpdir):
+    p = tmpdir.join("Andy_Warhol.rst")
+    content = ("***********\n"
+               "Andy Warhol\n"
+               "***********\n"
+               "**Andy Warhol** was an artist.")
+    p.write(content)
+    doc = Document(p)
+    html = doc.html
+    assert '<h1 class="title">Andy Warhol</h1>' in html
+    assert '<p><strong>Andy Warhol</strong> was an artist.</p>' in html

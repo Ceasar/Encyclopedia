@@ -1,14 +1,15 @@
 from whoosh.index import create_in, exists_in, open_dir
 from whoosh.qparser import MultifieldParser
 
-from models import Document, gen_documents
+from models import Document, Corpus
 
 
 def get_or_create_index(path, schema, src):
     """Get or create an Index."""
     index = open_dir(path) if exists_in(path) else create_in(path, schema)
     indexed_titles = set(field['title'] for field in gen_indexed_fields(index))
-    documents = set(gen_documents(src))
+    corpus = Corpus(src)
+    documents = set(corpus.gen_documents())
     update_index(index.writer(), indexed_titles, documents)
     return index
 

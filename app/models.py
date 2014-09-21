@@ -148,15 +148,14 @@ class Corpus(object):
         reference_name = name.replace("_", " ")
         return get_hyperlink_target(index, reference_name)
 
-
-def gen_documents(top):
-    """
-    Generate the Documents in a directory tree rooted at directory *top* by
-    walking the tree top-down (including *top* itself).
-    """
-    for dirpath, _, filenames in os.walk(top):
-        for filename in filenames:
-            if not filename.startswith("."):
-                filepath = os.path.join(dirpath, filename)
-                modtime = os.path.getmtime(filepath)
-                yield Document(title=filepath, time=modtime)
+    def gen_documents(self):
+        """
+        Generate the Documents in a directory tree rooted at directory *top* by
+        walking the tree top-down (including *top* itself).
+        """
+        for dirpath, _, filenames in os.walk(self.directory):
+            for filename in filenames:
+                if not filename.startswith("."):
+                    filepath = os.path.join(dirpath, filename)
+                    modtime = os.path.getmtime(filepath)
+                    yield Document(title=filepath, time=modtime)

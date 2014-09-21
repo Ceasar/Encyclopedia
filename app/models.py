@@ -44,6 +44,7 @@ class Document(object):
 
     @property
     def datetime(self):
+        """The date and time the document was modified."""
         return datetime.datetime.fromtimestamp(self.time)
 
     @property

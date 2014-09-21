@@ -1,8 +1,9 @@
-.PHONY: clean html server stylesheets
+.PHONY: clean coverage html server stylesheets test
 
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
 ENV=env
+MODULE=app
 # Directory containing input files
 SRC = src
 SASS_DIR = app/assets/sass/
@@ -34,3 +35,7 @@ clean:
 
 test:
 	py.test tests/
+
+# Generate a coverage report with line numbers of uncovered lines
+coverage:
+	py.test --verbose --cov-report term-missing --cov=$(MODULE) tests

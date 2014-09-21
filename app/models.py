@@ -128,6 +128,18 @@ class Document(object):
                                                          self.tags)
 
 
+class Corpus(object):
+    """A Corpus represents a set of documents."""
+    def __init__(self, directory):
+        self.directory = directory
+
+    def find(self, name):
+        """Find a document in the corpus."""
+        filename = name.replace(" ", "_") + ".rst"
+        rst_filename = os.path.join(self.directory, filename)
+        return Document(rst_filename)
+
+
 def gen_documents(top):
     """
     Generate the Documents in a directory tree rooted at directory *top* by

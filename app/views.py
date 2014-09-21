@@ -1,8 +1,9 @@
 import os
 
-from flask import abort, redirect, render_template, request, url_for
+from flask import (abort, current_app, redirect, render_template, request,
+                   url_for)
 
-from models import SCHEMA, Document
+from models import SCHEMA
 from rst import iteritems, get_hyperlink_target
 import search
 from settings import INDEX, INDEX_PATH, SRC
@@ -24,8 +25,7 @@ def article(name):
         return redirect(url_for("article", name=root))
     else:
         try:
-            rst_filename = os.path.join(SRC, name + ".rst")
-            document = Document(rst_filename)
+            document = current_app.corpus.find(name)
             return document.html
         except IOError:
             index = dict(iteritems(INDEX))

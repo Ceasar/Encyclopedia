@@ -1,6 +1,6 @@
 import datetime
 
-from app.models import Document
+from app.models import Corpus, Document
 
 
 def test_title():
@@ -43,3 +43,15 @@ def test_html(tmpdir):
     html = doc.html
     assert '<h1 class="title">Andy Warhol</h1>' in html
     assert '<p><strong>Andy Warhol</strong> was an artist.</p>' in html
+
+
+def test_find(tmpdir):
+    corpus = Corpus(str(tmpdir))
+    p = tmpdir.join("Andy_Warhol.rst")
+    content = ("***********\n"
+               "Andy Warhol\n"
+               "***********\n"
+               "**Andy Warhol** was an artist.")
+    p.write(content)
+    doc = corpus.find("Andy Warhol")
+    assert doc.filename == "Andy_Warhol"

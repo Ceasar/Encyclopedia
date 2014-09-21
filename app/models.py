@@ -19,6 +19,18 @@ class Document(object):
     """
     A document consists of body or block-level elements, and may be structured
     into sections.
+
+    :param title:
+        A string representing the path to the file, e.g.
+        ``"src/Andy_Warhol.rst"``.
+
+    :param time:
+        A float representing the time of last modification of *title* as
+        measured in numbers of seconds since the last epoch, e.g.
+        ``1405237014.0``.
+
+    :param tags:
+        A set of strings representing keywords that describe the file.
     """
     def __init__(self, title, time=None, tags=None):
         self._title = title

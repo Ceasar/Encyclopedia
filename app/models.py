@@ -49,6 +49,13 @@ class Document(object):
 
     @property
     def filename(self):
+        """
+        The name of the file.
+
+        >>> d = Document("src/Andy_Warhol.rst")
+        >>> d.filename
+        'Andy_Warhol'
+        """
         return os.path.splitext(os.path.split(self.title)[-1])[0]
 
     @property

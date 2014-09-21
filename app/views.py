@@ -26,16 +26,15 @@ def article(name):
     else:
         try:
             document = current_app.corpus.find(name)
-            return document.html
-        except IOError:
-            index = dict(iteritems(INDEX))
-            reference_name = name.replace("_", " ")
+        except ValueError:
             try:
-                target = get_hyperlink_target(index, reference_name)
+                canonical_name = current_app.corpus.get_canonical_name(name)
             except KeyError:
                 abort(404)
             else:
-                return redirect(target)
+                return redirect(canonical_name)
+        else:
+            return document.html
 
 
 def search_view():

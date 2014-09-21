@@ -4,8 +4,8 @@ import unicodedata
 
 from whoosh.fields import Schema, ID, KEYWORD, STORED, TEXT
 
-from rst import rst_to_html
 from settings import DIRECTIVES, INDEX
+from rst import iteritems, get_hyperlink_target, rst_to_html
 
 SCHEMA = Schema(
     content=TEXT(stored=True),
@@ -134,10 +134,19 @@ class Corpus(object):
         self.directory = directory
 
     def find(self, name):
-        """Find a document in the corpus."""
+        """Try to find a document named *name* in the corpus."""
         filename = name.replace(" ", "_") + ".rst"
-        rst_filename = os.path.join(self.directory, filename)
-        return Document(rst_filename)
+        filepath = os.path.join(self.directory, filename)
+        if os.path.exists(filepath):
+            return Document(filepath)
+        else:
+            raise ValueError("No Document named '%s' exists" % name)
+
+    def get_canonical_name(self, name):
+        """Find the canonical name for *name*."""
+        index = dict(iteritems(INDEX))
+        reference_name = name.replace("_", " ")
+        return get_hyperlink_target(index, reference_name)
 
 
 def gen_documents(top):

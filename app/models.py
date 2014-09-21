@@ -39,6 +39,9 @@ class Document(object):
 
     @property
     def content(self):
+        """
+        Read the contents of a document.
+        """
         with open(self.title, 'rU') as f:
             return unicode(self._decode(f.read()))
 

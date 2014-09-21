@@ -16,3 +16,16 @@ def test_datetime():
 def test_filename():
     doc = Document("src/Andy_Warhol.rst")
     assert doc.filename == "Andy_Warhol"
+
+
+def test_contents(tmpdir):
+    p = tmpdir.join("Andy_Warhol.rst")
+    content = """
+    ***********
+    Andy Warhol
+    ***********
+
+    **Andy Warhol** was an artist.
+    """
+    p.write(content)
+    assert Document(p).content == content

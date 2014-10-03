@@ -12,6 +12,9 @@
 Encyclopedia
 ================================================================================
 
+.. image:: https://travis-ci.org/Ceasar/Encyclopedia.svg
+    :target: https://travis-ci.org/Ceasar/Encyclopedia
+
 **Encyclopedia** is a tool that helps you write and maintain a private
 hypermedia encyclopedia.
 

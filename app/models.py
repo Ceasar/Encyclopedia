@@ -48,7 +48,7 @@ class Document(object):
     @property
     def datetime(self):
         """The date and time the document was modified."""
-        return datetime.datetime.fromtimestamp(self.time)
+        return datetime.datetime.utcfromtimestamp(self.time)
 
     @property
     def filename(self):
@@ -66,10 +66,20 @@ class Document(object):
         """
         The contents of the document rendered as HTML.
         """
-        with open(INDEX, 'rU') as index, open(DIRECTIVES, 'rU') as directives:
-            parts = [index.read(), directives.read(), self.content]
-            body = "".join(parts)
-            return rst_to_html(body)
+        parts = []
+        try:
+            with open(INDEX, 'rU') as index:
+                parts.append(index.read())
+        except IOError:
+            pass
+        try:
+            with open(DIRECTIVES, 'rU') as directives:
+                parts.append(directives.read())
+        except IOError:
+            pass
+        parts.append(self.content)
+        body = "".join(parts)
+        return rst_to_html(body)
 
     def gen_elements(self):
         line_buffer = []
@@ -96,6 +106,10 @@ class Document(object):
     @property
     def paragraphs(self):
         return list(self.gen_paragraphs())
+
+    @property
+    def html_paragraphs(self):
+        return list(rst_to_html(p) for p in self.gen_paragraphs())
 
     @property
     def reference_name(self):

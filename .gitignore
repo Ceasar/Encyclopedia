@@ -3,10 +3,13 @@
 .env
 .index
 .sass-cache/
+.tox
+*.egg-info
 *.pyc
 
 config/index.rst
 env
+dist/
 node_modules/
 src/
 app/static/images/

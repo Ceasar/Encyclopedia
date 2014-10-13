@@ -58,3 +58,7 @@ def search_view():
 
     return render_template("_layouts/search.html", querystring=querystring,
                            results=results)
+
+
+def open_search():
+    return render_template("opensearch.xml"), 200, {'Content-Type': 'text/xml'}

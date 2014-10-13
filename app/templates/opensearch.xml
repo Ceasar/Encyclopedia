@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Encyclopedia</ShortName>
+    <Description>Search Encyclopedia articles</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Url type="text/html"
+        template="{{ url_for('index', _external=True) }}search?q={searchTerms}"></Url>
+    <Url type="application/opensearchdescription+xml"
+         rel="self"
+         template="{{ url_for('open_search') }}"/>
+    <moz:SearchForm>{{ url_for('index', _external=True) }}</moz:SearchForm>
+</OpenSearchDescription>

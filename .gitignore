@@ -6,6 +6,7 @@
 .tox
 *.egg-info
 *.pyc
+MANIFEST
 
 config/index.rst
 env

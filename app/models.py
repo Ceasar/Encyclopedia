@@ -51,6 +51,11 @@ class Document(object):
         return datetime.datetime.utcfromtimestamp(self.time)
 
     @property
+    def excerpt(self):
+        """A short extract from the document."""
+        return next(self.gen_paragraphs())
+
+    @property
     def filename(self):
         """
         The name of the file.

@@ -27,7 +27,6 @@ $font-family: "Times New Roman";
 $font-size: 18px;
 $font-size-weak: 0.875em;
 $h1-font-size: 2.6em;
-$max-height-iphone: 372px;
 $line-height: 1.5em; // 1em + (2em / 3);
 $margin-bottom-flow-content: 0.625em;
 
@@ -159,7 +158,7 @@ iframe {
 }
 
 img {
-     max-height: $max-height-iphone - $caption-font-size;
+     max-height: 100vh;
      max-width: 100%;
 }
 

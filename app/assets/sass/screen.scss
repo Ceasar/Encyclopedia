@@ -247,6 +247,7 @@ td, th {
 .document {
      @extend .container;
      max-width: $document-max-width;
+     word-break: break-word;
 }
 
 .figure {

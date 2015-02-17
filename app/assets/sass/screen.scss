@@ -185,6 +185,10 @@ td, th {
     padding: 0 0.5em;
 }
 
+th {
+     white-space: nowrap;
+}
+
 .abstract > .first {
      font-weight: bolder;
      text-align: center;

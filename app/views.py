@@ -36,7 +36,7 @@ def article(name):
 
 
 def view_image(name):
-    image = current_app.dbx_client.find_image(name)
+    image = current_app.dbx_client.get_image(name)
     return send_file(
         io.BytesIO(image.content),
         mimetype=image.mimetype,

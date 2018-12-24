@@ -1,6 +1,8 @@
 from collections import namedtuple
 import os
 
+import dropbox
+
 from rst import iteritems
 
 
@@ -11,9 +13,28 @@ class DropboxClient(object):
     def __init__(self, dbx):
         self._dbx = dbx
 
+    def get_canonical_name(self, name):
+        index = dict(iteritems(self.get_index().split('\n')))
+        key = name.lower()
+        while True:
+            print key
+            try:
+                key = index[key]
+            except KeyError:
+                break
+            else:
+                if key.endswith('_'):
+                    key = key[:-1]
+        filename, _ = os.path.splitext(key)
+        return filename
+
     def get_document(self, name):
-        _, resp = self._dbx.files_download('/documents/{}.rst'.format(name))
-        return ''.join([self.get_index(), self.get_directives(), resp.text])
+        try:
+            _, resp = self._dbx.files_download('/documents/{}.rst'.format(name))
+        except dropbox.exceptions.ApiError:
+            raise ValueError('No file named: "{}"'.format(name))
+        else:
+            return ''.join([self.get_index(), self.get_directives(), resp.text])
 
     def get_directives(self):
         _, resp = self._dbx.files_download('/config/directives.rst')

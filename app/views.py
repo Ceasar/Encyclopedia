@@ -25,8 +25,7 @@ def article(name):
             document = current_app.dbx_client.get_document(name)
         except ValueError:
             try:
-                # TODO: This is not defined
-                canonical_name = current_app.corpus.get_canonical_name(name)
+                canonical_name = current_app.dbx_client.get_canonical_name(name)
             except KeyError:
                 abort(404)
             else:

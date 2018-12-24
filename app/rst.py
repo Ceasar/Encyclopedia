@@ -52,6 +52,9 @@ def rst_to_html(rst_string, settings=None):
         settings = {
             # Include a time/datestamp in the document footer.
             'datestamp': '%Y-%m-%d %H:%M UTC',
+            # Output math blocks as LaTeX that can be interpreted by MathJax for
+            # a prettier display of Math formulas.
+            'math_output': 'MathJax',
             # Recognize and link to standalone PEP references (like "PEP 258").
             'pep_references': 1,
             # Do not report any system messages.

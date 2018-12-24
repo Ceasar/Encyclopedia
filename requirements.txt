@@ -1,9 +1,9 @@
 certifi==2018.11.29
 chardet==3.0.4
 Click==7.0
-docutils==0.11
+docutils==0.14
 dropbox==9.3.0
-Flask==0.10.1
+Flask==1.0.2
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10

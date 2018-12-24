@@ -1,51 +1,54 @@
-from rst import iteritems, rst_to_html
+from collections import namedtuple
+import os
+
+from rst import iteritems
 
 
-class Document(object):
-    def __init__(self, title, content):
-        self._title = title
-        self._content = content
-
-    def html(self, index, directive_file):
-        content = ''.join([index.rst, directive_file.rst, self._content])
-        return rst_to_html(content)
+Image = namedtuple('Image', ['content_type', 'content'])
 
 
-class Corpus(object):
+class DropboxClient(object):
     def __init__(self, dbx):
         self._dbx = dbx
 
-    def find_document(self, name):
+    def get_document(self, name):
         _, resp = self._dbx.files_download('/documents/{}.rst'.format(name))
-        return Document(name, resp.text)
+        return ''.join([self.get_index(), self.get_directives(), resp.text])
 
-    def find_image(self, name):
+    def get_directives(self):
+        _, resp = self._dbx.files_download('/config/directives.rst')
+        return resp.text
+
+    def get_image(self, name):
         path = '/images/{}'.format(name)
         metadata, resp = self._dbx.files_download(path)
-        return resp.content
 
+        filename, ext = os.path.splitext(name)
+        content_type = ('image/svg+xml' if ext == '.svg' else
+                        'image/{}'.format(ext[1:]))
 
-class Index(object):
-    def __init__(self, dbx):
-        self._dbx = dbx
+        return Image(content_type, resp.content)
 
-    def keys(self):
-        metadata, resp = self._dbx.files_download('/config/index.rst')
-        lines = resp.text.split('\n')
-        items = [k for (k, _) in iteritems(lines)]
-        return items
-
-    @property
-    def rst(self):
+    def get_index(self):
         _, resp = self._dbx.files_download('/config/index.rst')
         return resp.text
 
+    def get_index_keys(self):
+        lines = self.get_index().split('\n')
+        items = [k for (k, _) in iteritems(lines)]
+        return items
 
-class DirectiveFile(object):
-    def __init__(self, dbx):
-        self._dbx = dbx
+    def search_files(self, querystring):
+        search_result = self._dbx.files_search('/documents', querystring)
+        # Note that searching file content is only available for Dropbox
+        # Business accounts.
+        return [
+            self._parse_search_result(match) for match in search_result.matches
+        ]
 
-    @property
-    def rst(self):
-        _, resp = self._dbx.files_download('/config/directives.rst')
-        return resp.text
+    def _parse_search_result(self, match):
+        filename, ext = os.path.splitext(match.metadata.name)
+        return {
+            'filename': filename,
+            'reference_name': filename.replace('_', ' '),
+        }

@@ -1,7 +1,7 @@
 import dropbox
 from flask import Flask
 
-from dbx import Corpus, DirectiveFile, Index
+from dbx import DropboxClient
 from views import index, article, search_result, view_image
 
 
@@ -9,10 +9,7 @@ def create_app(access_token):
     app = Flask(__name__)
 
     dbx = dropbox.Dropbox(access_token)
-    app.dbx = dbx
-    app.corpus = Corpus(dbx)
-    app.index = Index(dbx)
-    app.directive_file = DirectiveFile(dbx)
+    app.dbx_client = DropboxClient(dbx)
 
     app.route("/")(index)
     app.route("/images/<name>")(view_image)

@@ -47,49 +47,18 @@ Features
 Requirements
 ================================================================================
 
-The short version:
---------------------------------------------------------------------------------
-Make sure you have:
-
-- Python + virtualenv
-- Ruby + bundler and foreman gems
-- Node + npm
-
-Then just run ``make env`` and move on to Quickstart.
-
-The long version (for Mac OS X):
---------------------------------------------------------------------------------
-
 - Install Homebrew_
-- Set up rbenv and install a version of Ruby:
-.. code:: bash
-
-  $ brew install rbenv
-  $ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-  $ source ~/.bashrc
-  $ brew install rbenv-gem-rehash
-  $ brew install ruby-build
-  $ rbenv install 2.1.2
-  $ rbenv global 2.1.2
-
-- Install bundler and foreman gems:
-.. code:: bash
-
-  $ gem install bundler foreman --no-rdoc --no-ri
-
-- Install Node (and thus npm):
-.. code:: bash
-
-  $ brew install node
 
 - Install Python and set up the virtualenv:
+
 .. code:: bash
 
   $ brew install python
   $ pip install virtualenv
   $ make env
 
-To check if everything is set up correctly, go through Quickstart and try to ``make server``.
+To check if everything is set up correctly, go through Quickstart and try to
+``make web``.
 
 Quickstart
 ================================================================================
@@ -152,7 +121,7 @@ Next, run:
 
 .. code:: bash
 
-     $ make server
+     $ make web
 
 This will both compile your source files into HTML and start a small server to
 view them. If you need to stop the server, hit control-C.

@@ -1,4 +1,4 @@
-.PHONY: clean coverage html server stylesheets test
+.PHONY: clean coverage stylesheets test
 
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 
@@ -7,13 +7,10 @@ MODULE=app
 # Directory containing input files
 SRC = src
 SASS_DIR = app/assets/sass/
-# Directory containing CSS files
-STYLESHEETS = app/static/stylesheets/
+CSS_DIR = app/static/stylesheets/
 
-
-server:
-	# bundle install
-	foreman start
+web: $(ENV) $(CSS_DIR)
+	. $(ENV)/bin/activate && python wsgi.py
 
 $(ENV): requirements.txt
 	virtualenv $(ENV)
@@ -21,17 +18,13 @@ ifeq ($(OS_NAME),Darwin)
 	export CFLAGS=-Qunused-arguments
 	export CPPFLAGS=-Qunused-arguments
 endif
-	. $(ENV)/bin/activate; pip install -r requirements.txt
+	. $(ENV)/bin/activate && pip install -r requirements.txt
 
-web: $(ENV)
-	. $(ENV)/bin/activate; python wsgi.py
-
-stylesheets:
-	compass watch --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
+$(CSS_DIR): $(SASS_DIR) $(ENV)
+	. $(ENV)/bin/activate && python ./scripts/compile_sass.py $(SASS_DIR) $(CSS_DIR)
 	
 clean:
-	rm -r $(BUILD)
-	rm -r $(STYLESHEETS)
+	rm -r $(CSS_DIR)
 
 test:
 	py.test tests/

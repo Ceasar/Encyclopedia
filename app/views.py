@@ -39,7 +39,7 @@ def view_image(name):
     image = current_app.dbx_client.get_image(name)
     return send_file(
         io.BytesIO(image.content),
-        mimetype=image.mimetype,
+        mimetype=image.content_type,
     )
 
 

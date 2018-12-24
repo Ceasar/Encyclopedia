@@ -1,16 +1,21 @@
+import dropbox
 from flask import Flask
 
-from models import Corpus
-from views import index, article, open_search, search_view
-
-from settings import SRC
+from dbx import Corpus, DirectiveFile, Index
+from views import index, article, search_result, view_image
 
 
-def create_app():
+def create_app(access_token):
     app = Flask(__name__)
-    app.corpus = Corpus(SRC)
+
+    dbx = dropbox.Dropbox(access_token)
+    app.dbx = dbx
+    app.corpus = Corpus(dbx)
+    app.index = Index(dbx)
+    app.directive_file = DirectiveFile(dbx)
+
     app.route("/")(index)
+    app.route("/images/<name>")(view_image)
+    app.route("/search")(search_result)
     app.route("/<name>")(article)
-    app.route("/opensearch")(open_search)
-    app.route("/search")(search_view)
     return app

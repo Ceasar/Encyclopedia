@@ -17,7 +17,6 @@ class DropboxClient(object):
         index = dict(iteritems(self.get_index().split('\n')))
         key = name.lower()
         while True:
-            print key
             try:
                 key = index[key]
             except KeyError:

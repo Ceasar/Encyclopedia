@@ -52,7 +52,6 @@ The short version:
 Make sure you have:
 
 - Python + virtualenv
-- Ruby + bundler and foreman gems
 - Node + npm
 
 Then just run ``make env`` and move on to Quickstart.
@@ -61,21 +60,6 @@ The long version (for Mac OS X):
 --------------------------------------------------------------------------------
 
 - Install Homebrew_
-- Set up rbenv and install a version of Ruby:
-.. code:: bash
-
-  $ brew install rbenv
-  $ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-  $ source ~/.bashrc
-  $ brew install rbenv-gem-rehash
-  $ brew install ruby-build
-  $ rbenv install 2.1.2
-  $ rbenv global 2.1.2
-
-- Install bundler and foreman gems:
-.. code:: bash
-
-  $ gem install bundler foreman --no-rdoc --no-ri
 
 - Install Node (and thus npm):
 .. code:: bash

@@ -10,11 +10,6 @@ SASS_DIR = app/assets/sass/
 # Directory containing CSS files
 STYLESHEETS = app/static/stylesheets/
 
-
-server:
-	# bundle install
-	foreman start
-
 $(ENV): requirements.txt
 	virtualenv $(ENV)
 ifeq ($(OS_NAME),Darwin)
@@ -27,7 +22,7 @@ web: $(ENV)
 	. $(ENV)/bin/activate; python wsgi.py
 
 stylesheets:
-	compass watch --css-dir=$(STYLESHEETS) --sass-dir=$(SASS_DIR)
+	python ./scripts/compile_sass.py $(SASS_DIR) $(STYLESHEETS)
 	
 clean:
 	rm -r $(BUILD)

@@ -1,4 +1,4 @@
-.PHONY: clean coverage html server stylesheets test
+.PHONY: clean coverage stylesheets test
 
 ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future
 

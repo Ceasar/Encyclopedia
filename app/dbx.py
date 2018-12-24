@@ -3,7 +3,7 @@ import os
 
 import dropbox
 
-from rst import iteritems
+from .rst import iteritems
 
 
 Image = namedtuple('Image', ['content_type', 'content'])

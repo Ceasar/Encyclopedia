@@ -3,7 +3,8 @@ import os
 
 from flask import (abort, current_app, redirect, render_template, request,
                    url_for, send_file)
-from rst import rst_to_html
+
+from .rst import rst_to_html
 
 
 def index():

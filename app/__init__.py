@@ -1,8 +1,8 @@
 import dropbox
 from flask import Flask
 
-from dbx import DropboxClient
-from views import index, article, search_result, view_image
+from .dbx import DropboxClient
+from .views import index, article, search_result, view_image
 
 
 def create_app(access_token):

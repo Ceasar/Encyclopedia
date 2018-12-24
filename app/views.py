@@ -21,7 +21,7 @@ def article(name):
         return redirect(url_for("article", name=root))
     else:
         try:
-            document = current_app.corpus.find(name)
+            document = current_app.corpus.find_document(name)
         except ValueError:
             try:
                 canonical_name = current_app.corpus.get_canonical_name(name)

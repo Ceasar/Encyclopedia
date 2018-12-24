@@ -15,7 +15,7 @@ class Corpus(object):
     def __init__(self, dbx):
         self._dbx = dbx
 
-    def find(self, name):
+    def find_document(self, name):
         _, resp = self._dbx.files_download('/documents/{}.rst'.format(name))
         return Document(name, resp.text)
 
@@ -33,7 +33,6 @@ class Index(object):
         metadata, resp = self._dbx.files_download('/config/index.rst')
         lines = resp.text.split('\n')
         items = [k for (k, _) in iteritems(lines)]
-        print items[0], items[-1], len(items)
         return items
 
     @property

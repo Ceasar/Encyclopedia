@@ -40,6 +40,9 @@ $caption-font-size: $font-size;
 // assuming no list will be longer than 99 elements.
 $list-padding-left: 2em;
 
+$figure-margin-horizontal: -50%;
+$document-margin-left: $figure-margin-horizontal / -4;
+
 
 $tt-font-size: 17px;
 
@@ -55,7 +58,7 @@ a, a:hover {
     text-decoration: underline;
 }
 
-blockquote, dd, dl, h1, h2, h3, h4, h5, ol, p, table, ul, .contents, .figure, .formula, .literal-block {
+blockquote, dd, dl, h1, h2, h3, h4, h5, ol, p, table, ul, p + img, .contents, .figure, .formula, .literal-block, .note, .warning {
      margin-bottom: $margin-bottom-flow-content;
 }
 
@@ -63,6 +66,7 @@ blockquote {
     font-size: 1em;
      padding: 0;
      padding-left: 6%; // Roughly 4 / 66 CPL
+     padding-left: 1em;
 }
 
 body {
@@ -156,9 +160,19 @@ h6 {
 iframe {
 }
 
-img {
+img, video {
      max-height: 100vh;
      max-width: 100%;
+}
+
+img.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+object {
+     width: 100%;
 }
 
 ol, ul {
@@ -195,7 +209,6 @@ th {
 
 .address, .contents, .literal-block {
      @extend .panel;
-     border: $border-weak;
      border-radius: 0;
      box-shadow: none;
 }
@@ -249,17 +262,34 @@ th {
 
 .document {
      @extend .container;
-     max-width: $document-max-width;
+     max-width: 50%;
+     max-width: 75%;
+     padding: 0;
      word-break: break-word;
+     // TODO: This is stupid, don't do this
+     // margin-left: $document-margin-left;
 }
 
 .figure {
      box-shadow: none;
      clear: both;
+     float: right;
      font-size: $caption-font-size;
      padding: 0.2em;
      position: relative;
      text-align: center;
+
+     // based on 700px
+     // This shift of 50% and max width of 75% ensures we can only clobber 25%
+     // of a line.
+     margin-bottom: 10px;
+     margin-left: 30px;
+     margin-right: $figure-margin-horizontal;
+     margin-top: 10px;
+     max-width: 66%;
+
+     margin-right: 0;
+     max-width: 44%;
 }
 
 .citation-reference, .footnote-reference {
@@ -330,20 +360,25 @@ th {
 }
 
 .literal {
-     background-color: $color-background-strong;
-     border: $border-weak;
      color: $color-foreground-weak;
-     font-family: Consolas, menlo; // Identical to font-family in literal blocks
      font-size: 0.7em; // Identical to font-size in literal blocks
-     padding: 2px 4px; // Taken from Bootstrap
 }
 
 .literal-block {
-     font-family: Consolas, menlo;
-
      // Don't wrap literal code; scroll instead. Otherwise long text becomes
      // unreadable. TODO: It's unclear how strong this rationale is.
      word-wrap: normal;
+}
+
+.literal, .literal-block {
+     font-family: Consolas, Menlo, monospace;
+}
+
+.note {
+     background-color: #f9f9ff;
+     border: 1px solid #d9edf7;
+     color: darkslategray;
+     padding: 0.525em; // The same as pre
 }
 
 .section {
@@ -405,6 +440,17 @@ th {
 
 .problematic {
      color: #a55858;
+}
+
+.admonition-title {
+     font-weight: bolder;
+}
+
+.warning {
+     background-color: #fff9f9;
+     border: 1px solid #ffdcdc;
+     color: darkslategray;
+     padding: 0.525em; // The same as pre
 }
 
 #searchform {

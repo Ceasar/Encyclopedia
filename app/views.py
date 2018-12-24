@@ -2,7 +2,7 @@ import io
 import os
 
 from flask import (abort, current_app, redirect, render_template, request,
-                   url_for, send_file, jsonify)
+                   url_for, send_file)
 
 
 def index():
@@ -43,20 +43,24 @@ def view_image(name):
     )
 
 
+def _parse_search_result(match):
+    filename, ext = os.path.splitext(match.metadata.name)
+    return {
+        'filename': filename,
+        'reference_name': filename.replace('_', ' '),
+    }
+
+
 def search_result():
     querystring = request.args.get('q')
     search_result = current_app.dbx.files_search('/documents', querystring)
     # Note that searching file content is only available for Dropbox Business
     # accounts.
-    return jsonify({
-        'matches': [
-            {
-                'name': match.metadata.name,
-                'path_display': match.metadata.path_display,
-                'path_lower': match.metadata.path_lower,
-                'filename': match.match_type.is_filename(),
-                'content': match.match_type.is_content(),
-            } for match in search_result.matches
-        ],
-        'more': search_result.more
-    })
+    results = [
+        _parse_search_result(match) for match in search_result.matches
+    ]
+    return render_template(
+        "_layouts/search.html",
+        querystring=querystring,
+        results=results
+    )

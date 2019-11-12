@@ -8,14 +8,14 @@ from docutils import core
 from docutils.writers.html4css1 import Writer, HTMLTranslator
 
 
-def iteritems(filename):
-    with open(filename) as f:
-        for line in f:
-            try:
-                reference_name, hyperlink_target = line.split(":")
-            except ValueError:
-                # the line has multiple ":" in it; probably an external link
-                continue
+def iteritems(lines):
+    for line in lines:
+        try:
+            reference_name, hyperlink_target = line.split(":")
+        except ValueError:
+            # the line has multiple ":" in it; probably an external link
+            pass
+        else:
             # strip the leading ".. _" from the reference_name
             reference_name = reference_name[4:]
             yield reference_name, hyperlink_target.strip()

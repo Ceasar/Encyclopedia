@@ -12,8 +12,6 @@
 {% for result in results %}
 <li class="hit"><div>
         <h2><a href="/{{result.filename}}">{{result.reference_name}}</a></h2>
-        <p>{{result.excerpt}}</p>
-        <p class="hit-meta">{{result.datetime}}</p>
 </div></li>
 {% endfor %}
 </ol>

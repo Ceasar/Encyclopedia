@@ -58,7 +58,7 @@ def rst_to_html(rst_string, settings=None):
             # Recognize and link to standalone PEP references (like "PEP 258").
             'pep_references': 1,
             # Do not report any system messages.
-            'report_level': 'none',
+            'report_level': 5,
             # Recognize and link to standalone RFC references (like "RFC 822").
             'rfc_references': 1,
         }

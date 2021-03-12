@@ -12,6 +12,7 @@ config/index.rst
 env
 dist/
 node_modules/
+src
 src/
 app/static/images/
 app/static/stylesheets/

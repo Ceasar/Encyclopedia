@@ -10,7 +10,7 @@ SASS_DIR = app/assets/sass/
 CSS_DIR = app/static/stylesheets/
 
 web: $(ENV) $(CSS_DIR)
-	. $(ENV)/bin/activate && python wsgi.py
+	. $(ENV)/bin/activate && python app/wsgi.py
 
 $(ENV): requirements.txt
 	virtualenv $(ENV)

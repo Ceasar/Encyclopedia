@@ -1,5 +1,6 @@
 import os
 
+from bs4 import BeautifulSoup
 from flask import (abort, current_app, redirect, render_template, request,
                    url_for)
 
@@ -34,7 +35,15 @@ def article(name):
             else:
                 return redirect(canonical_name)
         else:
-            return document.html
+            html_doc = document.html
+            soup = BeautifulSoup(html_doc, 'html.parser')
+            body = str(soup.body)
+            title = name.replace('_', ' ')
+            return render_template(
+                'article.html',
+                document=body,
+                title=title
+            )
 
 
 def search_view():

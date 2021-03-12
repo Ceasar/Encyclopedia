@@ -62,5 +62,6 @@ def rst_to_html(rst_string, settings=None):
             # Recognize and link to standalone RFC references (like "RFC 822").
             'rfc_references': 1,
         }
-    return core.publish_string(rst_string, writer=writer,
+    document = core.publish_string(rst_string, writer=writer,
                                settings_overrides=settings)
+    return str(document, "utf-8")

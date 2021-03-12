@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Encyclopedia</title>
+        <title>{% block title %}Encyclopedia{% endblock %}</title>
         <link rel="stylesheet" href="/static/stylesheets/screen.css" type="text/css" />
         <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
         <link rel="search" type="application/opensearchdescription+xml" title="Encyclopedia" href="/opensearch" />

@@ -14,6 +14,8 @@ SCHEMA = Schema(
     time=STORED,
 )
 
+unicode = str
+
 
 class Document(object):
     """
@@ -43,7 +45,7 @@ class Document(object):
         Read the contents of a document.
         """
         with open(self.title, 'rU') as f:
-            return unicode(self._decode(f.read()))
+            return f.read()
 
     @property
     def datetime(self):
@@ -94,10 +96,10 @@ class Document(object):
                     line_buffer.append(line.rstrip())
                 else:
                     if line_buffer:
-                        yield self._decode("\n".join(line_buffer))
+                        yield "\n".join(line_buffer)
                     line_buffer = []
         if line_buffer:
-            yield self._decode("\n".join(line_buffer))
+            yield "\n".join(line_buffer)
 
     def gen_paragraphs(self):
         for element in self.gen_elements():
@@ -133,14 +135,6 @@ class Document(object):
             return False
         else:
             return element[0].isalpha() or element[0] == "*"
-
-    def _decode(self, text, encoding="UTF-8"):
-        """
-        Encode a Unicode string as ascii, ignoring any errors.
-        """
-        unistr = text.decode(encoding)
-        form = unicodedata.normalize('NFKD', unistr)
-        return form.encode('ascii', 'ignore')
 
     def __repr__(self):
         return "Document(title=%s, time=%s, tags=%s)" % (self.title, self.time,

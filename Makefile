@@ -6,10 +6,12 @@ ENV=env
 MODULE=app
 # Directory containing input files
 SRC = src
+INVERTED_INDEX = config/inverted_index.json
+
 SASS_DIR = app/assets/sass/
 CSS_DIR = app/static/stylesheets/
 
-web: $(ENV) $(CSS_DIR)
+web: $(ENV) $(CSS_DIR) $(INVERTED_INDEX)
 	. $(ENV)/bin/activate && python app/wsgi.py
 
 $(ENV): requirements.txt
@@ -25,6 +27,9 @@ $(CSS_DIR): $(SASS_DIR) $(ENV)
 	
 clean:
 	rm -r $(CSS_DIR)
+
+$(INVERTED_INDEX): $(SRC)/*
+	. $(ENV)/bin/activate && python app/backlinks.py > $(INVERTED_INDEX)
 
 test:
 	py.test tests/

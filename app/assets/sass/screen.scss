@@ -76,6 +76,10 @@ body {
      line-height: $line-height;
 }
 
+body {
+    display: flex;
+}
+
 button {
      background-color: $color-background-strongest;
      border: $border-weak;
@@ -451,6 +455,15 @@ th {
      border: 1px solid #ffdcdc;
      color: darkslategray;
      padding: 0.525em; // The same as pre
+}
+
+.backlinks-container {
+    padding: 2em;
+}
+
+.backlinks-container, .document {
+    height: 100vh;
+    overflow: scroll;
 }
 
 #searchform {

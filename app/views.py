@@ -7,7 +7,7 @@ from flask import (abort, current_app, redirect, render_template, request,
 from models import SCHEMA
 from rst import iteritems, get_hyperlink_target
 import search
-from settings import INDEX, INDEX_PATH, SRC
+from settings import INDEX, INDEX_PATH, SRC, BACKLINKS
 
 
 def index():
@@ -39,10 +39,12 @@ def article(name):
             soup = BeautifulSoup(html_doc, 'html.parser')
             body = str(soup.body)
             title = name.replace('_', ' ')
+            backlinks = BACKLINKS.get("{}.html".format(document.filename), [])
             return render_template(
                 'article.html',
                 document=body,
-                title=title
+                title=title,
+                backlinks=sorted(backlinks),
             )
 
 

@@ -17,3 +17,4 @@ src/
 app/static/images
 app/static/images/
 app/static/stylesheets/
+config/inverted_index.json

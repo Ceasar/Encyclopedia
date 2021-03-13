@@ -107,6 +107,10 @@ class Document(object):
                 yield element
 
     @property
+    def links(self):
+        pass
+
+    @property
     def is_stale(self):
         return os.path.getmtime(self.title) > self.time
 

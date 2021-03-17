@@ -32,6 +32,21 @@ def get_hyperlink_target(index, reference_name):
         return hyperlink_target
 
 
+SETTINGS = {
+    # Include a time/datestamp in the document footer.
+    'datestamp': '%Y-%m-%d %H:%M UTC',
+    # Output math blocks as LaTeX that can be interpreted by MathJax for
+    # a prettier display of Math formulas.
+    'math_output': 'MathJax',
+    # Recognize and link to standalone PEP references (like "PEP 258").
+    'pep_references': 1,
+    # Do not report any system messages.
+    'report_level': 5,
+    # Recognize and link to standalone RFC references (like "RFC 822").
+    'rfc_references': 1,
+}
+
+
 def rst_to_html(rst_string, settings=None):
     """Convert a string written in reStructuredText to an HTML string.
 
@@ -49,19 +64,13 @@ def rst_to_html(rst_string, settings=None):
     writer = Writer()
     writer.translator_class = HTMLTranslator
     if settings is None:
-        settings = {
-            # Include a time/datestamp in the document footer.
-            'datestamp': '%Y-%m-%d %H:%M UTC',
-            # Output math blocks as LaTeX that can be interpreted by MathJax for
-            # a prettier display of Math formulas.
-            'math_output': 'MathJax',
-            # Recognize and link to standalone PEP references (like "PEP 258").
-            'pep_references': 1,
-            # Do not report any system messages.
-            'report_level': 5,
-            # Recognize and link to standalone RFC references (like "RFC 822").
-            'rfc_references': 1,
-        }
-    document = core.publish_string(rst_string, writer=writer,
-                               settings_overrides=settings)
+        document = core.publish_string(rst_string, writer=writer,
+                                       settings_overrides=SETTINGS)
     return str(document, "utf-8")
+
+
+def rst_to_html_fragment(text):
+    parts = core.publish_parts(source=text,
+                              writer_name='html',
+                              settings_overrides=SETTINGS)
+    return parts['body_pre_docinfo']+parts['fragment']

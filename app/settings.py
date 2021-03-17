@@ -11,6 +11,9 @@ SRC = "src"
 
 def get_backlinks():
     with open('config/inverted_index.json') as fp:
-        return json.loads(fp.read())
+        try:
+            return json.loads(fp.read())
+        except json.decoder.JSONDecodeError:
+            return {}
 
 BACKLINKS = get_backlinks()

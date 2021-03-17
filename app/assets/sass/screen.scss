@@ -466,6 +466,12 @@ th {
     overflow: scroll;
 }
 
+.suggestion {
+    background: white;
+    border: $border-strong;
+    padding: 1em;
+}
+
 #searchform {
      left: 0;
      position: absolute;

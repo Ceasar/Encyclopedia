@@ -1,18 +1,32 @@
 import os
+import json
 
 from bs4 import BeautifulSoup
 from flask import (abort, current_app, redirect, render_template, request,
                    url_for)
 
 from models import SCHEMA
-from rst import iteritems, get_hyperlink_target
+from rst import iteritems, get_hyperlink_target, rst_to_html_fragment
 import search
 from settings import INDEX, INDEX_PATH, SRC, BACKLINKS
 
 
 def index():
-    reference_names = [k for k, _ in iteritems(INDEX)]
-    return render_template("_layouts/index.html", anchors=reference_names)
+    suggestions = []
+    corpus = current_app.corpus
+    for document in corpus.gen_documents():
+        try:
+            preview = rst_to_html_fragment(document.excerpt)
+        except StopIteration:
+            preview = None
+        suggestions.append({
+            "title": document.reference_name,
+            "preview": preview,
+        })
+    return render_template(
+        "_layouts/index.html",
+        suggestions=suggestions
+    )
 
 
 def article(name):

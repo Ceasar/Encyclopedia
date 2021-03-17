@@ -12,26 +12,33 @@
         </div>
     </form>
 </div>
+<script id="suggestions" type="json">
+{{suggestions | tojson | safe}}
+</script>
+<script id="suggestion-template" type="text/x-handlebars-template">
+{% raw %}
+<div class="suggestion">
+    <div>{{title}}</div>
+    <p>{{{preview}}}</p>
+</div>
+{% endraw %}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
 <script src="/static/js/jquery-1.10.2.min.js"></script>
 <script src="/static/js/typeahead.js"></script>
 <script>
-    var substringMatcher = function(strs) {
+    var substringMatcher = function(suggestions) {
         return function findMatches(q, cb) {
             var matches, substrRegex;
 
-            // an array that will be populated with substring matches
             matches = [];
 
-            // regex used to determine if a string contains the substring `q`
             substrRegex = new RegExp(q, 'i');
 
-            // iterate through the pool of strings and for any string that
-            // contains the substring `q`, add it to the `matches` array
-            $.each(strs, function(i, str) {
+            $.each(suggestions, function(i, suggestion) {
+                const str = suggestion.title;
                 if (substrRegex.test(str)) {
-                    // the typeahead jQuery plugin expects suggestions to a
-                    // JavaScript object, refer to typeahead docs for more info
-                    matches.push({ value: str });
+                    matches.push({ title: str, preview: suggestion.preview });
                 }
             });
 
@@ -39,23 +46,28 @@
         };
     };
 
-    var anchors = [
-    // Inject via Jinja2
-    {% for anchor in anchors %}
-    "{{anchor}}",
-    {% endfor %}
-    null
-    ];
+    const text = $('#suggestions').text()
+    const suggestions = JSON.parse(text);
+    const templateText = $("#suggestion-template").html()
+    const template = Handlebars.compile(templateText);
+    console.log(template({title: 'x', preview: 'das'}))
 
     $('input').typeahead({
         hint: true,
         highlight: true,
+        limit: 10,
         minLength: 1
-    },
-    {
+    }, {
         name: 'anchors',
         displayKey: 'value',
-        source: substringMatcher(anchors)
+        source: substringMatcher(suggestions),
+        templates: {
+            suggestion: template,
+        }
     });
+
+    $('input').bind('typeahead:beforeclose', function(event, data) {
+      event.preventDefault()
+    })
 </script>
 {% endblock %}

@@ -88,9 +88,13 @@ def invert_dict(dict_):
     return dict(inverted)
 
 
-def main():
+def get_inverted_index():
     out_links = get_out_links()
-    inverted = invert_dict(out_links)
-    print(json.dumps(inverted, indent=4, sort_keys=True))
+    return invert_dict(out_links)
+
+
+def main():
+    inverted_index = get_inverted_index()
+    print(json.dumps(inverted_index, indent=4, sort_keys=True))
 
 main()

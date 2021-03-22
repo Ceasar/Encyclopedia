@@ -83,19 +83,18 @@ def rst_to_html_fragment(text):
 class ReferenceVisitor(docutils.nodes.NodeVisitor):
     def __init__(self, doc):
         super().__init__(doc)
-        self._references = []
-
-    @property
-    def references(self):
-        return self._references
+        self.references = []
+        self.strongs = []
 
     def visit_reference(self, node: docutils.nodes.reference) -> None:
         """Called for "reference" nodes."""
-        self._references.append(node)
+        self.references.append(node)
+
+    def visit_strong(self, node: docutils.nodes.strong) -> None:
+        self.strongs.append(node)
 
     def unknown_visit(self, node: docutils.nodes.Node) -> None:
         """Called for all other node types."""
-        # print(node)
         pass
 
 
@@ -113,3 +112,10 @@ def get_references(text):
     visitor = ReferenceVisitor(doc)
     doc.walk(visitor)
     return [ref.attributes['refname'] for ref in visitor.references if ref.attributes.get('refname')]
+
+
+def get_strong_nodes(text):
+    doc = parse_rst(text)
+    visitor = ReferenceVisitor(doc)
+    doc.walk(visitor)
+    return [str(node.children[0]) for node in visitor.strongs]

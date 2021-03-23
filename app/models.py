@@ -1,18 +1,10 @@
+import collections
 import datetime
 import os
 import unicodedata
 
-from whoosh.fields import Schema, ID, KEYWORD, STORED, TEXT
-
-from settings import DIRECTIVES, INDEX
-from rst import iteritems, get_hyperlink_target, rst_to_html
-
-SCHEMA = Schema(
-    content=TEXT(stored=True),
-    tags=KEYWORD,
-    title=ID(unique=True, stored=True),
-    time=STORED,
-)
+from app.rst import iteritems, get_hyperlink_target, parse_elements, rst_to_html
+from app.settings import DIRECTIVES, INDEX
 
 unicode = str
 
@@ -44,7 +36,7 @@ class Document(object):
         """
         Read the contents of a document.
         """
-        with open(self.title, 'rU') as f:
+        with open(self.title, 'r') as f:
             return f.read()
 
     @property
@@ -75,12 +67,12 @@ class Document(object):
         """
         parts = []
         try:
-            with open(INDEX, 'rU') as index:
+            with open(INDEX, 'r') as index:
                 parts.append(index.read())
         except IOError:
             pass
         try:
-            with open(DIRECTIVES, 'rU') as directives:
+            with open(DIRECTIVES, 'r') as directives:
                 parts.append(directives.read())
         except IOError:
             pass
@@ -89,17 +81,8 @@ class Document(object):
         return rst_to_html(body)
 
     def gen_elements(self):
-        line_buffer = []
-        with open(self.title, 'rU') as f:
-            for line in f:
-                if line.strip():
-                    line_buffer.append(line.rstrip())
-                else:
-                    if line_buffer:
-                        yield "\n".join(line_buffer)
-                    line_buffer = []
-        if line_buffer:
-            yield "\n".join(line_buffer)
+        with open(self.title, 'r') as fp:
+            return parse_elements(fp.readlines())
 
     def gen_paragraphs(self):
         for element in self.gen_elements():

@@ -2,9 +2,9 @@ import os
 
 from algoliasearch.search_client import SearchClient
 
-from models import Corpus
-from rst import get_references, get_strong_nodes
-from settings import SRC
+from app.models import Corpus
+from app.rst import get_references, get_strong_nodes
+from app.settings import SRC
 
 
 def gen_paragraphs(corpus):

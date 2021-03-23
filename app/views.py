@@ -5,10 +5,9 @@ from bs4 import BeautifulSoup
 from flask import (abort, current_app, redirect, render_template, request,
                    url_for)
 
-from models import SCHEMA
-from rst import iteritems, get_hyperlink_target, rst_to_html_fragment
-import search
-from settings import INDEX, INDEX_PATH, SRC, BACKLINKS
+from app.rst import iteritems, get_hyperlink_target, rst_to_html_fragment
+import app.search
+from app.settings import INDEX, INDEX_PATH, SRC, BACKLINKS
 
 
 def index():
@@ -60,29 +59,6 @@ def article(name):
                 title=title,
                 backlinks=sorted(backlinks),
             )
-
-
-def search_view():
-    if not os.path.isdir(INDEX_PATH):
-        os.mkdir(INDEX_PATH)
-    search_index = search.get_or_create_index(INDEX_PATH, SCHEMA, SRC)
-    querystring = request.args.get('q')
-    results = list(search.search(search_index, querystring))
-
-    if request.args.get('follow'):
-        # Redirect to article if a direct hit is found in the INDEX
-        index = {k.lower(): v for k, v in iteritems(INDEX)}
-        for result in results:
-            reference_name = str(querystring).lower()
-            try:
-                target = get_hyperlink_target(index, reference_name)
-            except KeyError:
-                pass
-            else:
-                return redirect(target)
-
-    return render_template("_layouts/search.html", querystring=querystring,
-                           results=results)
 
 
 def open_search():

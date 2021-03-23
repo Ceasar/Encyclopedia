@@ -3,14 +3,9 @@
 {% block document %}
 <div id="searchform">
     <h1>Encyclopedia</h1>
-    <form role="search" action="/search">
         <div class="controls">
-            <input class="form-control" type="search" name="q" autofocus>
-            <center>
-                <button type="submit">Search Encyclopedia</button>
-            </center>
-        </div>
-    </form>
+        <input class="form-control" type="search" name="q" autofocus>
+    </div>
 </div>
 <script id="suggestions" type="json">
 {{suggestions | tojson | safe}}

@@ -1,6 +1,7 @@
 """
 Utility functions for working with reStructuredText.
 """
+import collections
 import os
 import os.path
 
@@ -119,3 +120,46 @@ def get_strong_nodes(text):
     visitor = ReferenceVisitor(doc)
     doc.walk(visitor)
     return [str(node.children[0]) for node in visitor.strongs]
+
+
+
+def _is_list_element(line):
+    if line.startswith('- '):
+        return True
+    tokens = line.split()
+    if tokens:
+        token = tokens[0]
+        if (token.startswith('#') or token[0].isnumeric()) and token.endswith('.'):
+            return True
+    return False
+
+
+def parse_elements(lines):
+    """
+    Parse logical chunks of an RST file.
+
+    A "logical chunk" of an RST file is any group of non-blank lines which are
+    enclosed by blank lines, except in the case of lists, quotes, and code
+    blocks, in which case the logical chunk includes the preceding paragraph.
+    """
+    line_buffer = []
+    line_history = collections.deque([], 3)
+    for line in lines:
+        stripped_line = line.strip()
+        line_history.append(stripped_line)
+
+        # Handle lists, quotes, and code segments
+        if len(line_history) == 3:
+            if not line_history[1].strip():
+                if stripped_line.startswith(' ') or _is_list_element(stripped_line):
+                    pass
+                else:
+                    element = "\n".join(line_buffer[:-1]).strip()
+                    if element:
+                        yield element
+                    line_buffer = []
+        line_buffer.append(stripped_line)
+    if line_buffer:
+        element = "\n".join(line_buffer[:-1]).strip()
+        if element:
+            yield element

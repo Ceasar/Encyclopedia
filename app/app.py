@@ -1,9 +1,8 @@
 from flask import Flask
 
-from models import Corpus
-from views import index, article, open_search, search_view
-
-from settings import SRC
+from app.models import Corpus
+from app.settings import SRC
+from app.views import index, article, open_search
 
 
 def create_app():
@@ -12,5 +11,4 @@ def create_app():
     app.route("/")(index)
     app.route("/<name>")(article)
     app.route("/opensearch")(open_search)
-    app.route("/search")(search_view)
     return app

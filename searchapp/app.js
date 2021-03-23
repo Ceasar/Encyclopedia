@@ -5,7 +5,7 @@ const searchClient = algoliasearch(
 );
 
 const search = instantsearch({
-  indexName: 'Cards',
+  indexName: 'cards',
   searchClient,
   routing: true,
 });

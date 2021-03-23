@@ -12,7 +12,7 @@ SASS_DIR = app/assets/sass/
 CSS_DIR = app/static/stylesheets/
 
 web: $(ENV) $(CSS_DIR) $(INVERTED_INDEX)
-	. $(ENV)/bin/activate && python app/wsgi.py
+	. $(ENV)/bin/activate && python wsgi.py
 
 $(ENV): requirements.txt
 	virtualenv $(ENV)
@@ -32,7 +32,7 @@ $(INVERTED_INDEX): $(SRC)/*
 	. $(ENV)/bin/activate && python app/backlinks.py > $(INVERTED_INDEX)
 
 test:
-	py.test tests/
+	py.test -v tests/
 
 # Generate a coverage report with line numbers of uncovered lines
 coverage:

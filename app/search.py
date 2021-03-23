@@ -1,7 +1,7 @@
 from whoosh.index import create_in, exists_in, open_dir
 from whoosh.qparser import MultifieldParser
 
-from models import Document, Corpus
+from app.models import Document, Corpus
 
 
 def get_or_create_index(path, schema, src):

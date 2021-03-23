@@ -1,9 +1,9 @@
 import collections
 import json
 
-from models import Corpus
-from rst import iteritems, get_hyperlink_target, get_references
-from settings import  INDEX
+from app.models import Corpus
+from app.rst import iteritems, get_hyperlink_target, get_references
+from app.settings import  INDEX
 
 
 DICT = dict(iteritems(INDEX))
